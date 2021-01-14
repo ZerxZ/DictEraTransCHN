@@ -1,0 +1,364 @@
+﻿//口上:
+
+PRINTFORML %CALLNAME:1%%TACHI()%は瞼一つ動かさないで触手の玩具と化している芳香を後目にその場を去った…	PRINTFORML %CALLNAME:1%%TACHI()%は瞼一つ動かさないで触手の玩具と化している芳香を後目にその場を去った…
+PRINTCOLORW(0x895b8a, "「う…おぉ……我の眠りを妨げるのは誰じゃ…………おー、ご主人」")	PRINTCOLORW(0x895b8a, "「う…おぉ……我の眠りを妨げるのは誰じゃ…………おー、ご主人」")
+PRINTFORMDW お札は術者の指令を伝える管制塔のようなものであり、また、キョンシーを縛る封印でもある。	PRINTFORMDW お札は術者の指令を伝える管制塔のようなものであり、また、キョンシーを縛る封印でもある。
+PRINTFORMDL 神霊廟の一件の後、土に戻されていた芳香であったが、今はこうして修理を受けている。	PRINTFORMDL 神霊廟の一件の後、土に戻されていた芳香であったが、今はこうして修理を受けている。
+PRINTFORMW 「そうよ、帰ってくる為ならばどんな方法を使ってもいいわ。必ず帰ってきて頂戴」	PRINTFORMW 「そうよ、帰ってくる為ならばどんな方法を使ってもいいわ。必ず帰ってきて頂戴」
+PRINTFORMDW それが果たして触手の責めに屈したからか、単に術式の限界なのかは分からない	PRINTFORMDW それが果たして触手の責めに屈したからか、単に術式の限界なのかは分からない
+PRINTFORML 「仲間になるんだな！　じゃあがぶっと……え？　付いてくるだけ？　そっかー」	PRINTFORML 「仲間になるんだな！　じゃあがぶっと……え？　付いてくるだけ？　そっかー」
+PRINTFORMW 「まぁいいわ、また布都ちゃんに修行とでも言って調達して来てもらいましょう」	PRINTFORMW 「まぁいいわ、また布都ちゃんに修行とでも言って調達して来てもらいましょう」
+PRINTFORMDW 芳香はふらふらとした足取りで、不気味に空いた洞穴へ向けて歩いていった……	PRINTFORMDW 芳香はふらふらとした足取りで、不気味に空いた洞穴へ向けて歩いていった……
+PRINTFORML [1] 「香霖堂で貰った『あろんあるふぁ』とか言う物があったような……」	PRINTFORML [1] 「香霖堂で貰った『あろんあるふぁ』とか言う物があったような……」
+PRINTFORMDL 鼻歌を歌いながら幻想郷の新参邪仙、霍 青娥が上機嫌で作業をしていた。	PRINTFORMDL 鼻歌を歌いながら幻想郷の新参邪仙、霍 青娥が上機嫌で作業をしていた。
+PRINTFORML 「うーん、そうなるといつもの薬が無いのね……。どうしましょう……」	PRINTFORML 「うーん、そうなるといつもの薬が無いのね……。どうしましょう……」
+PRINTFORMDW お札が剥がれるモードで開始します(CPが０の時口上が変化します)	PRINTFORMDW お札が剥がれるモードで開始します(CPが０の時口上が変化します)
+PRINTFORML 「ん…？　うおぉ！！　お前は何だぁー！　あれ？　私は誰だぁ！？」	PRINTFORML 「ん…？　うおぉ！！　お前は何だぁー！　あれ？　私は誰だぁ！？」
+PRINTFORMDW 本能で守っているのか、芳香は行動の意味を理解していないようだ…	PRINTFORMDW 本能で守っているのか、芳香は行動の意味を理解していないようだ…
+PRINTFORMDW キョンシーと意志疎通しようとするのが間違いだったのかもしれない	PRINTFORMDW キョンシーと意志疎通しようとするのが間違いだったのかもしれない
+PRINTFORMW 「はい、おはよう芳香。早速だけれども、頼まれてくれないかしら？」	PRINTFORMW 「はい、おはよう芳香。早速だけれども、頼まれてくれないかしら？」
+PRINTFORMW 「いい？　芳香。"必ず帰ってくること"。これがあなたへの命令よ」	PRINTFORMW 「いい？　芳香。"必ず帰ってくること"。これがあなたへの命令よ」
+PRINTFORMW 「私は崇高な目的によって迷宮に送り込まれたキョンシーである！」	PRINTFORMW 「私は崇高な目的によって迷宮に送り込まれたキョンシーである！」
+PRINTFORMW 「は?!　ここはどこなんだーー?!?　暗くて薄気味悪いぞー！」	PRINTFORMW 「は?!　ここはどこなんだーー?!?　暗くて薄気味悪いぞー！」
+PRINTCOLORW(0x7572fe, "暫くはこの人の命令に従いなさい……")	PRINTCOLORW(0x7572fe, "暫くはこの人の命令に従いなさい……")
+PRINTFORMW 「――だから、今からあなたを調査のためにその場所に送り込むわ」	PRINTFORMW 「――だから、今からあなたを調査のためにその場所に送り込むわ」
+PRINTFORMDL 芳香は敵に尻を向けているが、振り向いて状況を確認できない！	PRINTFORMDL 芳香は敵に尻を向けているが、振り向いて状況を確認できない！
+PRINTFORML 「キョンシーが学習しないと言ったなぁ？！　あれは嘘だぁー！」	PRINTFORML 「キョンシーが学習しないと言ったなぁ？！　あれは嘘だぁー！」
+PRINTFORML 「まぁ、剥がれても土に戻せばいいだけだし、これでいいわね♪」	PRINTFORML 「まぁ、剥がれても土に戻せばいいだけだし、これでいいわね♪」
+PRINTFORML 柔軟体操に触手が付き合ってくれるよ！やったねよしかちゃん！	PRINTFORML 柔軟体操に触手が付き合ってくれるよ！やったねよしかちゃん！
+PRINTFORML 「脳味噌が腐ってる奴についてきてくれるなんてお前正気か？」	PRINTFORML 「脳味噌が腐ってる奴についてきてくれるなんてお前正気か？」
+PRINTFORMDW お札が剥がれないモードで開始します(口上は変わりません)	PRINTFORMDW お札が剥がれないモードで開始します(口上は変わりません)
+PRINTFORML 「うおォン！！　私はまるで死体火力発電所なんだぞう！！」	PRINTFORML 「うおォン！！　私はまるで死体火力発電所なんだぞう！！」
+PRINTFORML 「袖の中から色々出てくるよー、しまった！　袖がないぞ！」	PRINTFORML 「袖の中から色々出てくるよー、しまった！　袖がないぞ！」
+PRINTFORML 「うおぉ！　こんな事をしている場合じゃなかったーー！！」	PRINTFORML 「うおぉ！　こんな事をしている場合じゃなかったーー！！」
+PRINTFORML 「受けた恩は忘れないようになー？　あれ、恩って何だー？」	PRINTFORML 「受けた恩は忘れないようになー？　あれ、恩って何だー？」
+PRINTFORMDL お札が剥がれると術者の命令に従わなくなるばかりでなく、	PRINTFORMDL お札が剥がれると術者の命令に従わなくなるばかりでなく、
+PRINTFORML [0] 「そう言えば…お櫃にご飯が余っていたような……」	PRINTFORML [0] 「そう言えば…お櫃にご飯が余っていたような……」
+PRINTFORML 突然何かを思い出したのか芳香はどこかへ行ってしまった…	PRINTFORML 突然何かを思い出したのか芳香はどこかへ行ってしまった…
+PRINTFORMDW 寝台には彼女のキョンシーである芳香が横たわっている。	PRINTFORMDW 寝台には彼女のキョンシーである芳香が横たわっている。
+PRINTFORMDW 再び、彼女が必要になる事態が起こっているのだろうか。	PRINTFORMDW 再び、彼女が必要になる事態が起こっているのだろうか。
+PRINTFORMDW たちまちの内にキョンシーは狂暴化すると言われている。	PRINTFORMDW たちまちの内にキョンシーは狂暴化すると言われている。
+PRINTFORMDL 青娥は平時の接着に用いる薬の入った容器の蓋を開けた。	PRINTFORMDL 青娥は平時の接着に用いる薬の入った容器の蓋を開けた。
+PRINTFORML 「よく分からないけれども、これで貼っておきましょう♪」	PRINTFORML 「よく分からないけれども、これで貼っておきましょう♪」
+PRINTFORMDW 青娥は幻想郷で起こっている失踪事件について説明した。	PRINTFORMDW 青娥は幻想郷で起こっている失踪事件について説明した。
+PRINTFORML 「キョンシーに好き嫌いはない！　全部食べてやるー！」	PRINTFORML 「キョンシーに好き嫌いはない！　全部食べてやるー！」
+PRINTCOLORW(0xa2d7dd, "クリトリスを守りなさい…")	PRINTCOLORW(0xa2d7dd, "クリトリスを守りなさい…")
+PRINTCOLORW(0x895b8a, "「うおー！　わかったー」")	PRINTCOLORW(0x895b8a, "「うおー！　わかったー」")
+PRINTFORML 「さあ苦しめー！　あれ？　なんで元気になるんだ？」	PRINTFORML 「さあ苦しめー！　あれ？　なんで元気になるんだ？」
+PRINTFORMW 「ほうほう、ふむふむ…………。で、おまえは誰だ？」	PRINTFORMW 「ほうほう、ふむふむ…………。で、おまえは誰だ？」
+PRINTFORMDW もっとも、芳香がどれほど理解したのかは怪しいが。	PRINTFORMDW もっとも、芳香がどれほど理解したのかは怪しいが。
+PRINTFORML 「あまり直しにくいところを弄らないで欲しいぞぅ」	PRINTFORML 「あまり直しにくいところを弄らないで欲しいぞぅ」
+PRINTFORML 「んあ？　どうして目を合わせてくれないんだー？」	PRINTFORML 「んあ？　どうして目を合わせてくれないんだー？」
+PRINTFORMW 「私の名前は……えー、と私の名前はなんだっけ？」	PRINTFORMW 「私の名前は……えー、と私の名前はなんだっけ？」
+PRINTFORMDW 幻想郷の大妖怪のものとは違う、異質な神隠しを。	PRINTFORMDW 幻想郷の大妖怪のものとは違う、異質な神隠しを。
+PRINTFORML 「これでどうだ～！！　え、これ回復アイテム？」	PRINTFORML 「これでどうだ～！！　え、これ回復アイテム？」
+PRINTFORML 「こいつらはまともに相手できない……何故だ？」	PRINTFORML 「こいつらはまともに相手できない……何故だ？」
+PRINTCOLORW(0xa2d7dd, "尻穴を囮になさい…")	PRINTCOLORW(0xa2d7dd, "尻穴を囮になさい…")
+PRINTCOLORW(0xa2d7dd, "淫核を囮になさい…")	PRINTCOLORW(0xa2d7dd, "淫核を囮になさい…")
+PRINTCOLORW(0xa2d7dd, "秘所を囮になさい…")	PRINTCOLORW(0xa2d7dd, "秘所を囮になさい…")
+PRINTCOLORW(0xa2d7dd, "自らを囮になさい…")	PRINTCOLORW(0xa2d7dd, "自らを囮になさい…")
+PRINTFORML 「撃つのだぁ！　あぁ！　関節が曲がらないぞ！」	PRINTFORML 「撃つのだぁ！　あぁ！　関節が曲がらないぞ！」
+PRINTCOLORW(0xa2d7dd, "秘所を守りなさい…")	PRINTCOLORW(0xa2d7dd, "秘所を守りなさい…")
+PRINTCOLORW(0xa2d7dd, "自らを慰めなさい…")	PRINTCOLORW(0xa2d7dd, "自らを慰めなさい…")
+PRINTCOLORW(0x895b8a, "「かならず…帰る」")	PRINTCOLORW(0x895b8a, "「かならず…帰る」")
+PRINTCOLORW(0x895b8a, "「了解したぞー！」")	PRINTCOLORW(0x895b8a, "「了解したぞー！」")
+PRINTFORML 「皆を助けるために作られたアイテムである！」	PRINTFORML 「皆を助けるために作られたアイテムである！」
+PRINTFORML 「崇高なる目的のためなら逃走も辞さないぞ！」	PRINTFORML 「崇高なる目的のためなら逃走も辞さないぞ！」
+PRINTCOLORW(0xa2d7dd, "胸を囮になさい…")	PRINTCOLORW(0xa2d7dd, "胸を囮になさい…")
+PRINTFORML 「クリを弄られると動きにくいんだけどな……」	PRINTFORML 「クリを弄られると動きにくいんだけどな……」
+PRINTFORMDW 芳香はビジー状態のMeのように静止している	PRINTFORMDW 芳香はビジー状態のMeのように静止している
+PRINTCOLORW(0xa2d7dd, "尻を守りなさい…")	PRINTCOLORW(0xa2d7dd, "尻を守りなさい…")
+PRINTCOLORW(0xa2d7dd, "胸を守りなさい…")	PRINTCOLORW(0xa2d7dd, "胸を守りなさい…")
+PRINTFORML 「う、おお！　何が起こっているんだぁー！！」	PRINTFORML 「う、おお！　何が起こっているんだぁー！！」
+PRINTFORMW 「私は帰らなければならぬのだぁーー！！！」	PRINTFORMW 「私は帰らなければならぬのだぁーー！！！」
+PRINTFORML 「たくさん撃てばいいのか？　得意だぞー！」	PRINTFORML 「たくさん撃てばいいのか？　得意だぞー！」
+PRINTFORML 「ぎゃあーー！！　くぅわれるぅーー！！！」	PRINTFORML 「ぎゃあーー！！　くぅわれるぅーー！！！」
+PRINTFORML 「死体は丁重に扱わなきゃ壊れるんだぞぅ！」	PRINTFORML 「死体は丁重に扱わなきゃ壊れるんだぞぅ！」
+PRINTFORML 「いいのかご主人?!　ガブといっとくぞー」	PRINTFORML 「いいのかご主人?!　ガブといっとくぞー」
+PRINTFORMW 「腐っていても気持ち悪いのは嫌だぁー……」	PRINTFORMW 「腐っていても気持ち悪いのは嫌だぁー……」
+PRINTFORMW 「ならば私の仲間になれー！、……無理かー」	PRINTFORMW 「ならば私の仲間になれー！、……無理かー」
+PRINTCOLORW(0x895b8a, "「何がだー？」")	PRINTCOLORW(0x895b8a, "「何がだー？」")
+﻿PRINTFORML 触手宮　宮古芳香の口上です。う、おおぉ。	PRINTFORML 触手宮　宮古芳香の口上です。う、おおぉ。
+PRINTFORML 「私より後ろには行かせない！……あれ？」	PRINTFORML 「私より後ろには行かせない！……あれ？」
+PRINTFORML 「効かぬ！　避けぬ！　痛覚など感じぬ！」	PRINTFORML 「効かぬ！　避けぬ！　痛覚など感じぬ！」
+PRINTFORML 「腐ってもタイタンだー！！　え、違う？」	PRINTFORML 「腐ってもタイタンだー！！　え、違う？」
+PRINTFORML 「脱出するなら進まないといけない……？」	PRINTFORML 「脱出するなら進まないといけない……？」
+PRINTFORML 「うおぉー！！　にぃげろぉーーー！！！」	PRINTFORML 「うおぉー！！　にぃげろぉーーー！！！」
+PRINTFORML 「……もぐもぐもぐ、意外といけるぞー？」	PRINTFORML 「……もぐもぐもぐ、意外といけるぞー？」
+PRINTFORMDL 近くの触手を食べて力を溜めているようだ	PRINTFORMDL 近くの触手を食べて力を溜めているようだ
+PRINTFORML (せっかくケアしたお肌が台無しだぞ……)	PRINTFORML (せっかくケアしたお肌が台無しだぞ……)
+PRINTFORML 「よく分からないがここは駄目だぞぅー！」	PRINTFORML 「よく分からないがここは駄目だぞぅー！」
+PRINTFORML 「十時には起こしてねー…………すかー……	PRINTFORML 「十時には起こしてねー…………すかー……
+PRINTFORMDW 自らの行動をよく理解していないようだ…	PRINTFORMDW 自らの行動をよく理解していないようだ…
+PRINTFORML 「話は聞いてるぞー。理解はしてないけど」	PRINTFORML 「話は聞いてるぞー。理解はしてないけど」
+PRINTFORMDL 芳香はコクコク頷きながら聞き流している	PRINTFORMDL 芳香はコクコク頷きながら聞き流している
+PRINTFORML 「そうかー、じゃあ適当になんか食うぞー」	PRINTFORML 「そうかー、じゃあ適当になんか食うぞー」
+PRINTFORML 「お前に付いて行ったほうがよさそうだー」	PRINTFORML 「お前に付いて行ったほうがよさそうだー」
+PRINTFORMDL ――キョンシーの額の札は非常に重要だ。	PRINTFORMDL ――キョンシーの額の札は非常に重要だ。
+PRINTFORMDW ・　・　・　・　・　・　・　・　・　・	PRINTFORMDW ・　・　・　・　・　・　・　・　・　・
+PRINTFORML 「お前もキョンシーにしてやるぞー！！」	PRINTFORML 「お前もキョンシーにしてやるぞー！！」
+PRINTFORMDL 芳香は硬直させた体を跳ねさせている…	PRINTFORMDL 芳香は硬直させた体を跳ねさせている…
+PRINTFORML (とぉけるぅーーー！！　あれ、無事だ)	PRINTFORML (とぉけるぅーーー！！　あれ、無事だ)
+PRINTFORML 「うお、ぉ！　危うく手が取れる所だぞ」	PRINTFORML 「うお、ぉ！　危うく手が取れる所だぞ」
+PRINTFORML 「死体の皮剥なんてお勧めしなーい！！」	PRINTFORML 「死体の皮剥なんてお勧めしなーい！！」
+PRINTFORML 「ちょっと動きが悪かった、反省だぞー」	PRINTFORML 「ちょっと動きが悪かった、反省だぞー」
+PRINTFORML 「こいつキョンシーにしていいのかー？」	PRINTFORML 「こいつキョンシーにしていいのかー？」
+PRINTFORML 「それじゃあ代わりに、いただきまーす」	PRINTFORML 「それじゃあ代わりに、いただきまーす」
+PRINTFORML 「お前も敵だろー、騙されないぞーー！」	PRINTFORML 「お前も敵だろー、騙されないぞーー！」
+PRINTFORML 「お前も私の仲間に……なんないのー？」	PRINTFORML 「お前も私の仲間に……なんないのー？」
+PRINTFORML 「さい！　きどぉーーー！！！　だー！」	PRINTFORML 「さい！　きどぉーーー！！！　だー！」
+PRINTFORML 「ここを、こうして……こうかしらね♪」	PRINTFORML 「ここを、こうして……こうかしらね♪」
+PRINTFORML 緊張感がねえので嫌な人はOFF推奨。	PRINTFORML 緊張感がねえので嫌な人はOFF推奨。
+PRINTFORML 「体は固いけどここは柔らかいよー？」	PRINTFORML 「体は固いけどここは柔らかいよー？」
+PRINTFORML 「死なない弾幕の恐怖を味わえーー！」	PRINTFORML 「死なない弾幕の恐怖を味わえーー！」
+PRINTFORML 「お腹いっぱいで弾幕も捗るぞぅー！」	PRINTFORML 「お腹いっぱいで弾幕も捗るぞぅー！」
+PRINTFORML 「お前達が近づいて良いはずがない！」	PRINTFORML 「お前達が近づいて良いはずがない！」
+PRINTFORML 「撃つ！　ようにして殴るんです！！」	PRINTFORML 「撃つ！　ようにして殴るんです！！」
+PRINTFORML 「武器を扱う！　ようにして殴る！！」	PRINTFORML 「武器を扱う！　ようにして殴る！！」
+PRINTFORMDW 芳香は事態を飲み込めていないようだ	PRINTFORMDW 芳香は事態を飲み込めていないようだ
+PRINTFORML 「い、一応肌には気を遣ってるのにー」	PRINTFORML 「い、一応肌には気を遣ってるのにー」
+PRINTFORML 「掠りもしないぞぅ！　え、掠った？」	PRINTFORML 「掠りもしないぞぅ！　え、掠った？」
+PRINTFORML 「いつもありがとうなんだぞご主人ー」	PRINTFORML 「いつもありがとうなんだぞご主人ー」
+PRINTFORML 「急に走ったから足が折れかけたぞぅ」	PRINTFORML 「急に走ったから足が折れかけたぞぅ」
+PRINTFORML 「ここらで縄張りを荒らす奴がいたぞ」	PRINTFORML 「ここらで縄張りを荒らす奴がいたぞ」
+PRINTFORML 「ぐおおぉー、とぉけるぅーーー！！」	PRINTFORML 「ぐおおぉー、とぉけるぅーーー！！」
+PRINTFORML 「うおぉ！　にげなきゃだぁーー！！」	PRINTFORML 「うおぉ！　にげなきゃだぁーー！！」
+PRINTFORML 関節が回らない腐女子は好きですか？	PRINTFORML 関節が回らない腐女子は好きですか？
+PRINTFORML 「これだけ近いと食えそうだー……」	PRINTFORML 「これだけ近いと食えそうだー……」
+PRINTFORML 「う、おぉ……後ろが空いている…」	PRINTFORML 「う、おぉ……後ろが空いている…」
+PRINTFORML 「ん？　何で私は走っているのだ？」	PRINTFORML 「ん？　何で私は走っているのだ？」
+PRINTFORML 「こ、ここだぞぅ……あ、腕折れた」	PRINTFORML 「こ、ここだぞぅ……あ、腕折れた」
+PRINTFORML 「多分ここは生者よりも綺麗だぞー」	PRINTFORML 「多分ここは生者よりも綺麗だぞー」
+PRINTFORML 「弾幕美？　それっておいしいー？」	PRINTFORML 「弾幕美？　それっておいしいー？」
+PRINTFORML 「どんどん仲間を増やすのだぁ！！」	PRINTFORML 「どんどん仲間を増やすのだぁ！！」
+PRINTFORML 「か、体が上手く動かな…い…?!」	PRINTFORML 「か、体が上手く動かな…い…?!」
+PRINTFORMDL 芳香は硬い体をじたばたさせている	PRINTFORMDL 芳香は硬い体をじたばたさせている
+PRINTFORML 「むぐ……意外と食えるぞぅ、これ」	PRINTFORML 「むぐ……意外と食えるぞぅ、これ」
+PRINTFORML 「お前変態だなー！」								PRINTFORML 「お前変態だなー！」							
+PRINTFORML 「動け！　動けぇ、私の身体ぁー！」	PRINTFORML 「動け！　動けぇ、私の身体ぁー！」
+PRINTFORML 「我の眠りを妨げるのは誰じゃ……」	PRINTFORML 「我の眠りを妨げるのは誰じゃ……」
+PRINTFORML 「来てもいいぞー、……来ないの？」	PRINTFORML 「来てもいいぞー、……来ないの？」
+PRINTFORMW (私たちに気づいてないようだなー)	PRINTFORMW (私たちに気づいてないようだなー)
+PRINTFORML 「肉よりこっちのがよさそうかー？」	PRINTFORML 「肉よりこっちのがよさそうかー？」
+PRINTFORML 「それじゃあ一旦別行動という事ね」	PRINTFORML 「それじゃあ一旦別行動という事ね」
+PRINTFORML 「ううう…お、おおぉ…………！」	PRINTFORML 「ううう…お、おおぉ…………！」
+PRINTFORML 「…………………………………？」	PRINTFORML 「…………………………………？」
+PRINTFORML 「生ある限りゾンビは不滅です！」	PRINTFORML 「生ある限りゾンビは不滅です！」
+PRINTFORML 「母性にでも飢えているのかー？」	PRINTFORML 「母性にでも飢えているのかー？」
+PRINTFORML 「……なんかドクドクしてるぞぅ」	PRINTFORML 「……なんかドクドクしてるぞぅ」
+PRINTFORML 「か、勝手に体が動くんだぞー……	PRINTFORML 「か、勝手に体が動くんだぞー……
+PRINTFORML 「私は一体何をしているんだー！」	PRINTFORML 「私は一体何をしているんだー！」
+PRINTFORML 「むしゃむしゃ、うーまーいぞー」	PRINTFORML 「むしゃむしゃ、うーまーいぞー」
+PRINTFORMW 「攻撃するなら今の内だぞー！！」	PRINTFORMW 「攻撃するなら今の内だぞー！！」
+PRINTFORMDW 芳香は無邪気に手を振っている…	PRINTFORMDW 芳香は無邪気に手を振っている…
+PRINTFORMW 「食べ物じゃない？　しゅーん…」	PRINTFORMW 「食べ物じゃない？　しゅーん…」
+PRINTFORMW 「目的？　……食えるのかそれ？」	PRINTFORMW 「目的？　……食えるのかそれ？」
+PRINTFORML 「縁があれば、また会いましょう」	PRINTFORML 「縁があれば、また会いましょう」
+PRINTFORML 芳香は体をガクガク震えさせている	PRINTFORML 芳香は体をガクガク震えさせている
+PRINTFORML 「ここから先は一歩も通さぁん！」	PRINTFORML 「ここから先は一歩も通さぁん！」
+PRINTFORMDW ――その幾日か前、唐人屋敷。 	PRINTFORMDW ――その幾日か前、唐人屋敷。 
+PRINTFORML 「はっ?!　声が聞こえるぞ！」	PRINTFORML 「はっ?!　声が聞こえるぞ！」
+PRINTFORML 「ここが一番うまそうだー……」	PRINTFORML 「ここが一番うまそうだー……」
+PRINTFORML 「うぅーー……あ、あぁーー…」	PRINTFORML 「うぅーー……あ、あぁーー…」
+PRINTFORML 「変態！　へんたぁ--い！！」	PRINTFORML 「変態！　へんたぁ--い！！」
+PRINTFORML 「乱暴にすると取れちゃうよー」	PRINTFORML 「乱暴にすると取れちゃうよー」
+PRINTFORML 「なんなんだお前はぁーー！！」	PRINTFORML 「なんなんだお前はぁーー！！」
+PRINTFORML 「なぁんだとぅーーーー！！！」	PRINTFORML 「なぁんだとぅーーーー！！！」
+PRINTFORML 「お……？　何かされたのか？」	PRINTFORML 「お……？　何かされたのか？」
+PRINTFORMW 「いーーくぞぉーーーーー！！」	PRINTFORMW 「いーーくぞぉーーーーー！！」
+PRINTFORML 「あれ？　ご主人もいたのかー」	PRINTFORML 「あれ？　ご主人もいたのかー」
+PRINTFORML 「私が言うのもおかしいが……」	PRINTFORML 「私が言うのもおかしいが……」
+PRINTFORML 「わかったぞぅ！　ご主人！」 	PRINTFORML 「わかったぞぅ！　ご主人！」 
+PRINTFORMDW 一体誰と話しているのだろうか	PRINTFORMDW 一体誰と話しているのだろうか
+PRINTFORML 「……なんだかモヤモヤするぞ」	PRINTFORML 「……なんだかモヤモヤするぞ」
+PRINTFORML 「食えるもんおちてないかー？」	PRINTFORML 「食えるもんおちてないかー？」
+PRINTFORML 「盾に囮に大活躍だぁーー！！」	PRINTFORML 「盾に囮に大活躍だぁーー！！」
+PRINTFORML 「ご主人ー一緒に行きたいぞー」	PRINTFORML 「ご主人ー一緒に行きたいぞー」
+PRINTFORML 「お肌のケアは欠かせないぞー」	PRINTFORML 「お肌のケアは欠かせないぞー」
+PRINTFORMW 「さ、仕上げに札を貼って……」	PRINTFORMW 「さ、仕上げに札を貼って……」
+PRINTFORMW 「あら、しまった。空だわ……」	PRINTFORMW 「あら、しまった。空だわ……」
+PRINTFORMW 「……しか、芳香。起きなさい」	PRINTFORMW 「……しか、芳香。起きなさい」
+PRINTFORML 「それだけはいかんのじゃ…」	PRINTFORML 「それだけはいかんのじゃ…」
+PRINTFORML 「ゾンビはタフなんだぞぅ！」	PRINTFORML 「ゾンビはタフなんだぞぅ！」
+PRINTFORML 「死ぬのだけはいかんのじゃ」	PRINTFORML 「死ぬのだけはいかんのじゃ」
+PRINTFORML 「うおー。ぶつかるーー！！」	PRINTFORML 「うおー。ぶつかるーー！！」
+PRINTFORML 「ん？　止まっていいのか？」	PRINTFORML 「ん？　止まっていいのか？」
+PRINTFORMDL 後ろ手に回そうとしたらしい	PRINTFORMDL 後ろ手に回そうとしたらしい
+PRINTFORML 「腐ってるけど垂れてないぞ」	PRINTFORML 「腐ってるけど垂れてないぞ」
+PRINTFORML 「どう？　変じゃないかー？」	PRINTFORML 「どう？　変じゃないかー？」
+PRINTFORML 「好きにしていいのだぞー？」	PRINTFORML 「好きにしていいのだぞー？」
+PRINTFORML 「やるなら私をやれえぇー！」	PRINTFORML 「やるなら私をやれえぇー！」
+PRINTFORML 「ゾンビは永遠に不滅です！」	PRINTFORML 「ゾンビは永遠に不滅です！」
+PRINTFORML 「暗器……？　使えないぞ？」	PRINTFORML 「暗器……？　使えないぞ？」
+PRINTFORML 「はっ?!　声が聞こえる！」	PRINTFORML 「はっ?!　声が聞こえる！」
+PRINTFORML 「後で直さなきゃだぁー……」	PRINTFORML 「後で直さなきゃだぁー……」
+PRINTFORML 「うわー！　うわーーー！！」	PRINTFORML 「うわー！　うわーーー！！」
+PRINTFORML 「私は美味しくないよーー！」	PRINTFORML 「私は美味しくないよーー！」
+PRINTFORML 「入ってこないで欲しいぞー」	PRINTFORML 「入ってこないで欲しいぞー」
+PRINTFORML 「逃げたら食えないぞぅ……」	PRINTFORML 「逃げたら食えないぞぅ……」
+PRINTFORML 「え……？　…………ぁ……」	PRINTFORML 「え……？　…………ぁ……」
+PRINTFORML 「お前が直してくれるのか？」	PRINTFORML 「お前が直してくれるのか？」
+PRINTFORML 「さあお前も仲間になれー！」	PRINTFORML 「さあお前も仲間になれー！」
+PRINTFORML 「はぁぬあせぇーーー！！！」	PRINTFORML 「はぁぬあせぇーーー！！！」
+PRINTFORMW 「うん？　あー……。うん？」	PRINTFORMW 「うん？　あー……。うん？」
+PRINTFORML 「ゾンビは永久に不滅です！」	PRINTFORML 「ゾンビは永久に不滅です！」
+PRINTFORML 「じ…自慢の胸なんだぞぅ」	PRINTFORML 「じ…自慢の胸なんだぞぅ」
+PRINTFORML 「黒いわけがないだろー！」	PRINTFORML 「黒いわけがないだろー！」
+PRINTFORML 「これでもかぁ、うおぉ！」	PRINTFORML 「これでもかぁ、うおぉ！」
+PRINTFORML 「あぁたるかぁーーー！！」	PRINTFORML 「あぁたるかぁーーー！！」
+PRINTFORML 「からだが勝手に動く……」	PRINTFORML 「からだが勝手に動く……」
+PRINTFORML 「ちーかよーるなーー！！」	PRINTFORML 「ちーかよーるなーー！！」
+PRINTFORMW 「これ攻撃していいのー？」	PRINTFORMW 「これ攻撃していいのー？」
+PRINTFORML 「それだけはまずいのじゃ」	PRINTFORML 「それだけはまずいのじゃ」
+PRINTFORMW 「敵じゃない？　そっかー」	PRINTFORMW 「敵じゃない？　そっかー」
+PRINTFORMW 「おまえ……誰なんだー？」	PRINTFORMW 「おまえ……誰なんだー？」
+PRINTFORMDW 芳香は一人で楽しそうだ…	PRINTFORMDW 芳香は一人で楽しそうだ…
+PRINTFORML 「なるほどー。なるほどー」	PRINTFORML 「なるほどー。なるほどー」
+PRINTFORML 「んー、なんだぁー……？」	PRINTFORML 「んー、なんだぁー……？」
+PRINTFORML 「盾に囮に大活躍するよー」	PRINTFORML 「盾に囮に大活躍するよー」
+PRINTFORML 「腐肉のカーテンだぞ！」	PRINTFORML 「腐肉のカーテンだぞ！」
+PRINTFORML 「痒いけど痛くは無い！」	PRINTFORML 「痒いけど痛くは無い！」
+PRINTFORML 「はーい、私が出まーす」	PRINTFORML 「はーい、私が出まーす」
+PRINTFORML 「な、何が始まるんだ？」	PRINTFORML 「な、何が始まるんだ？」
+PRINTFORML 「ほらー、綺麗だろー？」	PRINTFORML 「ほらー、綺麗だろー？」
+PRINTFORML 「うぅ、おおぉーー！！」	PRINTFORML 「うぅ、おおぉーー！！」
+PRINTFORML 「ヒールバイデザイアー」	PRINTFORML 「ヒールバイデザイアー」
+PRINTFORML 「食べ放題だぞぅー！！」	PRINTFORML 「食べ放題だぞぅー！！」
+PRINTFORML 「てんらいはぁーー！！」	PRINTFORML 「てんらいはぁーー！！」
+PRINTFORML 「やーらーれーたぁー！」	PRINTFORML 「やーらーれーたぁー！」
+PRINTFORML 「な、泣いてないぞぅ！」	PRINTFORML 「な、泣いてないぞぅ！」
+PRINTFORML 「どこを狙っているー！」	PRINTFORML 「どこを狙っているー！」
+PRINTFORML 「そんな所触るなぁー！」	PRINTFORML 「そんな所触るなぁー！」
+PRINTFORML 「なぜこっちなんだー？」	PRINTFORML 「なぜこっちなんだー？」
+PRINTFORML 「弄っても何もないぞー」	PRINTFORML 「弄っても何もないぞー」
+PRINTFORML 「つかまったぞぅー！！」	PRINTFORML 「つかまったぞぅー！！」
+PRINTFORML 「やぁめろぉぅーー！！」	PRINTFORML 「やぁめろぉぅーー！！」
+PRINTFORML 「何で当たらないんだー」	PRINTFORML 「何で当たらないんだー」
+PRINTFORML 「無ぅ駄だあぁーー！！」	PRINTFORML 「無ぅ駄だあぁーー！！」
+PRINTFORML 「ぬぁんだとぅーーー！」	PRINTFORML 「ぬぁんだとぅーーー！」
+PRINTFORML 「もっと食えるぞぅ……」	PRINTFORML 「もっと食えるぞぅ……」
+PRINTFORML 「やぁーめろぉーー！！」	PRINTFORML 「やぁーめろぉーー！！」
+PRINTFORML 「にーげーたーぞーー！」	PRINTFORML 「にーげーたーぞーー！」
+PRINTFORML 「ちゃんと調べてるよー」	PRINTFORML 「ちゃんと調べてるよー」
+PRINTFORMW 「気配はいっぱいだぞー」	PRINTFORMW 「気配はいっぱいだぞー」
+PRINTFORML 「いーくーぞぉーー！！」	PRINTFORML 「いーくーぞぉーー！！」
+PRINTFORML 「これ食っていいのー？」	PRINTFORML 「これ食っていいのー？」
+PRINTFORML 「な、んだぁーー?!!」	PRINTFORML 「な、んだぁーー?!!」
+PRINTFORML 「いーただーきまーす！」	PRINTFORML 「いーただーきまーす！」
+PRINTFORML 「う、おぉ……おはよー」	PRINTFORML 「う、おぉ……おはよー」
+PRINTFORML 「目的の為、守るぞー」	PRINTFORML 「目的の為、守るぞー」
+PRINTFORML 「ちーかよーるぞー！」	PRINTFORML 「ちーかよーるぞー！」
+PRINTFORML 「ここならいいよー？」	PRINTFORML 「ここならいいよー？」
+PRINTFORML 「どうだー？　ここは」	PRINTFORML 「どうだー？　ここは」
+PRINTFORML 「命続く限り撃ーつ！」	PRINTFORML 「命続く限り撃ーつ！」
+PRINTFORML 「殴ったほうが早いぞ」	PRINTFORML 「殴ったほうが早いぞ」
+PRINTFORML 「はなせー、はなせー」	PRINTFORML 「はなせー、はなせー」
+PRINTFORML 「……操られてるよー」	PRINTFORML 「……操られてるよー」
+PRINTFORML 「体が勝手にいぃーー」	PRINTFORML 「体が勝手にいぃーー」
+PRINTFORML 「損傷はひどくないぞ」	PRINTFORML 「損傷はひどくないぞ」
+PRINTFORML 「よく分からないぞー」	PRINTFORML 「よく分からないぞー」
+PRINTFORML 「面白いかー？　それ」	PRINTFORML 「面白いかー？　それ」
+PRINTFORML 「何がしたいんだー？」	PRINTFORML 「何がしたいんだー？」
+PRINTFORML 「やーめろぉーー！！」	PRINTFORML 「やーめろぉーー！！」
+PRINTFORML 「何も見えないぞーー」	PRINTFORML 「何も見えないぞーー」
+PRINTFORML 「くすぐったいぞ……」	PRINTFORML 「くすぐったいぞ……」
+PRINTFORML 「させぬぁーーい！！」	PRINTFORML 「させぬぁーーい！！」
+PRINTFORML 「いっただきまーす！」	PRINTFORML 「いっただきまーす！」
+PRINTFORML 「お腹、減ったー……」	PRINTFORML 「お腹、減ったー……」
+PRINTFORMW 「……ぐー、すかぴー」	PRINTFORMW 「……ぐー、すかぴー」
+PRINTFORML 「出ーられなーいーー」	PRINTFORML 「出ーられなーいーー」
+PRINTFORML 「ぎゃああぁーー！！」	PRINTFORML 「ぎゃああぁーー！！」
+PRINTFORML 「ご主人太ったかー？」	PRINTFORML 「ご主人太ったかー？」
+PRINTFORML 「うう、おぉぉ……！」	PRINTFORML 「うう、おぉぉ……！」
+PRINTFORML 「私は浄化しないでー」	PRINTFORML 「私は浄化しないでー」
+PRINTFORML 「きょろ…きょろ……」	PRINTFORML 「きょろ…きょろ……」
+PRINTFORML 「準備はばっちりだー」	PRINTFORML 「準備はばっちりだー」
+PRINTFORML 「一緒に行きたいぞー」	PRINTFORML 「一緒に行きたいぞー」
+PRINTFORML 「うおー。守るぞー」	PRINTFORML 「うおー。守るぞー」
+PRINTFORMDL とても柔らかそうだ	PRINTFORMDL とても柔らかそうだ
+PRINTFORML 「全力疾走だぞー！」	PRINTFORML 「全力疾走だぞー！」
+PRINTFORML 「ここがいいのー？」	PRINTFORML 「ここがいいのー？」
+PRINTFORML 「こんな所弄るの？」	PRINTFORML 「こんな所弄るの？」
+PRINTFORML (きぃーさまぁー！)	PRINTFORML (きぃーさまぁー！)
+PRINTFORMDW 芳香は抵抗をやめた	PRINTFORMDW 芳香は抵抗をやめた
+PRINTFORML 「ッ！　…………？」	PRINTFORML 「ッ！　…………？」
+PRINTFORML 「ぐうああぁぁーー」	PRINTFORML 「ぐうああぁぁーー」
+PRINTFORML 「くすぐったいぞー」	PRINTFORML 「くすぐったいぞー」
+PRINTFORML 「おまえ器用だなー」	PRINTFORML 「おまえ器用だなー」
+PRINTFORML 「いーじーるーなー」	PRINTFORML 「いーじーるーなー」
+PRINTFORML 「…………にゅう…」	PRINTFORML 「…………にゅう…」
+PRINTFORML 「あいつら遅いなー」	PRINTFORML 「あいつら遅いなー」
+PRINTFORMW 「もう動かないー？」	PRINTFORMW 「もう動かないー？」
+PRINTFORMW 「どっか行くのか？」	PRINTFORMW 「どっか行くのか？」
+PRINTFORMW 「お前は……誰だ？」	PRINTFORMW 「お前は……誰だ？」
+PRINTFORML 「はーい、了かーい」	PRINTFORML 「はーい、了かーい」
+PRINTFORML 「うーまーいーぞー」	PRINTFORML 「うーまーいーぞー」
+PRINTFORML (寝付けないぞ……)	PRINTFORML (寝付けないぞ……)
+PRINTFORML 「わかったぞー……」	PRINTFORML 「わかったぞー……」
+PRINTFORML 「さーがーすぞーー」	PRINTFORML 「さーがーすぞーー」
+PRINTFORML 「私も頑張るぞー！」	PRINTFORML 「私も頑張るぞー！」
+PRINTFORML 「戻って来たよー」	PRINTFORML 「戻って来たよー」
+PRINTFORML 「どおぅだぁ！！」	PRINTFORML 「どおぅだぁ！！」
+PRINTFORML 「くぅらえーー！」	PRINTFORML 「くぅらえーー！」
+PRINTFORML 「なんだお前ー！」	PRINTFORML 「なんだお前ー！」
+PRINTFORML 「ばかぁーー！！」	PRINTFORML 「ばかぁーー！！」
+PRINTFORML 「動けーーん！！」	PRINTFORML 「動けーーん！！」
+PRINTFORML 「………………？」	PRINTFORML 「………………？」
+PRINTFORML 「寝てるぞー……」	PRINTFORML 「寝てるぞー……」
+PRINTFORML 「う、おおぉ……」	PRINTFORML 「う、おおぉ……」
+PRINTFORML 「私に任せろー！」	PRINTFORML 「私に任せろー！」
+PRINTFORML 「誰かいるかー？」	PRINTFORML 「誰かいるかー？」
+PRINTFORML 「夜目はきくぞ…」	PRINTFORML 「夜目はきくぞ…」
+PRINTFORML 「なんかあるー？」	PRINTFORML 「なんかあるー？」
+PRINTFORML 「なんかくれー！」	PRINTFORML 「なんかくれー！」
+PRINTFORML 「お願いしまーす」	PRINTFORML 「お願いしまーす」
+PRINTFORML 「おいしいよー」	PRINTFORML 「おいしいよー」
+PRINTFORML 「こっちだぞー」	PRINTFORML 「こっちだぞー」
+PRINTFORML 「どくんだぞぅ」	PRINTFORML 「どくんだぞぅ」
+PRINTFORML 「かゆ…うまー」	PRINTFORML 「かゆ…うまー」
+PRINTFORML 「壊すなぁー！」	PRINTFORML 「壊すなぁー！」
+PRINTFORML 「何かしたか？」	PRINTFORML 「何かしたか？」
+PRINTFORML 「やぁめろぅー」	PRINTFORML 「やぁめろぅー」
+PRINTFORML 「やめてくれー」	PRINTFORML 「やめてくれー」
+PRINTFORML 「……あぅーー」	PRINTFORML 「……あぅーー」
+PRINTFORML 「効かないぞぅ」	PRINTFORML 「効かないぞぅ」
+PRINTFORML 「蠢いてるぞー」	PRINTFORML 「蠢いてるぞー」
+PRINTFORML 「邪魔するなー」	PRINTFORML 「邪魔するなー」
+PRINTFORML 「……駄目かー」	PRINTFORML 「……駄目かー」
+PRINTFORML 「非常食だぞー」	PRINTFORML 「非常食だぞー」
+PRINTFORML 「寝にくいぞー」	PRINTFORML 「寝にくいぞー」
+PRINTFORML 「あぅ……あ！」	PRINTFORML 「あぅ……あ！」
+PRINTFORML 「しゅーん……」	PRINTFORML 「しゅーん……」
+PRINTFORML 「駄目なの？」	PRINTFORML 「駄目なの？」
+PRINTFORMW 「どうだぁ！」	PRINTFORMW 「どうだぁ！」
+PRINTFORML 「どけぇー！」	PRINTFORML 「どけぇー！」
+PRINTFORML 「う……あぁ」	PRINTFORML 「う……あぁ」
+PRINTFORML 「なんだー？」	PRINTFORML 「なんだー？」
+PRINTFORML 「届けぇー！」	PRINTFORML 「届けぇー！」
+PRINTFORML 「おやすみー」	PRINTFORML 「おやすみー」
+PRINTFORML 「どけーー！」	PRINTFORML 「どけーー！」
+PRINTFORML 「さぁ来い！」	PRINTFORML 「さぁ来い！」
+PRINTFORML 「きもちいー」	PRINTFORML 「きもちいー」
+PRINTFORML 「う、おぉ」	PRINTFORML 「う、おぉ」
+PRINTFORML 「くらえー」	PRINTFORML 「くらえー」
+PRINTFORML 「うおお！」	PRINTFORML 「うおお！」
+PRINTFORML 「平気だー」	PRINTFORML 「平気だー」
+PRINTFORML 「ぐー……」	PRINTFORML 「ぐー……」
+PRINTFORML 「…………」	PRINTFORML 「…………」
+PRINTFORML 「取れるー」	PRINTFORML 「取れるー」
+PRINTFORMW 「またなー」	PRINTFORMW 「またなー」
+PRINTFORML 「またなー」	PRINTFORML 「またなー」
+PRINTFORML 「ほいよ」	PRINTFORML 「ほいよ」
+PRINTFORML 「は～い」	PRINTFORML 「は～い」
+PRINTFORMDL 凄く遅い	PRINTFORMDL 凄く遅い
+PRINTFORML 「嫌だー」	PRINTFORML 「嫌だー」
+PRINTFORMDW ぺたっ 	PRINTFORMDW ぺたっ 
+PRINTFORML 「ん？」	PRINTFORML 「ん？」
+PRINTFORMW 「ぐー」	PRINTFORMW 「ぐー」
+PRINTFORML 「？」	PRINTFORML 「？」
+PRINTFORML 「」	PRINTFORML 「」
+PRINTFORML 	PRINTFORML 
+PRINTFORMW 	PRINTFORMW 
+PRINTFORM 	PRINTFORM 
+PRINTFORML	PRINTFORML
+PRINTFORM	PRINTFORM

@@ -1,0 +1,505 @@
+﻿//口上:
+
+PRINTFORMW 妖夢は助けを呼ぼうとしたが、それよりも早く植物の内側に引きずり込まれたのだった！	PRINTFORMW 妖夢は助けを呼ぼうとしたが、それよりも早く植物の内側に引きずり込まれたのだった！
+PRINTFORML 「私にもっと力があれば…あのとき敵に孕まされることも無かったかもしれないのに…」	PRINTFORML 「私にもっと力があれば…あのとき敵に孕まされることも無かったかもしれないのに…」
+PRINTFORML 「幽々子様、少し時間を頂きます。この妖怪共の頭領を必ず仕留めてみせます！」	PRINTFORML 「幽々子様、少し時間を頂きます。この妖怪共の頭領を必ず仕留めてみせます！」
+PRINTFORML 「咲夜。ねえ咲夜ってば！　ほら、あ…あそこの角を越えればきっと出口よ！」	PRINTFORML 「咲夜。ねえ咲夜ってば！　ほら、あ…あそこの角を越えればきっと出口よ！」
+PRINTFORML 「信じられない。だって早苗は巫女という名に相応しい腕前を持っているのよ」	PRINTFORML 「信じられない。だって早苗は巫女という名に相応しい腕前を持っているのよ」
+PRINTFORML 「え？　嘘…いや…体震えて…アタマおかしくっ…ふあああぁぁぁぁぁっ！」	PRINTFORML 「え？　嘘…いや…体震えて…アタマおかしくっ…ふあああぁぁぁぁぁっ！」
+PRINTFORMW 妖夢は主人を守れなかったことを悔やみ、自分も後を追おうと思ったらしい…	PRINTFORMW 妖夢は主人を守れなかったことを悔やみ、自分も後を追おうと思ったらしい…
+PRINTFORMW 逃げようとするのだが、不思議なことに空を飛ぶことが出来ないのだった！	PRINTFORMW 逃げようとするのだが、不思議なことに空を飛ぶことが出来ないのだった！
+PRINTFORMW 「幽々子様…こんなところに診療所なんてないのに、どうすればいいの…」	PRINTFORMW 「幽々子様…こんなところに診療所なんてないのに、どうすればいいの…」
+PRINTFORML 妖夢は咲夜がうずくまって動かないことに、戸惑いを隠しきれない様子だ…	PRINTFORML 妖夢は咲夜がうずくまって動かないことに、戸惑いを隠しきれない様子だ…
+PRINTFORMW そのときである、植物の蔓が目にも留まらぬスピードで飛んできたのだ！	PRINTFORMW そのときである、植物の蔓が目にも留まらぬスピードで飛んできたのだ！
+PRINTFORML 植物の内側は空洞で地中深くまで続いており、妖夢は自由落下していく…	PRINTFORML 植物の内側は空洞で地中深くまで続いており、妖夢は自由落下していく…
+PRINTFORML 「信じられない。だって鈴仙は弾幕ごっこで苦戦する相手でもあるのに」	PRINTFORML 「信じられない。だって鈴仙は弾幕ごっこで苦戦する相手でもあるのに」
+PRINTFORMW そのときである、塀の隅に見慣れぬ巨大な植物が自生していたのである	PRINTFORMW そのときである、塀の隅に見慣れぬ巨大な植物が自生していたのである
+PRINTFORML そのうち妖夢は落ちていく恐怖に絶望し、とうとう気を失ってしまった	PRINTFORML そのうち妖夢は落ちていく恐怖に絶望し、とうとう気を失ってしまった
+PRINTFORMW 「大丈夫だった！？　ここに居る化け物って妖怪とは違うのかな…？」	PRINTFORMW 「大丈夫だった！？　ここに居る化け物って妖怪とは違うのかな…？」
+PRINTFORMW 「な、何…胸が…あっ、熱い！　乳首、吸われてっ…んんんんっ！？」	PRINTFORMW 「な、何…胸が…あっ、熱い！　乳首、吸われてっ…んんんんっ！？」
+PRINTFORML 「いやっ！　化け物とはいえ…自分の子供にイかされるなんて……！」	PRINTFORML 「いやっ！　化け物とはいえ…自分の子供にイかされるなんて……！」
+PRINTFORMW 「紫様…こんなところに診療所なんてないのに、どうすればいいの…」	PRINTFORMW 「紫様…こんなところに診療所なんてないのに、どうすればいいの…」
+PRINTFORML 「魔理沙ほどの者がやられるほど、この世界は過酷だっていうの！？」	PRINTFORML 「魔理沙ほどの者がやられるほど、この世界は過酷だっていうの！？」
+PRINTFORML 妖夢の細い足を掴んだ蔓は妖夢を自身の方へどんどん引き寄せていく	PRINTFORML 妖夢の細い足を掴んだ蔓は妖夢を自身の方へどんどん引き寄せていく
+PRINTFORML （こ、こんなにも気持ち悪い物が…あの妖怪共、絶対に許せない！）	PRINTFORML （こ、こんなにも気持ち悪い物が…あの妖怪共、絶対に許せない！）
+PRINTFORMW 妖夢は涙を流しながらもそう決意し、迷宮探索を続けることにした…	PRINTFORMW 妖夢は涙を流しながらもそう決意し、迷宮探索を続けることにした…
+PRINTFORMW 「紫様ほどの者がやられるほど、この世界は過酷だっていうの！？」	PRINTFORMW 「紫様ほどの者がやられるほど、この世界は過酷だっていうの！？」
+PRINTFORML 「霊夢ほどの者がやられるほど、この世界は過酷だっていうの！？」	PRINTFORML 「霊夢ほどの者がやられるほど、この世界は過酷だっていうの！？」
+PRINTFORML 「鈴仙ほどの者がやられるほど、この世界は過酷だっていうの！？」	PRINTFORML 「鈴仙ほどの者がやられるほど、この世界は過酷だっていうの！？」
+PRINTFORML 「早苗ほどの者がやられるほど、この世界は過酷だっていうの！？」	PRINTFORML 「早苗ほどの者がやられるほど、この世界は過酷だっていうの！？」
+PRINTFORMW 男性器での絶頂に戸惑いながらも、妖夢は喘ぎ声を漏らしている…	PRINTFORMW 男性器での絶頂に戸惑いながらも、妖夢は喘ぎ声を漏らしている…
+PRINTFORML 「これは…天狗の使う刀ね。私には必要ないかもしれないけど…」	PRINTFORML 「これは…天狗の使う刀ね。私には必要ないかもしれないけど…」
+PRINTFORMW 妖夢は震える体でなんとか敵の弱点と思わしき部位を攻撃した！	PRINTFORMW 妖夢は震える体でなんとか敵の弱点と思わしき部位を攻撃した！
+PRINTFORMW （気持ち悪い物だけど…守らないとまた全身が痺れてしまう！）	PRINTFORMW （気持ち悪い物だけど…守らないとまた全身が痺れてしまう！）
+PRINTFORMW 妖夢は嫌がっているが、抵抗する力はもう残されていない様だ…	PRINTFORMW 妖夢は嫌がっているが、抵抗する力はもう残されていない様だ…
+PRINTFORMW 痛みに堪える妖夢だが、同時に未知なる快楽にも襲われている！	PRINTFORMW 痛みに堪える妖夢だが、同時に未知なる快楽にも襲われている！
+PRINTFORMW 「あ…いや…あっ、んあっ！　いあああああああぁぁぁぁぁ！」	PRINTFORMW 「あ…いや…あっ、んあっ！　いあああああああぁぁぁぁぁ！」
+PRINTFORMW 「咲夜がこんなにも苦しんでるのに、私は見ていることしか…」	PRINTFORMW 「咲夜がこんなにも苦しんでるのに、私は見ていることしか…」
+PRINTFORML 「なにこれ。に、匂いが…楽しくなさそうなことに使うもの？」	PRINTFORML 「なにこれ。に、匂いが…楽しくなさそうなことに使うもの？」
+PRINTFORMW 「どの妖怪にやられたのかわからないけど、きっと仇は取るわ」	PRINTFORMW 「どの妖怪にやられたのかわからないけど、きっと仇は取るわ」
+PRINTFORML 白玉楼の端っこまで仕事を終えた妖夢は屋敷に戻ろうと思った	PRINTFORML 白玉楼の端っこまで仕事を終えた妖夢は屋敷に戻ろうと思った
+PRINTFORML そして妖夢は触手の迷宮へと吸い込まれていくのであった……	PRINTFORML そして妖夢は触手の迷宮へと吸い込まれていくのであった……
+PRINTFORMW 「悪いけど、弱点かもしれない部分を狙わせてもらうわよ！」	PRINTFORMW 「悪いけど、弱点かもしれない部分を狙わせてもらうわよ！」
+PRINTFORMW 「な、何これ！　いやっ、怖い……ふああぁぁぁぁぁぁっ！」	PRINTFORMW 「な、何これ！　いやっ、怖い……ふああぁぁぁぁぁぁっ！」
+PRINTFORML 「はぁ、はぁ、はぁ…吐き気とお腹の痛みが止まらない……」	PRINTFORML 「はぁ、はぁ、はぁ…吐き気とお腹の痛みが止まらない……」
+PRINTFORML 「さぁ、何かいる！？　敵がいるのならかかってきなさい！」	PRINTFORML 「さぁ、何かいる！？　敵がいるのならかかってきなさい！」
+PRINTFORMW （体の調子が悪そうに見えたけど、気のせいだったのかな…）	PRINTFORMW （体の調子が悪そうに見えたけど、気のせいだったのかな…）
+PRINTFORML 「これって霊夢が使う武器よね？　私にも扱えるのかしら…」	PRINTFORML 「これって霊夢が使う武器よね？　私にも扱えるのかしら…」
+PRINTFORML 「私は…肝心なときに幽々子様をお守り出来なかったのね…」	PRINTFORML 「私は…肝心なときに幽々子様をお守り出来なかったのね…」
+PRINTFORML 「私は…幽々子様のために…私は全てを幽々子様のために…」	PRINTFORML 「私は…幽々子様のために…私は全てを幽々子様のために…」
+PRINTFORMW 「大丈夫だった！？　あいつらに酷いことされてない！？」	PRINTFORMW 「大丈夫だった！？　あいつらに酷いことされてない！？」
+PRINTFORMW 「…ではない、のかしら？　偽者ならば迷い無く斬るわよ」	PRINTFORMW 「…ではない、のかしら？　偽者ならば迷い無く斬るわよ」
+PRINTFORMW 「おっと！　斬りかかるところだったわ…ごめんなさいね」	PRINTFORMW 「おっと！　斬りかかるところだったわ…ごめんなさいね」
+PRINTFORMW 「も、もうすぐ出口が見つかると思うわ！　諦めないで！」	PRINTFORMW 「も、もうすぐ出口が見つかると思うわ！　諦めないで！」
+PRINTFORMW 「信じられないわ！　もう咲夜とは組まない！　絶交よ！」	PRINTFORMW 「信じられないわ！　もう咲夜とは組まない！　絶交よ！」
+PRINTFORML 「私は…これからどうやって生きていけば良いんですか！」	PRINTFORML 「私は…これからどうやって生きていけば良いんですか！」
+PRINTFORML 「信じられない。だって魔理沙は異変解決の専門家なのに」	PRINTFORML 「信じられない。だって魔理沙は異変解決の専門家なのに」
+PRINTFORML 白玉楼の庭には似合わないし、不気味なので刈ろうとした	PRINTFORML 白玉楼の庭には似合わないし、不気味なので刈ろうとした
+PRINTFORMW 「こんな所で足止めを食らっている場合ではないのに…」	PRINTFORMW 「こんな所で足止めを食らっている場合ではないのに…」
+PRINTFORMW 「うっ、あぁぁぁぁぁっ！　い、意識っ……飛っ……！」	PRINTFORMW 「うっ、あぁぁぁぁぁっ！　い、意識っ……飛っ……！」
+PRINTFORML 「そう…咲夜が居てくれれば怖いものなんて無いのに…」	PRINTFORML 「そう…咲夜が居てくれれば怖いものなんて無いのに…」
+PRINTFORMW 絶頂に達したせいか、妖夢の体は震えながら反っている！	PRINTFORMW 絶頂に達したせいか、妖夢の体は震えながら反っている！
+PRINTFORMW 「そ、そんな！？　おっぱい吸われて……んあぁっ！？」	PRINTFORMW 「そ、そんな！？　おっぱい吸われて……んあぁっ！？」
+PRINTFORMW 「…私には見ていることしかできないわ。ごめんなさい」	PRINTFORMW 「…私には見ていることしかできないわ。ごめんなさい」
+PRINTFORML 「嘘よ！　幽々子様があいつらに負けるはずがないわ！」	PRINTFORML 「嘘よ！　幽々子様があいつらに負けるはずがないわ！」
+PRINTFORML 「そんな…咲夜があんな妖怪共に後れを取るはずが…！」	PRINTFORML 「そんな…咲夜があんな妖怪共に後れを取るはずが…！」
+PRINTFORML 「信じられない。だって霊夢は異変解決の専門家なのに」	PRINTFORML 「信じられない。だって霊夢は異変解決の専門家なのに」
+PRINTFORMW （こ、ここは守らないと…また全身が痺れてしまう！）	PRINTFORMW （こ、ここは守らないと…また全身が痺れてしまう！）
+PRINTFORMW 「私の知っていることはこんな感じ。役に立つかしら」	PRINTFORMW 「私の知っていることはこんな感じ。役に立つかしら」
+PRINTFORMW 「ありがとう！　また会ったら、何でも協力するわ！」	PRINTFORMW 「ありがとう！　また会ったら、何でも協力するわ！」
+PRINTFORML 「べ、別に…こんなこと最初からしたくなかったわ…」	PRINTFORML 「べ、別に…こんなこと最初からしたくなかったわ…」
+PRINTFORMW (またお腹を蹴ってる…子供なんて産みたくない……)	PRINTFORMW (またお腹を蹴ってる…子供なんて産みたくない……)
+PRINTFORML 「いやっ！　化け物の子供にイかされるなんて……！」	PRINTFORML 「いやっ！　化け物の子供にイかされるなんて……！」
+PRINTFORMW 「う、嘘よ…私と怪物の間に生まれた人間なんて……」	PRINTFORMW 「う、嘘よ…私と怪物の間に生まれた人間なんて……」
+PRINTFORML 妖夢は刀に手をやり、いつでも抜刀できる体制を取る…	PRINTFORML 妖夢は刀に手をやり、いつでも抜刀できる体制を取る…
+PRINTFORMW 「どうすればいいのよ！　私には…どうすることも…」	PRINTFORMW 「どうすればいいのよ！　私には…どうすることも…」
+PRINTFORMW 妖夢は幽々子の衣服を抱きしめ、その場に崩れ落ちた…	PRINTFORMW 妖夢は幽々子の衣服を抱きしめ、その場に崩れ落ちた…
+PRINTFORMW 「いやあああああああぁぁぁぁぁぁぁぁぁぁぁぁっ！」	PRINTFORMW 「いやあああああああぁぁぁぁぁぁぁぁぁぁぁぁっ！」
+PRINTFORML 「い、嫌…誰か助けて！　妖怪の子供なんて嫌っ！」	PRINTFORML 「い、嫌…誰か助けて！　妖怪の子供なんて嫌っ！」
+PRINTFORML 妖夢は手当たり次第に小さな触手を剪定していった！	PRINTFORML 妖夢は手当たり次第に小さな触手を剪定していった！
+PRINTFORMW （幽々子様の顔色が良い…気のせいだったのかしら）	PRINTFORMW （幽々子様の顔色が良い…気のせいだったのかしら）
+PRINTFORML 「もう…もうすぐ出口が見つかると思いますから！」	PRINTFORML 「もう…もうすぐ出口が見つかると思いますから！」
+PRINTFORML 「嘘よ！　咲夜があいつらに負けるはずがないわ！」	PRINTFORML 「嘘よ！　咲夜があいつらに負けるはずがないわ！」
+PRINTFORMW 妖夢は咲夜の衣服を抱きしめ、その場に崩れ落ちた…	PRINTFORMW 妖夢は咲夜の衣服を抱きしめ、その場に崩れ落ちた…
+PRINTFORMW 妖夢は刀を鞘に戻し、居合い斬りの体制を取った！	PRINTFORMW 妖夢は刀を鞘に戻し、居合い斬りの体制を取った！
+PRINTFORML 「斬るだけでなく、こういうことも出来るのよ！」	PRINTFORML 「斬るだけでなく、こういうことも出来るのよ！」
+PRINTFORMW （こんなところで感じるなんて、間違ってる…！）	PRINTFORMW （こんなところで感じるなんて、間違ってる…！）
+PRINTFORMW 「ご無事でしたか！　お怪我はありませんか！？」	PRINTFORMW 「ご無事でしたか！　お怪我はありませんか！？」
+PRINTFORMW 「ご無事でしたか！　ここは一体何なんですか…」	PRINTFORMW 「ご無事でしたか！　ここは一体何なんですか…」
+PRINTFORMW 「大丈夫だった！？　ねぇ、これも異変なの…？」	PRINTFORMW 「大丈夫だった！？　ねぇ、これも異変なの…？」
+PRINTFORMW 「う、嘘ぉ！？　お、おっぱいが……んんっ！？」	PRINTFORMW 「う、嘘ぉ！？　お、おっぱいが……んんっ！？」
+PRINTFORML 「うぅっ……げほっ、ごほっ！　はぁ…はぁ……」	PRINTFORML 「うぅっ……げほっ、ごほっ！　はぁ…はぁ……」
+PRINTFORML 「いやあぁぁぁぁぁぁぁ！　痛い、痛い、痛い！」	PRINTFORML 「いやあぁぁぁぁぁぁぁ！　痛い、痛い、痛い！」
+PRINTFORML 「も、もうすぐ出口が見つかると思いますから！」	PRINTFORML 「も、もうすぐ出口が見つかると思いますから！」
+PRINTFORMW 「幽々子様、お達者で！　もう我慢の限界です！」	PRINTFORMW 「幽々子様、お達者で！　もう我慢の限界です！」
+PRINTFORMW 「言っておくけど、念のために拾っておくだけよ」	PRINTFORMW 「言っておくけど、念のために拾っておくだけよ」
+PRINTFORML 「でも、ここで足を止めているわけにはいかない」	PRINTFORML 「でも、ここで足を止めているわけにはいかない」
+PRINTFORMW 妖夢はそう決意し、迷宮探索を続けることにした…	PRINTFORMW 妖夢はそう決意し、迷宮探索を続けることにした…
+PRINTFORML ヨガることはありません　堕落しない姫騎士的な	PRINTFORML ヨガることはありません　堕落しない姫騎士的な
+PRINTFORMW 「ごめんなさい幽々子様…私は、妖夢はもう…」	PRINTFORMW 「ごめんなさい幽々子様…私は、妖夢はもう…」
+PRINTFORMW 「くっんあぁぁっ！？　か、体が痺れてる！？」	PRINTFORMW 「くっんあぁぁっ！？　か、体が痺れてる！？」
+PRINTFORML 「そう…霊夢が居てくれれば心強いんだけど…」	PRINTFORML 「そう…霊夢が居てくれれば心強いんだけど…」
+PRINTFORML 足音を殺し、物陰から周囲の気配を探っている…	PRINTFORML 足音を殺し、物陰から周囲の気配を探っている…
+PRINTFORMW （咲夜の顔色が良い…気のせいだったのかしら）	PRINTFORMW （咲夜の顔色が良い…気のせいだったのかしら）
+PRINTFORMW （紫様の顔色が良い…気のせいだったのかしら）	PRINTFORMW （紫様の顔色が良い…気のせいだったのかしら）
+PRINTFORML 「こ、これじゃあ男の人のが生えたみたいに…」	PRINTFORML 「こ、これじゃあ男の人のが生えたみたいに…」
+PRINTFORMW （こ、ここを触られると頭の中真っ白にっ…！）	PRINTFORMW （こ、ここを触られると頭の中真っ白にっ…！）
+PRINTFORML 短い方の刀を抜き、自分の腹に切っ先を当てた…	PRINTFORML 短い方の刀を抜き、自分の腹に切っ先を当てた…
+PRINTFORML 「こ、これ…もしかして誰かがやられた跡！？」	PRINTFORML 「こ、これ…もしかして誰かがやられた跡！？」
+PRINTFORML その植物は幾重にも蔓が絡まったものであった	PRINTFORML その植物は幾重にも蔓が絡まったものであった
+PRINTFORMW 一気に踏み込み、すれ違い様に斬撃を加える！	PRINTFORMW 一気に踏み込み、すれ違い様に斬撃を加える！
+PRINTFORMW 強度が高く、鋭い剣気が複数の敵を巻き込む！	PRINTFORMW 強度が高く、鋭い剣気が複数の敵を巻き込む！
+PRINTFORMW 「んんんっ！　あ、頭の中焼き切れそう…！」	PRINTFORMW 「んんんっ！　あ、頭の中焼き切れそう…！」
+PRINTFORMW 「これも修行だと思ってがんばってみます…」	PRINTFORMW 「これも修行だと思ってがんばってみます…」
+PRINTFORMW 「いえ、気にしてにないわ。気をつけてね…」	PRINTFORMW 「いえ、気にしてにないわ。気をつけてね…」
+PRINTFORMW 絶頂のせいか、妖夢の視界が明滅を繰り返す！	PRINTFORMW 絶頂のせいか、妖夢の視界が明滅を繰り返す！
+PRINTFORML 「役に立つものが見つかれば良いんだけど…」	PRINTFORML 「役に立つものが見つかれば良いんだけど…」
+PRINTFORML 「何か役に立つものでも見つからないかしら」	PRINTFORML 「何か役に立つものでも見つからないかしら」
+PRINTFORMW 「うふふ…冥界一堅いモノで貫いてあげる♪」	PRINTFORMW 「うふふ…冥界一堅いモノで貫いてあげる♪」
+PRINTFORMW 「私に出来ることなら、なんでも協力するわ」	PRINTFORMW 「私に出来ることなら、なんでも協力するわ」
+PRINTFORML 「こんなに大きくなるなんて信じられない…」	PRINTFORML 「こんなに大きくなるなんて信じられない…」
+PRINTFORMW 「紫様、お達者で！　もう我慢の限界です！」	PRINTFORMW 「紫様、お達者で！　もう我慢の限界です！」
+PRINTFORMW 「嘘…これ、幽々子様のお召し物じゃあ！？」	PRINTFORMW 「嘘…これ、幽々子様のお召し物じゃあ！？」
+PRINTFORML 「このおどろおどろしい世界の主を滅ぼす！」	PRINTFORML 「このおどろおどろしい世界の主を滅ぼす！」
+PRINTFORMW 「悪いけど、嫌がらせさせてもらうわよ！」	PRINTFORMW 「悪いけど、嫌がらせさせてもらうわよ！」
+PRINTFORMW （こ、こんなのに感じてるなんてっ……！）	PRINTFORMW （こ、こんなのに感じてるなんてっ……！）
+PRINTFORMW 「や、やめて！　抜いて、抜きなさいよ！」	PRINTFORMW 「や、やめて！　抜いて、抜きなさいよ！」
+PRINTFORML 「ふあぁっ、んんっ！　頭ヘンになっ……」	PRINTFORML 「ふあぁっ、んんっ！　頭ヘンになっ……」
+PRINTFORMW 「うぐっ！　え、な…何が起きてるの！？」	PRINTFORMW 「うぐっ！　え、な…何が起きてるの！？」
+PRINTFORMW 「こんな所でやられるわけにはいかない！」	PRINTFORMW 「こんな所でやられるわけにはいかない！」
+PRINTFORMW 「幽々子様に私のことをお伝えください…」	PRINTFORMW 「幽々子様に私のことをお伝えください…」
+PRINTFORMW 「お力になれなくて、申し訳ありません…」	PRINTFORMW 「お力になれなくて、申し訳ありません…」
+PRINTFORML 「はうぅん…こ、こいつら…くうんっ！？」	PRINTFORML 「はうぅん…こ、こいつら…くうんっ！？」
+PRINTFORMW 「そ、そんなはずないわ。そんなはず……」	PRINTFORMW 「そ、そんなはずないわ。そんなはず……」
+PRINTFORML 「やぁやぁ、我こそは白玉楼の庭師なり！」	PRINTFORML 「やぁやぁ、我こそは白玉楼の庭師なり！」
+PRINTFORMW 「咲夜、しっかりして！　…よ、良かった」	PRINTFORMW 「咲夜、しっかりして！　…よ、良かった」
+PRINTFORMW 「いえ、気にしてないわ…。気をつけてね」	PRINTFORMW 「いえ、気にしてないわ…。気をつけてね」
+PRINTFORML 「幽々子様…もう動くのも辛そうですね…」	PRINTFORML 「幽々子様…もう動くのも辛そうですね…」
+PRINTFORML 「一緒に脱出しようって言ったじゃない！」	PRINTFORML 「一緒に脱出しようって言ったじゃない！」
+PRINTFORML 「ひ、ひぃ！？　な、何か張り付いて…！」	PRINTFORML 「ひ、ひぃ！？　な、何か張り付いて…！」
+PRINTFORML だが妖夢は思いとどまったのか、刀を納めた	PRINTFORML だが妖夢は思いとどまったのか、刀を納めた
+﻿PRINTFORML いつものように庭の剪定に勤しむ魂魄妖夢	PRINTFORML いつものように庭の剪定に勤しむ魂魄妖夢
+PRINTFORMW （今はまずい！　何か手を考えないと…）	PRINTFORMW （今はまずい！　何か手を考えないと…）
+PRINTFORMW 妖夢は霊気を帯びた楼観剣を振り下ろす！	PRINTFORMW 妖夢は霊気を帯びた楼観剣を振り下ろす！
+PRINTFORMW 目にも留まらぬ速さで抜刀し、踏み込む！	PRINTFORMW 目にも留まらぬ速さで抜刀し、踏み込む！
+PRINTFORMW 霊気を帯びた二刀の剣気で敵を斬り裂く！	PRINTFORMW 霊気を帯びた二刀の剣気で敵を斬り裂く！
+PRINTFORMW 妖夢は強度が高く、鋭い剣気を射出した！	PRINTFORMW 妖夢は強度が高く、鋭い剣気を射出した！
+PRINTFORMW （射精させられないよう我慢するのよ…）	PRINTFORMW （射精させられないよう我慢するのよ…）
+PRINTFORMW （みょんに痺れるここは守らないと…！）	PRINTFORMW （みょんに痺れるここは守らないと…！）
+PRINTFORMW 「ぐぅっ！　ま、まだ倒れるわけには…」	PRINTFORMW 「ぐぅっ！　ま、まだ倒れるわけには…」
+PRINTFORMW 「な、何を……んんっ！　さ、寒気が…」	PRINTFORMW 「な、何を……んんっ！　さ、寒気が…」
+PRINTFORMW （な、何も考えられなくなってきてる…）	PRINTFORMW （な、何も考えられなくなってきてる…）
+PRINTFORMW 「こ、この程度の辱め…何ともないわ！」	PRINTFORMW 「こ、この程度の辱め…何ともないわ！」
+PRINTFORMW 「何か流し込まれた！？　気持ち悪い…」	PRINTFORMW 「何か流し込まれた！？　気持ち悪い…」
+PRINTFORMW 「や、やっぱり捕まってるなんて嫌よ！」	PRINTFORMW 「や、やっぱり捕まってるなんて嫌よ！」
+PRINTFORML 「体制を整えてから助けに来ますので…」	PRINTFORML 「体制を整えてから助けに来ますので…」
+PRINTFORML （ごめんなさい…私の力ではどうにも…）	PRINTFORML （ごめんなさい…私の力ではどうにも…）
+PRINTFORML 「……え？　ちょ、ちょっと待ってよ！」	PRINTFORML 「……え？　ちょ、ちょっと待ってよ！」
+PRINTFORMW 「白玉楼の庭、どうなってるのかなぁ…」	PRINTFORMW 「白玉楼の庭、どうなってるのかなぁ…」
+PRINTFORMW 「早くこんなところから逃げ出したい…」	PRINTFORMW 「早くこんなところから逃げ出したい…」
+PRINTFORMW 「ありがとう！　この恩は忘れないわ！」	PRINTFORMW 「ありがとう！　この恩は忘れないわ！」
+PRINTFORML 「んんんっ！？　くぅ！　はぁ、はぁ…」	PRINTFORML 「んんんっ！？　くぅ！　はぁ、はぁ…」
+PRINTFORMW 「幽々子様、ご無理はなさらぬように…」	PRINTFORMW 「幽々子様、ご無理はなさらぬように…」
+PRINTFORMW 「冥界一、堅い盾をご覧にいれましょう」	PRINTFORMW 「冥界一、堅い盾をご覧にいれましょう」
+PRINTFORMW 「っ！？　みょんな気配が強まった…？」	PRINTFORMW 「っ！？　みょんな気配が強まった…？」
+PRINTFORML 「う、嘘！？　な、何か張り付いて…！」	PRINTFORML 「う、嘘！？　な、何か張り付いて…！」
+PRINTFORMW 「嘘…これ、紫様のお召し物じゃあ！？」	PRINTFORMW 「嘘…これ、紫様のお召し物じゃあ！？」
+PRINTFORMW （このままじゃ、いつかやられる…！）	PRINTFORMW （このままじゃ、いつかやられる…！）
+PRINTFORMW 「このまま戦い続けるのは危険だわ…」	PRINTFORMW 「このまま戦い続けるのは危険だわ…」
+PRINTFORML 「お師匠様の教えを思い出すのよ…！」	PRINTFORML 「お師匠様の教えを思い出すのよ…！」
+PRINTFORML 「生きて…生きて白玉楼へ帰るのよ！」	PRINTFORML 「生きて…生きて白玉楼へ帰るのよ！」
+PRINTFORMW 素早い踏み込みと共に連撃を叩き込む！	PRINTFORMW 素早い踏み込みと共に連撃を叩き込む！
+PRINTFORML 「誘惑に…負けている場合じゃない！」	PRINTFORML 「誘惑に…負けている場合じゃない！」
+PRINTFORMW 「う、上手く狙いをつけられない…！」	PRINTFORMW 「う、上手く狙いをつけられない…！」
+PRINTFORML 「う、上手く狙いをつけられない…！」	PRINTFORML 「う、上手く狙いをつけられない…！」
+PRINTFORMW 悶絶し、負傷した部位を押さえている…	PRINTFORMW 悶絶し、負傷した部位を押さえている…
+PRINTFORMW 「い、今は…今捕まるのは不味い…！」	PRINTFORMW 「い、今は…今捕まるのは不味い…！」
+PRINTFORMW 「はぁ、はぁ……なんとか振り払えた」	PRINTFORMW 「はぁ、はぁ……なんとか振り払えた」
+PRINTFORMW 「全部相手にしていたらキリがないわ」	PRINTFORMW 「全部相手にしていたらキリがないわ」
+PRINTFORMW 力の抜けた妖夢の両手から刀が落ちた…	PRINTFORMW 力の抜けた妖夢の両手から刀が落ちた…
+PRINTFORML 「幽々子様だけでもお逃げください！」	PRINTFORML 「幽々子様だけでもお逃げください！」
+PRINTFORMW 「咲夜だけでも生き延びてくれれば…」	PRINTFORMW 「咲夜だけでも生き延びてくれれば…」
+PRINTFORMW 「いえ、気にしてにないわ。またね…」	PRINTFORMW 「いえ、気にしてにないわ。またね…」
+PRINTFORMW 妖夢は俯き、自分にそう言い聞かせた…	PRINTFORMW 妖夢は俯き、自分にそう言い聞かせた…
+PRINTFORMW 「出ちゃうっ…何かがっ…んんんっ！」	PRINTFORMW 「出ちゃうっ…何かがっ…んんんっ！」
+PRINTFORML 「え…嘘……これ、人間みたいな……」	PRINTFORML 「え…嘘……これ、人間みたいな……」
+PRINTFORML 「出口はいつになれば見つかるのよ…」	PRINTFORML 「出口はいつになれば見つかるのよ…」
+PRINTFORML 「出口はまだ見つからないのかしら…」	PRINTFORML 「出口はまだ見つからないのかしら…」
+PRINTFORMW 「悪いけど、何か譲ってもらうわよ！」	PRINTFORMW 「悪いけど、何か譲ってもらうわよ！」
+PRINTFORMW 「悪いけど、私なりに脱出したいの…」	PRINTFORMW 「悪いけど、私なりに脱出したいの…」
+PRINTFORMW 「こんな所に診療所なんてないのに…」	PRINTFORMW 「こんな所に診療所なんてないのに…」
+PRINTFORML 「紫様…もう動くのも辛そうですね…」	PRINTFORML 「紫様…もう動くのも辛そうですね…」
+PRINTFORML 「幽々子様…私の手を握ってください」	PRINTFORML 「幽々子様…私の手を握ってください」
+PRINTFORML （本当に赤ん坊が…信じられない……）	PRINTFORML （本当に赤ん坊が…信じられない……）
+PRINTFORMW 「もう我慢の限界よ！　さようなら！」	PRINTFORMW 「もう我慢の限界よ！　さようなら！」
+PRINTFORML 「これって、もしかして咲夜の…！？」	PRINTFORML 「これって、もしかして咲夜の…！？」
+PRINTFORMW (体が熱くて…何も考えられない…）	PRINTFORMW (体が熱くて…何も考えられない…）
+PRINTFORMW 「この程度の攻撃、凌いでみせる！」	PRINTFORMW 「この程度の攻撃、凌いでみせる！」
+PRINTFORMW 「使えるものは使っておかないとね」	PRINTFORMW 「使えるものは使っておかないとね」
+PRINTFORML 「か、体が震えて集中できない…！」	PRINTFORML 「か、体が震えて集中できない…！」
+PRINTFORMW 妖夢は二刀の連撃で敵に斬りかかる！	PRINTFORMW 妖夢は二刀の連撃で敵に斬りかかる！
+PRINTFORMW 「ふ、防ぎきれなっ……ああぁっ！」	PRINTFORMW 「ふ、防ぎきれなっ……ああぁっ！」
+PRINTFORMW 「ふあぁっ！　な、何この感覚……」	PRINTFORMW 「ふあぁっ！　な、何この感覚……」
+PRINTFORMW 「い、嫌！　放して、放しなさい！」	PRINTFORMW 「い、嫌！　放して、放しなさい！」
+PRINTFORMW 「放しなさい！　切り刻んでやる！」	PRINTFORMW 「放しなさい！　切り刻んでやる！」
+PRINTFORML 「こんなことをしている場合じゃ…」	PRINTFORML 「こんなことをしている場合じゃ…」
+PRINTFORMW 「幽々子様、申し訳ありません……」	PRINTFORMW 「幽々子様、申し訳ありません……」
+PRINTFORMW 「これが白玉楼の庭師の切れ味よ！」	PRINTFORMW 「これが白玉楼の庭師の切れ味よ！」
+PRINTFORMW 妖夢は懐紙で刀を拭き、鞘に収めた…	PRINTFORMW 妖夢は懐紙で刀を拭き、鞘に収めた…
+PRINTFORML 「体制を整えたら助けに来るから…」	PRINTFORML 「体制を整えたら助けに来るから…」
+PRINTFORMW 「私は後で必ず追いつきますので…」	PRINTFORMW 「私は後で必ず追いつきますので…」
+PRINTFORML 「ええ、一緒にがんばりましょう！」	PRINTFORML 「ええ、一緒にがんばりましょう！」
+PRINTFORML 「私で良ければ、お供いたします！」	PRINTFORML 「私で良ければ、お供いたします！」
+PRINTFORMW 「協力して幻想郷に帰りましょう！」	PRINTFORMW 「協力して幻想郷に帰りましょう！」
+PRINTFORMW 「…ほ、本当に休んでも平気かしら」	PRINTFORMW 「…ほ、本当に休んでも平気かしら」
+PRINTFORMW 「お、男の人のでイっちゃう…！？」	PRINTFORMW 「お、男の人のでイっちゃう…！？」
+PRINTFORMW 「私の体、どうかしちゃったの…？」	PRINTFORMW 「私の体、どうかしちゃったの…？」
+PRINTFORML 「もう…どうしようもないのね……」	PRINTFORML 「もう…どうしようもないのね……」
+PRINTFORML 「霊撃で…汚いものを消し飛ばす！」	PRINTFORML 「霊撃で…汚いものを消し飛ばす！」
+PRINTFORMW 「嫌嫌嫌嫌っ！　ここは絶対嫌よ！」	PRINTFORMW 「嫌嫌嫌嫌っ！　ここは絶対嫌よ！」
+PRINTFORMW 「え！？　も、もしかして偽者！？」	PRINTFORMW 「え！？　も、もしかして偽者！？」
+PRINTFORMW 「私は私なりに脱出したいのです…」	PRINTFORMW 「私は私なりに脱出したいのです…」
+PRINTFORMW 「幽々子様？　顔色が悪いですよ？」	PRINTFORMW 「幽々子様？　顔色が悪いですよ？」
+PRINTFORMW 「どうかした？　顔色が悪いわよ？」	PRINTFORMW 「どうかした？　顔色が悪いわよ？」
+PRINTFORMW (一刻も早くここを脱出しないと…)	PRINTFORMW (一刻も早くここを脱出しないと…)
+PRINTFORML 「幽々子様、もう暫くの辛抱です！」	PRINTFORML 「幽々子様、もう暫くの辛抱です！」
+PRINTFORMW (どうすれば良いのよ…こんなの…)	PRINTFORMW (どうすれば良いのよ…こんなの…)
+PRINTFORMW 「私は…私には見ていることしか…」	PRINTFORMW 「私は…私には見ていることしか…」
+PRINTFORML 「咲夜…守りきれなくてごめんね…」	PRINTFORML 「咲夜…守りきれなくてごめんね…」
+PRINTFORML 「咲夜、お願い！　一緒に居てよ！」	PRINTFORML 「咲夜、お願い！　一緒に居てよ！」
+PRINTFORML 「…妖夢は幽々子様の仇を取ります」	PRINTFORML 「…妖夢は幽々子様の仇を取ります」
+PRINTFORMW 「嘘…これ、魔理沙の服じゃあ！？」	PRINTFORMW 「嘘…これ、魔理沙の服じゃあ！？」
+PRINTFORMW 妖夢は気丈にも刀を振りかぶった！	PRINTFORMW 妖夢は気丈にも刀を振りかぶった！
+PRINTFORMW 妖夢の全方位弾が敵を足止めする！	PRINTFORMW 妖夢の全方位弾が敵を足止めする！
+PRINTFORML 「面倒だわ、一気に片をつける！」	PRINTFORML 「面倒だわ、一気に片をつける！」
+PRINTFORMW 「白玉楼の庭師を舐めないでよ！」	PRINTFORMW 「白玉楼の庭師を舐めないでよ！」
+PRINTFORMW 「い、今何かされるわけには…！」	PRINTFORMW 「い、今何かされるわけには…！」
+PRINTFORMW 「な、何考えてるのよ…もうっ！」	PRINTFORMW 「な、何考えてるのよ…もうっ！」
+PRINTFORMW 「きゃあぁっ！　み、見ないで…」	PRINTFORMW 「きゃあぁっ！　み、見ないで…」
+PRINTFORMW 「な、何！　何か入った……！？」	PRINTFORMW 「な、何！　何か入った……！？」
+PRINTFORMW 「あ、あのままでは危なかった…」	PRINTFORMW 「あ、あのままでは危なかった…」
+PRINTFORMW 「刀に変な液がつくのは嫌ねぇ…」	PRINTFORMW 「刀に変な液がつくのは嫌ねぇ…」
+PRINTFORMW 「絶対、絶対幻想郷に帰るのよ！」	PRINTFORMW 「絶対、絶対幻想郷に帰るのよ！」
+PRINTFORMW 「暖かいお布団に包まりたいわ…」	PRINTFORMW 「暖かいお布団に包まりたいわ…」
+PRINTFORMW 「必ず、白玉楼へ帰りましょう！」	PRINTFORMW 「必ず、白玉楼へ帰りましょう！」
+PRINTFORMW 「絶対、幻想郷へ帰りましょうね」	PRINTFORMW 「絶対、幻想郷へ帰りましょうね」
+PRINTFORMW 「絶対、幻想郷へ帰りましょう！」	PRINTFORMW 「絶対、幻想郷へ帰りましょう！」
+PRINTFORMW 「いえ、いいの…気にしてないわ」	PRINTFORMW 「いえ、いいの…気にしてないわ」
+PRINTFORMW 「絶対、白玉楼へ帰りましょう！」	PRINTFORMW 「絶対、白玉楼へ帰りましょう！」
+PRINTFORML 「これは仕方なく、仕方なくよ…」	PRINTFORML 「これは仕方なく、仕方なくよ…」
+PRINTFORML 「あ、あれ？　い、いえ何でも…」	PRINTFORML 「あ、あれ？　い、いえ何でも…」
+PRINTFORML 「体制を整えないと不味いわね…」	PRINTFORML 「体制を整えないと不味いわね…」
+PRINTFORMW 「あ…い、嫌…誰か、助けて……」	PRINTFORMW 「あ…い、嫌…誰か、助けて……」
+PRINTFORMW 「痛い！　痛い！　誰か助けて！」	PRINTFORMW 「痛い！　痛い！　誰か助けて！」
+PRINTFORML 「申し訳ありません、幽々子様…」	PRINTFORML 「申し訳ありません、幽々子様…」
+PRINTFORMW 「幽々子様、お供させてください」	PRINTFORMW 「幽々子様、お供させてください」
+PRINTFORMW 「絶対、幻想郷に帰りましょうね」	PRINTFORMW 「絶対、幻想郷に帰りましょうね」
+PRINTFORML 「紫様…私の手を握ってください」	PRINTFORML 「紫様…私の手を握ってください」
+PRINTFORMW 「何が起こるかわからないわね…」	PRINTFORMW 「何が起こるかわからないわね…」
+PRINTFORML 「だって…幽々子様は…だって…」	PRINTFORML 「だって…幽々子様は…だって…」
+PRINTFORML 「幽々子様が…お隠れになった…」	PRINTFORML 「幽々子様が…お隠れになった…」
+PRINTFORMW 「嘘…咲夜のお召し物じゃあ！？」	PRINTFORMW 「嘘…咲夜のお召し物じゃあ！？」
+PRINTFORMW 「嘘…これ、霊夢の服じゃあ！？」	PRINTFORMW 「嘘…これ、霊夢の服じゃあ！？」
+PRINTFORMW 「嘘…これ、鈴仙の服じゃあ！？」	PRINTFORMW 「嘘…これ、鈴仙の服じゃあ！？」
+PRINTFORMW 「嘘…これ、早苗の服じゃあ！？」	PRINTFORMW 「嘘…これ、早苗の服じゃあ！？」
+PRINTFORML 焦る妖夢　底が見えない筒の空間	PRINTFORML 焦る妖夢　底が見えない筒の空間
+PRINTFORML 喋り方や口調は萃夢想に近いです	PRINTFORML 喋り方や口調は萃夢想に近いです
+PRINTFORMW 「安全な場所まで逃げた方が…」	PRINTFORMW 「安全な場所まで逃げた方が…」
+PRINTFORMW 「お願い、どれかに当たって！」	PRINTFORMW 「お願い、どれかに当たって！」
+PRINTFORML 「刀を振るだけじゃないのよ？」	PRINTFORML 「刀を振るだけじゃないのよ？」
+PRINTFORML 「まとめて斬り潰してあげる！」	PRINTFORML 「まとめて斬り潰してあげる！」
+PRINTFORMW 「まとめてやっつけてやるわ！」	PRINTFORMW 「まとめてやっつけてやるわ！」
+PRINTFORMW （逃げられる機会を伺うのよ…）	PRINTFORMW （逃げられる機会を伺うのよ…）
+PRINTFORMW 「なんとかして逃げないと…！」	PRINTFORMW 「なんとかして逃げないと…！」
+PRINTFORMW 「がはっ！　げほっ、げほっ！」	PRINTFORMW 「がはっ！　げほっ、げほっ！」
+PRINTFORMW 「…な、何か…入って…………」	PRINTFORMW 「…な、何か…入って…………」
+PRINTFORMW 「え！？　な、何をしたのよ！」	PRINTFORMW 「え！？　な、何をしたのよ！」
+PRINTFORMW 「無理言ってごめんなさいね…」	PRINTFORMW 「無理言ってごめんなさいね…」
+PRINTFORMW 「…私が何をしたって言うのよ」	PRINTFORMW 「…私が何をしたって言うのよ」
+PRINTFORMW 「っ！　っ！　うぅっ…………」	PRINTFORMW 「っ！　っ！　うぅっ…………」
+PRINTFORMW （な、何かがお腹を蹴った……)	PRINTFORMW （な、何かがお腹を蹴った……)
+PRINTFORMW 「え！？　い、いきなり何っ！」	PRINTFORMW 「え！？　い、いきなり何っ！」
+PRINTFORMW 「私は私なりに脱出したいの…」	PRINTFORMW 「私は私なりに脱出したいの…」
+PRINTFORMW 「私で良ければ力になるけど…」	PRINTFORMW 「私で良ければ力になるけど…」
+PRINTFORMW 「紫様？　顔色が悪いですよ？」	PRINTFORMW 「紫様？　顔色が悪いですよ？」
+PRINTFORML 「幽々子様…そのお腹って……」	PRINTFORML 「幽々子様…そのお腹って……」
+PRINTFORMW (こんなにも大きくなってる…)	PRINTFORMW (こんなにも大きくなってる…)
+PRINTFORML 「紫様、もう暫くの辛抱です！」	PRINTFORML 「紫様、もう暫くの辛抱です！」
+PRINTFORML 「咲夜…もう動くのも辛そうね」	PRINTFORML 「咲夜…もう動くのも辛そうね」
+PRINTFORMW （もう、何も考えられない……）	PRINTFORMW （もう、何も考えられない……）
+PRINTFORML 「何か流し込まれた気がする…」	PRINTFORML 「何か流し込まれた気がする…」
+PRINTFORML 「ゆ、幽々子様は何処に……？」	PRINTFORML 「ゆ、幽々子様は何処に……？」
+PRINTFORMW 「小技で牽制してみましょう」	PRINTFORMW 「小技で牽制してみましょう」
+PRINTFORMW 「焦らず、じっくり狙う…！」	PRINTFORMW 「焦らず、じっくり狙う…！」
+PRINTFORMW 「くっ！　た、耐えなきゃ！」	PRINTFORMW 「くっ！　た、耐えなきゃ！」
+PRINTFORMW 妖夢の決意をこめた抜刀攻撃！	PRINTFORMW 妖夢の決意をこめた抜刀攻撃！
+PRINTFORMW 「大事に使っていかないとね」	PRINTFORMW 「大事に使っていかないとね」
+PRINTFORMW 「くっ！　集中しないと…！」	PRINTFORMW 「くっ！　集中しないと…！」
+PRINTFORMW 「う、上手く力が入らない…」	PRINTFORMW 「う、上手く力が入らない…」
+PRINTFORMW 「や、やめなさいってば…！」	PRINTFORMW 「や、やめなさいってば…！」
+PRINTFORMW 「じょ、冗談じゃないわよ！」	PRINTFORMW 「じょ、冗談じゃないわよ！」
+PRINTFORMW 「気持ち悪いわねぇ、もう！」	PRINTFORMW 「気持ち悪いわねぇ、もう！」
+PRINTFORMW 「こ、こいつらもしかして…」	PRINTFORMW 「こ、こいつらもしかして…」
+PRINTFORMW 「うぐっ！　よ、よくも…！」	PRINTFORMW 「うぐっ！　よ、よくも…！」
+PRINTFORMW 「ふぅ、なんとかなったわね」	PRINTFORMW 「ふぅ、なんとかなったわね」
+PRINTFORML 「…さて、先を急ぎましょう」	PRINTFORML 「…さて、先を急ぎましょう」
+PRINTFORMW 「それまでどうかご無事で…」	PRINTFORMW 「それまでどうかご無事で…」
+PRINTFORMW 「良かった、敵じゃないのね」	PRINTFORMW 「良かった、敵じゃないのね」
+PRINTFORMW 「も……もう……嫌…………」	PRINTFORMW 「も……もう……嫌…………」
+PRINTFORMW 「うっ…………あっ…………」	PRINTFORMW 「うっ…………あっ…………」
+PRINTFORML 「い、いえ…何でもないわ…」	PRINTFORML 「い、いえ…何でもないわ…」
+PRINTFORMW (お腹の中に何かいる…！？)	PRINTFORMW (お腹の中に何かいる…！？)
+PRINTFORML （私の中から出て行ってよ…）	PRINTFORML （私の中から出て行ってよ…）
+PRINTFORML 「来るなら来てみなさい…！」	PRINTFORML 「来るなら来てみなさい…！」
+PRINTFORMW 「幽々子様、お気を確かに！」	PRINTFORMW 「幽々子様、お気を確かに！」
+PRINTFORMW 「大丈夫？　しっかりして！」	PRINTFORMW 「大丈夫？　しっかりして！」
+PRINTFORML 「申し訳ありません、紫様…」	PRINTFORML 「申し訳ありません、紫様…」
+PRINTFORMW 「紫様、お供させてください」	PRINTFORMW 「紫様、お供させてください」
+PRINTFORML 「咲夜？　顔色が悪いわよ？」	PRINTFORML 「咲夜？　顔色が悪いわよ？」
+PRINTFORMW 「……本当に大丈夫なのかな」	PRINTFORMW 「……本当に大丈夫なのかな」
+PRINTFORMW 「幽々子様、どうかお傍に…」	PRINTFORMW 「幽々子様、どうかお傍に…」
+PRINTFORMW 「そんな…どうして…あぁ…」	PRINTFORMW 「そんな…どうして…あぁ…」
+PRINTFORML 「だって…咲夜は…だって…」	PRINTFORML 「だって…咲夜は…だって…」
+PRINTFORML 「…咲夜、絶対に仇を取るわ」	PRINTFORML 「…咲夜、絶対に仇を取るわ」
+PRINTFORMW 「距離を取らせてもらうわ」	PRINTFORMW 「距離を取らせてもらうわ」
+PRINTFORML 「はあぁ…！　結跏趺斬！」	PRINTFORML 「はあぁ…！　結跏趺斬！」
+PRINTFORML 「今だ！　生死、流転斬！」	PRINTFORML 「今だ！　生死、流転斬！」
+PRINTFORMW 「集中、集中するのよ…！」	PRINTFORMW 「集中、集中するのよ…！」
+PRINTFORMW 「い、嫌！　誰か助けて！」	PRINTFORMW 「い、嫌！　誰か助けて！」
+PRINTFORMW 「うぐっ！…あ…あぁ……」	PRINTFORMW 「うぐっ！…あ…あぁ……」
+PRINTFORMW 「うっ！　あっ、ぐ…あ…」	PRINTFORMW 「うっ！　あっ、ぐ…あ…」
+PRINTFORMW 「よ、よくもやったわね！」	PRINTFORMW 「よ、よくもやったわね！」
+PRINTFORMW 「ううっ、くあぁぁっ！？」	PRINTFORMW 「ううっ、くあぁぁっ！？」
+PRINTFORML 「……あ……うっ…………」	PRINTFORML 「……あ……うっ…………」
+PRINTFORMW 「や…やられるわけには…」	PRINTFORMW 「や…やられるわけには…」
+PRINTFORML 「……恨みはいたしません」	PRINTFORML 「……恨みはいたしません」
+PRINTFORML 「ありがとうございます！」	PRINTFORML 「ありがとうございます！」
+PRINTFORMW 「私で良ければ力になるわ」	PRINTFORMW 「私で良ければ力になるわ」
+PRINTFORML 「あうぅっ！　んんんっ！」	PRINTFORML 「あうぅっ！　んんんっ！」
+PRINTFORML 「とにかく安全な場所へ…」	PRINTFORML 「とにかく安全な場所へ…」
+PRINTFORML 「お願い…何も来ないで…」	PRINTFORML 「お願い…何も来ないで…」
+PRINTFORMW 「咲夜、私も連れて行って」	PRINTFORMW 「咲夜、私も連れて行って」
+PRINTFORMW 「さ、咲夜…気をつけてね」	PRINTFORMW 「さ、咲夜…気をつけてね」
+PRINTFORML 「咲夜…そのお腹って……」	PRINTFORML 「咲夜…そのお腹って……」
+PRINTFORML 「紫様…そのお腹って……」	PRINTFORML 「紫様…そのお腹って……」
+PRINTFORMW 「ねぇ…そのお腹って……」	PRINTFORMW 「ねぇ…そのお腹って……」
+PRINTFORMW 「それなのに…どうして…」	PRINTFORMW 「それなのに…どうして…」
+PRINTFORML 「こいつら…どこから…！」	PRINTFORML 「こいつら…どこから…！」
+PRINTFORML 「やっ、やめっ…そこは！」	PRINTFORML 「やっ、やめっ…そこは！」
+PRINTFORMW 「いや！　入ってくるっ！」	PRINTFORMW 「いや！　入ってくるっ！」
+PRINTFORML 「さ、咲夜は何処に……？」	PRINTFORML 「さ、咲夜は何処に……？」
+PRINTFORMW 「私が引き付けておくわ」	PRINTFORMW 「私が引き付けておくわ」
+PRINTFORMW 「今は敵を倒すのよ…！」	PRINTFORMW 「今は敵を倒すのよ…！」
+PRINTFORMW 「お、落ち着くのよ…！」	PRINTFORMW 「お、落ち着くのよ…！」
+PRINTFORML 「ぐぅっ！？…うっ……」	PRINTFORML 「ぐぅっ！？…うっ……」
+PRINTFORMW 「ざ、ざまぁないわね…」	PRINTFORMW 「ざ、ざまぁないわね…」
+PRINTFORMW 「もう…体…動かない…」	PRINTFORMW 「もう…体…動かない…」
+PRINTFORML 「こ、この程度の辱め…」	PRINTFORML 「こ、この程度の辱め…」
+PRINTFORMW 「あら、あなたも居たの」	PRINTFORMW 「あら、あなたも居たの」
+PRINTFORML 「幽々子様、お達者で…」	PRINTFORML 「幽々子様、お達者で…」
+PRINTFORML 「いいの、気にしないで」	PRINTFORML 「いいの、気にしないで」
+PRINTFORMW 「はぁ…はぁ…はぁ……」	PRINTFORMW 「はぁ…はぁ…はぁ……」
+PRINTFORMW （体の調子が戻った…？）	PRINTFORMW （体の調子が戻った…？）
+PRINTFORML 「出口は…まだかしら？」	PRINTFORML 「出口は…まだかしら？」
+PRINTFORMW 「紫様、お気を確かに！」	PRINTFORMW 「紫様、お気を確かに！」
+PRINTFORML 「ごめんなさい、咲夜…」	PRINTFORML 「ごめんなさい、咲夜…」
+PRINTFORMW 「…幽々子様、お達者で」	PRINTFORMW 「…幽々子様、お達者で」
+PRINTFORML 「…だから諦めないで！」	PRINTFORML 「…だから諦めないで！」
+PRINTFORML 「咲夜…私の手を握って」	PRINTFORML 「咲夜…私の手を握って」
+PRINTFORML 「うっ……あぁ…………」	PRINTFORML 「うっ……あぁ…………」
+PRINTFORMW 「ゆ、油断していたわ…」	PRINTFORMW 「ゆ、油断していたわ…」
+PRINTFORML 「ゆ、紫様は何処に…！」	PRINTFORML 「ゆ、紫様は何処に…！」
+PRINTFORML 「紫様、仇は取ります！」	PRINTFORML 「紫様、仇は取ります！」
+PRINTFORML 「魔理沙、仇は取るわ！」	PRINTFORML 「魔理沙、仇は取るわ！」
+PRINTFORMW 「お、落ち着くのよ…」	PRINTFORMW 「お、落ち着くのよ…」
+PRINTFORMW 「この程度の誘惑…！」	PRINTFORMW 「この程度の誘惑…！」
+PRINTFORMW 二刀の剣気で敵を斬る！	PRINTFORMW 二刀の剣気で敵を斬る！
+PRINTFORML 「まとめて…潰れて！」	PRINTFORML 「まとめて…潰れて！」
+PRINTFORMW 「思い切り叩き潰す！」	PRINTFORMW 「思い切り叩き潰す！」
+PRINTFORMW 「ゆ、幽々子…様……」	PRINTFORMW 「ゆ、幽々子…様……」
+PRINTFORMW 「うっ…か、体が……」	PRINTFORMW 「うっ…か、体が……」
+PRINTFORMW 「ま、まだよ…まだ…」	PRINTFORMW 「ま、まだよ…まだ…」
+PRINTFORMW 「こ、これ以上は…！」	PRINTFORMW 「こ、これ以上は…！」
+PRINTFORMW 「し、下着までっ…！」	PRINTFORMW 「し、下着までっ…！」
+PRINTFORML 「こっちを見ないで…」	PRINTFORML 「こっちを見ないで…」
+PRINTFORML 「くぅっ…体が疼く…」	PRINTFORML 「くぅっ…体が疼く…」
+PRINTFORMW 「はぁ、はぁ、はぁ…」	PRINTFORMW 「はぁ、はぁ、はぁ…」
+PRINTFORMW 「いや…来ないで……」	PRINTFORMW 「いや…来ないで……」
+PRINTFORMW 「私…助かったの……」	PRINTFORMW 「私…助かったの……」
+PRINTFORML 「…申し訳ありません」	PRINTFORML 「…申し訳ありません」
+PRINTFORML 「……恨みはしないわ」	PRINTFORML 「……恨みはしないわ」
+PRINTFORML 「ねぇ、ねぇってば！」	PRINTFORML 「ねぇ、ねぇってば！」
+PRINTFORML 「紫様、お達者で……」	PRINTFORML 「紫様、お達者で……」
+PRINTFORML 「いえ、いいんです…」	PRINTFORML 「いえ、いいんです…」
+PRINTFORML 「お守りいたします！」	PRINTFORML 「お守りいたします！」
+PRINTFORML 「よろしくね、魔理沙」	PRINTFORML 「よろしくね、魔理沙」
+PRINTFORMW 「またね、気をつけて」	PRINTFORMW 「またね、気をつけて」
+PRINTFORML 「駄目、そこはっ…！」	PRINTFORML 「駄目、そこはっ…！」
+PRINTFORML 「ふあぁぁぁぁぁっ！」	PRINTFORML 「ふあぁぁぁぁぁっ！」
+PRINTFORMW 「…ふぅ、もう大丈夫」	PRINTFORMW 「…ふぅ、もう大丈夫」
+PRINTFORMW (な、何…今のは…？)	PRINTFORMW (な、何…今のは…？)
+PRINTFORML 「えっ…あ…あぁ……」	PRINTFORML 「えっ…あ…あぁ……」
+PRINTFORML 「お願い…誰か来て…」	PRINTFORML 「お願い…誰か来て…」
+PRINTFORML 「霊夢、仇は取るわ！」	PRINTFORML 「霊夢、仇は取るわ！」
+PRINTFORML 「鈴仙、仇は取るわ！」	PRINTFORML 「鈴仙、仇は取るわ！」
+PRINTFORML 「早苗、仇は取るわ！」	PRINTFORML 「早苗、仇は取るわ！」
+PRINTFORMW 「体制を立て直すわ」	PRINTFORMW 「体制を立て直すわ」
+PRINTFORMW 「狙い澄まして…！」	PRINTFORMW 「狙い澄まして…！」
+PRINTFORMW 「邪魔しないで…！」	PRINTFORMW 「邪魔しないで…！」
+PRINTFORMW 「あっ…ううっ……」	PRINTFORMW 「あっ…ううっ……」
+PRINTFORMW 「や……止めっ……」	PRINTFORMW 「や……止めっ……」
+PRINTFORMW 「あ、危なかった…」	PRINTFORMW 「あ、危なかった…」
+PRINTFORMW 「この程度の攻撃！」	PRINTFORMW 「この程度の攻撃！」
+PRINTFORMW 「何考えてるのよ！」	PRINTFORMW 「何考えてるのよ！」
+PRINTFORMW 「下衆な真似を…！」	PRINTFORMW 「下衆な真似を…！」
+PRINTFORMW （くっ…体が疼く…）	PRINTFORMW （くっ…体が疼く…）
+PRINTFORMW 「私は諦めない…！」	PRINTFORMW 「私は諦めない…！」
+PRINTFORMW 「ちょ、ちょっと！」	PRINTFORMW 「ちょ、ちょっと！」
+PRINTFORMW 「私…どうなるの…」	PRINTFORMW 「私…どうなるの…」
+PRINTFORMW 「ゆ…ゆこ……さ…」	PRINTFORMW 「ゆ…ゆこ……さ…」
+PRINTFORMW 「もう…戦う力が…」	PRINTFORMW 「もう…戦う力が…」
+PRINTFORML 「咲夜…またね……」	PRINTFORML 「咲夜…またね……」
+PRINTFORML 「ありがとう、咲夜」	PRINTFORML 「ありがとう、咲夜」
+PRINTFORML 「よろしくね、霊夢」	PRINTFORML 「よろしくね、霊夢」
+PRINTFORMW 「頼りにしてるわよ」	PRINTFORMW 「頼りにしてるわよ」
+PRINTFORML 「お守りいたします」	PRINTFORML 「お守りいたします」
+PRINTFORMW 「無理はしないでね」	PRINTFORMW 「無理はしないでね」
+PRINTFORMW 「ゆ、幽々子…様…」	PRINTFORMW 「ゆ、幽々子…様…」
+PRINTFORMW 「まっ、待って……」	PRINTFORMW 「まっ、待って……」
+PRINTFORMW 「…紫様、お達者で」	PRINTFORMW 「…紫様、お達者で」
+PRINTFORML 「私の手を握って…」	PRINTFORML 「私の手を握って…」
+PRINTFORML 「危ない、危ない…」	PRINTFORML 「危ない、危ない…」
+PRINTFORML 魂魄妖夢の口上です	PRINTFORML 魂魄妖夢の口上です
+PRINTFORML 文字色は濃いめの緑	PRINTFORML 文字色は濃いめの緑
+PRINTFORMW 「私が斬りこむ！」	PRINTFORMW 「私が斬りこむ！」
+PRINTFORMW 「邪魔しないで…」	PRINTFORMW 「邪魔しないで…」
+PRINTFORMW 「集中、集中…！」	PRINTFORMW 「集中、集中…！」
+PRINTFORML 「これは、どう！」	PRINTFORML 「これは、どう！」
+PRINTFORMW 「ひっかかって！」	PRINTFORMW 「ひっかかって！」
+PRINTFORMW 「この程度で…！」	PRINTFORMW 「この程度で…！」
+PRINTFORMW 「誰か…助け……」	PRINTFORMW 「誰か…助け……」
+PRINTFORMW 「し、しまっ…！」	PRINTFORMW 「し、しまっ…！」
+PRINTFORMW 「油断したっ！？」	PRINTFORMW 「油断したっ！？」
+PRINTFORMW 「でも…んんっ！」	PRINTFORMW 「でも…んんっ！」
+PRINTFORML 「…ごめんなさい」	PRINTFORML 「…ごめんなさい」
+PRINTFORMW 「嘘、でしょ……」	PRINTFORMW 「嘘、でしょ……」
+PRINTFORML 「ゆ、幽々子様！」	PRINTFORML 「ゆ、幽々子様！」
+PRINTFORMW 「…気をつけてね」	PRINTFORMW 「…気をつけてね」
+PRINTFORML 「っ！　あぁっ！」	PRINTFORML 「っ！　あぁっ！」
+PRINTFORMW 「無理しないでね」	PRINTFORMW 「無理しないでね」
+PRINTFORML 「咲夜？　咲夜！」	PRINTFORML 「咲夜？　咲夜！」
+PRINTFORML 「こ、これって…」	PRINTFORML 「こ、これって…」
+PRINTFORMW 「やっ…やめっ！」	PRINTFORMW 「やっ…やめっ！」
+PRINTFORML 「そこは駄目っ！」	PRINTFORML 「そこは駄目っ！」
+PRINTFORML 「うっ、うぅ……」	PRINTFORML 「うっ、うぅ……」
+PRINTFORML 「…信じられない」	PRINTFORML 「…信じられない」
+PRINTFORMW 「これはどう！」	PRINTFORMW 「これはどう！」
+PRINTFORMW 「切捨て、御免」	PRINTFORMW 「切捨て、御免」
+PRINTFORMW 「あ…あぁ……」	PRINTFORMW 「あ…あぁ……」
+PRINTFORML 「あ、魔理沙！」	PRINTFORML 「あ、魔理沙！」
+PRINTFORML 「そうですか…」	PRINTFORML 「そうですか…」
+PRINTFORMW 「あ、ああ……」	PRINTFORMW 「あ、ああ……」
+PRINTFORML 「お、お尻！？」	PRINTFORML 「お、お尻！？」
+PRINTFORMW 「い、いやっ！」	PRINTFORMW 「い、いやっ！」
+PRINTFORML 「な、何っ！？」	PRINTFORML 「な、何っ！？」
+PRINTFORML 「む、胸に！？」	PRINTFORML 「む、胸に！？」
+PRINTFORML 「きゃあぁっ！」	PRINTFORML 「きゃあぁっ！」
+PRINTFORMW 「気持ち悪い…」	PRINTFORMW 「気持ち悪い…」
+PRINTFORMW 「い、痛っ！」	PRINTFORMW 「い、痛っ！」
+PRINTFORMW 「見切った！」	PRINTFORMW 「見切った！」
+PRINTFORMW 「破廉恥な！」	PRINTFORMW 「破廉恥な！」
+PRINTFORMW 「きゃっ！？」	PRINTFORMW 「きゃっ！？」
+PRINTFORMW 「ひ、酷い…」	PRINTFORMW 「ひ、酷い…」
+PRINTFORML 「さ、咲夜！」	PRINTFORML 「さ、咲夜！」
+PRINTFORML 「ゆ、紫様！」	PRINTFORML 「ゆ、紫様！」
+PRINTFORML 「あ、霊夢！」	PRINTFORML 「あ、霊夢！」
+PRINTFORMW 「んんっ……」	PRINTFORMW 「んんっ……」
+PRINTFORML 「うぅっ！？」	PRINTFORML 「うぅっ！？」
+PRINTFORML 「う、嘘……」	PRINTFORML 「う、嘘……」
+PRINTFORMW 「う、嘘……」	PRINTFORMW 「う、嘘……」
+PRINTFORMW 「さ、咲夜…」	PRINTFORMW 「さ、咲夜…」
+PRINTFORMW 「ゆ、紫様…」	PRINTFORMW 「ゆ、紫様…」
+PRINTFORML 「っっっ！？」	PRINTFORML 「っっっ！？」
+PRINTFORMW 「んんんっ！」	PRINTFORMW 「んんんっ！」
+PRINTFORML 「あ…あぁ…」	PRINTFORML 「あ…あぁ…」
+PRINTFORML 作：だおもん	PRINTFORML 作：だおもん
+PRINTFORMW はにゃーん？	PRINTFORMW はにゃーん？
+PRINTFORML 「燐気斬！」	PRINTFORML 「燐気斬！」
+PRINTFORML 「心抄斬！」	PRINTFORML 「心抄斬！」
+PRINTFORML 「…斬る！」	PRINTFORML 「…斬る！」
+PRINTFORMW 「だから…」	PRINTFORMW 「だから…」
+PRINTFORML 「何者！？」	PRINTFORML 「何者！？」
+PRINTFORML 「なっ！？」	PRINTFORML 「なっ！？」
+PRINTFORML 「うぐっ！」	PRINTFORML 「うぐっ！」
+PRINTFORML 「敵！？」	PRINTFORML 「敵！？」
+PRINTFORML 「そう…」	PRINTFORML 「そう…」
+PRINTFORML 「あ……」	PRINTFORML 「あ……」
+PRINTFORML 「痛……」	PRINTFORML 「痛……」
+PRINTFORML 「……」	PRINTFORML 「……」
+PRINTFORMW 「次！」	PRINTFORMW 「次！」
+PRINTFORMW 「……」	PRINTFORMW 「……」
+PRINTFORML 「あっ」	PRINTFORML 「あっ」
+PRINTFORML 「痛っ」	PRINTFORML 「痛っ」
+PRINTFORML 「え？」	PRINTFORML 「え？」
+PRINTFORML 	PRINTFORML 
+PRINTFORMW 	PRINTFORMW 

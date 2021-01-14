@@ -1,0 +1,78 @@
+﻿//口上:
+
+﻿PRINTFORML 蓬莱口上は練習用の超単純口上なので、口上手始めのコピペにでも使ってやってくださいな。	PRINTFORML 蓬莱口上は練習用の超単純口上なので、口上手始めのコピペにでも使ってやってくださいな。	
+PRINTFORML サンプル上海と共にアリスの仲間にしてあげると（気分的に）きっと喜びます。	PRINTFORML サンプル上海と共にアリスの仲間にしてあげると（気分的に）きっと喜びます。	
+PRINTFORML ｵﾚﾉﾌｸｳﾞｧﾓｳ　ﾎﾞﾛﾎﾞﾛﾀﾞｰ	PRINTFORML ｵﾚﾉﾌｸｳﾞｧﾓｳ　ﾎﾞﾛﾎﾞﾛﾀﾞｰ	
+PRINTFORML ﾏｯｽｸﾞｳｯﾃ　ﾌﾞｯﾄﾊﾞｽｰ	PRINTFORML ﾏｯｽｸﾞｳｯﾃ　ﾌﾞｯﾄﾊﾞｽｰ	
+PRINTFORML ｵﾌﾞﾂﾊ　ｼｮｳﾄﾞｸﾀﾞｰ!	PRINTFORML ｵﾌﾞﾂﾊ　ｼｮｳﾄﾞｸﾀﾞｰ!	
+PRINTFORML ｼﾞｮｳｶｼﾃ　ｱｹﾞﾙﾜｰ	PRINTFORML ｼﾞｮｳｶｼﾃ　ｱｹﾞﾙﾜｰ	
+PRINTFORML ﾆﾝｷﾞｮｳ　ｷﾞｬｸﾀｲ	PRINTFORML ﾆﾝｷﾞｮｳ　ｷﾞｬｸﾀｲ	
+PRINTFORML ｺﾜﾚ…ﾁｬｯﾀ……ﾖ…	PRINTFORML ｺﾜﾚ…ﾁｬｯﾀ……ﾖ…
+PRINTFORML ﾍﾝﾅﾉ　ｲﾚﾗﾚﾀｰ	PRINTFORML ﾍﾝﾅﾉ　ｲﾚﾗﾚﾀｰ	
+PRINTFORML ﾓｳ　ﾃﾞｿｳﾀﾞﾖｰ	PRINTFORML ﾓｳ　ﾃﾞｿｳﾀﾞﾖｰ	
+PRINTFORML ｵｯﾊﾟｲ　ﾃﾞﾀﾖｰ	PRINTFORML ｵｯﾊﾟｲ　ﾃﾞﾀﾖｰ	
+PRINTFORML ｵｿｳｼﾞ　ｶﾝﾘｮｳ	PRINTFORML ｵｿｳｼﾞ　ｶﾝﾘｮｳ	
+PRINTFORML ｼﾝﾁｮｳﾆ　ｲｸﾖｰ	PRINTFORML ｼﾝﾁｮｳﾆ　ｲｸﾖｰ	
+PRINTFORML ｱﾝｾﾞﾝ　ﾀﾞｲｲﾁ	PRINTFORML ｱﾝｾﾞﾝ　ﾀﾞｲｲﾁ	
+PRINTFORML ｺﾚﾃﾞﾄﾞｳﾀﾞｰ	PRINTFORML ｺﾚﾃﾞﾄﾞｳﾀﾞｰ	
+PRINTFORML ｲﾔｰ　ｹﾀﾞﾓﾉｰ	PRINTFORML ｲﾔｰ　ｹﾀﾞﾓﾉｰ	
+PRINTFORML ﾑｽﾞﾑｽﾞｽﾙﾖｰ	PRINTFORML ﾑｽﾞﾑｽﾞｽﾙﾖｰ	
+PRINTFORML ｵﾅｶ　ﾍﾝﾀﾞﾖｰ	PRINTFORML ｵﾅｶ　ﾍﾝﾀﾞﾖｰ	
+PRINTFORML ｺﾜﾚﾁｬｳﾖｰｰ	PRINTFORML ｺﾜﾚﾁｬｳﾖｰｰ	
+PRINTFORML ﾄﾞｺｦﾐﾃｲﾙｰ	PRINTFORML ﾄﾞｺｦﾐﾃｲﾙｰ	
+PRINTFORML ﾋﾞﾘﾋﾞﾘﾀﾞｰ	PRINTFORML ﾋﾞﾘﾋﾞﾘﾀﾞｰ	
+PRINTFORML ﾅﾝｶﾀﾞｻﾚﾀｰ	PRINTFORML ﾅﾝｶﾀﾞｻﾚﾀｰ	
+PRINTFORML ﾅﾝｶｸﾙｼｲﾖｰ	PRINTFORML ﾅﾝｶｸﾙｼｲﾖｰ	
+PRINTFORML ﾅﾝｶﾔﾊﾞｲﾖｰ	PRINTFORML ﾅﾝｶﾔﾊﾞｲﾖｰ	
+PRINTFORML ﾅﾝｶﾍﾝﾀﾞﾖｰ	PRINTFORML ﾅﾝｶﾍﾝﾀﾞﾖｰ	
+PRINTFORML ｵﾅｶ　ｵﾓｲﾖｰ	PRINTFORML ｵﾅｶ　ｵﾓｲﾖｰ	
+PRINTFORML ｵﾅｶ　ｲﾀｲﾖｰ	PRINTFORML ｵﾅｶ　ｲﾀｲﾖｰ	
+PRINTFORML ﾅﾝｶﾃﾞﾃｸﾙｰ	PRINTFORML ﾅﾝｶﾃﾞﾃｸﾙｰ	
+PRINTFORML ｳﾏﾚｿｳﾀﾞﾖｰ	PRINTFORML ｳﾏﾚｿｳﾀﾞﾖｰ	
+PRINTFORML ﾅﾆｶﾞｱﾙｶﾅｰ	PRINTFORML ﾅﾆｶﾞｱﾙｶﾅｰ	
+PRINTFORML ｿｺﾊ　ﾀﾞﾒｰ!	PRINTFORML ｿｺﾊ　ﾀﾞﾒｰ!	
+PRINTFORML ｱﾌﾞﾅｶｯﾀﾖ-	PRINTFORML ｱﾌﾞﾅｶｯﾀﾖ-	
+PRINTFORML ｸﾗｲﾔｶﾞﾚｰ	PRINTFORML ｸﾗｲﾔｶﾞﾚｰ	
+PRINTFORML ｱﾝｱﾝ　ｱｱﾝ	PRINTFORML ｱﾝｱﾝ　ｱｱﾝ	
+PRINTFORML ﾍﾝﾀｲﾀﾞｰ!	PRINTFORML ﾍﾝﾀｲﾀﾞｰ!	
+PRINTFORML ｳｺﾞｹﾅｲﾖｰ	PRINTFORML ｳｺﾞｹﾅｲﾖｰ	
+PRINTFORML ﾊﾀﾞｶﾀﾞﾖｰ	PRINTFORML ﾊﾀﾞｶﾀﾞﾖｰ	
+PRINTFORML ｵﾎﾞｴﾃﾛﾖ-	PRINTFORML ｵﾎﾞｴﾃﾛﾖ-	
+PRINTFORML ﾆﾄﾞﾄｸﾝﾅｰ	PRINTFORML ﾆﾄﾞﾄｸﾝﾅｰ	
+PRINTFORML ｱｯｹﾈｴｾﾞｰ	PRINTFORML ｱｯｹﾈｴｾﾞｰ	
+PRINTFORML ﾏｲｽﾀｰ!!!	PRINTFORML ﾏｲｽﾀｰ!!!	
+PRINTFORML ｼｬﾝﾊｰｲ!!	PRINTFORML ｼｬﾝﾊｰｲ!!	
+PRINTFORML ｷﾓﾁﾜﾙｲﾖｰ	PRINTFORML ｷﾓﾁﾜﾙｲﾖｰ	
+PRINTFORML ﾃﾞｷﾁｬｯﾀｰ	PRINTFORML ﾃﾞｷﾁｬｯﾀｰ	
+PRINTFORML ｲｯﾁｬｯﾀﾖｰ	PRINTFORML ｲｯﾁｬｯﾀﾖｰ	
+PRINTFORML ｱｶﾁｬﾝﾀﾞｰ	PRINTFORML ｱｶﾁｬﾝﾀﾞｰ	
+PRINTFORML ﾄﾂｹﾞｷﾀﾞｰ	PRINTFORML ﾄﾂｹﾞｷﾀﾞｰ	
+PRINTFORML ｻﾜﾝﾅﾖｰｰ	PRINTFORML ｻﾜﾝﾅﾖｰｰ	
+PRINTFORML ﾔｰﾗﾚｰﾀｰ	PRINTFORML ﾔｰﾗﾚｰﾀｰ	
+PRINTFORML ｺｯﾁｸﾝﾅｰ	PRINTFORML ｺｯﾁｸﾝﾅｰ	
+PRINTFORML ﾔﾌﾞｸﾅﾖｰ	PRINTFORML ﾔﾌﾞｸﾅﾖｰ	
+PRINTFORML ｽｹﾍﾞﾔﾛｰ	PRINTFORML ｽｹﾍﾞﾔﾛｰ	
+PRINTFORML ﾃｯﾀｲﾀﾞｰ	PRINTFORML ﾃｯﾀｲﾀﾞｰ	
+PRINTFORML ｻﾗﾊﾞﾀﾞｰ	PRINTFORML ｻﾗﾊﾞﾀﾞｰ	
+PRINTFORML ﾐｶﾀｶﾅｰ?	PRINTFORML ﾐｶﾀｶﾅｰ?	
+PRINTFORML ﾅﾝﾀﾞｺﾚｰ	PRINTFORML ﾅﾝﾀﾞｺﾚｰ	
+PRINTFORML ｲｲﾓﾉｶｰ?	PRINTFORML ｲｲﾓﾉｶｰ?	
+PRINTFORML ｻｰﾁﾓｰﾄﾞ	PRINTFORML ｻｰﾁﾓｰﾄﾞ	
+PRINTFORML ｸﾗｳｶﾖｰ	PRINTFORML ｸﾗｳｶﾖｰ	
+PRINTFORML ﾓｳﾀﾞﾒ…	PRINTFORML ﾓｳﾀﾞﾒ…	
+PRINTFORML ｺﾝﾆﾁﾊｰ	PRINTFORML ｺﾝﾆﾁﾊｰ	
+PRINTFORML ｽﾜﾚﾙﾖｰ	PRINTFORML ｽﾜﾚﾙﾖｰ	
+PRINTFORML ﾋｬｯﾊｰ!	PRINTFORML ﾋｬｯﾊｰ!	
+PRINTFORML ﾎﾗｰｲ!	PRINTFORML ﾎﾗｰｲ!	
+PRINTFORML ﾐﾂｹﾀｰ	PRINTFORML ﾐﾂｹﾀｰ	
+PRINTFORML ﾅｵｯﾀｰ	PRINTFORML ﾅｵｯﾀｰ	
+PRINTFORML ﾉﾘｺﾒｰ	PRINTFORML ﾉﾘｺﾒｰ	
+PRINTFORML ｻｶﾞｾｰ	PRINTFORML ｻｶﾞｾｰ	
+PRINTFORML ﾀﾝｻｸｰ	PRINTFORML ﾀﾝｻｸｰ	
+PRINTFORML ﾔｯﾀｰ	PRINTFORML ﾔｯﾀｰ	
+PRINTFORML ﾎﾗｰｲ	PRINTFORML ﾎﾗｰｲ	
+PRINTFORML ﾊｹｰﾝ	PRINTFORML ﾊｹｰﾝ	
+PRINTFORML ﾏｯﾃｰ	PRINTFORML ﾏｯﾃｰ	
+PRINTFORML ｳﾜｰ	PRINTFORML ｳﾜｰ	
+PRINTFORML ｴ……	PRINTFORML ｴ……	
+PRINTFORML 	PRINTFORML 	
