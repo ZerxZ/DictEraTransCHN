@@ -13,4 +13,3 @@ https://docs.qq.com/sheet/DUkplb0F6U1V6dGVK)
 
 欢迎汉化者和吃瓜群众进入QQ群:979957521
 
-![qrcode_1610662934042.jpg](https://i.loli.net/2021/01/15/RsyDxHJfhb48kY2.jpg)
