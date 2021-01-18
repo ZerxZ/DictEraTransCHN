@@ -1,95 +1,93 @@
-﻿//口上:
-
-PRINTFORMW 「しかも、狼になってるのに力が出ないとか…ただ毛深くなっただけじゃないの！ｱｵｰﾝ!(泣)」	PRINTFORMW 「しかも、狼になってるのに力が出ないとか…ただ毛深くなっただけじゃないの！ｱｵｰﾝ!(泣)」	
-PRINTFORMW 「くぅぅ…、こうなったらこの洞窟の主に会って、元の姿に戻してもらうんだから！」	PRINTFORMW 「くぅぅ…、こうなったらこの洞窟の主に会って、元の姿に戻してもらうんだから！」
-PRINTFORMW 「って、狼になってる！ナンデ！？今日は満月の日じゃないのに！？」	PRINTFORMW 「って、狼になってる！ナンデ！？今日は満月の日じゃないのに！？」	
-PRINTFORMW 「どこなのよ、ここは…なんで私こんな所にいるのよ…」	PRINTFORMW 「どこなのよ、ここは…なんで私こんな所にいるのよ…」	
-PRINTFORML といってもまだ台詞はほとんど無いけどね	PRINTFORML といってもまだ台詞はほとんど無いけどね	
-PRINTFORML 「こいつが、この迷宮の主ってわけね…」	PRINTFORML 「こいつが、この迷宮の主ってわけね…」	
-DATAFORM 「なんでアナタにあげないといけないのよ！」	DATAFORM 「なんでアナタにあげないといけないのよ！」	
-PRINTFORML 「さぁ、元の私を返してもらうわよ！」	PRINTFORML 「さぁ、元の私を返してもらうわよ！」	
-PRINTFORML 「ちょっと強そうなのが出たわね…」	PRINTFORML 「ちょっと強そうなのが出たわね…」	
-DATAFORM 「う～ん、悪いけどこっちも厳しいのよ」	DATAFORM 「う～ん、悪いけどこっちも厳しいのよ」	
-DATAFORM 「これをあげるから私に構わないでね？」	DATAFORM 「これをあげるから私に構わないでね？」	
-DATAFORM 「今は余裕が無いの、ごめんなさいね」	DATAFORM 「今は余裕が無いの、ごめんなさいね」	
-DATAFORM 「な！？どこ触ってんのよ変態！」	DATAFORM 「な！？どこ触ってんのよ変態！」	
-DATAFORM 「ッッ！…後でひどいわよ…？」	DATAFORM 「ッッ！…後でひどいわよ…？」	
-DATAFORM 「今は余裕が無いの、ごめんね」	DATAFORM 「今は余裕が無いの、ごめんね」	
-DATAFORM 「悪いけどこっちも厳しいのよ」	DATAFORM 「悪いけどこっちも厳しいのよ」	
-DATAFORM 「避けれなくしてあげるわ！」	DATAFORM 「避けれなくしてあげるわ！」	
-DATAFORM （節約した方がいいわよね…）	DATAFORM （節約した方がいいわよね…）	
-DATAFORM （ここはチャンスに備えて…）	DATAFORM （ここはチャンスに備えて…）	
-DATAFORM 「痛ッ、いいかげんにして！」	DATAFORM 「痛ッ、いいかげんにして！」	
-DATAFORM 「つ、摘まんじゃ…いやッ…」	DATAFORM 「つ、摘まんじゃ…いやッ…」	
-DATAFORM 「なんとか振り切ったわね…」	DATAFORM 「なんとか振り切ったわね…」	
-DATAFORM 「み、見逃してあげるわ！」	DATAFORM 「み、見逃してあげるわ！」	
-DATAFORM 「本気を見せてあげるわ…」	DATAFORM 「本気を見せてあげるわ…」	
-DATAFORM 「そんなとこ触んないで！」	DATAFORM 「そんなとこ触んないで！」	
-DATAFORM 「ふふ…誰が来るかしら？」	DATAFORM 「ふふ…誰が来るかしら？」	
-PRINTFORML 怖いわー触手怖いわー	PRINTFORML 怖いわー触手怖いわー	
-DATAFORM 「どんどんいくわよー！」	DATAFORM 「どんどんいくわよー！」	
-DATAFORM (早く抜け出さないと…)	DATAFORM (早く抜け出さないと…)	
-DATAFORM 「なんとか出れたわね…」	DATAFORM 「なんとか出れたわね…」	
-DATAFORM 「痛い！…や、やめて！」	DATAFORM 「痛い！…や、やめて！」	
-DATAFORM 「む、胸は！…やめッ…」	DATAFORM 「む、胸は！…やめッ…」	
-DATAFORM 「やめて！動かないで！」	DATAFORM 「やめて！動かないで！」	
-DATAFORM 「ここは守るべきね…」	DATAFORM 「ここは守るべきね…」	
-DATAFORM 「今は耐えましょう…」	DATAFORM 「今は耐えましょう…」	
-DATAFORM 「これはどうかしら？」	DATAFORM 「これはどうかしら？」	
-DATAFORM 「一列に並びなさい！」	DATAFORM 「一列に並びなさい！」	
-DATAFORM 「遅くしてあげるわ！」	DATAFORM 「遅くしてあげるわ！」	
-DATAFORM 「いつでも来なさい…」	DATAFORM 「いつでも来なさい…」	
-DATAFORM 「かかって来なさい…」	DATAFORM 「かかって来なさい…」	
-DATAFORM 「体中がべとべとよ…」	DATAFORM 「体中がべとべとよ…」	
-DATAFORM （か、体がかってに…）	DATAFORM （か、体がかってに…）	
-DATAFORM 「よくもやったわね…」	DATAFORM 「よくもやったわね…」	
-DATAFORM 「うぐッ、や、やめ…」	DATAFORM 「うぐッ、や、やめ…」	
-DATAFORM 「…やってくれたわね」	DATAFORM 「…やってくれたわね」	
-DATAFORM 「慎重に行きましょ…」	DATAFORM 「慎重に行きましょ…」	
-PRINTFORML 「ひっ！やめて！」	PRINTFORML 「ひっ！やめて！」	
-﻿PRINTFORML 今泉影狼口上です	PRINTFORML 今泉影狼口上です	
-DATAFORM (こ、こうすれば…)	DATAFORM (こ、こうすれば…)	
-DATAFORM （今に見てなさい…）	DATAFORM （今に見てなさい…）	
-DATAFORM （わ、私…何して…）	DATAFORM （わ、私…何して…）	
-DATAFORM 「そこッ…ダメッ…」	DATAFORM 「そこッ…ダメッ…」	
-DATAFORM 「や、やめ…ひぅ！」	DATAFORM 「や、やめ…ひぅ！」	
-DATAFORM 「触…らないで…！」	DATAFORM 「触…らないで…！」	
-DATAFORM 「は、放しなさい！」	DATAFORM 「は、放しなさい！」	
-DATAFORM 「…というわけなの」	DATAFORM 「…というわけなの」	
-DATAFORM 「もー仕方ないわね」	DATAFORM 「もー仕方ないわね」	
-PRINTFORML 「うぅ、痛い…」	PRINTFORML 「うぅ、痛い…」	
-DATAFORM 「た、退却よー！」	DATAFORM 「た、退却よー！」	
-DATAFORM 「外野が邪魔ね…」	DATAFORM 「外野が邪魔ね…」	
-DATAFORM 「喰らいなさい！」	DATAFORM 「喰らいなさい！」	
-DATAFORM 「まとめて倒す！」	DATAFORM 「まとめて倒す！」	
-DATAFORM 「これで十分よ！」	DATAFORM 「これで十分よ！」	
-DATAFORM 「みだれ撃ちー！」	DATAFORM 「みだれ撃ちー！」	
-DATAFORM 「狙うはそこよ！」	DATAFORM 「狙うはそこよ！」	
-DATAFORM 「ひるみなさい！」	DATAFORM 「ひるみなさい！」	
-DATAFORM 「待ってました！」	DATAFORM 「待ってました！」	
-DATAFORM 「関節が痛むわー」	DATAFORM 「関節が痛むわー」	
-DATAFORM 「痛ッ、よくも…」	DATAFORM 「痛ッ、よくも…」	
-DATAFORM 「やめて！変態！」	DATAFORM 「やめて！変態！」	
-DATAFORM 「消えなさい！」	DATAFORM 「消えなさい！」	
-DATAFORM 「苦しかった…」	DATAFORM 「苦しかった…」	
-DATAFORM （もう…むり…）	DATAFORM （もう…むり…）	
-DATAFORM 「覚悟なさい！」	DATAFORM 「覚悟なさい！」	
-DATAFORM 「スキあり！」	DATAFORM 「スキあり！」	
-DATAFORM 「さよならね」	DATAFORM 「さよならね」	
-DATAFORM 「そこよ！」	DATAFORM 「そこよ！」	
-DATAFORM 「てやッ！」	DATAFORM 「てやッ！」	
-DATAFORM 「痛い！…」	DATAFORM 「痛い！…」	
-DATAFORM 「うぐッ…」	DATAFORM 「うぐッ…」	
-DATAFORM 「放して！」	DATAFORM 「放して！」	
-DATAFORM 「遅いわ！」	DATAFORM 「遅いわ！」	
-DATAFORM 「新手ね…」	DATAFORM 「新手ね…」	
-DATAFORM 「突撃ー！」	DATAFORM 「突撃ー！」	
-DATAFORM （うぅ…）	DATAFORM （うぅ…）	
-DATAFORM （くっ…）	DATAFORM （くっ…）	
-DATAFORM 「うぅ…」	DATAFORM 「うぅ…」	
-DATAFORM 「くっ…」	DATAFORM 「くっ…」	
-DATAFORM 「痛ッ！」	DATAFORM 「痛ッ！」	
-PRINTFORML 	PRINTFORML 	
-PRINTDATAL	PRINTDATAL	
-PRINTDATAW	PRINTDATAW	
-DATAFORM 	DATAFORM 	
+﻿﻿PRINTFORML 今泉影狼口上です		PRINTFORML 今泉影狼口上	!#!
+PRINTFORML といってもまだ台詞はほとんど無いけどね		PRINTFORML 虽然这么说，但是台词几乎没有	!#!
+PRINTFORML 		PRINTFORML 	!#!
+PRINTFORML 怖いわー触手怖いわー		PRINTFORML 好恐怖啊，触手好恐怖啊	!#!
+PRINTDATAL		PRINTDATAL	!#!
+DATAFORM 「ここは守るべきね…」		DATAFORM 「ここは守るべきね…」	!#!
+DATAFORM 「今は耐えましょう…」		DATAFORM 「今は耐えましょう…」	!#!
+DATAFORM 「み、見逃してあげるわ！」		DATAFORM 「み、見逃してあげるわ！」	!#!
+DATAFORM 「た、退却よー！」		DATAFORM 「た、退却よー！」	!#!
+DATAFORM 「外野が邪魔ね…」		DATAFORM 「外野が邪魔ね…」	!#!
+DATAFORM 「消えなさい！」		DATAFORM 「消えなさい！」	!#!
+DATAFORM 「喰らいなさい！」		DATAFORM 「喰らいなさい！」	!#!
+DATAFORM 「そこよ！」		DATAFORM 「そこよ！」	!#!
+DATAFORM 「本気を見せてあげるわ…」		DATAFORM 「本気を見せてあげるわ…」	!#!
+DATAFORM 「てやッ！」		DATAFORM 「てやッ！」	!#!
+DATAFORM 「避けれなくしてあげるわ！」		DATAFORM 「避けれなくしてあげるわ！」	!#!
+DATAFORM 「これはどうかしら？」		DATAFORM 「これはどうかしら？」	!#!
+DATAFORM 「一列に並びなさい！」		DATAFORM 「一列に並びなさい！」	!#!
+DATAFORM 「まとめて倒す！」		DATAFORM 「まとめて倒す！」	!#!
+DATAFORM 「これで十分よ！」		DATAFORM 「これで十分よ！」	!#!
+DATAFORM （節約した方がいいわよね…）		DATAFORM （節約した方がいいわよね…）	!#!
+DATAFORM 「どんどんいくわよー！」		DATAFORM 「どんどんいくわよー！」	!#!
+DATAFORM 「みだれ撃ちー！」		DATAFORM 「みだれ撃ちー！」	!#!
+DATAFORM 「狙うはそこよ！」		DATAFORM 「狙うはそこよ！」	!#!
+DATAFORM 「遅くしてあげるわ！」		DATAFORM 「遅くしてあげるわ！」	!#!
+DATAFORM 「ひるみなさい！」		DATAFORM 「ひるみなさい！」	!#!
+DATAFORM 「いつでも来なさい…」		DATAFORM 「いつでも来なさい…」	!#!
+DATAFORM 「かかって来なさい…」		DATAFORM 「かかって来なさい…」	!#!
+DATAFORM 「スキあり！」		DATAFORM 「スキあり！」	!#!
+DATAFORM 「待ってました！」		DATAFORM 「待ってました！」	!#!
+DATAFORM (早く抜け出さないと…)		DATAFORM (早く抜け出さないと…)	!#!
+DATAFORM (こ、こうすれば…)		DATAFORM (こ、こうすれば…)	!#!
+DATAFORM 「なんとか出れたわね…」		DATAFORM 「なんとか出れたわね…」	!#!
+DATAFORM 「体中がべとべとよ…」		DATAFORM 「体中がべとべとよ…」	!#!
+DATAFORM 「関節が痛むわー」		DATAFORM 「関節が痛むわー」	!#!
+DATAFORM 「苦しかった…」		DATAFORM 「苦しかった…」	!#!
+DATAFORM （ここはチャンスに備えて…）		DATAFORM （ここはチャンスに備えて…）	!#!
+DATAFORM （今に見てなさい…）		DATAFORM （今に見てなさい…）	!#!
+DATAFORM （うぅ…）		DATAFORM （うぅ…）	!#!
+DATAFORM （くっ…）		DATAFORM （くっ…）	!#!
+DATAFORM （もう…むり…）		DATAFORM （もう…むり…）	!#!
+DATAFORM 「うぅ…」		DATAFORM 「うぅ…」	!#!
+DATAFORM （か、体がかってに…）		DATAFORM （か、体がかってに…）	!#!
+DATAFORM （わ、私…何して…）		DATAFORM （わ、私…何して…）	!#!
+DATAFORM 「くっ…」		DATAFORM 「くっ…」	!#!
+DATAFORM 「痛い！…」		DATAFORM 「痛い！…」	!#!
+DATAFORM 「痛ッ！」		DATAFORM 「痛ッ！」	!#!
+DATAFORM 「痛ッ、よくも…」		DATAFORM 「痛ッ、よくも…」	!#!
+DATAFORM 「よくもやったわね…」		DATAFORM 「よくもやったわね…」	!#!
+DATAFORM 「うぐッ…」		DATAFORM 「うぐッ…」	!#!
+DATAFORM 「うぐッ、や、やめ…」		DATAFORM 「うぐッ、や、やめ…」	!#!
+DATAFORM 「痛い！…や、やめて！」		DATAFORM 「痛い！…や、やめて！」	!#!
+DATAFORM 「痛ッ、いいかげんにして！」		DATAFORM 「痛ッ、いいかげんにして！」	!#!
+DATAFORM 「…やってくれたわね」		DATAFORM 「…やってくれたわね」	!#!
+DATAFORM 「な！？どこ触ってんのよ変態！」		DATAFORM 「な！？どこ触ってんのよ変態！」	!#!
+DATAFORM 「やめて！変態！」		DATAFORM 「やめて！変態！」	!#!
+DATAFORM 「そんなとこ触んないで！」		DATAFORM 「そんなとこ触んないで！」	!#!
+DATAFORM 「む、胸は！…やめッ…」		DATAFORM 「む、胸は！…やめッ…」	!#!
+DATAFORM 「つ、摘まんじゃ…いやッ…」		DATAFORM 「つ、摘まんじゃ…いやッ…」	!#!
+DATAFORM 「やめて！動かないで！」		DATAFORM 「やめて！動かないで！」	!#!
+DATAFORM 「ッッ！…後でひどいわよ…？」		DATAFORM 「ッッ！…後でひどいわよ…？」	!#!
+DATAFORM 「そこッ…ダメッ…」		DATAFORM 「そこッ…ダメッ…」	!#!
+DATAFORM 「や、やめ…ひぅ！」		DATAFORM 「や、やめ…ひぅ！」	!#!
+DATAFORM 「触…らないで…！」		DATAFORM 「触…らないで…！」	!#!
+DATAFORM 「は、放しなさい！」		DATAFORM 「は、放しなさい！」	!#!
+DATAFORM 「放して！」		DATAFORM 「放して！」	!#!
+DATAFORM 「遅いわ！」		DATAFORM 「遅いわ！」	!#!
+DATAFORM 「覚悟なさい！」		DATAFORM 「覚悟なさい！」	!#!
+DATAFORM 「なんとか振り切ったわね…」		DATAFORM 「なんとか振り切ったわね…」	!#!
+PRINTFORML 「こいつが、この迷宮の主ってわけね…」		PRINTFORML「这家伙，就是这个迷宫的主人吧……」	!#!
+PRINTFORML 「さぁ、元の私を返してもらうわよ！」		PRINTFORML「那么，就把原来的我还给我吧！」	!#!
+PRINTFORML 「ちょっと強そうなのが出たわね…」		PRINTFORML「出现了稍微强一点的呢……」	!#!
+DATAFORM 「新手ね…」		DATAFORM 「新手ね…」	!#!
+DATAFORM 「…というわけなの」		DATAFORM 「…というわけなの」	!#!
+DATAFORM 「今は余裕が無いの、ごめんね」		DATAFORM 「今は余裕が無いの、ごめんね」	!#!
+DATAFORM 「なんでアナタにあげないといけないのよ！」		DATAFORM 「なんでアナタにあげないといけないのよ！」	!#!
+DATAFORM 「う～ん、悪いけどこっちも厳しいのよ」		DATAFORM 「う～ん、悪いけどこっちも厳しいのよ」	!#!
+DATAFORM 「悪いけどこっちも厳しいのよ」		DATAFORM 「悪いけどこっちも厳しいのよ」	!#!
+DATAFORM 「今は余裕が無いの、ごめんなさいね」		DATAFORM 「今は余裕が無いの、ごめんなさいね」	!#!
+DATAFORM 		DATAFORM 	!#!
+DATAFORM 「これをあげるから私に構わないでね？」		DATAFORM 「これをあげるから私に構わないでね？」	!#!
+DATAFORM 「もー仕方ないわね」		DATAFORM 「もー仕方ないわね」	!#!
+PRINTDATAW		PRINTDATAW	!#!
+DATAFORM 「さよならね」		DATAFORM 「さよならね」	!#!
+DATAFORM 「突撃ー！」		DATAFORM 「突撃ー！」	!#!
+DATAFORM 「慎重に行きましょ…」		DATAFORM 「慎重に行きましょ…」	!#!
+DATAFORM 「ふふ…誰が来るかしら？」		DATAFORM 「ふふ…誰が来るかしら？」	!#!
+PRINTFORML 「うぅ、痛い…」		PRINTFORML 「呜，好痛…」	!#!
+PRINTFORML 「ひっ！やめて！」		PRINTFORML「嘿！住手！」	!#!
+PRINTFORMW 「どこなのよ、ここは…なんで私こんな所にいるのよ…」		PRINTFORMW「这是哪里啊，这里是……我怎么会在这样的地方呢…」	!#!
+PRINTFORMW 「って、狼になってる！ナンデ！？今日は満月の日じゃないのに！？」		PRINTFORMW 「啊，变成狼了！什么！？今天明明不是满月之日！？」	!#!
+PRINTFORMW 「しかも、狼になってるのに力が出ないとか…ただ毛深くなっただけじゃないの！ｱｵｰﾝ!(泣)」		PRINTFORMW 「しかも、狼になってるのに力が出ないとか…ただ毛深くなっただけじゃないの！ｱｵｰﾝ!(泣)」	!#!
+PRINTFORMW 「くぅぅ…、こうなったらこの洞窟の主に会って、元の姿に戻してもらうんだから！」		PRINTFORMW 「呜呜…这样的话我就去见这个洞窟的主人，让他们恢复原来的样子！」

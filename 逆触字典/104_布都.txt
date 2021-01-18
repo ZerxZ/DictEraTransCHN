@@ -1,403 +1,401 @@
-﻿//口上:
-
-PRINTFORMDW 布都は死に物狂いで暴れたが、抵抗虚しく触手の汚らわしい白濁液が布都の胎内に満たされた…	PRINTFORMDW 布都は死に物狂いで暴れたが、抵抗虚しく触手の汚らわしい白濁液が布都の胎内に満たされた…
-PRINTFORML 「ひいぃ……、もう…われが、わるかった……。あやまる……あやま、う、ああぁぁ……」	PRINTFORML 「ひいぃ……、もう…われが、わるかった……。あやまる……あやま、う、ああぁぁ……」
-PRINTFORMDW 布都は股間に両手を重ね、濡れぼそったヴァギナを弄りながら蕩けた表情をしている…。	PRINTFORMDW 布都は股間に両手を重ね、濡れぼそったヴァギナを弄りながら蕩けた表情をしている…。
-PRINTFORMW 「お主も我の"どやがお"とやらが見たいのであろう？　そうだろうそうに決まっておる」	PRINTFORMW 「お主も我の"どやがお"とやらが見たいのであろう？　そうだろうそうに決まっておる」
-PRINTFORMDW もはや布都の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…	PRINTFORMDW もはや布都の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…
-PRINTFORML 「わ、我の本体は皿であってこのような形はあくまで写し身であってだな……」	PRINTFORML 「わ、我の本体は皿であってこのような形はあくまで写し身であってだな……」
-PRINTFORML 「き、貴様に猶予をやろう！！　わ、我を解放するなら今の、ひきゅうっ！！	PRINTFORML 「き、貴様に猶予をやろう！！　わ、我を解放するなら今の、ひきゅうっ！！
-PRINTFORMDW 布都はだらしなく舌を突き出して自らが生んだ快感に酔い痴れている…	PRINTFORMDW 布都はだらしなく舌を突き出して自らが生んだ快感に酔い痴れている…
-PRINTFORMDL 怪しい花粉を吸い込んだ布都はその場で座り込んで寝息を立て始めた。	PRINTFORMDL 怪しい花粉を吸い込んだ布都はその場で座り込んで寝息を立て始めた。
-PRINTFORML 「この程度で、心が乱されるとは仙人失格……だぁ…あんな、こと……」	PRINTFORML 「この程度で、心が乱されるとは仙人失格……だぁ…あんな、こと……」
-PRINTFORML 「ひぃっ！　はあぁっ！！　来てるっ！！　きておる、かあっ！！！」	PRINTFORML 「ひぃっ！　はあぁっ！！　来てるっ！！　きておる、かあっ！！！」
-PRINTFORML 「や、めぇ、よおおおおおおおぉぉぉっっ！！　う、はあぁぁっ！！」	PRINTFORML 「や、めぇ、よおおおおおおおぉぉぉっっ！！　う、はあぁぁっ！！」
-PRINTFORML 「あがはああああぁぁぁっ！！！　おご、があああぁぁぁっ！！！！」	PRINTFORML 「あがはああああぁぁぁっ！！！　おご、があああぁぁぁっ！！！！」
-PRINTFORML 「ひっ！！　やめろ、やめてくれえええええええぇぇぇぇっっ!?!」	PRINTFORML 「ひっ！！　やめろ、やめてくれえええええええぇぇぇぇっっ!?!」
-PRINTFORML 「ぐうッ！　き、貴様ぁ…原型を留めていら、あッ！　ひゃうっ！！」	PRINTFORML 「ぐうッ！　き、貴様ぁ…原型を留めていら、あッ！　ひゃうっ！！」
-PRINTFORML 「我の、を吸って何が面白いというのだ…！　は、なれんかぁ……！」	PRINTFORML 「我の、を吸って何が面白いというのだ…！　は、なれんかぁ……！」
-PRINTFORML 「うぅ……あまり近寄るな……何をするか自分でも分からんのだ……」	PRINTFORML 「うぅ……あまり近寄るな……何をするか自分でも分からんのだ……」
-PRINTFORM 「あやつは怒らせぬ方が良いぞ、雷が落ちる、いや、比喩でなくてな…」	PRINTFORM 「あやつは怒らせぬ方が良いぞ、雷が落ちる、いや、比喩でなくてな…」
-PRINTFORML 布都は自らの精神の弱さを恥じて、淫行を思い出しては赤面している…	PRINTFORML 布都は自らの精神の弱さを恥じて、淫行を思い出しては赤面している…
-PRINTFORML 「………………ハッ！　ね、寝ておらぬ！　よもや寝ておらぬぞ！！　	PRINTFORML 「………………ハッ！　ね、寝ておらぬ！　よもや寝ておらぬぞ！！　
-PRINTFORMW (そう、だ……どうせ逃れえぬ、なら……この…快楽、を…………)	PRINTFORMW (そう、だ……どうせ逃れえぬ、なら……この…快楽、を…………)
-PRINTFORM 「や、やめろっ！　こんな所を責めるなどっ！　どうか…し、ておるっ	PRINTFORM 「や、やめろっ！　こんな所を責めるなどっ！　どうか…し、ておるっ
-PRINTFORMDL ADS(オールウェイズ・ドヤア・システム)をONにしますか？	PRINTFORMDL ADS(オールウェイズ・ドヤア・システム)をONにしますか？
-PRINTFORMDW 敵の攻撃を受けた部分がジンジンと甘い熱を持って疼き始めた…	PRINTFORMDW 敵の攻撃を受けた部分がジンジンと甘い熱を持って疼き始めた…
-PRINTFORML 「ううぅ……か、体の自由が効かぬ！　やぁ……と、まれぇ……」	PRINTFORML 「ううぅ……か、体の自由が効かぬ！　やぁ……と、まれぇ……」
-PRINTFORM 「ふふん、我の能力を持ってすればあらゆる障害を避ける事が可能だ	PRINTFORM 「ふふん、我の能力を持ってすればあらゆる障害を避ける事が可能だ
-PRINTFORM 「これも、尸解仙の修行の一つであるやもしれぬ。手抜きはできぬな	PRINTFORM 「これも、尸解仙の修行の一つであるやもしれぬ。手抜きはできぬな
-PRINTFORML 「いやぁ！　嫌なのだっ！　ひうっ！！　へ、はああぁっ！！」	PRINTFORML 「いやぁ！　嫌なのだっ！　ひうっ！！　へ、はああぁっ！！」
-PRINTFORM 「……貴様の様な人外がっ…！！　触れて良い場所と思うなッ！！	PRINTFORM 「……貴様の様な人外がっ…！！　触れて良い場所と思うなッ！！
-PRINTFORML 「い、いぎいいいいいいぃぃぃっっ！！！！！？？！？！？！」	PRINTFORML 「い、いぎいいいいいいぃぃぃっっ！！！！！？？！？！？！」
-PRINTFORML 「ひいぃぃ……う、嘘?!　わ、我がこ、んなあぁぁぁっ！」」	PRINTFORML 「ひいぃぃ……う、嘘?!　わ、我がこ、んなあぁぁぁっ！」」
-PRINTFORML 「う、あああぁぁぁっ?!　な、何かキておるううぅぅ！！！」	PRINTFORML 「う、あああぁぁぁっ?!　な、何かキておるううぅぅ！！！」
-PRINTFORMDW 布都が放った弾は、へろへろと力ない軌道を描いて飛んだ…	PRINTFORMDW 布都が放った弾は、へろへろと力ない軌道を描いて飛んだ…
-PRINTFORM 「へこへこぉ……へこへこが止まらぬぅ……あひゃああぁぁ……	PRINTFORM 「へこへこぉ……へこへこが止まらぬぅ……あひゃああぁぁ……
-PRINTFORML 「こ……この程度の辱めぇ…………我に、ふぁあぁっっ！！」	PRINTFORML 「こ……この程度の辱めぇ…………我に、ふぁあぁっっ！！」
-PRINTFORML 「いぐぅ！！　ひっ?!　だ、駄目だ駄目だだめだぁっ！！」	PRINTFORML 「いぐぅ！！　ひっ?!　だ、駄目だ駄目だだめだぁっ！！」
-PRINTFORML 「た、太子様……そのようにみだりに肌を露出させては……」	PRINTFORML 「た、太子様……そのようにみだりに肌を露出させては……」
-PRINTFORML 「そうですな…まずはここを固めてしまうのが上策かと……」	PRINTFORML 「そうですな…まずはここを固めてしまうのが上策かと……」
-PRINTFORMDL (ONにすると布都ちゃんの語尾に(ﾄﾞﾔｧが付きます)	PRINTFORMDL (ONにすると布都ちゃんの語尾に(ﾄﾞﾔｧが付きます)
-PRINTFORML 「く、そ！　くそおぉぉ！！　うあああぁぁぁぁっっ！！」	PRINTFORML 「く、そ！　くそおぉぉ！！　うあああぁぁぁぁっっ！！」
-PRINTFORM 「くっ！　我の意思ではない！　わりぇの、い、しではぁ……	PRINTFORM 「くっ！　我の意思ではない！　わりぇの、い、しではぁ……
-PRINTFORMDW 布都を舳先に乗せたまま巨大な船体が相手に突貫した…	PRINTFORMDW 布都を舳先に乗せたまま巨大な船体が相手に突貫した…
-PRINTFORML 「くっ…や、めろぉ……！　それ、だ、けはぁっ！！！」	PRINTFORML 「くっ…や、めろぉ……！　それ、だ、けはぁっ！！！」
-PRINTFORMDW 布都は頬を赤く上気させ、内腿を擦り合わせている…。	PRINTFORMDW 布都は頬を赤く上気させ、内腿を擦り合わせている…。
-PRINTFORM 「ひゃあぁ……ふ、触れるなぁ…っ！　我にふれるなあぁっ	PRINTFORM 「ひゃあぁ……ふ、触れるなぁ…っ！　我にふれるなあぁっ
-PRINTFORML 「…………。……全て燃やしてしまえばよいのですか？」	PRINTFORML 「…………。……全て燃やしてしまえばよいのですか？」
-PRINTFORM 「何が起こるや分からぬ。常に心を一間先に置いて進め……	PRINTFORM 「何が起こるや分からぬ。常に心を一間先に置いて進め……
-PRINTFORM 「わ…われの胸など弄ってもつまらないであろう……っ！	PRINTFORM 「わ…われの胸など弄ってもつまらないであろう……っ！
-PRINTFORML 「ふああ、あ、あぁぁぁ……あ、ああぁぁっ！！！！」	PRINTFORML 「ふああ、あ、あぁぁぁ……あ、ああぁぁっ！！！！」
-PRINTFORML 「待てぇ！　今は…今はま…ず、んあああぁぁぁ！！」	PRINTFORML 「待てぇ！　今は…今はま…ず、んあああぁぁぁ！！」
-PRINTFORML 「うぁ…う、うひゃあああああぁぁぁっっ！！！！」	PRINTFORML 「うぁ…う、うひゃあああああぁぁぁっっ！！！！」
-PRINTFORML 「わ、我を、食べる、のか……？　い、やあ……」　	PRINTFORML 「わ、我を、食べる、のか……？　い、やあ……」　
-PRINTFORM 「貴様等の不運は……相手が我だった。ただそれだけよ	PRINTFORM 「貴様等の不運は……相手が我だった。ただそれだけよ
-PRINTFORML 「うぅ……なぜおぬしはそう堂々とできるのだ……」	PRINTFORML 「うぅ……なぜおぬしはそう堂々とできるのだ……」
-PRINTFORMW 「ええ、こちらからは我が、囮は幸い幾らでも……」	PRINTFORMW 「ええ、こちらからは我が、囮は幸い幾らでも……」
-PRINTFORM 「敵を知り、己を知れば百戦危うからずということだな	PRINTFORM 「敵を知り、己を知れば百戦危うからずということだな
-PRINTFORML 「じゃ、邪魔するなぁっ！！　ひ、ひぎぃっ！！」	PRINTFORML 「じゃ、邪魔するなぁっ！！　ひ、ひぎぃっ！！」
-PRINTFORMW 「あ…ありがたくぅ……ふ、ふうううぅっっ！！」	PRINTFORMW 「あ…ありがたくぅ……ふ、ふうううぅっっ！！」
-PRINTFORMW 「ひゅぐううぅ！！　ひゃ、ひゃよおおぉっ！！」	PRINTFORMW 「ひゅぐううぅ！！　ひゃ、ひゃよおおぉっ！！」
-PRINTFORM 「将を射んとするにはまず馬を……というわけだな？	PRINTFORM 「将を射んとするにはまず馬を……というわけだな？
-PRINTFORML 「だ…から、そ、こは、ふぁ、う、ああぁぁ……」	PRINTFORML 「だ…から、そ、こは、ふぁ、う、ああぁぁ……」
-PRINTFORML 「まだまだぁ！　……っ！！　ふっ、不覚っ！！」	PRINTFORML 「まだまだぁ！　……っ！！　ふっ、不覚っ！！」
-PRINTFORML 「ころ、すうぅぅ……我がぁ…いああぁぁっ！！」	PRINTFORML 「ころ、すうぅぅ……我がぁ…いああぁぁっ！！」
-PRINTFORM 「ひきゅうっ！！　ひっ　ひゃああああぁぁぁ！！！	PRINTFORM 「ひきゅうっ！！　ひっ　ひゃああああぁぁぁ！！！
-PRINTFORM 「おお青娥殿。ご機嫌は…良いはずがございませんな	PRINTFORM 「おお青娥殿。ご機嫌は…良いはずがございませんな
-PRINTFORM 「…我と共に行かなかった事、後悔しても知らぬぞ？	PRINTFORM 「…我と共に行かなかった事、後悔しても知らぬぞ？
-PRINTFORM 「なるべく固まらず、離れすぎず探索をすべきだな…	PRINTFORM 「なるべく固まらず、離れすぎず探索をすべきだな…
-PRINTFORM 「やはり…な。お主も我の復活を祝ってくれるのだな	PRINTFORM 「やはり…な。お主も我の復活を祝ってくれるのだな
-PRINTFORM 「ふ……この程度障りに、も……ならぬ、わぁ！！	PRINTFORM 「ふ……この程度障りに、も……ならぬ、わぁ！！
-PRINTFORML ――――立ち行かむ　せなに秋津を　掻き負ひて	PRINTFORML ――――立ち行かむ　せなに秋津を　掻き負ひて
-PRINTFORM 「武事有る者はまた文事有り……逆もまた然り、ぞ	PRINTFORM 「武事有る者はまた文事有り……逆もまた然り、ぞ
-PRINTFORM 「ぐうぅ……そ、そろそろ離せ！　は、なせぇ！！	PRINTFORM 「ぐうぅ……そ、そろそろ離せ！　は、なせぇ！！
-PRINTFORMW (……何も……見えぬ…………。味方も、我も)	PRINTFORMW (……何も……見えぬ…………。味方も、我も)
-PRINTFORML 「くっ……我の胸など相手にせんでよいわ……」	PRINTFORML 「くっ……我の胸など相手にせんでよいわ……」
-PRINTFORM 「こ、このようなまやかし……我には通じぬわぁ…	PRINTFORM 「こ、このようなまやかし……我には通じぬわぁ…
-PRINTFORML 「しかし、この広い迷宮でよく出会えたものだ」	PRINTFORML 「しかし、この広い迷宮でよく出会えたものだ」
-PRINTFORML 「……すまん。必ず戻るゆえ、暫し耐えてくれ」	PRINTFORML 「……すまん。必ず戻るゆえ、暫し耐えてくれ」
-PRINTFORM 「集中……しゅうちゅう……しゅう、ちゅう……	PRINTFORM 「集中……しゅうちゅう……しゅう、ちゅう……
-PRINTFORM 「くっ！　我が貴様の思い通りになると思うな！	PRINTFORM 「くっ！　我が貴様の思い通りになると思うな！
-PRINTFORMW 「く、そぉっ！　見るな！　見るなぁっ！！」	PRINTFORMW 「く、そぉっ！　見るな！　見るなぁっ！！」
-PRINTFORML 「えぇい、しつこ、っ！　くううぅぅ……！」	PRINTFORML 「えぇい、しつこ、っ！　くううぅぅ……！」
-PRINTFORML 「ふ、あ、はあぁ！　い、ひやあぁぁ！！！」	PRINTFORML 「ふ、あ、はあぁ！　い、ひやあぁぁ！！！」
-PRINTFORML 「ふふん、ぅ……よ、かった……これでぇ…」	PRINTFORML 「ふふん、ぅ……よ、かった……これでぇ…」
-PRINTFORM 「と、ともかく、生きる…！　それが全てだ……	PRINTFORM 「と、ともかく、生きる…！　それが全てだ……
-PRINTFORM 「君子、危うきに、ちかぁ…寄らず、だぁ…… 	PRINTFORM 「君子、危うきに、ちかぁ…寄らず、だぁ…… 
-PRINTFORML 「この下衆がぁ！　さっさとくたばれぇ……」	PRINTFORML 「この下衆がぁ！　さっさとくたばれぇ……」
-PRINTFORM 「わ、我の裸体がそんなにめずらしい……のか？	PRINTFORM 「わ、我の裸体がそんなにめずらしい……のか？
-PRINTFORML 「しかしこの世界は奇妙な事が起こるのだな」	PRINTFORML 「しかしこの世界は奇妙な事が起こるのだな」
-PRINTFORML 「我が来た経路はこうだから……ここに……」	PRINTFORML 「我が来た経路はこうだから……ここに……」
-PRINTFORM 「よし、戦力を分散させ、効率化を図るとしよう	PRINTFORM 「よし、戦力を分散させ、効率化を図るとしよう
-PRINTFORM 「ふ、この秘術、一朝一夕で出来るものではない	PRINTFORM 「ふ、この秘術、一朝一夕で出来るものではない
-PRINTFORM 「どうしたどうしたぁ！　我はここにおるぞ！！	PRINTFORM 「どうしたどうしたぁ！　我はここにおるぞ！！
-PRINTFORM 「ふむ、……我はあの方角をあたってみようか…	PRINTFORM 「ふむ、……我はあの方角をあたってみようか…
-PRINTFORM 「我の力が必要か？　いいだろういいだろう！！	PRINTFORM 「我の力が必要か？　いいだろういいだろう！！
-PRINTFORM 「我の言う通りに動いておればよかったものを…	PRINTFORM 「我の言う通りに動いておればよかったものを…
-PRINTFORMDL 布都は腰をガクガク揺らして達している…	PRINTFORMDL 布都は腰をガクガク揺らして達している…
-PRINTFORML 「……ぐっ。されるがままとは情けない……	PRINTFORML 「……ぐっ。されるがままとは情けない……
-PRINTFORM 「ひゅうーー……。ひうー……。かっ…たぁ」	PRINTFORM 「ひゅうーー……。ひうー……。かっ…たぁ」
-PRINTFORM 「くっ！　満身創痍の身に奇襲！　上等だ！！	PRINTFORM 「くっ！　満身創痍の身に奇襲！　上等だ！！
-PRINTFORML 「おーい……駄目だ。完全にトんでおる…」	PRINTFORML 「おーい……駄目だ。完全にトんでおる…」
-PRINTFORM 「彼方は進まぬ方が無難だ。気が塞がっておる	PRINTFORM 「彼方は進まぬ方が無難だ。気が塞がっておる
-PRINTFORM 「刻舟と言えども、知っておいた方がよい…な	PRINTFORM 「刻舟と言えども、知っておいた方がよい…な
-PRINTFORM 「伏兵に必要なものは、運とタイミング…だな	PRINTFORM 「伏兵に必要なものは、運とタイミング…だな
-PRINTFORM 「……食らえい！！　『大物忌正餐』！！！	PRINTFORM 「……食らえい！！　『大物忌正餐』！！！
-PRINTFORML ――――人の子の　勉むは国の　為なれど	PRINTFORML ――――人の子の　勉むは国の　為なれど
-PRINTFORM 「ええぃ、やはり遠距離戦は性に合わん！！	PRINTFORM 「ええぃ、やはり遠距離戦は性に合わん！！
-PRINTFORML 「こ、これ以上何かすると承知せんぞ！！	PRINTFORML 「こ、これ以上何かすると承知せんぞ！！
-PRINTFORML 「ひやぁぁ！！　止めろ！　や、あっ！」	PRINTFORML 「ひやぁぁ！！　止めろ！　や、あっ！」
-PRINTFORML 「や…めよ……これ以上、はあぁぁ……」	PRINTFORML 「や…めよ……これ以上、はあぁぁ……」
-PRINTFORML 「ふ、ふん……！　全く効きなどせんわ」	PRINTFORML 「ふ、ふん……！　全く効きなどせんわ」
-PRINTFORML 「や、め……うもーっ！　むぐーっ！！」	PRINTFORML 「や、め……うもーっ！　むぐーっ！！」
-PRINTFORML 「く…、かわし、きれっ?!　くうっ！」	PRINTFORML 「く…、かわし、きれっ?!　くうっ！」
-PRINTFORMDW 布都は息を荒げ、自らを慰め始めた…。	PRINTFORMDW 布都は息を荒げ、自らを慰め始めた…。
-PRINTFORM 「何をしておるかっ！！　気味の悪いっ！！	PRINTFORM 「何をしておるかっ！！　気味の悪いっ！！
-PRINTFORM 「我の一撃を……さてはおぬしも尸解仙…？	PRINTFORM 「我の一撃を……さてはおぬしも尸解仙…？
-PRINTFORM 「貴様の攻撃を食らうなど末代までの恥よ！	PRINTFORM 「貴様の攻撃を食らうなど末代までの恥よ！
-PRINTFORML 「ひいぃ！　止めろ、止めてくれぇ！！」	PRINTFORML 「ひいぃ！　止めろ、止めてくれぇ！！」
-PRINTFORM 「始めは処女の如く！　後には脱兎の如く！	PRINTFORM 「始めは処女の如く！　後には脱兎の如く！
-PRINTFORM 「ひゃ……あ、相手になってやる…わぁ……	PRINTFORM 「ひゃ……あ、相手になってやる…わぁ……
-PRINTFORMDW 布都は無防備に腹を出して眠っている…	PRINTFORMDW 布都は無防備に腹を出して眠っている…
-PRINTFORML 「此処が案外と根の国であったりしてな」	PRINTFORML 「此処が案外と根の国であったりしてな」
-PRINTFORML 「ご…後生だ……この事は誰にもぉ……」	PRINTFORML 「ご…後生だ……この事は誰にもぉ……」
-PRINTFORMDW 布都は独特の歩法で気配を殺している…	PRINTFORMDW 布都は独特の歩法で気配を殺している…
-PRINTFORM 「さあ行くぞ！　我の力を思い知るが良い！	PRINTFORM 「さあ行くぞ！　我の力を思い知るが良い！
-PRINTFORM 「乱心か!?　ええい！　気を確かに持て！	PRINTFORM 「乱心か!?　ええい！　気を確かに持て！
-PRINTFORM 「そ、そうか。ならば我の勘違いだ。すまん	PRINTFORM 「そ、そうか。ならば我の勘違いだ。すまん
-PRINTFORML 緊張感がねえので嫌な人はOFF推奨。	PRINTFORML 緊張感がねえので嫌な人はOFF推奨。
-PRINTFORM 「虎穴に入らずんば……というわけだな？	PRINTFORM 「虎穴に入らずんば……というわけだな？
-PRINTFORML 「こ…この逃走は未来への進軍である！	PRINTFORML 「こ…この逃走は未来への進軍である！
-PRINTFORM 「三十六計逃げるに如かず、と言うのでな	PRINTFORM 「三十六計逃げるに如かず、と言うのでな
-PRINTFORM 「暫し準備にかかる！　前線は頼んだぞ！	PRINTFORM 「暫し準備にかかる！　前線は頼んだぞ！
-PRINTFORML ――――天てらす　神の御末の　弥栄を	PRINTFORML ――――天てらす　神の御末の　弥栄を
-PRINTFORM 「待たせな！　矢の雨よ！　降り注げぃ！	PRINTFORM 「待たせな！　矢の雨よ！　降り注げぃ！
-PRINTFORM 「いやぁっ！！　こ、怖くなどないわ！！	PRINTFORM 「いやぁっ！！　こ、怖くなどないわ！！
-PRINTFORML 「物理的な結界でないと機能せぬか……	PRINTFORML 「物理的な結界でないと機能せぬか……
-PRINTFORM 「礼を言おう！　往時の感覚が戻ってきた	PRINTFORM 「礼を言おう！　往時の感覚が戻ってきた
-PRINTFORMDL 何やら違う事を考えていたようだ…。	PRINTFORMDL 何やら違う事を考えていたようだ…。
-PRINTFORM 「その動き、始めから計算のうちよっ！！	PRINTFORM 「その動き、始めから計算のうちよっ！！
-PRINTFORML 「うーー！！！　ふむーーーっ！！！」	PRINTFORML 「うーー！！！　ふむーーーっ！！！」
-PRINTFORML 「な……なぜ我が…こ、んな…っ！！」	PRINTFORML 「な……なぜ我が…こ、んな…っ！！」
-PRINTFORML 「や、やめろぉ……もう許してくれ！」	PRINTFORML 「や、やめろぉ……もう許してくれ！」
-PRINTFORML 「ぐぐ……、これではもう着れぬ……」	PRINTFORML 「ぐぐ……、これではもう着れぬ……」
-PRINTFORML 「ぐ、う…ひゃ、あ、ああぁぁっ！！」	PRINTFORML 「ぐ、う…ひゃ、あ、ああぁぁっ！！」
-PRINTFORM 「二兎を追う者は一兎をも得ず……だな？	PRINTFORM 「二兎を追う者は一兎をも得ず……だな？
-PRINTFORM 「太子様、ご無事で何よりでございます！	PRINTFORM 「太子様、ご無事で何よりでございます！
-PRINTFORML 「み、見るな……顔が灼けそうだ……」	PRINTFORML 「み、見るな……顔が灼けそうだ……」
-PRINTFORM 「はかどっているか？　それは何よりだな	PRINTFORM 「はかどっているか？　それは何よりだな
-PRINTFORML 「しかし、おぬしは亡霊で良かったな」	PRINTFORML 「しかし、おぬしは亡霊で良かったな」
-PRINTFORM 「我に助力するとは……さてはおぬしも…	PRINTFORM 「我に助力するとは……さてはおぬしも…
-PRINTFORMW 「ふむ…この突起を押せばよいのか？」	PRINTFORMW 「ふむ…この突起を押せばよいのか？」
-PRINTFORMW 「おお！　炎だ！　炎が出おった！！」	PRINTFORMW 「おお！　炎だ！　炎が出おった！！」
-PRINTFORMDL 布都は笑顔で火炎放射器をしまった…	PRINTFORMDL 布都は笑顔で火炎放射器をしまった…
-PRINTFORML 「あくまで…素早く、されど静かに…」	PRINTFORML 「あくまで…素早く、されど静かに…」
-PRINTFORM 「天、人、地の内の地を蔑ろには出来ぬな	PRINTFORM 「天、人、地の内の地を蔑ろには出来ぬな
-PRINTFORML ちょろい！　ちょろいよ布都ちゃん！	PRINTFORML ちょろい！　ちょろいよ布都ちゃん！
-PRINTFORML ドヤ顔の素敵な尸解仙は好きですか？	PRINTFORML ドヤ顔の素敵な尸解仙は好きですか？
-PRINTFORM 「ぐむむ、い…今は耐えるべきであるな	PRINTFORM 「ぐむむ、い…今は耐えるべきであるな
-PRINTFORM 「我らを邪魔する者は、芥も残さぬ！！	PRINTFORM 「我らを邪魔する者は、芥も残さぬ！！
-PRINTFORM 「物部の砲煙弾雨！　其の身に受けよ！	PRINTFORM 「物部の砲煙弾雨！　其の身に受けよ！
-PRINTFORM 「お主を倒せば我も晴れて仙人…だな？	PRINTFORM 「お主を倒せば我も晴れて仙人…だな？
-PRINTFORM 「この方角…此方が貴様の天中殺よ！！	PRINTFORM 「この方角…此方が貴様の天中殺よ！！
-PRINTFORM 「乾坤一擲……この一撃にて決する……	PRINTFORM 「乾坤一擲……この一撃にて決する……
-PRINTFORML ――――夕空の　輝く星も　曇りなし	PRINTFORML ――――夕空の　輝く星も　曇りなし
-PRINTFORM 「こ、この熱を……弾、にぃ……ゃあ…	PRINTFORM 「こ、この熱を……弾、にぃ……ゃあ…
-PRINTFORM (ぬ…けねば…ならぬ……の、にぃ……	PRINTFORM (ぬ…けねば…ならぬ……の、にぃ……
-PRINTFORML 「ひ、きゃあっ！！　ううぁっ！！」	PRINTFORML 「ひ、きゃあっ！！　ううぁっ！！」
-PRINTFORM 「この拘束を解いた時が貴様の最期だ！	PRINTFORM 「この拘束を解いた時が貴様の最期だ！
-PRINTFORM 「だ、からっ…！　は、な、せっ！！」	PRINTFORM 「だ、からっ…！　は、な、せっ！！」
-PRINTFORML 「く、……よ、せっ！……う、あ…」	PRINTFORML 「く、……よ、せっ！……う、あ…」
-PRINTFORML 「イっておる、ぅ！！　からぁ！！」	PRINTFORML 「イっておる、ぅ！！　からぁ！！」
-PRINTFORML 「お、おいっ!?　そこは違うぞ！」	PRINTFORML 「お、おいっ!?　そこは違うぞ！」
-PRINTFORMDL 触手は布都の一瞬の隙をついた！ 	PRINTFORMDL 触手は布都の一瞬の隙をついた！ 
-PRINTFORM 「ふん！　なんだこの……粉…………は	PRINTFORM 「ふん！　なんだこの……粉…………は
-PRINTFORM 「えぇい、避けるでない！　当たれぇ！	PRINTFORM 「えぇい、避けるでない！　当たれぇ！
-PRINTFORM 「我を生け捕りとは…嘗められたものよ	PRINTFORM 「我を生け捕りとは…嘗められたものよ
-PRINTFORML 「ぐぅ……このような、辱めぇ……」	PRINTFORML 「ぐぅ……このような、辱めぇ……」
-PRINTFORM 「勝算が立つまで、一度離れるべきだな	PRINTFORM 「勝算が立つまで、一度離れるべきだな
-PRINTFORM 「我も独自に色々と調べていたところだ	PRINTFORM 「我も独自に色々と調べていたところだ
-PRINTFORM 「屠自古も巻き込まれたかもしれぬな」	PRINTFORM 「屠自古も巻き込まれたかもしれぬな」
-PRINTFORM 「よし、少しは落ち着くことが出来るな	PRINTFORM 「よし、少しは落ち着くことが出来るな
-PRINTFORM 「物部に伝わる十種の神宝のひとつ！	PRINTFORM 「物部に伝わる十種の神宝のひとつ！
-PRINTFORM 「ううぅ……この状態で…出ろ、と？	PRINTFORM 「ううぅ……この状態で…出ろ、と？
-PRINTFORM 「ゆくぞ！　これが物部の戦術だ！！	PRINTFORM 「ゆくぞ！　これが物部の戦術だ！！
-PRINTFORM 「このような所で……終わらぬわぁ！	PRINTFORM 「このような所で……終わらぬわぁ！
-PRINTFORM 「天へ！！　昇れええぇぇぇ！！！！	PRINTFORM 「天へ！！　昇れええぇぇぇ！！！！
-PRINTFORML ――――古の　戦を偲び　我をもと	PRINTFORML ――――古の　戦を偲び　我をもと
-PRINTFORMDW 布都は内股気味で攻撃を行った…	PRINTFORMDW 布都は内股気味で攻撃を行った…
-PRINTFORM 「ま…まだ我の動くときではない……	PRINTFORM 「ま…まだ我の動くときではない……
-PRINTFORML 「ぐはぅっ……や、やめ…………」	PRINTFORML 「ぐはぅっ……や、やめ…………」
-PRINTFORML 「待て……！　この方角はっ……」	PRINTFORML 「待て……！　この方角はっ……」
-PRINTFORML 「く、そぉ……これ以上何を……」	PRINTFORML 「く、そぉ……これ以上何を……」
-PRINTFORML 「に…にげられた……のか……？」	PRINTFORML 「に…にげられた……のか……？」
-PRINTFORML 「青娥、ど、の……。いえ、何も」	PRINTFORML 「青娥、ど、の……。いえ、何も」
-PRINTFORM 「ふむ、我の為にしっかり働くのだ！	PRINTFORM 「ふむ、我の為にしっかり働くのだ！
-PRINTFORM 「その方角、あまり進まぬ方が良いぞ	PRINTFORM 「その方角、あまり進まぬ方が良いぞ
-PRINTFORM 「では、我は露払いに勤しみますぞ！	PRINTFORM 「では、我は露払いに勤しみますぞ！
-PRINTFORM 「敵が動く？　それは我の管轄外だな	PRINTFORM 「敵が動く？　それは我の管轄外だな
-PRINTFORM 「我らは隠された、という事……だな	PRINTFORM 「我らは隠された、という事……だな
-PRINTFORM 「この地を知るのも悪手ではあるまい	PRINTFORM 「この地を知るのも悪手ではあるまい
-PRINTFORM 「ええい！　効かぬ！　効かぬぞ！	PRINTFORM 「ええい！　効かぬ！　効かぬぞ！
-PRINTFORMD 布都は何やらドギマギしている…	PRINTFORMD 布都は何やらドギマギしている…
-PRINTFORM 「く、ぅ……せ、ぇ一杯！　撃つ！	PRINTFORM 「く、ぅ……せ、ぇ一杯！　撃つ！
-PRINTFORM 「強者は一にて二も五をも得るのだ	PRINTFORM 「強者は一にて二も五をも得るのだ
-PRINTFORM 「うぅ…踏み込みもままならぬ……	PRINTFORM 「うぅ…踏み込みもままならぬ……
-PRINTFORM (もう…この……快感しか、ぁ……	PRINTFORM (もう…この……快感しか、ぁ……
-PRINTFORM 「こ…こんなもの！　嬲るでないわ	PRINTFORM 「こ…こんなもの！　嬲るでないわ
-PRINTFORM 「す……少しはやるようだな……っ	PRINTFORM 「す……少しはやるようだな……っ
-PRINTFORML 「それはっ！　は、離れろっ！」	PRINTFORML 「それはっ！　は、離れろっ！」
-PRINTFORM 「太子様、我に気遣いは無用です！	PRINTFORM 「太子様、我に気遣いは無用です！
-PRINTFORM 「よし、……追っては来ぬようだな	PRINTFORM 「よし、……追っては来ぬようだな
-PRINTFORML 「やぁ……。……う……………」	PRINTFORML 「やぁ……。……う……………」
-PRINTFORMW 「くぉーー……くーー…………」	PRINTFORMW 「くぉーー……くーー…………」
-PRINTFORM 「無謀の輩に我の相手は勤まらぬわ	PRINTFORM 「無謀の輩に我の相手は勤まらぬわ
-PRINTFORML 「……！！！　…ひ…ぃ………」	PRINTFORML 「……！！！　…ひ…ぃ………」
-PRINTFORM 「貴重な物資を易々と渡すとでも？	PRINTFORM 「貴重な物資を易々と渡すとでも？
-PRINTFORM 「油断したな！　食らうがよいわ！	PRINTFORM 「油断したな！　食らうがよいわ！
-PRINTFORM 「ふ、まともには食らわんぞぉ！	PRINTFORM 「ふ、まともには食らわんぞぉ！
-PRINTFORM 「はっはっは！　我が相手だ！！	PRINTFORM 「はっはっは！　我が相手だ！！
-PRINTFORM 「い……一旦下がらせてもらう…	PRINTFORM 「い……一旦下がらせてもらう…
-PRINTFORM 「我が退くことになろうとは……	PRINTFORM 「我が退くことになろうとは……
-PRINTFORM 「ぞ、造作もない、こ、とよッ！	PRINTFORM 「ぞ、造作もない、こ、とよッ！
-PRINTFORM 「豪族の力を思い知るがよいわ！	PRINTFORM 「豪族の力を思い知るがよいわ！
-PRINTFORML 「我にも一族の矜持がある！！	PRINTFORML 「我にも一族の矜持がある！！
-PRINTFORM 「我のやり方でやらせてもらうぞ	PRINTFORM 「我のやり方でやらせてもらうぞ
-PRINTFORM 「耐えられぬ……ほどでもっ…！	PRINTFORM 「耐えられぬ……ほどでもっ…！
-PRINTFORM 「出でよ！！　天の磐船ぇ！！！	PRINTFORM 「出でよ！！　天の磐船ぇ！！！
-PRINTFORM 「寄るな！　我に寄るなあっ！！	PRINTFORM 「寄るな！　我に寄るなあっ！！
-PRINTFORM 「麁鹿火殿の御霊よ、我に力を！	PRINTFORM 「麁鹿火殿の御霊よ、我に力を！
-PRINTFORM 「あえて言おう！　これが戦だ！	PRINTFORM 「あえて言おう！　これが戦だ！
-PRINTFORML (出せっ！　出さぬかぁ！！)	PRINTFORML (出せっ！　出さぬかぁ！！)
-PRINTFORM は……はやくぅ……抜けねば…」	PRINTFORM は……はやくぅ……抜けねば…」
-PRINTFORML 「ひ、やあああぁぁっっ！！」	PRINTFORML 「ひ、やあああぁぁっっ！！」
-PRINTFORM 「どうした！　掠っただけだぞ！	PRINTFORM 「どうした！　掠っただけだぞ！
-PRINTFORML 「キリがないわ……くっ?!」	PRINTFORML 「キリがないわ……くっ?!」
-PRINTFORM 「くぅ……窮地にあって負けぬ！	PRINTFORM 「くぅ……窮地にあって負けぬ！
-PRINTFORML 「や、今は……無理、だ……」	PRINTFORML 「や、今は……無理、だ……」
-PRINTFORML 「くぅ…我の、服が……っ！」	PRINTFORML 「くぅ…我の、服が……っ！」
-PRINTFORM 「一度、建て直そうではないか…	PRINTFORM 「一度、建て直そうではないか…
-PRINTFORML 「や、だっ！　……離せぃ！」	PRINTFORML 「や、だっ！　……離せぃ！」
-PRINTFORM 「貴様等に戦の作法など無用だな	PRINTFORM 「貴様等に戦の作法など無用だな
-PRINTFORM 「ふむ、そちらの首尾はどうだ？	PRINTFORM 「ふむ、そちらの首尾はどうだ？
-PRINTFORM 「今は屠自古が羨ましく思えるぞ	PRINTFORM 「今は屠自古が羨ましく思えるぞ
-PRINTFORM 「今回が初めて？　そうなのか…	PRINTFORM 「今回が初めて？　そうなのか…
-PRINTFORM 「ふふん、いつでも来るがよいわ	PRINTFORM 「ふふん、いつでも来るがよいわ
-PRINTFORM 「油断したな！　食らうのじゃ！	PRINTFORM 「油断したな！　食らうのじゃ！
-PRINTFORMDW ADSをOFFにしました！	PRINTFORMDW ADSをOFFにしました！
-PRINTFORM 「これぞ物部の八門遁甲陣……	PRINTFORM 「これぞ物部の八門遁甲陣……
-PRINTFORM 「これぞ物部の根源一気陣……	PRINTFORM 「これぞ物部の根源一気陣……
-PRINTFORM 「い…今は危険である、な……	PRINTFORM 「い…今は危険である、な……
-PRINTFORM 「お前など止まって見えるわ！	PRINTFORM 「お前など止まって見えるわ！
-PRINTFORM 「攻める！　我に続くのだ！！	PRINTFORM 「攻める！　我に続くのだ！！
-PRINTFORM 「ぐ……卑、怯なあぁぁっ！！	PRINTFORM 「ぐ……卑、怯なあぁぁっ！！
-PRINTFORM 「く、ふうぅぅ……でき、た…	PRINTFORM 「く、ふうぅぅ……でき、た…
-PRINTFORM 「これが！　弾の扱い方だっ！	PRINTFORM 「これが！　弾の扱い方だっ！
-PRINTFORM 「ここで大敗するわけには……	PRINTFORM 「ここで大敗するわけには……
-PRINTFORM 「武芸は我の得意とする所……	PRINTFORM 「武芸は我の得意とする所……
-PRINTFORML 「ふ、あ………ああ………」	PRINTFORML 「ふ、あ………ああ………」
-PRINTFORML 「く、うぅ……ち、力が…」	PRINTFORML 「く、うぅ……ち、力が…」
-PRINTFORMW 　・　・　・　・　・　・　	PRINTFORMW 　・　・　・　・　・　・　
-PRINTFORM 腰がぁ……かって、にぃ……！	PRINTFORM 腰がぁ……かって、にぃ……！
-PRINTFORM 「き、効かぬ！　効かぬわぁ！	PRINTFORM 「き、効かぬ！　効かぬわぁ！
-PRINTFORML 「くっ……まさか服を…？」	PRINTFORML 「くっ……まさか服を…？」
-PRINTFORML 「ひ…い、いや、無駄だ！」	PRINTFORML 「ひ…い、いや、無駄だ！」
-PRINTFORM 「小手先だけで我が倒せるか！	PRINTFORM 「小手先だけで我が倒せるか！
-PRINTFORM 「狙いは良い。が、当たらぬわ	PRINTFORM 「狙いは良い。が、当たらぬわ
-PRINTFORML 「何をする気だ……っ?!」	PRINTFORML 「何をする気だ……っ?!」
-PRINTFORM 「勝って甲の緒を締めよ……だ	PRINTFORM 「勝って甲の緒を締めよ……だ
-PRINTFORM 「強靱、無敵、最強……だな？	PRINTFORM 「強靱、無敵、最強……だな？
-PRINTFORML 「眠いと、士気が下がるぞ」	PRINTFORML 「眠いと、士気が下がるぞ」
-PRINTFORM 「我の施しであるぞ。感謝せよ	PRINTFORM 「我の施しであるぞ。感謝せよ
-PRINTFORMDW ADSをONにしました！	PRINTFORMDW ADSをONにしました！
-﻿PRINTFORML 触手宮　物部の口上です。	PRINTFORML 触手宮　物部の口上です。
-PRINTFORM 「この後退は後への布石よ！	PRINTFORM 「この後退は後への布石よ！
-PRINTFORM 「八十平瓮の閃きを見よ！！	PRINTFORM 「八十平瓮の閃きを見よ！！
-PRINTFORM 「貴様に負ける道理がないわ	PRINTFORM 「貴様に負ける道理がないわ
-PRINTFORM 「敵を一気に殲滅するぞ！！	PRINTFORM 「敵を一気に殲滅するぞ！！
-PRINTFORML 「あ…あ、あぁ…………」	PRINTFORML 「あ…あ、あぁ…………」
-PRINTFORM 「お…抑え、られ、ぬっ……	PRINTFORM 「お…抑え、られ、ぬっ……
-PRINTFORML (……い、今だなっ！！)	PRINTFORML (……い、今だなっ！！)
-PRINTFORM 「さ……されるがままぁ……	PRINTFORM 「さ……されるがままぁ……
-PRINTFORM 「こ、の…痴れ者がぁ……っ	PRINTFORM 「こ、の…痴れ者がぁ……っ
-PRINTFORMDW (ひゃあああぁぁ！！　	PRINTFORMDW (ひゃあああぁぁ！！　
-PRINTFORM 「わ…我のぉ、自慰がぁ……	PRINTFORM 「わ…我のぉ、自慰がぁ……
-PRINTFORML 「ひ、や……う、そ……」	PRINTFORML 「ひ、や……う、そ……」
-PRINTFORM 「ふん、止まって見えおる！	PRINTFORM 「ふん、止まって見えおる！
-PRINTFORML 布都は不敵に笑っている…	PRINTFORML 布都は不敵に笑っている…
-PRINTFORM 「……か、勝てば官軍…だな	PRINTFORM 「……か、勝てば官軍…だな
-PRINTFORM 「勝てば良かろうなのだぁ！	PRINTFORM 「勝てば良かろうなのだぁ！
-PRINTFORM 「無事でまた会えれば良いな	PRINTFORM 「無事でまた会えれば良いな
-PRINTFORM 「貴公の話を聞かせてくれい	PRINTFORM 「貴公の話を聞かせてくれい
-PRINTFORMDL 布都は目を擦っている…	PRINTFORMDL 布都は目を擦っている…
-PRINTFORML 「…………む、こっちだ」	PRINTFORML 「…………む、こっちだ」
-PRINTFORM 「させぬと言うておる……	PRINTFORM 「させぬと言うておる……
-PRINTFORM 「我への攻撃も計算の内よ	PRINTFORM 「我への攻撃も計算の内よ
-PRINTFORM 「この距離なら外すまい！	PRINTFORM 「この距離なら外すまい！
-PRINTFORM 「この方角はまずいのでな	PRINTFORM 「この方角はまずいのでな
-PRINTFORM 「我の弾幕は必殺よぉ！！	PRINTFORM 「我の弾幕は必殺よぉ！！
-PRINTFORM 「この窮地に外さぬ…！！	PRINTFORM 「この窮地に外さぬ…！！
-PRINTFORM 「これならかわせまいっ！	PRINTFORM 「これならかわせまいっ！
-PRINTFORML 「…………むーっ！！」	PRINTFORML 「…………むーっ！！」
-PRINTFORM 「…だ、め…………も……	PRINTFORM 「…だ、め…………も……
-PRINTFORM 「後生だ……ここはぁ…っ	PRINTFORM 「後生だ……ここはぁ…っ
-PRINTFORM 「す、好きにはさせぬっ！	PRINTFORM 「す、好きにはさせぬっ！
-PRINTFORM 「我に当たっておらぬわ！	PRINTFORM 「我に当たっておらぬわ！
-PRINTFORML 「当てねば……ならぬ」	PRINTFORML 「当てねば……ならぬ」
-PRINTFORM 「一撃たりとも食らえぬな	PRINTFORM 「一撃たりとも食らえぬな
-PRINTFORM 「ふむ、有難く頂戴しよう	PRINTFORM 「ふむ、有難く頂戴しよう
-PRINTFORM 「全ては我が掌の上よ……	PRINTFORM 「全ては我が掌の上よ……
-PRINTFORM 「我々で、必ず脱出するぞ	PRINTFORM 「我々で、必ず脱出するぞ
-PRINTFORM 「我の力がご入用ですか？	PRINTFORM 「我の力がご入用ですか？
-PRINTFORML 「ううぅぅぅ…………」	PRINTFORML 「ううぅぅぅ…………」
-PRINTFORM 「中央突破こそ我が信条！	PRINTFORM 「中央突破こそ我が信条！
-PRINTFORM 「伏せては死者の如く……	PRINTFORM 「伏せては死者の如く……
-PRINTFORM 「そのような余裕はないな	PRINTFORM 「そのような余裕はないな
-PRINTFORM 「我が出るまでもなかろう	PRINTFORM 「我が出るまでもなかろう
-PRINTFORM 「去る者は追わず……だな	PRINTFORM 「去る者は追わず……だな
-PRINTFORM 「とくと馳走してやろう	PRINTFORM 「とくと馳走してやろう
-PRINTFORM 「そこ、だぁ……っ！！	PRINTFORM 「そこ、だぁ……っ！！
-PRINTFORM 「悪く思うでないぞぉ！	PRINTFORM 「悪く思うでないぞぉ！
-PRINTFORM 「こ、のままではぁ……	PRINTFORM 「こ、のままではぁ……
-PRINTFORM 「…………う、はぁ……	PRINTFORM 「…………う、はぁ……
-PRINTFORM 見られる、の、だぁ……	PRINTFORM 見られる、の、だぁ……
-PRINTFORM 「ふんっ！　大事ないわ	PRINTFORM 「ふんっ！　大事ないわ
-PRINTFORML ……くー…くー……」	PRINTFORML ……くー…くー……」
-PRINTFORM 「ほう……よく避けたな	PRINTFORM 「ほう……よく避けたな
-PRINTFORM 「ふふ……。どうした？	PRINTFORM 「ふふ……。どうした？
-PRINTFORM 「ふ、撤退も策の内よ！	PRINTFORM 「ふ、撤退も策の内よ！
-PRINTFORM 「貴様等では役不足よ！	PRINTFORM 「貴様等では役不足よ！
-PRINTFORM 「先手はくれてやるわ！	PRINTFORM 「先手はくれてやるわ！
-PRINTFORM 「我らは後の先を取る！	PRINTFORM 「我らは後の先を取る！
-PRINTFORM 「手数で勝敗は決せぬわ	PRINTFORM 「手数で勝敗は決せぬわ
-PRINTFORM 「僥倖、と言うべきだな	PRINTFORM 「僥倖、と言うべきだな
-PRINTFORMW 「……………ぐぅ…」	PRINTFORMW 「……………ぐぅ…」
-PRINTFORM 「よし、少し斥候を行う	PRINTFORM 「よし、少し斥候を行う
-PRINTFORM 「用心して進まねばな…	PRINTFORM 「用心して進まねばな…
-PRINTFORM 「ふむ、これで良いか？	PRINTFORM 「ふむ、これで良いか？
-PRINTFORM 「話にもならぬわぁ！	PRINTFORM 「話にもならぬわぁ！
-PRINTFORM 「汚物は消毒……だな	PRINTFORM 「汚物は消毒……だな
-PRINTFORM 「ふうぅ、あぁっ!!	PRINTFORM 「ふうぅ、あぁっ!!
-PRINTFORM 「か……貫通…か……	PRINTFORM 「か……貫通…か……
-PRINTFORM 「下がれ三下共ぉ！！	PRINTFORM 「下がれ三下共ぉ！！
-PRINTFORM 「暴虐、かつ繊細に！	PRINTFORM 「暴虐、かつ繊細に！
-PRINTFORML 「ふああぁっ?!」	PRINTFORML 「ふああぁっ?!」
-PRINTFORM 「当たってやれぬな！	PRINTFORM 「当たってやれぬな！
-PRINTFORM 「くっ……間一髪だな	PRINTFORM 「くっ……間一髪だな
-PRINTFORM 「まだ我一人で十分だ	PRINTFORM 「まだ我一人で十分だ
-PRINTFORM 「我におまかせを！	PRINTFORM 「我におまかせを！
-PRINTFORML 「ここから、だな	PRINTFORML 「ここから、だな
-PRINTFORM 「我の妙技を見よ！	PRINTFORM 「我の妙技を見よ！
-PRINTFORM く、いかんいかん…	PRINTFORM く、いかんいかん…
-PRINTFORML ……あはぁ……」	PRINTFORML ……あはぁ……」
-PRINTFORM 「え、へへへぇ……	PRINTFORM 「え、へへへぇ……
-PRINTFORML 「……ひいっ！」	PRINTFORML 「……ひいっ！」
-PRINTFORM 「この色情魔が……	PRINTFORM 「この色情魔が……
-PRINTFORML 「な、何だ?!」	PRINTFORML 「な、何だ?!」
-PRINTFORM 「すまぬな、屠自古	PRINTFORM 「すまぬな、屠自古
-PRINTFORML 「ぐー…………」	PRINTFORML 「ぐー…………」
-PRINTFORM 「では、武運を祈る	PRINTFORM 「では、武運を祈る
-PRINTFORM 「これは……捗るな	PRINTFORM 「これは……捗るな
-PRINTFORMDL [1] いいえ	PRINTFORMDL [1] いいえ
-PRINTFORM 「猪口才わぁ！！	PRINTFORM 「猪口才わぁ！！
-PRINTFORM 「食らえぇい！！	PRINTFORM 「食らえぇい！！
-PRINTFORM 「間断なく射る！	PRINTFORM 「間断なく射る！
-PRINTFORM 「な、ぜだぁ……	PRINTFORM 「な、ぜだぁ……
-PRINTFORM 「そ…その程度か	PRINTFORM 「そ…その程度か
-PRINTFORML 「そ……んな」	PRINTFORML 「そ……んな」
-PRINTFORM 「これ、でぇ……	PRINTFORM 「これ、でぇ……
-PRINTFORM 「……捨て置けぬ	PRINTFORM 「……捨て置けぬ
-PRINTFORM 「うむ、頼んだぞ	PRINTFORM 「うむ、頼んだぞ
-PRINTFORM 　我に続けぇ！！	PRINTFORM 　我に続けぇ！！
-PRINTFORMDL [0] はい	PRINTFORMDL [0] はい
-PRINTFORM 「まだまだぁ！	PRINTFORM 「まだまだぁ！
-PRINTFORM 「瞬きも許さぬ	PRINTFORM 「瞬きも許さぬ
-PRINTFORM 「我自ら撃つ！	PRINTFORM 「我自ら撃つ！
-PRINTFORM 「それだけか？	PRINTFORM 「それだけか？
-PRINTFORM 「煩いだけよ！	PRINTFORM 「煩いだけよ！
-PRINTFORM 「無駄だぁ！！	PRINTFORM 「無駄だぁ！！
-PRINTFORM 「一気に叩く！	PRINTFORM 「一気に叩く！
-PRINTFORMW 「かくーー」	PRINTFORMW 「かくーー」
-PRINTFORM 「宜しく頼むぞ	PRINTFORM 「宜しく頼むぞ
-PRINTFORML 「むー……」	PRINTFORML 「むー……」
-PRINTFORMW (ﾄﾞﾔｧ」	PRINTFORMW (ﾄﾞﾔｧ」
-PRINTFORML (ﾄﾞﾔｧ」	PRINTFORML (ﾄﾞﾔｧ」
-PRINTFORM 「我が出る！	PRINTFORM 「我が出る！
-PRINTFORML 「う……」	PRINTFORML 「う……」
-PRINTFORM 「弱いわぁ！	PRINTFORM 「弱いわぁ！
-PRINTFORM 「鎮まれぇ！	PRINTFORM 「鎮まれぇ！
-PRINTFORM 「甘いっ！	PRINTFORM 「甘いっ！
-PRINTFORM 「無駄だ！	PRINTFORM 「無駄だ！
-PRINTFORM 「穿つ…！	PRINTFORM 「穿つ…！
-PRINTFORM 「鈍いわ！	PRINTFORM 「鈍いわ！
-PRINTFORM 「用心せよ	PRINTFORM 「用心せよ
-PRINTFORM 「行くぞ！	PRINTFORM 「行くぞ！
-PRINTFORM 「次ぃ！	PRINTFORM 「次ぃ！
-PRINTFORML 」 	PRINTFORML 」 
-PRINTFORML )	PRINTFORML )
-PRINTFORMW )	PRINTFORMW )
-PRINTFORMW 」	PRINTFORMW 」
-PRINTFORML 」	PRINTFORML 」
-PRINTFORMDL 	PRINTFORMDL 
-PRINTFORML 	PRINTFORML 
+﻿﻿PRINTFORML 触手宮　物部の口上です。		PRINTFORML 触手宫是物部的口上。
+PRINTFORML 緊張感がねえので嫌な人はOFF推奨。		PRINTFORML 因为没有紧张感所以讨厌的人推荐OFF。
+PRINTFORML ちょろい！　ちょろいよ布都ちゃん！		PRINTFORML 等一下！小布都！
+PRINTFORML ドヤ顔の素敵な尸解仙は好きですか？		PRINTFORML 喜欢美颜的尸解仙吗？
+PRINTFORM 「ぐむむ、い…今は耐えるべきであるな		PRINTFORM「闷得慌……现在应该忍耐
+PRINTFORM 「ええい！　効かぬ！　効かぬぞ！		PRINTFORM「哎呀！无效！无效啊！
+PRINTFORM 「させぬと言うておる……		PRINTFORM「我一直说不让……
+PRINTFORM 「ふ、まともには食らわんぞぉ！		PRINTFORM「哼，我可真不敢吃！
+PRINTFORM 「我への攻撃も計算の内よ		PRINTFORM「我的攻击也在计算之中
+PRINTFORM 「これぞ物部の八門遁甲陣……		PRINTFORM「这就是物部的八门遁甲阵……
+PRINTFORM 「これぞ物部の根源一気陣……		PRINTFORM「这就是物部的根源一气阵……
+PRINTFORM 「物部に伝わる十種の神宝のひとつ！		PRINTFORM「物部流传的十种神宝之一！
+PRINTFORM 「ううぅ……この状態で…出ろ、と？		PRINTFORM「呜呜……在这种状态下……滚出去？
+PRINTFORM 「我におまかせを！		PRINTFORM「交给我吧！
+PRINTFORM 「虎穴に入らずんば……というわけだな？		PRINTFORM「不入虎穴……就是这样吧？
+PRINTFORM 「はっはっは！　我が相手だ！！		PRINTFORM「哈哈哈！我的对手！
+PRINTFORM 「この距離なら外すまい！		PRINTFORM「这段距离的话绝对不会错过！
+PRINTFORM 「い……一旦下がらせてもらう…		PRINTFORM 「い……请先让我退下……
+PRINTFORM 「この後退は後への布石よ！		PRINTFORM「这个后退无疑是后退的布局！
+PRINTFORM 「この方角はまずいのでな		PRINTFORM「这个方向不好吧
+PRINTFORML 「こ…この逃走は未来への進軍である！		PRINTFORML「这……这个逃跑是向未来进军！
+PRINTFORM 「い…今は危険である、な……		PRINTFORM 「い…现在很危险啊……
+PRINTFORM 「三十六計逃げるに如かず、と言うのでな		PRINTFORM「三十六计走为上策。
+PRINTFORM 「我が退くことになろうとは……		PRINTFORM「居然要我退缩……
+PRINTFORM 「ぞ、造作もない、こ、とよッ！		PRINTFORM 「这、这、这、这、这！
+PRINTFORML 「ここから、だな		PRINTFORML「从这里开始吧
+PRINTFORM 「我が出る！		PRINTFORM「我出去了！
+PRINTFORM 「豪族の力を思い知るがよいわ！		PRINTFORM「了解豪族的力量吧！
+PRINTFORM 「まだまだぁ！		PRINTFORM「还差得远呢！
+PRINTFORM 「猪口才わぁ！！		PRINTFORM「猪口才！！
+PRINTFORM 「お前など止まって見えるわ！		PRINTFORM「我看见你等停下来了！
+PRINTFORM 「甘いっ！		PRINTFORM「太天真了！
+PRINTFORM 「無駄だ！		PRINTFORM「没用！
+PRINTFORM 「ふ……この程度障りに、も……ならぬ、わぁ！！		PRINTFORM「呼……这种程度的障碍，也……不对，哇！！
+PRINTFORML 「我にも一族の矜持がある！！		PRINTFORML「我也有家族的矜持！！」
+PRINTFORM 「ゆくぞ！　これが物部の戦術だ！！		PRINTFORM「走吧！这就是物部的战术！
+PRINTFORM 「攻める！　我に続くのだ！！		PRINTFORM「进攻！继续我吧！！
+PRINTFORM 「話にもならぬわぁ！		PRINTFORM「连话都说不出来！
+PRINTFORM 「瞬きも許さぬ		PRINTFORM「不容眨眼
+PRINTFORM 「八十平瓮の閃きを見よ！！		PRINTFORM「看八十平瓮的闪光！！」
+PRINTFORM 「食らえぇい！！		PRINTFORM「给我吃！！」
+PRINTFORM 「我自ら撃つ！		PRINTFORM「我亲自射击！
+PRINTFORM 「ぐ……卑、怯なあぁぁっ！！		PRINTFORM「ぐ……卑鄙、胆怯啊！！
+PRINTFORM 「このような所で……終わらぬわぁ！		PRINTFORM「在这种地方……不会结束的！
+PRINTFORM 「貴様に負ける道理がないわ		PRINTFORM「没有理由输给你
+PRINTFORM 「我らを邪魔する者は、芥も残さぬ！！		PRINTFORM「妨碍我们的人，连垃圾都不留！！
+PRINTFORM 「汚物は消毒……だな		PRINTFORM「污物消毒……架子
+PRINTFORM 「物部の砲煙弾雨！　其の身に受けよ！		PRINTFORM「物部的炮烟弹雨！身受其身！
+PRINTFORM 「我のやり方でやらせてもらうぞ		PRINTFORM「请让我用我的方法来做吧
+PRINTFORM 「お主を倒せば我も晴れて仙人…だな？		PRINTFORM「打倒你的话，我也会放晴，仙人……是吧？
+PRINTFORM 「この方角…此方が貴様の天中殺よ！！		PRINTFORM「这个方向……”这是你的天中杀！
+PRINTFORM 「乾坤一擲……この一撃にて決する……		PRINTFORM「孤注一掷……这一击决胜负……
+PRINTFORM 「耐えられぬ……ほどでもっ…！		PRINTFORM「无法忍受……即使那样…！
+PRINTFORM 「出でよ！！　天の磐船ぇ！！！		PRINTFORM「出来吧！！”天之磐船！！
+PRINTFORM 「暫し準備にかかる！　前線は頼んだぞ！		PRINTFORM「暂时准备一下！前线就拜托你了！
+PRINTFORM 「……食らえい！！　『大物忌正餐』！！！		PRINTFORM「……吃吧！！《大物忌正餐》！！
+PRINTFORM 「く、ふうぅぅ……でき、た…		PRINTFORM 「呜、呜呜……做好了，做好了…
+PRINTFORMDW 布都を舳先に乗せたまま巨大な船体が相手に突貫した…		PRINTFORMDW 布都を舳先に乗せたまま巨大な船体が相手に突貫した…
+PRINTFORM 「天へ！！　昇れええぇぇぇ！！！！		PRINTFORM「上天！！”上啊！！！！
+PRINTFORML ――――人の子の　勉むは国の　為なれど		PRINTFORML ―――人子的学习是为了国家
+PRINTFORML ――――天てらす　神の御末の　弥栄を		PRINTFORML ――天照耀神之御末的弥荣
+PRINTFORML ――――夕空の　輝く星も　曇りなし		PRINTFORML ——夕阳下闪耀的星星没有阴天
+PRINTFORML ――――古の　戦を偲び　我をもと		PRINTFORML ——怀念古老的战斗基于我
+PRINTFORML ――――立ち行かむ　せなに秋津を　掻き負ひて		PRINTFORML ——无路可走将秋津搂在怀里
+PRINTFORM 「待たせな！　矢の雨よ！　降り注げぃ！		PRINTFORM「别让我等！箭之雨啊！下个不停！
+PRINTFORM 「寄るな！　我に寄るなあっ！！		PRINTFORM「不要靠近！别靠近我啊！！
+PRINTFORM 「ふうぅ、あぁっ!!		PRINTFORM 「呼、啊!!
+PRINTFORM 「いやぁっ！！　こ、怖くなどないわ！！		PRINTFORM「哎呀！！这、一点都不可怕！！
+PRINTFORML 「物理的な結界でないと機能せぬか……		PRINTFORML「如果不是物理的结界就无法发挥作用……
+PRINTFORM 「か……貫通…か……		PRINTFORM「啊……贯通……啊……
+PRINTFORMD 布都は何やらドギマギしている…		PRINTFORMD 布都は何やらドギマギしている…
+PRINTFORM 「穿つ…！		PRINTFORM「穿……！
+PRINTFORM 「敵を一気に殲滅するぞ！！		PRINTFORM「一口气歼灭敌人！！」
+PRINTFORM 「我の弾幕は必殺よぉ！！		PRINTFORM「我的弹幕是必杀的！！
+PRINTFORM 「この窮地に外さぬ…！！		PRINTFORM「这绝不外乎是穷途末路…！！」
+PRINTFORM 「こ、この熱を……弾、にぃ……ゃあ…		PRINTFORM 「这，这种热……子弹、妮……哎呀……
+PRINTFORMDW 布都が放った弾は、へろへろと力ない軌道を描いて飛んだ…		PRINTFORMDW 布都が放った弾は、へろへろと力ない軌道を描いて飛んだ…
+PRINTFORM 「我の妙技を見よ！		PRINTFORM「看我的妙技吧！
+PRINTFORM 「これが！　弾の扱い方だっ！		PRINTFORM「这个！子弹的使用方法！
+PRINTFORM 「とくと馳走してやろう		PRINTFORM「我给你特地跑一趟吧
+PRINTFORM 「ここで大敗するわけには……		PRINTFORM「不能在这里大败……
+PRINTFORM 「く、ぅ……せ、ぇ一杯！　撃つ！		PRINTFORM 「唔、唔……喂，喝一杯！开枪！
+PRINTFORM 「強者は一にて二も五をも得るのだ		PRINTFORM「强者可以一而二、五
+PRINTFORM 「下がれ三下共ぉ！！		PRINTFORM 「退下三下！！
+PRINTFORM 「暴虐、かつ繊細に！		PRINTFORM「暴虐且纤细！
+PRINTFORM 「礼を言おう！　往時の感覚が戻ってきた		PRINTFORM 「道谢吧！过去的感觉回来了
+PRINTFORM 「そこ、だぁ……っ！！		PRINTFORM「那里，啊……啊！！
+PRINTFORM 「集中……しゅうちゅう……しゅう、ちゅう……		PRINTFORM「集中……周中……周、中……
+PRINTFORM く、いかんいかん…		PRINTFORM 可译为“无奈……」
+PRINTFORMDL 何やら違う事を考えていたようだ…。		PRINTFORMDL 何やら違う事を考えていたようだ…。
+PRINTFORM 「間断なく射る！		PRINTFORM「不停地射！
+PRINTFORM 「うぅ…踏み込みもままならぬ……		PRINTFORM 「呜…无法下手……
+PRINTFORMDW 布都は内股気味で攻撃を行った…		PRINTFORMDW 布都は内股気味で攻撃を行った…
+PRINTFORM 「武事有る者はまた文事有り……逆もまた然り、ぞ		PRINTFORM「有武者有文事……反过来也是，哦
+PRINTFORM 「武芸は我の得意とする所……		PRINTFORM「武艺是我所擅长的……
+PRINTFORM 「麁鹿火殿の御霊よ、我に力を！		PRINTFORM 鹿火殿的灵啊，赐予我力量！
+PRINTFORM 「ええぃ、やはり遠距離戦は性に合わん！！		PRINTFORM「哎，果然远距离战不合性啊！！
+PRINTFORM 「これならかわせまいっ！		PRINTFORM「这个就不要弄了！
+PRINTFORM 「その動き、始めから計算のうちよっ！！		PRINTFORM「这个动作，从开始算起！！
+PRINTFORM 「悪く思うでないぞぉ！		PRINTFORM「不要觉得不好哦！
+PRINTFORM 「あえて言おう！　これが戦だ！		PRINTFORM「硬要说吧！这就是战斗！
+PRINTFORM 「ぐうぅ……そ、そろそろ離せ！　は、なせぇ！！		PRINTFORM「呼……那、差不多该离开了！喂、喂！！
+PRINTFORML 「ふ、あ………ああ………」		PRINTFORML 「呼、啊……」啊啊……」
+PRINTFORM (ぬ…けねば…ならぬ……の、にぃ……		PRINTFORM (ぬ…不然的话……不是……的、二……
+PRINTFORML )		PRINTFORML )
+PRINTFORML 「ひ、きゃあっ！！　ううぁっ！！」		PRINTFORML「哎，哎呀！！呜呜呜！！」
+PRINTFORML 「く、うぅ……ち、力が…」		PRINTFORML 「呜、呜……力量……」
+PRINTFORML 「じゃ、邪魔するなぁっ！！　ひ、ひぎぃっ！！」		PRINTFORML「那，别妨碍我了！！”哇，好热闹！！」
+PRINTFORML 「あ…あ、あぁ…………」		PRINTFORML 「啊…啊、啊……」
+PRINTFORMDL 布都は腰をガクガク揺らして達している…		PRINTFORMDL 布都は腰をガクガク揺らして達している…
+PRINTFORML 「ふああぁっ?!」		PRINTFORML「啊啊？」
+PRINTFORM 「お…抑え、られ、ぬっ……		PRINTFORM「哦……压抑、被压抑、被动……
+PRINTFORML 」 		PRINTFORML 」 
+PRINTFORML 「うーー！！！　ふむーーーっ！！！」		PRINTFORML 「呜ーー！！！！哼——！！！」
+PRINTFORML (出せっ！　出さぬかぁ！！)		PRINTFORML （出去！出来吧！！）
+PRINTFORML 「…………むーっ！！」		PRINTFORML「……哇！！」
+PRINTFORML (……い、今だなっ！！)		PRINTFORML (……喂，就是现在！！）
+PRINTFORM 「こ、のままではぁ……		PRINTFORM「就这样吧……
+PRINTFORM は……はやくぅ……抜けねば…」		PRINTFORM 是……快点……不拔的话……」
+PRINTFORM 「くっ！　我が貴様の思い通りになると思うな！		PRINTFORM 「哇！别以为我会如你所愿！
+PRINTFORM 「この拘束を解いた時が貴様の最期だ！		PRINTFORM「解除这个拘束的时候就是你的临终了！
+PRINTFORM 「だ、からっ…！　は、な、せっ！！」		PRINTFORM 「因为，所以…！喂、喂！！」
+PRINTFORML 「こ、これ以上何かすると承知せんぞ！！		PRINTFORML「这，我可不同意再做点什么了！！」
+PRINTFORML 「……ぐっ。されるがままとは情けない……		PRINTFORML「……哼。被欺负太可怜了……
+PRINTFORM 「さ……されるがままぁ……		PRINTFORM「那么……就这样吧……
+PRINTFORML ……あはぁ……」		PRINTFORML ……啊哈……」
+PRINTFORML 「き、貴様に猶予をやろう！！　わ、我を解放するなら今の、ひきゅうっ！！		PRINTFORML「喂，我给你缓期吧！！”哇，如果要解放我的话，就赶紧！！
+PRINTFORMW (……何も……見えぬ…………。味方も、我も)		PRINTFORMW (……没什么……看不见……。我方也好）
+PRINTFORMW 　・　・　・　・　・　・　		PRINTFORMW 　・　・　・　・　・　・　
+PRINTFORM (もう…この……快感しか、ぁ……		PRINTFORM (已经……这……除了快感，啊……
+PRINTFORMW )		PRINTFORMW ）
+PRINTFORM 「…………う、はぁ……		PRINTFORM「……呜、哈……
+PRINTFORMW 」		PRINTFORMW 」
+PRINTFORMW (そう、だ……どうせ逃れえぬ、なら……この…快楽、を…………)		PRINTFORMW （是啊……反正不能逃避的话……这个……快乐……）
+PRINTFORM 「え、へへへぇ……		PRINTFORM 「诶，嘿嘿……
+PRINTFORM 「…だ、め…………も……		PRINTFORM「…是、め…………也……
+PRINTFORM 「こ、の…痴れ者がぁ……っ		PRINTFORM 「こ、の…痴呆者……啊
+PRINTFORM 「ま…まだ我の動くときではない……		PRINTFORM「嘛……还没到我该动的时候……
+PRINTFORML 「ひぃっ！　はあぁっ！！　来てるっ！！　きておる、かあっ！！！」		PRINTFORML 「嘿！啊！！来了！！我回来了，啊！！！」
+PRINTFORML 「ひ、やあああぁぁっっ！！」		PRINTFORML「哎呀，啊啊啊啊啊！！」
+PRINTFORMDW 布都はだらしなく舌を突き出して自らが生んだ快感に酔い痴れている…		PRINTFORMDW 布都はだらしなく舌を突き出して自らが生んだ快感に酔い痴れている…
+PRINTFORMDW (ひゃあああぁぁ！！　		PRINTFORMDW (ひゃあああぁぁ！！　
+PRINTFORM 「わ…我のぉ、自慰がぁ……		PRINTFORM「哇……我啊，自慰啊……
+PRINTFORM 見られる、の、だぁ……		PRINTFORM 能看见吗？啊……
+PRINTFORMW 「あ…ありがたくぅ……ふ、ふうううぅっっ！！」		PRINTFORMW 「啊…谢谢你……呼、呼呼！！」
+PRINTFORM 「な、ぜだぁ……		PRINTFORM 「什、为什么啊……
+PRINTFORM 腰がぁ……かって、にぃ……！		PRINTFORM 腰啊……啊、什么……！
+PRINTFORML 「いやぁ！　嫌なのだっ！　ひうっ！！　へ、はああぁっ！！」		PRINTFORML「哎呀！讨厌啊！哇！！嘿，啊啊！！」
+PRINTFORM 「へこへこぉ……へこへこが止まらぬぅ……あひゃああぁぁ……		PRINTFORM「嘿嘿嘿……气死我了……啊啊啊啊啊啊……
+PRINTFORML 「な……なぜ我が…こ、んな…っ！！」		PRINTFORML「什……为什么是我…这、那…啊！！」
+PRINTFORMW 「く、そぉっ！　見るな！　見るなぁっ！！」		PRINTFORMW 「这、那！别看！别看啊！！」
+PRINTFORML 「こ……この程度の辱めぇ…………我に、ふぁあぁっっ！！」		PRINTFORML「这……这种程度的耻辱…………对我、呵呵！！」
+PRINTFORMW 「ひゅぐううぅ！！　ひゃ、ひゃよおおぉっ！！」		PRINTFORMW 「呜呜呜！！哎呀，哎呀！！」
+PRINTFORM 「や、やめろっ！　こんな所を責めるなどっ！　どうか…し、ておるっ		PRINTFORM 「呀，住手！不要在这种地方责备我！请……有、在
+PRINTFORM 「後生だ……ここはぁ…っ		PRINTFORM「我是后生……这里啊……啊
+PRINTFORM 「わ…われの胸など弄ってもつまらないであろう……っ！		PRINTFORM「哇……我的胸膛，即使玩弄也是无聊的……啊！
+PRINTFORM 「こ…こんなもの！　嬲るでないわ		PRINTFORM「这……这样的东西！嘲弄我吧
+PRINTFORM 「す、好きにはさせぬっ！		PRINTFORM「不，我不会让你喜欢上的！
+PRINTFORML 「くっ…や、めろぉ……！　それ、だ、けはぁっ！！！」		PRINTFORML 「呃…哎、可恶……！那个、是、けはぁ！！！」
+PRINTFORM 「……貴様の様な人外がっ…！！　触れて良い場所と思うなッ！！		PRINTFORM「……你这样的人真外行…！！别以为是碰触的好地方！！
+PRINTFORML 「く、……よ、せっ！……う、あ…」		PRINTFORML 「く，……哟，喂！……呜、啊……」
+PRINTFORMDW 敵の攻撃を受けた部分がジンジンと甘い熱を持って疼き始めた…		PRINTFORMDW 敵の攻撃を受けた部分がジンジンと甘い熱を持って疼き始めた…
+PRINTFORML 「ぐはぅっ……や、やめ…………」		PRINTFORML「唔哈……不、算了……」
+PRINTFORM 「ふんっ！　大事ないわ		PRINTFORM「哼！不重要
+PRINTFORML 「……ひいっ！」		PRINTFORML「……嘿！」
+PRINTFORML 「待て……！　この方角はっ……」		PRINTFORML「等等……！这个方向是……」
+PRINTFORM 「き、効かぬ！　効かぬわぁ！		PRINTFORM 「き、効かない！无效啊！
+PRINTFORM 「そ…その程度か		PRINTFORM「そ…就那种程度
+PRINTFORM 「す……少しはやるようだな……っ		PRINTFORM 「す……好像有点儿做啊……啊
+PRINTFORM 「それだけか？		PRINTFORM「就这些吗？
+PRINTFORM 「煩いだけよ！		PRINTFORM「只是吵闹而已！
+PRINTFORM 「無駄だぁ！！		PRINTFORM「没用啊！！
+PRINTFORML 「くっ……まさか服を…？」		PRINTFORML「呃……难道是衣服…？」
+PRINTFORM 「将を射んとするにはまず馬を……というわけだな？		PRINTFORM「想要射将首先要射马……就是这样吧？
+PRINTFORML 「や、やめろぉ……もう許してくれ！」		PRINTFORML 「呀，别说了……原谅我吧！」
+PRINTFORML 「ぐぐ……、これではもう着れぬ……」		PRINTFORML「咕嘟……这样的话已经不能穿了……」
+PRINTFORML 「く、そぉ……これ以上何を……」		PRINTFORML 「く、そう……除此之外还有什么……」
+PRINTFORML 「ひやぁぁ！！　止めろ！　や、あっ！」		PRINTFORML「哎呀！！住手！啊，啊！」
+PRINTFORM 「我に当たっておらぬわ！		PRINTFORM「我没打中你！
+PRINTFORM 「どうした！　掠っただけだぞ！		PRINTFORM「怎么了！只是掠过了！
+PRINTFORML 「い、いぎいいいいいいぃぃぃっっ！！！！！？？！？！？！」		PRINTFORML 「い、ぎぎいいいいいいいいいぃっ！！！！？！？！？！？！？！！！！」
+PRINTFORML 「うぁ…う、うひゃあああああぁぁぁっっ！！！！」		PRINTFORML「啊…呜、呜呜啊啊啊啊啊啊啊啊啊！！！」
+PRINTFORML 「や、めぇ、よおおおおおおおぉぉぉっっ！！　う、はあぁぁっ！！」		PRINTFORML 「呀，你，哦哦哦哦哦哦哦哦哦哦哦！！呜、啊啊啊！！」
+PRINTFORML 「イっておる、ぅ！！　からぁ！！」		PRINTFORML「好啊，嗯！！因为啊！！」
+PRINTFORML 「あがはああああぁぁぁっ！！！　おご、があああぁぁぁっ！！！！」		PRINTFORML「啊啊啊啊啊啊啊啊啊啊啊！！！”下巴，啊啊啊啊啊啊！！！」
+PRINTFORML 「ひっ！！　やめろ、やめてくれえええええええぇぇぇぇっっ!?!」		PRINTFORML「嘿！！住手，住手，啊啊啊啊啊！？」
+PRINTFORML 「ひいぃぃ……う、嘘?!　わ、我がこ、んなあぁぁぁっ！」」		PRINTFORML「喂……哇，骗人的？！哇，我这个，怎么回事啊！”」
+PRINTFORML 「う、あああぁぁぁっ?!　な、何かキておるううぅぅ！！！」		PRINTFORML 「呜、啊啊啊啊啊？！什、在发什么火啊呜！！！！」
+PRINTFORML 「ふああ、あ、あぁぁぁ……あ、ああぁぁっ！！！！」		PRINTFORML「呵呵，啊，啊啊……啊，啊啊啊！！！」
+PRINTFORML 「いぐぅ！！　ひっ?!　だ、駄目だ駄目だだめだぁっ！！」		PRINTFORML 「呼！！啊？！不行不行不行不行！！」
+PRINTFORML 「だ…から、そ、こは、ふぁ、う、ああぁぁ……」		PRINTFORML「啊…所以，这、这、呵、呜、啊啊……」
+PRINTFORML 「えぇい、しつこ、っ！　くううぅぅ……！」		PRINTFORML 「哎，执拗，哎！呜呜呜……！」
+PRINTFORML 「や…めよ……これ以上、はあぁぁ……」		PRINTFORML「哎呀……”眼睛……除此之外，啊……」
+PRINTFORML 「ふ、あ、はあぁ！　い、ひやあぁぁ！！！」		PRINTFORML 「呼、啊、啊啊！嘿，哎呀！！！」
+PRINTFORML 「お、おいっ!?　そこは違うぞ！」		PRINTFORML「喂，喂！？那里不对！」
+PRINTFORML 「くっ……我の胸など相手にせんでよいわ……」		PRINTFORML「呃……不要理会我的心……」
+PRINTFORML 「ひ…い、いや、無駄だ！」		PRINTFORML「日…不，不，没用！」
+PRINTFORML 「ふ、ふん……！　全く効きなどせんわ」		PRINTFORML「哼、哼……！完全没有效果」
+PRINTFORML 「わ、我を、食べる、のか……？　い、やあ……」　		PRINTFORML「哇，是我吃吗……？喂、哎呀……」　
+PRINTFORML 「や、め……うもーっ！　むぐーっ！！」		PRINTFORML 「哎、め……呜呜！唔唔！！」
+PRINTFORML 「キリがないわ……くっ?!」		PRINTFORML「没完没了……什么？」
+PRINTFORML 「まだまだぁ！　……っ！！　ふっ、不覚っ！！」		PRINTFORML「还差得远呢！……啊！！呼，不小心！！」
+PRINTFORML 「く…、かわし、きれっ?!　くうっ！」		PRINTFORML 「く…卡哇，断了？！哇！
+PRINTFORMDL 触手は布都の一瞬の隙をついた！ 		PRINTFORMDL 触手は布都の一瞬の隙をついた！ 
+PRINTFORML 「ひいぃ……、もう…われが、わるかった……。あやまる……あやま、う、ああぁぁ……」		PRINTFORML「喂…………我错了……。道歉……啊呀、呜、啊啊……」
+PRINTFORML 「待てぇ！　今は…今はま…ず、んあああぁぁぁ！！」		PRINTFORML 「等一下！现在是……现在还……嗯，啊啊啊啊！！」
+PRINTFORML 「く、そ！　くそおぉぉ！！　うあああぁぁぁぁっっ！！」		PRINTFORML 「可恶、そ！该死的！！呜啊啊啊啊啊啊啊！！」
+PRINTFORMDW 布都は死に物狂いで暴れたが、抵抗虚しく触手の汚らわしい白濁液が布都の胎内に満たされた…		PRINTFORMDW 布都は死に物狂いで暴れたが、抵抗虚しく触手の汚らわしい白濁液が布都の胎内に満たされた…
+PRINTFORML 「ぐうッ！　き、貴様ぁ…原型を留めていら、あッ！　ひゃうっ！！」		PRINTFORML「呜呜！你、你这家伙……如果留下了原型，啊！哎呀！！」
+PRINTFORML 「ころ、すうぅぅ……我がぁ…いああぁぁっ！！」		PRINTFORML 「ころ、ううう……我啊…啊啊啊啊啊！！」
+PRINTFORML 「ぐ、う…ひゃ、あ、ああぁぁっ！！」		PRINTFORML「唔，唔……哎呀，啊，啊啊啊！！」
+PRINTFORM 「小手先だけで我が倒せるか！		PRINTFORM「只用小手指就能打倒我吗！
+PRINTFORM 「ふん！　なんだこの……粉…………は		PRINTFORM「哼！这是什么……粉…………野猪
+PRINTFORML ……くー…くー……」		PRINTFORML ……嗯……呃……」
+PRINTFORMDL 怪しい花粉を吸い込んだ布都はその場で座り込んで寝息を立て始めた。		PRINTFORMDL 怪しい花粉を吸い込んだ布都はその場で座り込んで寝息を立て始めた。
+PRINTFORM 「こ、このようなまやかし……我には通じぬわぁ…		PRINTFORM 「こ、こ、このまやし……对我不通啊……
+PRINTFORMDW 布都は頬を赤く上気させ、内腿を擦り合わせている…。		PRINTFORMDW 布都は頬を赤く上気させ、内腿を擦り合わせている…。
+PRINTFORM 「くっ！　我の意思ではない！　わりぇの、い、しではぁ……		PRINTFORM 「哇！不是我的意思！那个……那个……
+PRINTFORMDW 布都は息を荒げ、自らを慰め始めた…。		PRINTFORMDW 布都は息を荒げ、自らを慰め始めた…。
+PRINTFORML 「う……」		PRINTFORML「嗯……」
+PRINTFORM 「何をしておるかっ！！　気味の悪いっ！！		PRINTFORM「你在干什么！！真恶心！！
+PRINTFORML 「我の、を吸って何が面白いというのだ…！　は、なれんかぁ……！」		PRINTFORML「抽我的烟有什么好玩的……！是、不能成为啊……！」
+PRINTFORML 「ひ、や……う、そ……」		PRINTFORML「哎……呜、そ……」
+PRINTFORM 「ひきゅうっ！！　ひっ　ひゃああああぁぁぁ！！！		PRINTFORM「加油！！啊啊啊啊啊啊啊啊！！！
+PRINTFORML 「ううぅ……か、体の自由が効かぬ！　やぁ……と、まれぇ……」		PRINTFORML「呜呜……身体的自由无效！哎呀……哎、哎……」
+PRINTFORM 「ひゃあぁ……ふ、触れるなぁ…っ！　我にふれるなあぁっ		PRINTFORM「哎呀……呼、不要碰啊…啊！不要碰我啊
+PRINTFORML 」		PRINTFORML 」
+PRINTFORML 「そ……んな」		PRINTFORML「そ……什么？」
+PRINTFORML 「当てねば……ならぬ」		PRINTFORML「不猜的话……」
+PRINTFORM 「ほう……よく避けたな		PRINTFORM「哦……你避开了
+PRINTFORM 「我の一撃を……さてはおぬしも尸解仙…？		PRINTFORM「我的一击……那么你也是尸解仙…？
+PRINTFORM 「えぇい、避けるでない！　当たれぇ！		PRINTFORM「喂，不要躲！中了！
+PRINTFORM 「くぅ……窮地にあって負けぬ！		PRINTFORM「唔……在困境中绝不认输！
+PRINTFORM 「一撃たりとも食らえぬな		PRINTFORM「一击也不能吃
+PRINTFORM 「鈍いわ！		PRINTFORM「好迟钝啊！
+PRINTFORM 「ふん、止まって見えおる！		PRINTFORM「哼，我看起来停了！
+PRINTFORM 「貴様の攻撃を食らうなど末代までの恥よ！		PRINTFORM「被你的攻击，直到末代都是耻辱！
+PRINTFORML 「や、今は……無理、だ……」		PRINTFORML「呀，现在……不行、不行……」
+PRINTFORM 「この色情魔が……		PRINTFORM「这个色情魔……
+PRINTFORM 「当たってやれぬな！		PRINTFORM「不能中奖！
+PRINTFORM 「くっ……間一髪だな		PRINTFORM「呃……千钧一发啊
+PRINTFORM 「狙いは良い。が、当たらぬわ		PRINTFORM「目标很好。不中了。
+PRINTFORM 「我を生け捕りとは…嘗められたものよ		PRINTFORM「所谓活捉我……”尝过的东西
+PRINTFORML 「ひいぃ！　止めろ、止めてくれぇ！！」		PRINTFORML「嘿！住手，住手！！」
+PRINTFORML 「何をする気だ……っ?!」		PRINTFORML「你想干什么……啊?!」
+PRINTFORML 「それはっ！　は、離れろっ！」		PRINTFORML「那是！离开我！」
+PRINTFORM 「弱いわぁ！		PRINTFORM「好弱啊！
+PRINTFORM 「次ぃ！		PRINTFORM「下次！
+PRINTFORML 「ぐぅ……このような、辱めぇ……」		PRINTFORML「呼……这样的、耻辱……」
+PRINTFORML 「くぅ…我の、服が……っ！」		PRINTFORML 「唔…我的衣服……啊！」
+PRINTFORML 「な、何だ?!」		PRINTFORML 「什、什么？！」
+PRINTFORM 「太子様、我に気遣いは無用です！		PRINTFORM「太子大人，不用担心我！
+PRINTFORM 「すまぬな、屠自古		PRINTFORM「不好意思啊，屠自古
+PRINTFORM 「ふむ、有難く頂戴しよう		PRINTFORM 「嗯，谢谢
+PRINTFORM 「ふふ……。どうした？		PRINTFORM「呵呵……。怎么了？
+PRINTFORML 布都は不敵に笑っている…		PRINTFORML 布都笑得很凶……
+PRINTFORM 「全ては我が掌の上よ……		PRINTFORM「一切都在我掌心……
+PRINTFORML 「に…にげられた……のか……？」		PRINTFORML「に…被逃跑了……吗……？」
+PRINTFORML 「ふふん、ぅ……よ、かった……これでぇ…」		PRINTFORML「哼，哼……啊，好痛……就是这样……」
+PRINTFORMDW 布都は股間に両手を重ね、濡れぼそったヴァギナを弄りながら蕩けた表情をしている…。		PRINTFORMDW 布都は股間に両手を重ね、濡れぼそったヴァギナを弄りながら蕩けた表情をしている…。
+PRINTFORM 「と、ともかく、生きる…！　それが全てだ……		PRINTFORM「总之，我活着……！这就是全部……
+PRINTFORM 「君子、危うきに、ちかぁ…寄らず、だぁ…… 		PRINTFORM「君子，危险，近乎……不靠近，啊…… 
+PRINTFORM 「勝算が立つまで、一度離れるべきだな		PRINTFORM「在胜算成立之前，应该先离开一次啊
+PRINTFORM 「よし、……追っては来ぬようだな		PRINTFORM「好，……不要追过来啊
+PRINTFORM 「ふ、撤退も策の内よ！		PRINTFORM「呼，撤退也在策略之内！
+PRINTFORML 「やぁ……。……う……………」		PRINTFORML「哎呀……。……呜……」
+PRINTFORM 「……か、勝てば官軍…だな		PRINTFORM「……胜者为官军……架子
+PRINTFORM 「一度、建て直そうではないか…		PRINTFORM「是不是要重建一次……
+PRINTFORM 「ひゅうーー……。ひうー……。かっ…たぁ」		PRINTFORM 「呼—……。哇……。啊…啊」
+PRINTFORM 「これ、でぇ……		PRINTFORM「这个……
+PRINTFORMW 「くぉーー……くーー…………」		PRINTFORMW「哇……唔……」
+PRINTFORM 「貴様等の不運は……相手が我だった。ただそれだけよ		PRINTFORM「你们的不幸……对方是我。只是如此而已
+PRINTFORM 「勝って甲の緒を締めよ……だ		PRINTFORM「赢了就关上甲绳吧……是
+PRINTFORM 「無謀の輩に我の相手は勤まらぬわ		PRINTFORM「对于鲁莽之辈，我的对手是不会工作的
+PRINTFORM 「貴様等では役不足よ！		PRINTFORM「你们这些人大材小用了！
+PRINTFORM 「強靱、無敵、最強……だな？		PRINTFORM「坚强、无敌、最强……是吧？
+PRINTFORM 「二兎を追う者は一兎をも得ず……だな？		PRINTFORM「追二兔者不得一兔……是吧？
+PRINTFORML 「や、だっ！　……離せぃ！」		PRINTFORML 「呀，什么！……放开我！」
+PRINTFORML 「この下衆がぁ！　さっさとくたばれぇ……」		PRINTFORML「这下人啊！快点给我滚开……」
+PRINTFORM 「一気に叩く！		PRINTFORM「一口气打！
+PRINTFORM 「勝てば良かろうなのだぁ！		PRINTFORM「赢了就好了！
+PRINTFORM 「貴様等に戦の作法など無用だな		PRINTFORM「你们这些家伙打仗的礼仪根本没用
+PRINTFORM 「始めは処女の如く！　後には脱兎の如く！		PRINTFORM「开始时像处女一样！后面像是脱兔！
+PRINTFORML 「ぐー…………」		PRINTFORML「唔……」
+PRINTFORM 「くっ！　満身創痍の身に奇襲！　上等だ！！		PRINTFORM 「哇！对满身创伤的身体奇袭！上等！！
+PRINTFORM 「ひゃ……あ、相手になってやる…わぁ……		PRINTFORM「哎呀……啊，作为对手…哇……
+PRINTFORM 「先手はくれてやるわ！		PRINTFORM「先下手吧！
+PRINTFORM 「我らは後の先を取る！		PRINTFORM 「我们要领先！
+PRINTFORM 「手数で勝敗は決せぬわ		PRINTFORM「不会因为麻烦而决出胜负的
+PRINTFORML 「おーい……駄目だ。完全にトんでおる…」		PRINTFORML「喂……不行。完全沉迷……」
+PRINTFORML 「青娥、ど、の……。いえ、何も」		PRINTFORML「青嫦娥，怎么了……。不，没什么」
+PRINTFORM 「おお青娥殿。ご機嫌は…良いはずがございませんな		PRINTFORM「青嫦娥殿。您好…….不应该很好啊
+PRINTFORM 「ふむ、我の為にしっかり働くのだ！		PRINTFORM「嗯，为了我好好工作！
+PRINTFORM 「我々で、必ず脱出するぞ		PRINTFORM「我们一定要逃脱！」
+PRINTFORML 「…………。……全て燃やしてしまえばよいのですか？」		PRINTFORML「……全部烧掉就可以了吗？
+PRINTFORML 「た、太子様……そのようにみだりに肌を露出させては……」		PRINTFORML 「太子殿下……像这样任意露出肌肤的话……」
+PRINTFORM 「我の力がご入用ですか？		PRINTFORM「需要我的力量吗？
+PRINTFORM 「太子様、ご無事で何よりでございます！		PRINTFORM「太子殿下，您没事比什么都好！
+PRINTFORMW 「かくーー」		PRINTFORMW「画家」
+PRINTFORMDW 布都は無防備に腹を出して眠っている…		PRINTFORMDW 布都は無防備に腹を出して眠っている…
+PRINTFORML 「うぅ……あまり近寄るな……何をするか自分でも分からんのだ……」		PRINTFORML「呜……不要太靠近……自己都不知道要做什么……」
+PRINTFORM 「わ、我の裸体がそんなにめずらしい……のか？		PRINTFORM「哇，我的裸体那么少见……吗？
+PRINTFORML 「うぅ……なぜおぬしはそう堂々とできるのだ……」		PRINTFORML「呜……为什么你会这么堂堂正正地做呢……」
+PRINTFORML 「み、見るな……顔が灼けそうだ……」		PRINTFORML「看，别看……脸快要灼热了……」
+PRINTFORML 「わ、我の本体は皿であってこのような形はあくまで写し身であってだな……」		PRINTFORML「哇，我的本体是盘子，这种形状彻底就是写身啊……」
+PRINTFORM 「その方角、あまり進まぬ方が良いぞ		PRINTFORM「这个方向还是不要前进的好
+PRINTFORM 「はかどっているか？　それは何よりだな		PRINTFORM「进展顺利吗？那比什么都好
+PRINTFORM 「我も独自に色々と調べていたところだ		PRINTFORM「我也在独自做各种各样的调查
+PRINTFORM 「ふむ、そちらの首尾はどうだ？		PRINTFORM 「嗯，那边的首尾怎么样？
+PRINTFORM 「では、我は露払いに勤しみますぞ！		PRINTFORM「那么，我们就尽情地付款吧！
+PRINTFORM 「では、武運を祈る		PRINTFORM「那么，祈祷武运吧
+PRINTFORM 「用心せよ		PRINTFORM「小心点
+PRINTFORM 「無事でまた会えれば良いな		PRINTFORM「平安无事地再见面就好了
+PRINTFORML 「そうですな…まずはここを固めてしまうのが上策かと……」		PRINTFORML「是啊……首先，把这里固定下来才是上策吧……」
+PRINTFORMW 「ええ、こちらからは我が、囮は幸い幾らでも……」		PRINTFORMW「恩，我们这边，幸好有诱饵……」
+PRINTFORML 「しかし、おぬしは亡霊で良かったな」		PRINTFORML「但是，你是亡灵就好了。」
+PRINTFORM 「今は屠自古が羨ましく思えるぞ		PRINTFORM「现在觉得屠自古很羡慕啊
+PRINTFORM 「貴公の話を聞かせてくれい		PRINTFORM「让我听听你的故事
+PRINTFORM 「ふふん、我の能力を持ってすればあらゆる障害を避ける事が可能だ		PRINTFORM「哼哼，只要有我的能力，就能够避免一切障碍」
+PRINTFORM 「敵が動く？　それは我の管轄外だな		PRINTFORM「敌人在动？那不归我管辖。
+PRINTFORML 「しかしこの世界は奇妙な事が起こるのだな」		PRINTFORML「可是这个世界会发生奇怪的事啊。」
+PRINTFORM 「今回が初めて？　そうなのか…		PRINTFORM「这次是第一次？是吗……
+PRINTFORM 「これも、尸解仙の修行の一つであるやもしれぬ。手抜きはできぬな		PRINTFORM「这也许也是尸解仙的修行之一。别偷工减料
+PRINTFORM 「彼方は進まぬ方が無難だ。気が塞がっておる		PRINTFORM「你最好不要前进。心里郁闷
+PRINTFORML 「此処が案外と根の国であったりしてな」		PRINTFORML「这里出乎意料的是根之国吧。」
+PRINTFORM 「我らは隠された、という事……だな		PRINTFORM「我们被隐藏了……架子
+PRINTFORM 「屠自古も巻き込まれたかもしれぬな」		PRINTFORM「屠宰自古说不定也被卷入其中」
+PRINTFORM 「あやつは怒らせぬ方が良いぞ、雷が落ちる、いや、比喩でなくてな…」		PRINTFORM「那家伙还是不要生气的好，雷劈了，不，不是比喻……」
+PRINTFORML 「しかし、この広い迷宮でよく出会えたものだ」		PRINTFORML「但是，在这个广阔的迷宫里我们经常相遇。」
+PRINTFORM 「僥倖、と言うべきだな		PRINTFORM「应该说是侥幸吧
+PRINTFORM 「敵を知り、己を知れば百戦危うからずということだな		PRINTFORM「知彼知己百战不殆」
+PRINTFORM 「刻舟と言えども、知っておいた方がよい…な		PRINTFORM「虽说是刻舟，还是事先知道为好……页眉
+PRINTFORML 「我が来た経路はこうだから……ここに……」		PRINTFORML「我来的路径是这样的……在这里……」
+PRINTFORM 「……捨て置けぬ		PRINTFORM「……无法置之不理
+PRINTFORM 「うむ、頼んだぞ		PRINTFORM「嗯，拜托你了
+PRINTFORM 「…我と共に行かなかった事、後悔しても知らぬぞ？		PRINTFORM「…你不和我一起去，后悔我也不知道。
+PRINTFORM 「宜しく頼むぞ		PRINTFORM「拜托你了
+PRINTFORM 「我に助力するとは……さてはおぬしも…		PRINTFORM「居然能助我一臂之力……不愧是……
+PRINTFORML 「……すまん。必ず戻るゆえ、暫し耐えてくれ」		PRINTFORML「……对不起。因为一定会回来，所以暂时忍耐一下吧」
+PRINTFORM 「よし、戦力を分散させ、効率化を図るとしよう		PRINTFORM「好，分散战力，谋求效率化。」
+PRINTFORMW 「ふむ…この突起を押せばよいのか？」		PRINTFORMW「嗯…按这个突起就可以了吗？」
+PRINTFORMW 「おお！　炎だ！　炎が出おった！！」		PRINTFORMW「哦！火焰！火焰冒出来了！！」
+PRINTFORM 「これは……捗るな		PRINTFORM「这是……别进展了
+PRINTFORMDL 布都は笑顔で火炎放射器をしまった…		PRINTFORMDL 布都は笑顔で火炎放射器をしまった…
+PRINTFORML 「ううぅぅぅ…………」		PRINTFORML「呜呜……」
+PRINTFORML 「この程度で、心が乱されるとは仙人失格……だぁ…あんな、こと……」		PRINTFORML「这种程度的打乱人心，是仙人失格……啊…那种事……」
+PRINTFORML 布都は自らの精神の弱さを恥じて、淫行を思い出しては赤面している…		PRINTFORML 布都为自己的精神软弱感到羞耻，一想到淫行就脸红……
+PRINTFORML 「ご…後生だ……この事は誰にもぉ……」		PRINTFORML「ご…我是后生……这件事对谁都……」
+PRINTFORML 「……！！！　…ひ…ぃ………」		PRINTFORML「……！！！…日…呃……」
+PRINTFORMDW もはや布都の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…		PRINTFORMDW もはや布都の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…
+PRINTFORM 「鎮まれぇ！		PRINTFORM「镇住我！
+PRINTFORM 「ふ、この秘術、一朝一夕で出来るものではない		PRINTFORM「哼，这个秘术，不是一朝一夕能做出来的。」
+PRINTFORM 「よし、少しは落ち着くことが出来るな		PRINTFORM「好，稍微冷静点吧
+PRINTFORML 「むー……」		PRINTFORML「唔……」
+PRINTFORMDL 布都は目を擦っている…		PRINTFORMDL 布都は目を擦っている…
+PRINTFORML 「眠いと、士気が下がるぞ」		PRINTFORML「困了的话，士气就会下降。」
+PRINTFORML 「………………ハッ！　ね、寝ておらぬ！　よもや寝ておらぬぞ！！　		PRINTFORML「…………哈！喂，睡不着！已经睡不着了！！　
+PRINTFORMW 「……………ぐぅ…」		PRINTFORMW「…………”呼……」
+PRINTFORM 「行くぞ！		PRINTFORM「走吧！
+PRINTFORM 　我に続けぇ！！		PRINTFORM 　我に続けぇ！！
+PRINTFORM 「中央突破こそ我が信条！		PRINTFORM「突破中央才是我的信条！
+PRINTFORM 「どうしたどうしたぁ！　我はここにおるぞ！！		PRINTFORM「怎么了！我在这里！
+PRINTFORML 「…………む、こっちだ」		PRINTFORML「……嗯，这边」
+PRINTFORMDW 布都は独特の歩法で気配を殺している…		PRINTFORMDW 布都は独特の歩法で気配を殺している…
+PRINTFORML 「あくまで…素早く、されど静かに…」		PRINTFORML「说到底……”虽然很快，但是很安静……」
+PRINTFORM 「何が起こるや分からぬ。常に心を一間先に置いて進め……		PRINTFORM「不知道会发生什么。常将心放在第一间前进……
+PRINTFORM 「伏兵に必要なものは、運とタイミング…だな		PRINTFORM「伏兵需要的东西是运气和时机……架子
+PRINTFORM 「伏せては死者の如く……		PRINTFORM「俯卧如死者……
+PRINTFORM 「ふふん、いつでも来るがよいわ		PRINTFORM「哼哼，什么时候来都可以
+PRINTFORM 「よし、少し斥候を行う		PRINTFORM 「好，稍微进行一下侦察
+PRINTFORM 「この地を知るのも悪手ではあるまい		PRINTFORM「知道这个地方也不是坏人。
+PRINTFORM 「用心して進まねばな…		PRINTFORM「要小心前进……
+PRINTFORM 「天、人、地の内の地を蔑ろには出来ぬな		PRINTFORM「不能轻视天、人、地内之地”。
+PRINTFORM 「ふむ、……我はあの方角をあたってみようか…		PRINTFORM「嗯，……我问问那个方向吧……
+PRINTFORM 「なるべく固まらず、離れすぎず探索をすべきだな…		PRINTFORM「尽可能不要固定，不要太过分离，应该进行探索……
+PRINTFORM 「我の施しであるぞ。感謝せよ		PRINTFORM 「这是我的施舍。要感谢
+PRINTFORM 「ふむ、これで良いか？		PRINTFORM「嗯，这样可以吗？
+PRINTFORM 「そのような余裕はないな		PRINTFORM「没有那样的余裕啊
+PRINTFORM 「貴重な物資を易々と渡すとでも？		PRINTFORM「很容易就把贵重的物资交给你？
+PRINTFORM 「我が出るまでもなかろう		PRINTFORM「用不着我出头吧
+PRINTFORM 「我の力が必要か？　いいだろういいだろう！！		PRINTFORM「需要我的力量吗？好吧！！
+PRINTFORM 「さあ行くぞ！　我の力を思い知るが良い！		PRINTFORM 「走吧！了解我的力量吧！
+PRINTFORM 「まだ我一人で十分だ		PRINTFORM「我自己一个人就够了
+PRINTFORM 「乱心か!?　ええい！　気を確かに持て！		PRINTFORM「乱心吗！？诶！要有心意！
+PRINTFORM 「油断したな！　食らうのじゃ！		PRINTFORM「大意了！吃吧！
+PRINTFORM 「油断したな！　食らうがよいわ！		PRINTFORM「大意了！吃好了！
+PRINTFORML 		PRINTFORML 
+PRINTFORMW 「お主も我の"どやがお"とやらが見たいのであろう？　そうだろうそうに決まっておる」		PRINTFORMW「你也想看我的‘どやがお’吧？”肯定是那样」
+PRINTFORMDL ADS(オールウェイズ・ドヤア・システム)をONにしますか？		PRINTFORMDL ADS(オールウェイズ・ドヤア・システム)をONにしますか？
+PRINTFORMDL (ONにすると布都ちゃんの語尾に(ﾄﾞﾔｧが付きます)		PRINTFORMDL (ONにすると布都ちゃんの語尾に(ﾄﾞﾔｧが付きます)
+PRINTFORMDL 		PRINTFORMDL 
+PRINTFORMDL [0] はい		PRINTFORMDL [0] はい
+PRINTFORMDL [1] いいえ		PRINTFORMDL [1] いいえ
+PRINTFORMDW ADSをONにしました！		PRINTFORMDW ADSをONにしました！
+PRINTFORM 「やはり…な。お主も我の復活を祝ってくれるのだな		PRINTFORM「果然……什。你也为我的复活而祝福吧
+PRINTFORMDW ADSをOFFにしました！		PRINTFORMDW ADSをOFFにしました！
+PRINTFORM 「そ、そうか。ならば我の勘違いだ。すまん		PRINTFORM 「そ、这样啊。那么是我错了。对不起
+PRINTFORM 「我の言う通りに動いておればよかったものを…		PRINTFORM「要是按照我说的去做就好了……
+PRINTFORM 「去る者は追わず……だな		PRINTFORM「去者不追……架子
+PRINTFORMW (ﾄﾞﾔｧ」		PRINTFORMW (乌贼斑驳」
+PRINTFORML (ﾄﾞﾔｧ」		PRINTFORML (乌贼斑驳」

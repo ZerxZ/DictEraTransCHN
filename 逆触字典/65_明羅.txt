@@ -1,893 +1,891 @@
-﻿//口上:
-
-PRINTCOLORW(0x7572fe, "「ふふん、我は脆弱な人の身を超え、思索の果てに万物斉同の境地に至った仙人である！」")	PRINTCOLORW(0x7572fe, "「ふふん、我は脆弱な人の身を超え、思索の果てに万物斉同の境地に至った仙人である！」")
-PRINTFORML 「……あい分かった。だが私は少しでもお前%TACHI()%の助けになるよう動く、構わんな？」	PRINTFORML 「……あい分かった。だが私は少しでもお前%TACHI()%の助けになるよう動く、構わんな？」
-PRINTFORML 探索{DAY}日目　%CALLNAME:(FLAG:10)%には、いくら感謝してもし足りない	PRINTFORML 探索{DAY}日目　%CALLNAME:(FLAG:10)%には、いくら感謝してもし足りない
-PRINTFORM 探索{DAY}日目　時間はある、剣も握れる、振り向けば%CALLNAME:(FLAG:10)%	PRINTFORM 探索{DAY}日目　時間はある、剣も握れる、振り向けば%CALLNAME:(FLAG:10)%
-PRINTFORML 探索{DAY}日目　敵の攻めが苛烈になってきた。長びけば長引くほど私たちは不利になるだろう	PRINTFORML 探索{DAY}日目　敵の攻めが苛烈になってきた。長びけば長引くほど私たちは不利になるだろう
-PRINTFORML 探索{DAY}日目　一体何のためにこの迷宮は存在するのか、小一時間考えたが答えは出なかった	PRINTFORML 探索{DAY}日目　一体何のためにこの迷宮は存在するのか、小一時間考えたが答えは出なかった
-PRINTFORML 探索{DAY}日目　隠しても隠さなくても、どうせ化け物には関係のないことだと最近わかった	PRINTFORML 探索{DAY}日目　隠しても隠さなくても、どうせ化け物には関係のないことだと最近わかった
-PRINTFORMDW 自分のナカからずるり、ずるりと這いだしてくる化け物とそれのもたらす想像を絶する痛みに	PRINTFORMDW 自分のナカからずるり、ずるりと這いだしてくる化け物とそれのもたらす想像を絶する痛みに
-PRINTFORMDW そう言うと明羅は%CALLNAME:1%が呼び止めるのも聞かずに迷宮の闇に消えた… 	PRINTFORMDW そう言うと明羅は%CALLNAME:1%が呼び止めるのも聞かずに迷宮の闇に消えた… 
-PRINTFORML 探索{DAY}日目　色々と液体を浴びる時は、衣服が濡れると消耗が激しいので裸も悪くない	PRINTFORML 探索{DAY}日目　色々と液体を浴びる時は、衣服が濡れると消耗が激しいので裸も悪くない
-PRINTFORML 探索{DAY}日目　ここで生まれた誰かの娘は本当に母親そっくりだが、擬態なのだろうか	PRINTFORML 探索{DAY}日目　ここで生まれた誰かの娘は本当に母親そっくりだが、擬態なのだろうか
-PRINTFORML 探索{DAY}日目　外に出て宴、というより一年ぐらいごろごろして暮らしたくなってきた	PRINTFORML 探索{DAY}日目　外に出て宴、というより一年ぐらいごろごろして暮らしたくなってきた
-PRINTFORML 探索{DAY}日目　私はどうやって来たのか、私はどこにいるのか、私はどこへ向かうのか	PRINTFORML 探索{DAY}日目　私はどうやって来たのか、私はどこにいるのか、私はどこへ向かうのか
-PRINTFORML 探索{DAY}日目　小説が落ちていた。「そして誰もいなくなった」か、縁起でもない……	PRINTFORML 探索{DAY}日目　小説が落ちていた。「そして誰もいなくなった」か、縁起でもない……
-PRINTFORML 「心配ないさ。先生がいなくなった後も、子供達は自主的に寺子屋で勉学に励んでいたよ」	PRINTFORML 「心配ないさ。先生がいなくなった後も、子供達は自主的に寺子屋で勉学に励んでいたよ」
-PRINTFORML 探索{DAY}日目　ときおり風の流れを感じる時がある。出口はある、諦めてはいけない	PRINTFORML 探索{DAY}日目　ときおり風の流れを感じる時がある。出口はある、諦めてはいけない
-PRINTFORML 探索{DAY}日目　人に言うことでは無いが、私の腹は無駄に肉もなく健康的であった。	PRINTFORML 探索{DAY}日目　人に言うことでは無いが、私の腹は無駄に肉もなく健康的であった。
-PRINTFORML 探索{DAY}日目　鞘は使えない事もない。剣も……いや、流石にそれは剣士失格だろう	PRINTFORML 探索{DAY}日目　鞘は使えない事もない。剣も……いや、流石にそれは剣士失格だろう
-PRINTFORML 探索{DAY}日目　私は自分で自分を正常と思っているが、他人がいないので判断し辛い	PRINTFORML 探索{DAY}日目　私は自分で自分を正常と思っているが、他人がいないので判断し辛い
-PRINTFORMW 「小柄で靭やかな白狼天狗の為にあるような剣だな。無論、私も扱えないことはないが」	PRINTFORMW 「小柄で靭やかな白狼天狗の為にあるような剣だな。無論、私も扱えないことはないが」
-PRINTFORMDW 子供の腕くらいありそうなそれを、しとどに濡れた明羅の女陰は簡単に受け入れた… 	PRINTFORMDW 子供の腕くらいありそうなそれを、しとどに濡れた明羅の女陰は簡単に受け入れた… 
-PRINTFORML 探索{DAY}日目　何が起こったのかまだ全く分からない、とにかく状況を把握せねば	PRINTFORML 探索{DAY}日目　何が起こったのかまだ全く分からない、とにかく状況を把握せねば
-PRINTFORML 探索{DAY}日目　集団だと見つかりやすいが、合力せねば脱出は難しいディレンマ…	PRINTFORML 探索{DAY}日目　集団だと見つかりやすいが、合力せねば脱出は難しいディレンマ…
-PRINTFORML 探索{DAY}日目　夢中で壁に体を擦り付けていた。誰かに見られていなかっだろうか	PRINTFORML 探索{DAY}日目　夢中で壁に体を擦り付けていた。誰かに見られていなかっだろうか
-PRINTFORML 探索{DAY}日目　ここは幻想郷なのか、もしそうなら大妖怪に文句の一つも言いたい	PRINTFORML 探索{DAY}日目　ここは幻想郷なのか、もしそうなら大妖怪に文句の一つも言いたい
-PRINTFORML 探索{DAY}日目　1、3、5、7、11、13、17、19、23、29、31……	PRINTFORML 探索{DAY}日目　1、3、5、7、11、13、17、19、23、29、31……
-PRINTFORML 探索{DAY}日目　迷宮は寒くはないので、風邪の心配はない。生暖かく気持ち悪いが	PRINTFORML 探索{DAY}日目　迷宮は寒くはないので、風邪の心配はない。生暖かく気持ち悪いが
-PRINTFORML 探索{DAY}日目　刀に、肌着に、治療費。また暫く粗食で暮らすことになりそうだ…	PRINTFORML 探索{DAY}日目　刀に、肌着に、治療費。また暫く粗食で暮らすことになりそうだ…
-PRINTFORML 「なぁ、護衛の人出が足りていなかったりしないか？　腕のいい女剣士がいるんだが」	PRINTFORML 「なぁ、護衛の人出が足りていなかったりしないか？　腕のいい女剣士がいるんだが」
-PRINTFORML 探索{DAY}日目　そういえば最近仲間を見かける事が少なくなった。無事だろうか	PRINTFORML 探索{DAY}日目　そういえば最近仲間を見かける事が少なくなった。無事だろうか
-PRINTFORML 探索{DAY}日目　壁の触手は弾力に富んでいて、切断して脱出するのは難しそうだ	PRINTFORML 探索{DAY}日目　壁の触手は弾力に富んでいて、切断して脱出するのは難しそうだ
-PRINTFORML 探索{DAY}日目　もう少し、見えない所も身だしなみに気をつけていればよかった	PRINTFORML 探索{DAY}日目　もう少し、見えない所も身だしなみに気をつけていればよかった
-PRINTFORML 探索{DAY}日目　そういえば囲炉裏の火をくすぶらせたままだったような。心配だ	PRINTFORML 探索{DAY}日目　そういえば囲炉裏の火をくすぶらせたままだったような。心配だ
-PRINTFORML 探索{DAY}日目　布団の虫干しをやりっぱなしだった。雨が降ってないことを祈る	PRINTFORML 探索{DAY}日目　布団の虫干しをやりっぱなしだった。雨が降ってないことを祈る
-PRINTFORML 探索{DAY}日目　外の空気が吸いたい。太陽が見たい。木々のざわめきを聞きたい	PRINTFORML 探索{DAY}日目　外の空気が吸いたい。太陽が見たい。木々のざわめきを聞きたい
-PRINTFORML 探索{DAY}日目　人は一人で生きていくことはできない。あながち間違っていない	PRINTFORML 探索{DAY}日目　人は一人で生きていくことはできない。あながち間違っていない
-PRINTFORMW 「あ、がああぁぁっぁ！！　ひ、ひろげるなああぁっ！！　痛い！　いたいぃ！！」	PRINTFORMW 「あ、がああぁぁっぁ！！　ひ、ひろげるなああぁっ！！　痛い！　いたいぃ！！」
-PRINTFORML 探索{DAY}日目　少しずつこの迷宮が分かってきた。なんと悪趣味な場所だ……	PRINTFORML 探索{DAY}日目　少しずつこの迷宮が分かってきた。なんと悪趣味な場所だ……
-PRINTFORML 探索{DAY}日目　ある意味、常に敵に囲まれているようなものだ。居心地が悪い	PRINTFORML 探索{DAY}日目　ある意味、常に敵に囲まれているようなものだ。居心地が悪い
-PRINTFORML 探索{DAY}日目　籠城では畳も土壁も食べる。そう思えば触手だって食えるのだ	PRINTFORML 探索{DAY}日目　籠城では畳も土壁も食べる。そう思えば触手だって食えるのだ
-PRINTFORML 探索{DAY}日目　休んでいるときに大声で誰かを呼びたくなるのをぐっと堪える	PRINTFORML 探索{DAY}日目　休んでいるときに大声で誰かを呼びたくなるのをぐっと堪える
-PRINTFORML 「いつも世話になっている。説明は聞けたもんじゃないがあの効き目は本物だな」	PRINTFORML 「いつも世話になっている。説明は聞けたもんじゃないがあの効き目は本物だな」
-PRINTFORMDW 明羅はその徹底的な蹂躙に身体を反らせ、声を上げることでしか反応できない…	PRINTFORMDW 明羅はその徹底的な蹂躙に身体を反らせ、声を上げることでしか反応できない…
-PRINTFORML 「いぎいいぃっ！！　痛いいぃっ！！　いたいいたいいたいいいいっっ！！！！」	PRINTFORML 「いぎいいぃっ！！　痛いいぃっ！！　いたいいたいいたいいいいっっ！！！！」
-PRINTFORML 探索{DAY}日目　泉があったらそのまま飛び込める点はこの格好を評価したい	PRINTFORML 探索{DAY}日目　泉があったらそのまま飛び込める点はこの格好を評価したい
-PRINTFORML 探索{DAY}日目　もしここから出れたら、里の蕎麦屋で月見蕎麦を食べたい		PRINTFORML 探索{DAY}日目　もしここから出れたら、里の蕎麦屋で月見蕎麦を食べたい	
-PRINTFORML 探索{DAY}日目　いっそ今腹を切れば(この先、筆が乱れていて読めない)	PRINTFORML 探索{DAY}日目　いっそ今腹を切れば(この先、筆が乱れていて読めない)
-PRINTFORML 探索{DAY}日目　私、この探索が終わったら、実家で花屋を継ぐんだ……		PRINTFORML 探索{DAY}日目　私、この探索が終わったら、実家で花屋を継ぐんだ……	
-PRINTFORML 探索{DAY}日目　おかしくなりそうだ。いや、もうおかしいのかもしれない	PRINTFORML 探索{DAY}日目　おかしくなりそうだ。いや、もうおかしいのかもしれない
-PRINTFORML 探索{DAY}日目　話していると、知らぬうちに笑っていた。不思議なものだ	PRINTFORML 探索{DAY}日目　話していると、知らぬうちに笑っていた。不思議なものだ
-PRINTFORMW 明羅のほぐれきった尻穴は、凶悪な太さのアナルバイブを易々と咥えこんだ…	PRINTFORMW 明羅のほぐれきった尻穴は、凶悪な太さのアナルバイブを易々と咥えこんだ…
-PRINTFORMDW 明羅の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…	PRINTFORMDW 明羅の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…
-PRINTFORML 探索{DAY}日目　こんな場所でいびきをかいて寝られる自分の神経を疑う	PRINTFORML 探索{DAY}日目　こんな場所でいびきをかいて寝られる自分の神経を疑う
-PRINTFORML 探索{DAY}日目　落ちているものを拾うことに抵抗を感じたのは初めてだ	PRINTFORML 探索{DAY}日目　落ちているものを拾うことに抵抗を感じたのは初めてだ
-PRINTFORML 探索{DAY}日目　壁に何かが飲み込まれていた。何かは分からなかったが	PRINTFORML 探索{DAY}日目　壁に何かが飲み込まれていた。何かは分からなかったが
-PRINTFORML 探索{DAY}日目　私が居なくなった事に気づいている人はいるのだろうか	PRINTFORML 探索{DAY}日目　私が居なくなった事に気づいている人はいるのだろうか
-PRINTFORML 探索{DAY}日目　妖怪でも妖精でも、自らの声に答えてくれる頼もしさよ	PRINTFORML 探索{DAY}日目　妖怪でも妖精でも、自らの声に答えてくれる頼もしさよ
-PRINTFORML 探索{DAY}日目　何にしても、話してみなければ分からないと言うことを	PRINTFORML 探索{DAY}日目　何にしても、話してみなければ分からないと言うことを
-PRINTFORMW 「随分と新参が増えたな。それでも比較的平穏なのだから不思議なものだ」	PRINTFORMW 「随分と新参が増えたな。それでも比較的平穏なのだから不思議なものだ」
-PRINTFORML 「私をどうしたいのだ！　なぁ！　こんな私をあざ笑うて楽しいか!?!」	PRINTFORML 「私をどうしたいのだ！　なぁ！　こんな私をあざ笑うて楽しいか!?!」
-PRINTFORMDW 明羅は怒りをどこにもぶつける事ができず、力なくその場に崩れ落ちた…	PRINTFORMDW 明羅は怒りをどこにもぶつける事ができず、力なくその場に崩れ落ちた…
-PRINTFORML 探索{DAY}日目　何かの役に立てばと思い、この手記を書くことにする	PRINTFORML 探索{DAY}日目　何かの役に立てばと思い、この手記を書くことにする
-PRINTFORML 探索{DAY}日目　二ヶ月か。思い返せば気の遠くなるように密な日々だ	PRINTFORML 探索{DAY}日目　二ヶ月か。思い返せば気の遠くなるように密な日々だ
-PRINTFORML 探索{DAY}日目　思考が纏まらない、宜しくないことばかり考えている	PRINTFORML 探索{DAY}日目　思考が纏まらない、宜しくないことばかり考えている
-PRINTFORML 探索{DAY}日目　思い出してみると、日常は素晴らしい物だと気づく		PRINTFORML 探索{DAY}日目　思い出してみると、日常は素晴らしい物だと気づく	
-PRINTFORML 探索{DAY}日目　裸の間どうやってこの手記を携帯していたかは秘密だ	PRINTFORML 探索{DAY}日目　裸の間どうやってこの手記を携帯していたかは秘密だ
-PRINTFORML 探索{DAY}日目　里の人間も相当数いなくなったはずだが姿が見えない	PRINTFORML 探索{DAY}日目　里の人間も相当数いなくなったはずだが姿が見えない
-PRINTFORML 探索{DAY}日目　戦闘中に敵に話しかけるのは我ながらどうかと思った	PRINTFORML 探索{DAY}日目　戦闘中に敵に話しかけるのは我ながらどうかと思った
-PRINTFORML 探索{DAY}日目　後ろに誰かがいてくれる。これほど心強い事はない　	PRINTFORML 探索{DAY}日目　後ろに誰かがいてくれる。これほど心強い事はない　
-PRINTFORML 探索{DAY}日目　あんた、などと呼んでいるがよそよそしいだろうか。	PRINTFORML 探索{DAY}日目　あんた、などと呼んでいるがよそよそしいだろうか。
-PRINTCOLORW(0xa68a37, "「明羅も運の悪さは変わってないのです」")	PRINTCOLORW(0xa68a37, "「明羅も運の悪さは変わってないのです」")
-PRINTFORML 「しかし、今は合力してここを出てやろう。それが一番の近道だからな」	PRINTFORML 「しかし、今は合力してここを出てやろう。それが一番の近道だからな」
-PRINTFORML 「今回は相当危険なようだな……いや、むしろ幻想郷は大丈夫なのか？」	PRINTFORML 「今回は相当危険なようだな……いや、むしろ幻想郷は大丈夫なのか？」
-PRINTFORMDW 明羅は舌を出して眉間にしわを寄せ、何とも言えない表情をしている…	PRINTFORMDW 明羅は舌を出して眉間にしわを寄せ、何とも言えない表情をしている…
-PRINTFORML 「いがああぁぁ！　ゆ、ゆっくりでいい！！　あばれないでえぇっ！！」	PRINTFORML 「いがああぁぁ！　ゆ、ゆっくりでいい！！　あばれないでえぇっ！！」
-PRINTFORML 探索{DAY}日目　焦りは禁物だ。しかし早く出たいのも事実ではある	PRINTFORML 探索{DAY}日目　焦りは禁物だ。しかし早く出たいのも事実ではある
-PRINTFORMDL 頼りない線が一本だけ書かれている。何か書こうと思ってやめたらしい	PRINTFORMDL 頼りない線が一本だけ書かれている。何か書こうと思ってやめたらしい
-PRINTFORML 探索{DAY}日目　私は…………から……死…かも……………人………	PRINTFORML 探索{DAY}日目　私は…………から……死…かも……………人………
-PRINTFORML 探索{DAY}日目　消えた人数に対して、ここにいる人数が少なすぎる	PRINTFORML 探索{DAY}日目　消えた人数に対して、ここにいる人数が少なすぎる
-PRINTFORML 探索{DAY}日目　敵を見たらにやけてしまうのをどうにかしなければ	PRINTFORML 探索{DAY}日目　敵を見たらにやけてしまうのをどうにかしなければ
-PRINTFORML 探索{DAY}日目　それでも博霊なら……何とかしてくれないだろうか	PRINTFORML 探索{DAY}日目　それでも博霊なら……何とかしてくれないだろうか
-PRINTFORML 探索{DAY}日目　人間賛歌は命の喜び！　生きることの素晴らしさ！	PRINTFORML 探索{DAY}日目　人間賛歌は命の喜び！　生きることの素晴らしさ！
-PRINTFORML 「か、かくなる上は蜘蛛の動きをヒントに編み出した必殺剣技を……」	PRINTFORML 「か、かくなる上は蜘蛛の動きをヒントに編み出した必殺剣技を……」
-PRINTFORML 「何回かあそこで迷って案内してもらったな。その節はかたじけない」	PRINTFORML 「何回かあそこで迷って案内してもらったな。その節はかたじけない」
-PRINTFORML 「"のんこんばたんと"のお前にはここは辛かろう。私について来い」	PRINTFORML 「"のんこんばたんと"のお前にはここは辛かろう。私について来い」
-PRINTFORMW 「これより我らは一心同体。我が身を剣としてあんたを守ってやろう」	PRINTFORMW 「これより我らは一心同体。我が身を剣としてあんたを守ってやろう」
-PRINTFORML 「人は月に花にと口実を付けて酒を飲むが、流石に触手にはなぁ……」	PRINTFORML 「人は月に花にと口実を付けて酒を飲むが、流石に触手にはなぁ……」
-PRINTFORMDW 明羅は抱くようにして守っていた刀を杖代わりに何とか立ち上がった	PRINTFORMDW 明羅は抱くようにして守っていた刀を杖代わりに何とか立ち上がった
-PRINTFORML 探索{DAY}日目　無性に誰かと会ってどうでもいいことを話したい	PRINTFORML 探索{DAY}日目　無性に誰かと会ってどうでもいいことを話したい
-PRINTFORMDL 腹を突き破るような感覚と一歩遅れてやってきたすさまじい快感に	PRINTFORMDL 腹を突き破るような感覚と一歩遅れてやってきたすさまじい快感に
-PRINTFORML 「あ…ああぁ！　は、な、せええええぇ！　ひぎいいいぃっ！！！」	PRINTFORML 「あ…ああぁ！　は、な、せええええぇ！　ひぎいいいぃっ！！！」
-PRINTFORML 「この人でなし！　触手！　外道おぉ！！　う、うああぁぁっ！！」	PRINTFORML 「この人でなし！　触手！　外道おぉ！！　う、うああぁぁっ！！」
-PRINTFORML 「襤褸は着ようが心は錦……襤褸もない？　これは一本とられたな」	PRINTFORML 「襤褸は着ようが心は錦……襤褸もない？　これは一本とられたな」
-PRINTFORMW 「いつもは…山に籠もっているか、家で怠惰に暮らしておるかだな」	PRINTFORMW 「いつもは…山に籠もっているか、家で怠惰に暮らしておるかだな」
-PRINTFORML 「あ、説法を拝聴させて貰った事があるな。うん、あれは眠かった」	PRINTFORML 「あ、説法を拝聴させて貰った事があるな。うん、あれは眠かった」
-PRINTFORMDW 明羅は顔を真っ赤にしながらも、袋にそれらの道具を突っ込んだ…	PRINTFORMDW 明羅は顔を真っ赤にしながらも、袋にそれらの道具を突っ込んだ…
-PRINTFORMW 「うああぁぁぁっ！！！　いやああああああああぁぁあぁぁ！！！」	PRINTFORMW 「うああぁぁぁっ！！！　いやああああああああぁぁあぁぁ！！！」
-PRINTFORML 探索{DAY}日目　第一印象は「雰囲気が悪い」。今は「最悪」だ	PRINTFORML 探索{DAY}日目　第一印象は「雰囲気が悪い」。今は「最悪」だ
-PRINTFORML 探索{DAY}日目　壁に手をついたと思ったらうぞうぞ蠢きだした	PRINTFORML 探索{DAY}日目　壁に手をついたと思ったらうぞうぞ蠢きだした
-PRINTFORML 探索{DAY}日目　まさか人外を身ごもるとは思っても見なかった	PRINTFORML 探索{DAY}日目　まさか人外を身ごもるとは思っても見なかった
-PRINTFORML 探索{DAY}日目　風呂に入ろうが、嫌な空気は変わらないようだ	PRINTFORML 探索{DAY}日目　風呂に入ろうが、嫌な空気は変わらないようだ
-PRINTFORML 探索{DAY}日目　気が付くと大事に手をやっている、修行不足か	PRINTFORML 探索{DAY}日目　気が付くと大事に手をやっている、修行不足か
-PRINTFORML 探索{DAY}日目　一歩進むごとに痺れが走り、まともに動けない	PRINTFORML 探索{DAY}日目　一歩進むごとに痺れが走り、まともに動けない
-PRINTFORML 探索{DAY}日目　神隠しにあった皆は全員ここにいるのだろうか	PRINTFORML 探索{DAY}日目　神隠しにあった皆は全員ここにいるのだろうか
-PRINTFORML 探索{DAY}日目　敵を倒す度に、出口が近づいていると思いたい	PRINTFORML 探索{DAY}日目　敵を倒す度に、出口が近づいていると思いたい
-PRINTFORMDW 明羅は暫く目を閉じて思案した後、吹っ切れたように立ち上がった	PRINTFORMDW 明羅は暫く目を閉じて思案した後、吹っ切れたように立ち上がった
-PRINTFORML 「ふああぁっ、駄目だっ！　ほんとにっ！　これ以上はぁっ！！」	PRINTFORML 「ふああぁっ、駄目だっ！　ほんとにっ！　これ以上はぁっ！！」
-PRINTFORML 「貴公の剣の煌きに、微力ながら我が鈍刀も助力いたしましょう」	PRINTFORML 「貴公の剣の煌きに、微力ながら我が鈍刀も助力いたしましょう」
-PRINTFORMW 「……前々から思っていたが、普通の酒とどう違うのだろうな？」	PRINTFORMW 「……前々から思っていたが、普通の酒とどう違うのだろうな？」
-PRINTFORML 「……は、はは。いつかこうなるのは分かっていたんだがな……」	PRINTFORML 「……は、はは。いつかこうなるのは分かっていたんだがな……」
-PRINTFORML 「僅かな重みでも、普段通りの動きを阻害するには十分なのだな」	PRINTFORML 「僅かな重みでも、普段通りの動きを阻害するには十分なのだな」
-PRINTFORML 探索{DAY}日目　罠が大量に仕掛けられている。何のためだ？	PRINTFORML 探索{DAY}日目　罠が大量に仕掛けられている。何のためだ？
-PRINTFORML 探索{DAY}日目　落ち込んでいてもしょうがない、動かねば…	PRINTFORML 探索{DAY}日目　落ち込んでいてもしょうがない、動かねば…
-PRINTFORML 探索{DAY}日目　私の体はせっせと栄養を化け物に送っている	PRINTFORML 探索{DAY}日目　私の体はせっせと栄養を化け物に送っている
-PRINTFORML 探索{DAY}日目　戦いづめだが弱音を吐いている場合でもない	PRINTFORML 探索{DAY}日目　戦いづめだが弱音を吐いている場合でもない
-PRINTFORML 探索{DAY}日目　死ぬならば、誰かの役に立ってから死のう…	PRINTFORML 探索{DAY}日目　死ぬならば、誰かの役に立ってから死のう…
-PRINTFORML 探索{DAY}日目　何気ない食事時の会話ですら、心が洗われる	PRINTFORML 探索{DAY}日目　何気ない食事時の会話ですら、心が洗われる
-PRINTFORMDW 明羅は息を荒げ、自らの意思と関わらず自らを慰め始めた…。	PRINTFORMDW 明羅は息を荒げ、自らの意思と関わらず自らを慰め始めた…。
-PRINTFORML 「我らの剣の冴えで、全てを一閃のうちに葬ってやるとしよう」	PRINTFORML 「我らの剣の冴えで、全てを一閃のうちに葬ってやるとしよう」
-PRINTFORMDW 明羅は挿入れていた指を掻き回しながらゆっくり引き抜いた…	PRINTFORMDW 明羅は挿入れていた指を掻き回しながらゆっくり引き抜いた…
-PRINTFORM 「うぅぅっ?!　あ、はああぁっ！！　ど、う、してえええぇぇっ	PRINTFORM 「うぅぅっ?!　あ、はああぁっ！！　ど、う、してえええぇぇっ
-PRINTFORMDW 赤子とは思えない力でそれは産道をかき分け、這い出てくる…	PRINTFORMDW 赤子とは思えない力でそれは産道をかき分け、這い出てくる…
-PRINTFORML 「うむ、こんな身でも囮ぐらいにはなろう……協力させてくれ」	PRINTFORML 「うむ、こんな身でも囮ぐらいにはなろう……協力させてくれ」
-PRINTFORML 長々と何かが書いてあったようだが、すべて上から消されている	PRINTFORML 長々と何かが書いてあったようだが、すべて上から消されている
-PRINTFORML 探索{DAY}日目　は　　はは　　　　　は　　　　　　　は	PRINTFORML 探索{DAY}日目　は　　はは　　　　　は　　　　　　　は
-PRINTFORML 探索{DAY}日目　人の気配はする。死人か何かは知らないが	PRINTFORML 探索{DAY}日目　人の気配はする。死人か何かは知らないが
-PRINTFORML 探索{DAY}日目　私の中に何かが居る。非常に不快な気分だ	PRINTFORML 探索{DAY}日目　私の中に何かが居る。非常に不快な気分だ
-PRINTFORML 探索{DAY}日目　気づくと腹をさすっている。母性は偉大だ	PRINTFORML 探索{DAY}日目　気づくと腹をさすっている。母性は偉大だ
-PRINTFORML 探索{DAY}日目　体は鈍らないが、たまには修練を行いたい	PRINTFORML 探索{DAY}日目　体は鈍らないが、たまには修練を行いたい
-PRINTFORML 探索{DAY}日目　外に出たら、ゆっくり縁側で昼寝がしたい	PRINTFORML 探索{DAY}日目　外に出たら、ゆっくり縁側で昼寝がしたい
-PRINTFORML 探索{DAY}日目　虎は死んで毛皮を残す。私は何を残すのか	PRINTFORML 探索{DAY}日目　虎は死んで毛皮を残す。私は何を残すのか
-PRINTFORML 探索{DAY}日目　「さーち・あんど・ですとろい」の精神だ	PRINTFORML 探索{DAY}日目　「さーち・あんど・ですとろい」の精神だ
-PRINTFORML 「距離を置いたと油断したな！　甘いっ、弾も出るぞぉっ！」	PRINTFORML 「距離を置いたと油断したな！　甘いっ、弾も出るぞぉっ！」
-PRINTFORML 「はあああぁぁぁ…………ふうううぅぅぅぅーーーーー……」	PRINTFORML 「はあああぁぁぁ…………ふうううぅぅぅぅーーーーー……」
-PRINTFORML 「待っていろ、こんな奴すぐに微塵切りにして助けてやる！」	PRINTFORML 「待っていろ、こんな奴すぐに微塵切りにして助けてやる！」
-PRINTFORMW 「道端ですれ違うても元気に挨拶をして来るので反応に困る」	PRINTFORMW 「道端ですれ違うても元気に挨拶をして来るので反応に困る」
-PRINTFORMW 「なにやら今はスペルカードとか言うものがあるそうだが…」	PRINTFORMW 「なにやら今はスペルカードとか言うものがあるそうだが…」
-PRINTFORML 「……外の世界では剣の道が廃れて久しいと聞くが、真か？」	PRINTFORML 「……外の世界では剣の道が廃れて久しいと聞くが、真か？」
-PRINTFORML 「あの、だな。……少しその武器を見せてもらってよいか？」	PRINTFORML 「あの、だな。……少しその武器を見せてもらってよいか？」
-PRINTFORM 「そ、そここす、るなぁっ！！　やぁ！　ひゃあああぁぁぁぁっ	PRINTFORM 「そ、そここす、るなぁっ！！　やぁ！　ひゃあああぁぁぁぁっ
-PRINTFORML 「大丈夫。動ける、……動けるから…見捨てないでくれ……」	PRINTFORML 「大丈夫。動ける、……動けるから…見捨てないでくれ……」
-PRINTFORML 探索{DAY}日目　もう、大体の敵もおなじみになってきた	PRINTFORML 探索{DAY}日目　もう、大体の敵もおなじみになってきた
-PRINTFORML 探索{DAY}日目　噂には聞いていたが、酸味が欲しくなる	PRINTFORML 探索{DAY}日目　噂には聞いていたが、酸味が欲しくなる
-PRINTFORML 探索{DAY}日目　常に最悪の事態を想定して動かねば……	PRINTFORML 探索{DAY}日目　常に最悪の事態を想定して動かねば……
-PRINTFORML 探索{DAY}日目　盛ってしょうがない、どう鎮めたものか	PRINTFORML 探索{DAY}日目　盛ってしょうがない、どう鎮めたものか
-PRINTFORML 探索{DAY}日目　…(判別不能)…涎をこぼしてしまった	PRINTFORML 探索{DAY}日目　…(判別不能)…涎をこぼしてしまった
-PRINTFORML 探索{DAY}日目　汚れるのが早い。せめて風呂に入りたい	PRINTFORML 探索{DAY}日目　汚れるのが早い。せめて風呂に入りたい
-PRINTFORML 探索{DAY}日目　とりあえず、今の原動力は脱出後の宴だ	PRINTFORML 探索{DAY}日目　とりあえず、今の原動力は脱出後の宴だ
-PRINTFORML 探索{DAY}日目　外に出たら、宴で誰彼構わず絡んでやる	PRINTFORML 探索{DAY}日目　外に出たら、宴で誰彼構わず絡んでやる
-PRINTFORM 「うわああぁっ！！　何だっ?!　の、ぼってくるうううぅぅっ	PRINTFORM 「うわああぁっ！！　何だっ?!　の、ぼってくるうううぅぅっ
-PRINTFORML 「……さすがに愛刀は使えぬから……いや、なんでもない」	PRINTFORML 「……さすがに愛刀は使えぬから……いや、なんでもない」
-PRINTFORMW (……はは、結局…こんなものだった、ということか……)	PRINTFORMW (……はは、結局…こんなものだった、ということか……)
-PRINTFORML 「うがーー！！！　食うなーーー！！　出せぇ…む、ぐう」	PRINTFORML 「うがーー！！！　食うなーーー！！　出せぇ…む、ぐう」
-PRINTFORMDL 明羅は涎を垂らしながら自らの秘所をまさぐり始めた…。	PRINTFORMDL 明羅は涎を垂らしながら自らの秘所をまさぐり始めた…。
-PRINTFORML 「武士道とは死ぬことと見つけたり…まだまだこれから！」	PRINTFORML 「武士道とは死ぬことと見つけたり…まだまだこれから！」
-PRINTFORML 「ふ、食い逃げで培ったこの脚力を舐めてもらっては困る」	PRINTFORML 「ふ、食い逃げで培ったこの脚力を舐めてもらっては困る」
-PRINTFORML 「へー、尸解仙。ふんふん…………大変だったのだな……」	PRINTFORML 「へー、尸解仙。ふんふん…………大変だったのだな……」
-PRINTCOLORL(0x7572fe, "「我を子供扱いするなぁ！」")	PRINTCOLORL(0x7572fe, "「我を子供扱いするなぁ！」")
-PRINTFORML 「ま、た胸ぇ……?!　ひっ！　ひやあああぁぁぁっ！！」	PRINTFORML 「ま、た胸ぇ……?!　ひっ！　ひやあああぁぁぁっ！！」
-PRINTFORML 「あはははは！　眠すぎて逆に眠くなくなってきたぞ！！」	PRINTFORML 「あはははは！　眠すぎて逆に眠くなくなってきたぞ！！」
-PRINTFORML 探索{DAY}日目　服が引っ張られたと思ったら壁だった	PRINTFORML 探索{DAY}日目　服が引っ張られたと思ったら壁だった
-PRINTFORML 探索{DAY}日目　日常に戻りたい。贅沢な考えなのか？	PRINTFORML 探索{DAY}日目　日常に戻りたい。贅沢な考えなのか？
-PRINTFORML 探索{DAY}日目　我に返ると隙だらけで突っ立っている	PRINTFORML 探索{DAY}日目　我に返ると隙だらけで突っ立っている
-PRINTFORML 探索{DAY}日目　こんな所で死ねば魂まで弄ばれそうだ	PRINTFORML 探索{DAY}日目　こんな所で死ねば魂まで弄ばれそうだ
-PRINTFORM 「くっ、……%CALLNAME:(FLAG:10)%！　	PRINTFORM 「くっ、……%CALLNAME:(FLAG:10)%！　
-PRINTFORML 「あぁっ、なんだ?!　何か、く、るううぅぅっっ！！」	PRINTFORML 「あぁっ、なんだ?!　何か、く、るううぅぅっっ！！」
-PRINTFORML 「や、めろっ！　うわああぁっ！！　やめてくれぇ……」	PRINTFORML 「や、めろっ！　うわああぁっ！！　やめてくれぇ……」
-PRINTFORMDW 明羅は頬を赤く上気させ、内腿を擦り合わせている…。	PRINTFORMDW 明羅は頬を赤く上気させ、内腿を擦り合わせている…。
-PRINTFORML 「いやぁ……！　ひ、きゅあ！　う、ひ、へえぇ………」	PRINTFORML 「いやぁ……！　ひ、きゅあ！　う、ひ、へえぇ………」
-PRINTFORML 「く、くく……この窮地にこの敵…………いいだろう！」	PRINTFORML 「く、くく……この窮地にこの敵…………いいだろう！」
-PRINTFORMW 「毎回骨董市なんかで二束三文で買い叩いているのでな」	PRINTFORMW 「毎回骨董市なんかで二束三文で買い叩いているのでな」
-PRINTFORMW 「確かこちらからなら……ここも駄目か？　嫌になるな」	PRINTFORMW 「確かこちらからなら……ここも駄目か？　嫌になるな」
-PRINTFORML 「和服が入っているといいが……洋装は着づらいのでな」	PRINTFORML 「和服が入っているといいが……洋装は着づらいのでな」
-PRINTFORM 「お、降りられなくなる！　や…め……ふあああぁぁぁぁっ	PRINTFORM 「お、降りられなくなる！　や…め……ふあああぁぁぁぁっ
-PRINTFORMDW 明羅は歯を食いしばって必死に快感を否定している… 	PRINTFORMDW 明羅は歯を食いしばって必死に快感を否定している… 
-PRINTFORM 「し、痺れっ……!?　ま、まてえっ！　あ、あああぁぁっ	PRINTFORM 「し、痺れっ……!?　ま、まてえっ！　あ、あああぁぁっ
-PRINTFORMDW 張った胸の先端からは依然として母乳が流れ出ている…	PRINTFORMDW 張った胸の先端からは依然として母乳が流れ出ている…
-PRINTFORML 「しかし、今はなりふり構っていられんのも事実か……」	PRINTFORML 「しかし、今はなりふり構っていられんのも事実か……」
-PRINTFORML 「力になりたいが…今の私では足手まといになるな……」	PRINTFORML 「力になりたいが…今の私では足手まといになるな……」
-PRINTFORML 「先に湯加減を見させて貰ったぞ。いや、いい湯だった」	PRINTFORML 「先に湯加減を見させて貰ったぞ。いや、いい湯だった」
-PRINTFORML 探索{DAY}日目　ふと、いなくなった仲間を思い返す	PRINTFORML 探索{DAY}日目　ふと、いなくなった仲間を思い返す
-PRINTFORML 探索{DAY}日目　珍味と思えば触手が食える事を知る	PRINTFORML 探索{DAY}日目　珍味と思えば触手が食える事を知る
-PRINTFORML 探索{DAY}日目　大丈夫、刀はまだ握ることができる	PRINTFORML 探索{DAY}日目　大丈夫、刀はまだ握ることができる
-PRINTFORML 探索{DAY}日目　何にも増して早く着替えを探さねば	PRINTFORML 探索{DAY}日目　何にも増して早く着替えを探さねば
-PRINTFORML 「はぁ……はぁ……、じ、地獄のような体験だった……」	PRINTFORML 「はぁ……はぁ……、じ、地獄のような体験だった……」
-PRINTFORML 「ううぅ……ま、まさかこれのせいで盛るのか……？」	PRINTFORML 「ううぅ……ま、まさかこれのせいで盛るのか……？」
-PRINTFORML 「が、我慢など、でき、るかぁ……んふぅ、ふあっ！」	PRINTFORML 「が、我慢など、でき、るかぁ……んふぅ、ふあっ！」
-PRINTFORMW 「外に出たら刀を新調せねば……あぁ、また出費が～」	PRINTFORMW 「外に出たら刀を新調せねば……あぁ、また出費が～」
-PRINTFORML 「袖触れ合うも他生の縁、か……しょうのないことだ」	PRINTFORML 「袖触れ合うも他生の縁、か……しょうのないことだ」
-PRINTFORML 「誰であれ、仕える主君がいる事は素直に羨ましいな」	PRINTFORML 「誰であれ、仕える主君がいる事は素直に羨ましいな」
-PRINTFORML 「ふむ、目的は同じだ。一蓮托生といこうじゃないか」	PRINTFORML 「ふむ、目的は同じだ。一蓮托生といこうじゃないか」
-PRINTFORML 「あの一件で私達を利用した事はまだ許してはいない」	PRINTFORML 「あの一件で私達を利用した事はまだ許してはいない」
-PRINTFORML 「く、そぉ……こ、んなぁ…の、で、ええぇぇっ！！」	PRINTFORML 「く、そぉ……こ、んなぁ…の、で、ええぇぇっ！！」
-PRINTFORML 「うぅ……張って辛いと思ったらそういうことか……」	PRINTFORML 「うぅ……張って辛いと思ったらそういうことか……」
-PRINTFORML 探索{DAY}日目　醜悪な臭いが染み着いて取れない	PRINTFORML 探索{DAY}日目　醜悪な臭いが染み着いて取れない
-PRINTFORML 探索{DAY}日目　内も外も、余談を許さない状況だ	PRINTFORML 探索{DAY}日目　内も外も、余談を許さない状況だ
-PRINTFORML 探索{DAY}日目　夢で青空をよく見るようになった	PRINTFORML 探索{DAY}日目　夢で青空をよく見るようになった
-PRINTFORML 探索{DAY}日目　体は動かないが、心は満ちている	PRINTFORML 探索{DAY}日目　体は動かないが、心は満ちている
-PRINTFORML 探索{DAY}日目　髪が背中に当たってチクチクする	PRINTFORML 探索{DAY}日目　髪が背中に当たってチクチクする
-PRINTFORML 探索{DAY}日目　こう何日も孤独が続くと、寂しい	PRINTFORML 探索{DAY}日目　こう何日も孤独が続くと、寂しい
-PRINTFORML 探索{DAY}日目　特筆して記録することはなかった	PRINTFORML 探索{DAY}日目　特筆して記録することはなかった
-PRINTFORML 勿論、%CALLNAME:(FLAG:11)%もだ	PRINTFORML 勿論、%CALLNAME:(FLAG:11)%もだ
-PRINTFORML 「前に出ないと切れんからな。しょうがない……ぃ」	PRINTFORML 「前に出ないと切れんからな。しょうがない……ぃ」
-PRINTFORML 「うぐぅ……人を、もてあそんでぇ、楽しいか…ぁ」	PRINTFORML 「うぐぅ……人を、もてあそんでぇ、楽しいか…ぁ」
-PRINTFORML 「ああぁぁぁっ?!　ぜ、絶対切ってやるぅっ！！」	PRINTFORML 「ああぁぁぁっ?!　ぜ、絶対切ってやるぅっ！！」
-PRINTFORML 「き…さま、やって良いことと悪いことがあるぞ！」	PRINTFORML 「き…さま、やって良いことと悪いことがあるぞ！」
-PRINTFORMW ねんがんの　はくれいのたからを　てにいれたぞ！！	PRINTFORMW ねんがんの　はくれいのたからを　てにいれたぞ！！
-PRINTFORMW 「レプリカでもなんでも良い！　もう離さぬぞお！！	PRINTFORMW 「レプリカでもなんでも良い！　もう離さぬぞお！！
-PRINTFORML 「寝られるうちに寝ておくか、その方が合理的だな」	PRINTFORML 「寝られるうちに寝ておくか、その方が合理的だな」
-PRINTFORML 「逃げるなよ?!　絶対に逃げるんじゃないぞ?!」	PRINTFORML 「逃げるなよ?!　絶対に逃げるんじゃないぞ?!」
-PRINTFORML 「うぅ……だからあれほど日頃から節約しろと……」	PRINTFORML 「うぅ……だからあれほど日頃から節約しろと……」
-PRINTFORMD 挿入されたままの触手をきゅうきゅう締め付けながら	PRINTFORMD 挿入されたままの触手をきゅうきゅう締め付けながら
-PRINTFORM 「こんな、事にっ……体力を使っている場合ではぁ……	PRINTFORM 「こんな、事にっ……体力を使っている場合ではぁ……
-PRINTFORM 「くあぁ……びんか、んなとこ……こすって来るぅ……	PRINTFORM 「くあぁ……びんか、んなとこ……こすって来るぅ……
-PRINTFORM 「にいいいぃぃっ！　なんでぇ……こんなあああぁぁっ	PRINTFORM 「にいいいぃぃっ！　なんでぇ……こんなあああぁぁっ
-PRINTFORML 「な、んで……こ、こでっ！　く、うううぅぅっ！！	PRINTFORML 「な、んで……こ、こでっ！　く、うううぅぅっ！！
-PRINTFORML 「ま、間に合っているっ！　と！　ひ、はああぁ！」	PRINTFORML 「ま、間に合っているっ！　と！　ひ、はああぁ！」
-PRINTFORMDW 明羅はなんとか%ARGS:1%を振り払ったが、	PRINTFORMDW 明羅はなんとか%ARGS:1%を振り払ったが、
-PRINTFORML 「誰ぞある！　切り捨てられたい者は前に出ろー！」	PRINTFORML 「誰ぞある！　切り捨てられたい者は前に出ろー！」
-PRINTFORML 「確かに一人では心許ないな……同行させてくれい」	PRINTFORML 「確かに一人では心許ないな……同行させてくれい」
-PRINTFORML 探索{DAY}日目　吐き気がする。原因は明らかだ	PRINTFORML 探索{DAY}日目　吐き気がする。原因は明らかだ
-PRINTFORML 探索{DAY}日目　膝はつかない。ついてたまるか	PRINTFORML 探索{DAY}日目　膝はつかない。ついてたまるか
-PRINTFORML 探索{DAY}日目　白い鰐が見えた。吉兆だろうか	PRINTFORML 探索{DAY}日目　白い鰐が見えた。吉兆だろうか
-PRINTFORML 探索{DAY}日目　裸に帯刀というのも変な格好だ	PRINTFORML 探索{DAY}日目　裸に帯刀というのも変な格好だ
-PRINTFORML 探索{DAY}日目　多少の無茶も致し方無いことか	PRINTFORML 探索{DAY}日目　多少の無茶も致し方無いことか
-PRINTFORML 「まあ、探索を続けていればまた会えるだろう……」	PRINTFORML 「まあ、探索を続けていればまた会えるだろう……」
-PRINTFORML 「す、好きなようにして……いいのだぞ？　…く」	PRINTFORML 「す、好きなようにして……いいのだぞ？　…く」
-PRINTFORML 「うりゃああぁぁ…！！　てやああぁぁ……！！」	PRINTFORML 「うりゃああぁぁ…！！　てやああぁぁ……！！」
-PRINTFORML 「この閃きが見えるか?!　……なーんてなっ！」	PRINTFORML 「この閃きが見えるか?!　……なーんてなっ！」
-PRINTFORML 「う、埋まるのだけはっ！　それだけは勘弁だ！」	PRINTFORML 「う、埋まるのだけはっ！　それだけは勘弁だ！」
-PRINTFORML 「よ、よりよってぇ……こんな、とき、にぃ……」	PRINTFORML 「よ、よりよってぇ……こんな、とき、にぃ……」
-PRINTFORML 「あああぁぁっ！！　やめろぉ！　こ、こわれっ」	PRINTFORML 「あああぁぁっ！！　やめろぉ！　こ、こわれっ」
-PRINTFORML 「そ、それだけは！　それだけはああぁぁっ！！」	PRINTFORML 「そ、それだけは！　それだけはああぁぁっ！！」
-PRINTFORML 「なっ?!　何がっ？　うひぃ、ひやあぁぁ……」	PRINTFORML 「なっ?!　何がっ？　うひぃ、ひやあぁぁ……」
-PRINTFORMDW 明羅はおよそ少女とは思えない寝息を立てている	PRINTFORMDW 明羅はおよそ少女とは思えない寝息を立てている
-PRINTFORM 「……今なら、す、好きにしてもいいのだぞ？　……	PRINTFORM 「……今なら、す、好きにしてもいいのだぞ？　……
-PRINTFORML 「か、体をすり寄せるなっ！　ば…ばかもんっ！」	PRINTFORML 「か、体をすり寄せるなっ！　ば…ばかもんっ！」
-PRINTFORML 「……おい博麗、頼むから変な気は起こすなよ？」	PRINTFORML 「……おい博麗、頼むから変な気は起こすなよ？」
-PRINTFORML (私が博麗を襲ったこと、覚えてるのかなぁ……)	PRINTFORML (私が博麗を襲ったこと、覚えてるのかなぁ……)
-PRINTFORML 「あんた、どこかで見たと思えば、竹林の娘だな」	PRINTFORML 「あんた、どこかで見たと思えば、竹林の娘だな」
-PRINTFORML 「私でよければ、好きなだけ協力させてもらおう」	PRINTFORML 「私でよければ、好きなだけ協力させてもらおう」
-PRINTFORMDL 明羅は散々文句を垂れながらも渋々床についた…	PRINTFORMDL 明羅は散々文句を垂れながらも渋々床についた…
-PRINTFORMD 剥き出しになった淫核への刺激に身体を痙攣させ、	PRINTFORMD 剥き出しになった淫核への刺激に身体を痙攣させ、
-PRINTFORML 「う、ぐううぅ……す、少し太すぎないか……？」	PRINTFORML 「う、ぐううぅ……す、少し太すぎないか……？」
-PRINTFORMDW 明羅は未練がましく乳首を転がし、弄っている…	PRINTFORMDW 明羅は未練がましく乳首を転がし、弄っている…
-PRINTFORMDW 明羅は淫核を潰していた指をのろのろとどけた…	PRINTFORMDW 明羅は淫核を潰していた指をのろのろとどけた…
-PRINTFORML 「今、腹をかっ捌けばこいつも死ぬだろうか……」	PRINTFORML 「今、腹をかっ捌けばこいつも死ぬだろうか……」
-PRINTFORMW 「は、始まった、か……ふ、ううぅぅぅ…………」	PRINTFORMW 「は、始まった、か……ふ、ううぅぅぅ…………」
-PRINTFORML 明羅は目に涙を浮かべ、刀を固く握りしめている…	PRINTFORML 明羅は目に涙を浮かべ、刀を固く握りしめている…
-PRINTFORML 「か、体でお礼とかそういうのはいらんからな？」	PRINTFORML 「か、体でお礼とかそういうのはいらんからな？」
-PRINTFORML 探索{DAY}日目　触手を切ってから刀が粘つく	PRINTFORML 探索{DAY}日目　触手を切ってから刀が粘つく
-PRINTFORML 探索{DAY}日目　苦しいときこそ、笑えばよい	PRINTFORML 探索{DAY}日目　苦しいときこそ、笑えばよい
-PRINTFORML 探索{DAY}日目　武士道とは、堪え忍ぶことだ	PRINTFORML 探索{DAY}日目　武士道とは、堪え忍ぶことだ
-PRINTFORML 探索{DAY}日目　人間でも、生き延びてみせる	PRINTFORML 探索{DAY}日目　人間でも、生き延びてみせる
-PRINTFORMW 「やれやれ。どうして私はこう運が悪いのか……」	PRINTFORMW 「やれやれ。どうして私はこう運が悪いのか……」
-PRINTFORML 「斬るッ！！　それっ！　これはおまけだ！！」	PRINTFORML 「斬るッ！！　それっ！　これはおまけだ！！」
-PRINTFORML 「弾幕と剣を合わせた、全く新しい剣技っ！！」	PRINTFORML 「弾幕と剣を合わせた、全く新しい剣技っ！！」
-PRINTFORML 「私と博麗の力が合わさって最強に見えるっ！」	PRINTFORML 「私と博麗の力が合わさって最強に見えるっ！」
-PRINTFORMDW (こ、こんなに撫で回されて、ヘン、に……)	PRINTFORMDW (こ、こんなに撫で回されて、ヘン、に……)
-PRINTFORML 「だ、駄目だ駄目だこんなのでわたしぃっ！！」	PRINTFORML 「だ、駄目だ駄目だこんなのでわたしぃっ！！」
-PRINTFORML 「んぅ……えへぇ～…………きもち、いぃ……」	PRINTFORML 「んぅ……えへぇ～…………きもち、いぃ……」
-PRINTFORM 「お、さま、れ……っ！　あぁ……むり、かぁ……	PRINTFORM 「お、さま、れ……っ！　あぁ……むり、かぁ……
-PRINTFORML 「……己の力不足を今ほど感じたことはないな」	PRINTFORML 「……己の力不足を今ほど感じたことはないな」
-PRINTFORML 「……まぁ、なんだ。犬にやられたとでも思え」	PRINTFORML 「……まぁ、なんだ。犬にやられたとでも思え」
-PRINTFORML 「は、恥ずかしいからあまり見てくれるな……」	PRINTFORML 「は、恥ずかしいからあまり見てくれるな……」
-PRINTFORML 「せっかくの機会だ。武勇伝でも聞かせてくれ」	PRINTFORML 「せっかくの機会だ。武勇伝でも聞かせてくれ」
-PRINTFORML 「げ、大妖怪……あ、ああ。宜しくお願いする」	PRINTFORML 「げ、大妖怪……あ、ああ。宜しくお願いする」
-PRINTFORML 「白狼天狗の剣……とくと拝見させてもらおう」	PRINTFORML 「白狼天狗の剣……とくと拝見させてもらおう」
-PRINTFORML 「縁があればまた会うこともあろう……ではな」	PRINTFORML 「縁があればまた会うこともあろう……ではな」
-PRINTFORM (や……めないと……ああぁ、自制がぁ……利かん	PRINTFORM (や……めないと……ああぁ、自制がぁ……利かん
-PRINTFORML 「あ…ま、っ……へ、ええええぇぇぇっ！！！」	PRINTFORML 「あ…ま、っ……へ、ええええぇぇぇっ！！！」
-PRINTFORML 「いいいぃっ！！　うぅ、ぎいいいぃぃっ！！」	PRINTFORML 「いいいぃっ！！　うぅ、ぎいいいぃぃっ！！」
-PRINTFORML 「う、そだ……ぁっ！　……ああああぁぁぁぁっ	PRINTFORML 「う、そだ……ぁっ！　……ああああぁぁぁぁっ
-PRINTFORML 「……私に、どうしろというのだ…………！！」	PRINTFORML 「……私に、どうしろというのだ…………！！」
-PRINTFORML 「しばらくの間、刀は抜き身で扱う事にするか」	PRINTFORML 「しばらくの間、刀は抜き身で扱う事にするか」
-PRINTFORML 「くそ……何度この苦痛を受けねばならん……」	PRINTFORML 「くそ……何度この苦痛を受けねばならん……」
-PRINTFORML 「えいやぁ！　……おおう、やってみるもんだ」	PRINTFORML 「えいやぁ！　……おおう、やってみるもんだ」
-PRINTFORML 「ど、うせ奪ったなら……愉しませてぇ、くれぇ	PRINTFORML 「ど、うせ奪ったなら……愉しませてぇ、くれぇ
-PRINTFORMDW 明羅は刀だけは固く抱いて離そうとしなかった	PRINTFORMDW 明羅は刀だけは固く抱いて離そうとしなかった
-PRINTFORML 「しのぶれど～♪　いろにいでにけり～っとぉ」	PRINTFORML 「しのぶれど～♪　いろにいでにけり～っとぉ」
-PRINTFORML 「うわああぁっ！　それだけはやめろおっ！！」	PRINTFORML 「うわああぁっ！　それだけはやめろおっ！！」
-PRINTFORML 「………………う、ん……がん、ば、ろう……」	PRINTFORML 「………………う、ん……がん、ば、ろう……」
-PRINTFORML 探索{DAY}日目　特に書くこともなくなった	PRINTFORML 探索{DAY}日目　特に書くこともなくなった
-PRINTFORML 探索{DAY}日目　脱出まで、泣くんじゃない	PRINTFORML 探索{DAY}日目　脱出まで、泣くんじゃない
-PRINTFORML 「も、だめぇ！！　でるうううぅぅぅぅっ！！」	PRINTFORML 「も、だめぇ！！　でるうううぅぅぅぅっ！！」
-PRINTFORML 「やめろっ！　達したくないいぃぃっ！！！！」	PRINTFORML 「やめろっ！　達したくないいぃぃっ！！！！」
-PRINTFORML 「か、構えてはいるぞ！　寄るんじゃない！」	PRINTFORML 「か、構えてはいるぞ！　寄るんじゃない！」
-PRINTFORML 「わ、私がか?!　……うぅ、わ、分かった」	PRINTFORML 「わ、私がか?!　……うぅ、わ、分かった」
-PRINTFORML 「ちょ、ちょっと今はっ、あ、はあぁっ！！」	PRINTFORML 「ちょ、ちょっと今はっ、あ、はあぁっ！！」
-PRINTFORML 「いやぁっ！　抜け！　ぬけええぇぇっ！！」	PRINTFORML 「いやぁっ！　抜け！　ぬけええぇぇっ！！」
-PRINTFORML 「……昼下がりの陽光を感じた、気がしたが」	PRINTFORML 「……昼下がりの陽光を感じた、気がしたが」
-PRINTFORML 「またつまらぬ物を切ってしまった……はぁ」	PRINTFORML 「またつまらぬ物を切ってしまった……はぁ」
-PRINTFORML 「お前も我が刀の錆に…なったら困るな……」	PRINTFORML 「お前も我が刀の錆に…なったら困るな……」
-PRINTFORML 「長引くとまずい、雷光の速さで敵を討つ！」	PRINTFORML 「長引くとまずい、雷光の速さで敵を討つ！」
-PRINTFORML 明羅はものすごくいい笑顔で走り去っていった	PRINTFORML 明羅はものすごくいい笑顔で走り去っていった
-PRINTFORMW 「しかしまぁ、吸血鬼に医者に神社に尼僧寺」	PRINTFORMW 「しかしまぁ、吸血鬼に医者に神社に尼僧寺」
-PRINTFORML 「道理を語っておる場合でもあるまいか……」	PRINTFORML 「道理を語っておる場合でもあるまいか……」
-PRINTFORML 「地上に降りた月の姫……人間とは違うのか」	PRINTFORML 「地上に降りた月の姫……人間とは違うのか」
-PRINTFORML 「暫し、私一人で動きたいのだが……如何か」	PRINTFORML 「暫し、私一人で動きたいのだが……如何か」
-PRINTFORMW 「私の刀を質に入れてこれ使おうかなぁ……」	PRINTFORMW 「私の刀を質に入れてこれ使おうかなぁ……」
-PRINTFORML 「もう腰に差しておいては抜けんからな……」	PRINTFORML 「もう腰に差しておいては抜けんからな……」
-PRINTFORML 「うぅ……盛ってはいるがお前如きに……っ」	PRINTFORML 「うぅ……盛ってはいるがお前如きに……っ」
-PRINTFORML 「気を確かに持て、こんなところで諦めるな」	PRINTFORML 「気を確かに持て、こんなところで諦めるな」
-PRINTFORML (…………あれ……？　まだ、生きてる……)	PRINTFORML (…………あれ……？　まだ、生きてる……)
-PRINTFORML 探索{DAY}日目　調子が悪い。気が滅入る	PRINTFORML 探索{DAY}日目　調子が悪い。気が滅入る
-PRINTFORML 探索{DAY}日目　もう、だめかもしれない	PRINTFORML 探索{DAY}日目　もう、だめかもしれない
-PRINTFORML 探索{DAY}日目　まあ、何とかなるだろう	PRINTFORML 探索{DAY}日目　まあ、何とかなるだろう
-PRINTFORML 探索{DAY}日目　蠢くな　やめろ　　痛い	PRINTFORML 探索{DAY}日目　蠢くな　やめろ　　痛い
-PRINTFORML 探索{DAY}日目　倒れるなら、前のめりに	PRINTFORML 探索{DAY}日目　倒れるなら、前のめりに
-PRINTFORML 探索{DAY}日目　まだ慌てる時間ではない	PRINTFORML 探索{DAY}日目　まだ慌てる時間ではない
-PRINTFORML 探索{DAY}日目　助けてミコえもーーん！	PRINTFORML 探索{DAY}日目　助けてミコえもーーん！
-PRINTFORML 探索{DAY}日目　最近独り言が多くなった	PRINTFORML 探索{DAY}日目　最近独り言が多くなった
-PRINTFORM %CALLNAME:(FLAG:11)%！　	PRINTFORM %CALLNAME:(FLAG:11)%！　
-PRINTFORML 襤褸は着てても心は錦な女侍は好きですか？	PRINTFORML 襤褸は着てても心は錦な女侍は好きですか？
-PRINTFORMW 「矢尽き刀折れても私には弾幕がある……」	PRINTFORMW 「矢尽き刀折れても私には弾幕がある……」
-PRINTFORML 「くそっ！　ううぅっ!!?　うあぁっ！」	PRINTFORML 「くそっ！　ううぅっ!!?　うあぁっ！」
-PRINTFORML 「明鏡止水……されど我が心は業火の如く」	PRINTFORML 「明鏡止水……されど我が心は業火の如く」
-PRINTFORML 「う、ひゃっ！……いま、つ、らい、……」	PRINTFORML 「う、ひゃっ！……いま、つ、らい、……」
-PRINTFORML 「何も感じぬ！　……うぅ～……嘘です～」	PRINTFORML 「何も感じぬ！　……うぅ～……嘘です～」
-PRINTFORML 「ぐっ……抜、けぇ、あ、がああぁぁ！！」	PRINTFORML 「ぐっ……抜、けぇ、あ、がああぁぁ！！」
-PRINTFORML 「ぐ、あ、余り……いじってくれるなぁ…」	PRINTFORML 「ぐ、あ、余り……いじってくれるなぁ…」
-PRINTFORML 「……………………もう嫁に行けぬぅ……」	PRINTFORML 「……………………もう嫁に行けぬぅ……」
-PRINTFORML 「や、めておけ！　や、やめて下さいっ！」	PRINTFORML 「や、めておけ！　や、やめて下さいっ！」
-PRINTFORML (ま、まだ諦めな、い！　ひ、うあぁ……)	PRINTFORML (ま、まだ諦めな、い！　ひ、うあぁ……)
-PRINTFORML 「あ……あんな奴相手にしてられるか……」	PRINTFORML 「あ……あんな奴相手にしてられるか……」
-PRINTFORML 「うぐう……生身には厳しい戦いだった…」	PRINTFORML 「うぐう……生身には厳しい戦いだった…」
-PRINTFORML 「おい待て！　……待って………くれぇ…」	PRINTFORML 「おい待て！　……待って………くれぇ…」
-PRINTFORML 「この格好は切腹しやすい、かもしれんな」	PRINTFORML 「この格好は切腹しやすい、かもしれんな」
-PRINTFORMW 「まぁ、なにが役に立つか分からんのでな」	PRINTFORMW 「まぁ、なにが役に立つか分からんのでな」
-PRINTFORMW 「ううむ……そうか。実はこちらにもな…」	PRINTFORMW 「ううむ……そうか。実はこちらにもな…」
-PRINTFORML 「……なるほど、あんたもここにいたのか」	PRINTFORML 「……なるほど、あんたもここにいたのか」
-PRINTFORML 「なんだ、科学者とはまた変わった奴だな」	PRINTFORML 「なんだ、科学者とはまた変わった奴だな」
-PRINTFORML 「……持って帰って売ったら儲かるかなぁ」	PRINTFORML 「……持って帰って売ったら儲かるかなぁ」
-PRINTFORML 「さ、先に寝かせてくれ……、限界だ……」	PRINTFORML 「さ、先に寝かせてくれ……、限界だ……」
-PRINTFORMDW 明羅はまだ菊座に指を出し入れしている…	PRINTFORMDW 明羅はまだ菊座に指を出し入れしている…
-PRINTFORM 「あ、こす、ら、れて……っ　ふああぁぁぁっ	PRINTFORM 「あ、こす、ら、れて……っ　ふああぁぁぁっ
-PRINTFORML 「と、止まれ……止まって、えぇ…………」	PRINTFORML 「と、止まれ……止まって、えぇ…………」
-PRINTFORML 「あ、待ってくれ……一人にしないで……」	PRINTFORML 「あ、待ってくれ……一人にしないで……」
-PRINTFORML 「何のために大事にとっておいたのか……」	PRINTFORML 「何のために大事にとっておいたのか……」
-PRINTFORML 「い…たぁ……はは、介錯は無用、だ……」	PRINTFORML 「い…たぁ……はは、介錯は無用、だ……」
-PRINTFORML 「旅は道連れ世は情け、助太刀いたそう！」	PRINTFORML 「旅は道連れ世は情け、助太刀いたそう！」
-PRINTFORML 「礼には及ばん。当然のことをしたまでだ」	PRINTFORML 「礼には及ばん。当然のことをしたまでだ」
-PRINTFORML 「この身、この剣、お前の好きにしてくれ」	PRINTFORML 「この身、この剣、お前の好きにしてくれ」
-PRINTFORMDL 紙が滲んでいて何が書いてあるか読めない	PRINTFORMDL 紙が滲んでいて何が書いてあるか読めない
-PRINTFORML 探索{DAY}日目　切ない。非常に切ない	PRINTFORML 探索{DAY}日目　切ない。非常に切ない
-PRINTFORML 探索{DAY}日目　手が震える、目が霞む	PRINTFORML 探索{DAY}日目　手が震える、目が霞む
-PRINTFORML 探索{DAY}日目　絶対死んでやるものか	PRINTFORML 探索{DAY}日目　絶対死んでやるものか
-PRINTFORML 「仕える主君を見誤った。ただそれだけだ」	PRINTFORML 「仕える主君を見誤った。ただそれだけだ」
-PRINTFORMW 「今の今まで畦道を散歩していたはずだが」	PRINTFORMW 「今の今まで畦道を散歩していたはずだが」
-PRINTFORML 「うぅぅ……こっち……だけど来るなぁ」	PRINTFORML 「うぅぅ……こっち……だけど来るなぁ」
-PRINTFORML 「えーい……まあやられないよなぁ……」	PRINTFORML 「えーい……まあやられないよなぁ……」
-PRINTFORML 「さっさと死ねぇ！　お願いだからぁ！」	PRINTFORML 「さっさと死ねぇ！　お願いだからぁ！」
-PRINTFORML 「勢いを殺さず、流れるように切る……」	PRINTFORML 「勢いを殺さず、流れるように切る……」
-PRINTFORML 「力が溢れる！！　最高の気分だぁ！！」	PRINTFORML 「力が溢れる！！　最高の気分だぁ！！」
-PRINTFORML (だ、出せっ！　この化け物がーっ！！)	PRINTFORML (だ、出せっ！　この化け物がーっ！！)
-PRINTFORML 明羅は口に手を当てて嘔気をこらえている	PRINTFORML 明羅は口に手を当てて嘔気をこらえている
-PRINTFORML 「ひ、あ……あああぁあぁぁっっ！！！」	PRINTFORML 「ひ、あ……あああぁあぁぁっっ！！！」
-PRINTFORML 「もういいっ！　もういいからぁ！！」 	PRINTFORML 「もういいっ！　もういいからぁ！！」 
-PRINTFORML 「ぶ、ぶったぎって、や、りゅうぅ……」	PRINTFORML 「ぶ、ぶったぎって、や、りゅうぅ……」
-PRINTFORML 「うにぃ～～……卑怯ものぉー…………」	PRINTFORML 「うにぃ～～……卑怯ものぉー…………」
-PRINTFORML 「今の閃き、お前では見ることも叶わん」	PRINTFORML 「今の閃き、お前では見ることも叶わん」
-PRINTFORML 「あぁぁ…………昂ぶって……ん、くっ」	PRINTFORML 「あぁぁ…………昂ぶって……ん、くっ」
-PRINTFORML 「くぅ……まだまだ修行が足りんか……」	PRINTFORML 「くぅ……まだまだ修行が足りんか……」
-PRINTFORM 「ふ、ふふ……残った触手は持ち帰って……	PRINTFORM 「ふ、ふふ……残った触手は持ち帰って……
-PRINTFORML 「必ず助ける。腹かっ捌くのはその後だ」	PRINTFORML 「必ず助ける。腹かっ捌くのはその後だ」
-PRINTFORML 「もう少し恥じらいという物をだな……」	PRINTFORML 「もう少し恥じらいという物をだな……」
-PRINTFORML 「……どこのどいつだ。叩っ切ってやる」	PRINTFORML 「……どこのどいつだ。叩っ切ってやる」
-PRINTFORMW 「この剣はそれほど良い剣でもないのだ」	PRINTFORMW 「この剣はそれほど良い剣でもないのだ」
-PRINTFORMW 「まあ、私も若かったという事だ。うん」	PRINTFORMW 「まあ、私も若かったという事だ。うん」
-PRINTFORMW 「弾幕など久しくやっておらんかったな」	PRINTFORMW 「弾幕など久しくやっておらんかったな」
-PRINTFORML 「危なくなったら魔法も使ってくれよ？」	PRINTFORML 「危なくなったら魔法も使ってくれよ？」
-PRINTFORMW 「あ、まずくなったら見捨てるからな？」	PRINTFORMW 「あ、まずくなったら見捨てるからな？」
-PRINTFORMW 「刃も肉厚だし、重さで断ち切る種類か」	PRINTFORMW 「刃も肉厚だし、重さで断ち切る種類か」
-PRINTFORMW 「気分だけだが素早く動ける気がするな」	PRINTFORMW 「気分だけだが素早く動ける気がするな」
-PRINTFORML 「こ……こんなとこで節約しなくても～」	PRINTFORML 「こ……こんなとこで節約しなくても～」
-PRINTFORML 「は、ああぁぁぁ……か、たくぅ…っ！」	PRINTFORML 「は、ああぁぁぁ……か、たくぅ…っ！」
-PRINTFORML 「どうしてこう、……泣きたくなるのか」	PRINTFORML 「どうしてこう、……泣きたくなるのか」
-PRINTFORML 「これでも急いでいるつもりなのだ……」	PRINTFORML 「これでも急いでいるつもりなのだ……」
-PRINTFORML 「うぐぅ……やはり馴れるものでは……」	PRINTFORML 「うぐぅ……やはり馴れるものでは……」
-PRINTFORML 「なぜ私は女なんかに生まれたのか……」	PRINTFORML 「なぜ私は女なんかに生まれたのか……」
-PRINTFORML 「……あ、いや、お前の道具が、だぞ？」	PRINTFORML 「……あ、いや、お前の道具が、だぞ？」
-PRINTFORML 「……今回は高見の見物とさせてもらう」	PRINTFORML 「……今回は高見の見物とさせてもらう」
-PRINTFORML 「済まない……これも私の生きるため！」	PRINTFORML 「済まない……これも私の生きるため！」
-PRINTFORML 探索{DAY}日目　悪臭にも慣れてきた	PRINTFORML 探索{DAY}日目　悪臭にも慣れてきた
-PRINTFORML 白紙のページに髪の毛が一本挟まっていた	PRINTFORML 白紙のページに髪の毛が一本挟まっていた
-PRINTFORML 探索{DAY}日目　しょくしゅ　　うま	PRINTFORML 探索{DAY}日目　しょくしゅ　　うま
-PRINTFORML ……むぅ、バラバラになってしまったか」	PRINTFORML ……むぅ、バラバラになってしまったか」
-PRINTFORML 緊張感がねえので嫌な人はOFF推奨。	PRINTFORML 緊張感がねえので嫌な人はOFF推奨。
-PRINTFORML 「と、とりあえずは撃っておこう……」	PRINTFORML 「と、とりあえずは撃っておこう……」
-PRINTFORML 「私の弾も捨てたものではなかろう？」	PRINTFORML 「私の弾も捨てたものではなかろう？」
-PRINTFORML 「ケチればいいのか？　得意分野だ！」	PRINTFORML 「ケチればいいのか？　得意分野だ！」
-PRINTFORML 「今は何者も私を止めてくれるなー！」	PRINTFORML 「今は何者も私を止めてくれるなー！」
-PRINTFORML 「ひぎぃ！　ひぃー、ひは、ぁっ！！」	PRINTFORML 「ひぎぃ！　ひぃー、ひは、ぁっ！！」
-PRINTFORML 「はな、せっ！……あ?!　ぴあっ！」	PRINTFORML 「はな、せっ！……あ?!　ぴあっ！」
-PRINTFORMDL 明羅は意識も定かでなく達している…	PRINTFORMDL 明羅は意識も定かでなく達している…
-PRINTFORML 「うわっ、ま……うー！　んーーっ！」	PRINTFORML 「うわっ、ま……うー！　んーーっ！」
-PRINTFORML 「くっ、手足を封じるとは卑怯なー！」	PRINTFORML 「くっ、手足を封じるとは卑怯なー！」
-PRINTFORML 「あひあぁっ！　ひゃ、めろおぉ！！」	PRINTFORML 「あひあぁっ！　ひゃ、めろおぉ！！」
-PRINTFORML 「あやつに比べれば止まって見える！」	PRINTFORML 「あやつに比べれば止まって見える！」
-PRINTFORML 「貴様などが触れるな！　ばかもん！」	PRINTFORML 「貴様などが触れるな！　ばかもん！」
-PRINTFORML 「やめろ！　く、くらってたまるか！」	PRINTFORML 「やめろ！　く、くらってたまるか！」
-PRINTFORML 「し、心頭滅却すれば火もまた涼し！」	PRINTFORML 「し、心頭滅却すれば火もまた涼し！」
-PRINTFORML 「恥などとうの昔に……す、捨てた！」	PRINTFORML 「恥などとうの昔に……す、捨てた！」
-PRINTFORML 「う、動けんっ！　は～な～せぇ！！」	PRINTFORML 「う、動けんっ！　は～な～せぇ！！」
-PRINTFORML 「……な、何を考えているんだ私は！」	PRINTFORML 「……な、何を考えているんだ私は！」
-PRINTFORML 「こ、の！　うつけぇ！　早く出せ！」	PRINTFORML 「こ、の！　うつけぇ！　早く出せ！」
-PRINTFORML 「今宵も私の剣は血に飢えているっ！」	PRINTFORML 「今宵も私の剣は血に飢えているっ！」
-PRINTFORML 「よ…寄るな。ギラギラしすぎだ……」	PRINTFORML 「よ…寄るな。ギラギラしすぎだ……」
-PRINTFORML 「……不安になるやらほっとするやら」	PRINTFORML 「……不安になるやらほっとするやら」
-PRINTFORML 「無理はするな、私の近くにいてくれ」	PRINTFORML 「無理はするな、私の近くにいてくれ」
-PRINTFORMW 「なるほど、さーて…どうしたものか」	PRINTFORMW 「なるほど、さーて…どうしたものか」
-PRINTFORMW 「確かに酒はすべて神々しくはあるが」	PRINTFORMW 「確かに酒はすべて神々しくはあるが」
-PRINTFORML 「着物は胸が小さいほうが似合うとか」	PRINTFORML 「着物は胸が小さいほうが似合うとか」
-PRINTFORML 「あとは……まかせたー…。……くー」	PRINTFORML 「あとは……まかせたー…。……くー」
-PRINTFORMW ……なん、のぉ……う、はあぁぁ……」	PRINTFORMW ……なん、のぉ……う、はあぁぁ……」
-PRINTFORM 「し、しつこ……っ、うあああぁぁぁぁっ	PRINTFORM 「し、しつこ……っ、うあああぁぁぁぁっ
-PRINTFORML 「駄目だな……何もできる気がしない」	PRINTFORML 「駄目だな……何もできる気がしない」
-PRINTFORML 「すまないが、もう少しゆっくり……」	PRINTFORML 「すまないが、もう少しゆっくり……」
-PRINTFORML 「こういうのには全く疎いのだが……」	PRINTFORML 「こういうのには全く疎いのだが……」
-PRINTFORM 「…く、かえってぇ、う、ずく、ぅ………	PRINTFORM 「…く、かえってぇ、う、ずく、ぅ………
-PRINTFORML 「化け物共にやられるならいっそ……」	PRINTFORML 「化け物共にやられるならいっそ……」
-PRINTFORMDW かろうじて読める箇所はこれだけだ 	PRINTFORMDW かろうじて読める箇所はこれだけだ 
-PRINTFORML 「まぁ飲め、飲んで一時憂いを忘れろ」	PRINTFORML 「まぁ飲め、飲んで一時憂いを忘れろ」
-PRINTFORML 「ま、一見同じ場所にしか見えないが」	PRINTFORML 「ま、一見同じ場所にしか見えないが」
-PRINTFORML 「南無……。有り難く使わせて頂こう」	PRINTFORML 「南無……。有り難く使わせて頂こう」
-PRINTFORML 「あ……あああああぁぁぁぁぁっ！！」	PRINTFORML 「あ……あああああぁぁぁぁぁっ！！」
-PRINTFORML 「う、走るたびに……擦、れ……っ」	PRINTFORML 「う、走るたびに……擦、れ……っ」
-PRINTFORML 「倒す、じゃなく生きる、が先だ！」	PRINTFORML 「倒す、じゃなく生きる、が先だ！」
-PRINTFORML 「私がぁ……？　わ、かったぁ……」	PRINTFORML 「私がぁ……？　わ、かったぁ……」
-PRINTFORML 「ど、どうせここなんだろう……！」	PRINTFORML 「ど、どうせここなんだろう……！」
-PRINTFORM 「……諦めた先は地獄の酒池肉林か……	PRINTFORM 「……諦めた先は地獄の酒池肉林か……
-PRINTFORML 「暫し待て、すぐに体制を立て直す」	PRINTFORML 「暫し待て、すぐに体制を立て直す」
-PRINTFORML 「ま、まやかしだ、あぁぁ、ぁ……」	PRINTFORML 「ま、まやかしだ、あぁぁ、ぁ……」
-PRINTFORML 「おぐっ……い、今のは厳しい……」	PRINTFORML 「おぐっ……い、今のは厳しい……」
-PRINTFORML 「うあああぁぁぁぁっっ?!!?!」	PRINTFORML 「うあああぁぁぁぁっっ?!!?!」
-PRINTFORML 「あ?!　うわっ！　はなせっ！！」	PRINTFORML 「あ?!　うわっ！　はなせっ！！」
-PRINTFORML 「やめろやめろぉ！　ひ、はぁっ！」	PRINTFORML 「やめろやめろぉ！　ひ、はぁっ！」
-PRINTFORML 「研ぎ澄まし、避ける。それだけだ」	PRINTFORML 「研ぎ澄まし、避ける。それだけだ」
-PRINTFORML 「弱った人間は的か？　ふざけるな」	PRINTFORML 「弱った人間は的か？　ふざけるな」
-PRINTFORML 「うー、うくうぅっ！　ふ、あ……」	PRINTFORML 「うー、うくうぅっ！　ふ、あ……」
-PRINTFORML 「うわっ…………ん、ぐぉ…………」	PRINTFORML 「うわっ…………ん、ぐぉ…………」
-PRINTFORML 「ひぃー、だれか助けて下さーい！」	PRINTFORML 「ひぃー、だれか助けて下さーい！」
-PRINTFORM 「さ、さっさと切る！　そのあとで……	PRINTFORM 「さ、さっさと切る！　そのあとで……
-PRINTFORML 「……どうした。目が怖いぞ……？」	PRINTFORML 「……どうした。目が怖いぞ……？」
-PRINTFORML 「外に出たら甘い物を買ってやろう」	PRINTFORML 「外に出たら甘い物を買ってやろう」
-PRINTFORMW 「私の専門外だが、贅沢は言えぬか」	PRINTFORMW 「私の専門外だが、贅沢は言えぬか」
-PRINTFORML 「舶来物の飲料…どれ、毒味を一杯」	PRINTFORML 「舶来物の飲料…どれ、毒味を一杯」
-PRINTFORM 「ま、また……ク、るううううぅぅぅっ	PRINTFORM 「ま、また……ク、るううううぅぅぅっ
-PRINTFORML 「……！　…！！　…う……ぅ……」	PRINTFORML 「……！　…！！　…う……ぅ……」
-PRINTFORML 「深呼吸……すぅー、はああぁぁー」	PRINTFORML 「深呼吸……すぅー、はああぁぁー」
-PRINTFORML 「これ以上大きくなっていらぬ……」	PRINTFORML 「これ以上大きくなっていらぬ……」
-PRINTFORML 「ふぁ……そろそろ寝る時間か…？」	PRINTFORML 「ふぁ……そろそろ寝る時間か…？」
-PRINTFORML 「無闇に動かん方がいいのか……？」	PRINTFORML 「無闇に動かん方がいいのか……？」
-PRINTFORM 「……痛い…が、しょうがないな……ぁ	PRINTFORM 「……痛い…が、しょうがないな……ぁ
-PRINTFORML 「か、刀は流石に許してくれぇ……」	PRINTFORML 「か、刀は流石に許してくれぇ……」
-PRINTFORML 「う、ぅ……あ、りが、と…………」	PRINTFORML 「う、ぅ……あ、りが、と…………」
-PRINTFORML 探索{DAY}日目　まだ、諦めない	PRINTFORML 探索{DAY}日目　まだ、諦めない
-PRINTFORML 探索{DAY}日目　遠い、遠すぎる	PRINTFORML 探索{DAY}日目　遠い、遠すぎる
-PRINTFORML 探索{DAY}日目　まだいきている	PRINTFORML 探索{DAY}日目　まだいきている
-PRINTFORML 探索{DAY}日目　なにもなかった	PRINTFORML 探索{DAY}日目　なにもなかった
-PRINTFORML 「ま、武士は相身互いと言うからな」	PRINTFORML 「ま、武士は相身互いと言うからな」
-PRINTFORM 「ほらぁ……じまん、の胸だぞぉ……	PRINTFORM 「ほらぁ……じまん、の胸だぞぉ……
-PRINTFORML 「く、ううぅ～……どう、ぞ……」	PRINTFORML 「く、ううぅ～……どう、ぞ……」
-PRINTFORML 「こっちだぞ～…………ううぅ～」	PRINTFORML 「こっちだぞ～…………ううぅ～」
-PRINTFORML 「こ、こいつら切りにくい～……」	PRINTFORML 「こ、こいつら切りにくい～……」
-PRINTFORML 「弾幕も太刀も、あるのだぞっ！」	PRINTFORML 「弾幕も太刀も、あるのだぞっ！」
-PRINTFORML 「寄ってくるなばかもん……ッ！」	PRINTFORML 「寄ってくるなばかもん……ッ！」
-PRINTFORML 「隊列のどてっ腹にくれてやる！」	PRINTFORML 「隊列のどてっ腹にくれてやる！」
-PRINTFORML 「ふふふ……負ける気がしない！」	PRINTFORML 「ふふふ……負ける気がしない！」
-PRINTFORML (ぶ、不気味なっ！　だせえっ！)	PRINTFORML (ぶ、不気味なっ！　だせえっ！)
-PRINTFORML 「剣が抜けないっ、はなせえっ！」	PRINTFORML 「剣が抜けないっ、はなせえっ！」
-PRINTFORML 「ぎ…っ、人間にはつらいな……」	PRINTFORML 「ぎ…っ、人間にはつらいな……」
-PRINTFORML 「姑息な手段を使いおって～！！」	PRINTFORML 「姑息な手段を使いおって～！！」
-PRINTFORML 「さっさと、や、めんかぁ……！」	PRINTFORML 「さっさと、や、めんかぁ……！」
-PRINTFORML 「小癪なぁ……正々堂々戦えっ！」	PRINTFORML 「小癪なぁ……正々堂々戦えっ！」
-PRINTFORML 「あ……ふ、ふああぁぁぁっ！！」	PRINTFORML 「あ……ふ、ふああぁぁぁっ！！」
-PRINTFORML 「こ、この服、一張羅なのにぃ！」	PRINTFORML 「こ、この服、一張羅なのにぃ！」
-PRINTFORMDL うるさいので口を抑えられている	PRINTFORMDL うるさいので口を抑えられている
-PRINTFORML 「うむ。急がば回れ、急がば回れ」	PRINTFORML 「うむ。急がば回れ、急がば回れ」
-PRINTFORMW 「血切りでなく粘液切りとは……」	PRINTFORMW 「血切りでなく粘液切りとは……」
-PRINTFORM 「しまった！　気をやっていたぁ……	PRINTFORM 「しまった！　気をやっていたぁ……
-PRINTFORML 「そんなこったろうと思ってたよ」	PRINTFORML 「そんなこったろうと思ってたよ」
-PRINTFORML 「まあ、人のことは言えぬが……」	PRINTFORML 「まあ、人のことは言えぬが……」
-PRINTFORML 「……かえって救われた、のか？」	PRINTFORML 「……かえって救われた、のか？」
-PRINTFORML 「……あんた、雰囲気変わったな」	PRINTFORML 「……あんた、雰囲気変わったな」
-PRINTFORML 「まあ、遊んでる子も結構いたが」	PRINTFORML 「まあ、遊んでる子も結構いたが」
-PRINTFORML 「博麗じゃない方の巫女さんだな」	PRINTFORML 「博麗じゃない方の巫女さんだな」
-PRINTFORML 「外の世界の……ダイガクセイ？」	PRINTFORML 「外の世界の……ダイガクセイ？」
-PRINTFORML 「ほおほお。これは、珍しいなぁ」	PRINTFORML 「ほおほお。これは、珍しいなぁ」
-PRINTFORML 「先に寝るか？　私はどちらでも」	PRINTFORML 「先に寝るか？　私はどちらでも」
-PRINTFORMD ピンと立った乳首を弾かれた拍子に	PRINTFORMD ピンと立った乳首を弾かれた拍子に
-PRINTFORM 「これで……動かれたら、あ、くぁ…	PRINTFORM 「これで……動かれたら、あ、くぁ…
-PRINTFORM 「あ、ふうぅぅ……ジンジン…する…	PRINTFORM 「あ、ふうぅぅ……ジンジン…する…
-PRINTFORML 「うく……ふうぅ、ううぅ………」	PRINTFORML 「うく……ふうぅ、ううぅ………」
-PRINTFORML 「まだまだ未熟だ……情けない…」	PRINTFORML 「まだまだ未熟だ……情けない…」
-PRINTFORML 「箸が進まん……バテているのか」	PRINTFORML 「箸が進まん……バテているのか」
-PRINTFORML 「……やれやれ、取り越し苦労か」	PRINTFORML 「……やれやれ、取り越し苦労か」
-PRINTFORML 「……い、今……動い、た……？」	PRINTFORML 「……い、今……動い、た……？」
-PRINTFORML 「く、そ……切り刻んでやる……」	PRINTFORML 「く、そ……切り刻んでやる……」
-PRINTFORML 「いっ……！　くふううぅぅ……」	PRINTFORML 「いっ……！　くふううぅぅ……」
-PRINTFORMDL これが最後のページだ…　　　　	PRINTFORMDL これが最後のページだ…　　　　
-PRINTFORMDL ページ一面が黒く塗られている　	PRINTFORMDL ページ一面が黒く塗られている　
-PRINTFORML よく分からない模様が書かれている	PRINTFORML よく分からない模様が書かれている
-PRINTFORML 筆が乱れすぎていて読むに堪えない	PRINTFORML 筆が乱れすぎていて読むに堪えない
-PRINTFORML 探索{DAY}日目　だいじょうぶ	PRINTFORML 探索{DAY}日目　だいじょうぶ
-PRINTFORML 探索{DAY}日目　昨日と同じだ	PRINTFORML 探索{DAY}日目　昨日と同じだ
-PRINTFORML 探索{DAY}日目　白飯が恋しい	PRINTFORML 探索{DAY}日目　白飯が恋しい
-PRINTFORML ……そのときはちゃんと金を払おう	PRINTFORML ……そのときはちゃんと金を払おう
-PRINTFORML 探索{DAY}日目　一人は、嫌だ	PRINTFORML 探索{DAY}日目　一人は、嫌だ
-PRINTFORML 「あー、……融通の利かん奴だな」	PRINTFORML 「あー、……融通の利かん奴だな」
-PRINTFORML 「これか？　構わん、持って行け」	PRINTFORML 「これか？　構わん、持って行け」
-PRINTFORML 「…………まさか例の神隠しか？」	PRINTFORML 「…………まさか例の神隠しか？」
-PRINTFORML 「ひはぁっ……なんだぁ……?!」	PRINTFORML 「ひはぁっ……なんだぁ……?!」
-PRINTFORML やめて埋めないで、埋めないで。	PRINTFORML やめて埋めないで、埋めないで。
-PRINTFORMW 「お前は…いらん！　死ねぇ！」	PRINTFORMW 「お前は…いらん！　死ねぇ！」
-PRINTFORML 「義光の最期を知っているか？」	PRINTFORML 「義光の最期を知っているか？」
-PRINTFORML 「私のより良い刀のような……」	PRINTFORML 「私のより良い刀のような……」
-PRINTFORML (刀も抜けんなら暴れてやる！)	PRINTFORML (刀も抜けんなら暴れてやる！)
-PRINTFORM 「た、耐えて見えるものもある……	PRINTFORM 「た、耐えて見えるものもある……
-PRINTFORM 「…………もう、無理。かなぁ……	PRINTFORM 「…………もう、無理。かなぁ……
-PRINTFORM 「ひいぃ……母乳、とまってぇ……	PRINTFORM 「ひいぃ……母乳、とまってぇ……
-PRINTFORML 「ぐ、うぐぅ……あ、ふっ…！」	PRINTFORML 「ぐ、うぐぅ……あ、ふっ…！」
-PRINTFORML 「う……ぐ…………き、さまぁ」	PRINTFORML 「う……ぐ…………き、さまぁ」
-PRINTFORML 「やっ、め、ろお…ひはぁっ！」	PRINTFORML 「やっ、め、ろお…ひはぁっ！」
-PRINTFORML 「それ、は、絶対ダメだあっ！」	PRINTFORML 「それ、は、絶対ダメだあっ！」
-PRINTFORML 「…………いっそ埋めてくれぇ」	PRINTFORML 「…………いっそ埋めてくれぇ」
-PRINTFORML 「ぁぶッ！！　……う、迂闊っ」	PRINTFORML 「ぁぶッ！！　……う、迂闊っ」
-PRINTFORML 「穴があったら埋まりたい……」	PRINTFORML 「穴があったら埋まりたい……」
-PRINTFORML 「百合……はぁ……勘弁してぇ」	PRINTFORML 「百合……はぁ……勘弁してぇ」
-PRINTFORML 「いぎっ！　強く、なって……」	PRINTFORML 「いぎっ！　強く、なって……」
-PRINTFORML ……何をにやけているんだ私は」	PRINTFORML ……何をにやけているんだ私は」
-PRINTFORMW 「言っておくが、埋めないぞ？」	PRINTFORMW 「言っておくが、埋めないぞ？」
-PRINTFORMDW 明羅は刀を抱いて眠っている…	PRINTFORMDW 明羅は刀を抱いて眠っている…
-PRINTFORMW 「里にはあまり顔を出さないな」	PRINTFORMW 「里にはあまり顔を出さないな」
-PRINTFORML 「稗田のもここに……無事か？」	PRINTFORML 「稗田のもここに……無事か？」
-PRINTFORMDW なにやらトラウマがあるようだ	PRINTFORMDW なにやらトラウマがあるようだ
-PRINTFORMW 「な、ななな、何だこれは！！」	PRINTFORMW 「な、ななな、何だこれは！！」
-PRINTFORMW 「な、何に使えと……言うのだ」	PRINTFORMW 「な、何に使えと……言うのだ」
-PRINTFORML 「おちおち寝れぬのがなぁ……」	PRINTFORML 「おちおち寝れぬのがなぁ……」
-PRINTFORM 「あ、ふあぁ……こり、こりぃ……	PRINTFORM 「あ、ふあぁ……こり、こりぃ……
-PRINTFORM 「ゆ…指だけでは……せつな……ぃ	PRINTFORM 「ゆ…指だけでは……せつな……ぃ
-PRINTFORM 「ど、ぉして……ここで、ぇ………	PRINTFORM 「ど、ぉして……ここで、ぇ………
-PRINTFORM 「も、もうちょっと、な、のに……	PRINTFORM 「も、もうちょっと、な、のに……
-PRINTFORML ！……ふ、くううぅぅっっ！！」	PRINTFORML ！……ふ、くううぅぅっっ！！」
-PRINTFORML 「やはりしっかりと食べんとな」	PRINTFORML 「やはりしっかりと食べんとな」
-PRINTFORML 「身体が思うように動かん……」	PRINTFORML 「身体が思うように動かん……」
-PRINTFORML 「ぎ……少し元気が良すぎるな」	PRINTFORML 「ぎ……少し元気が良すぎるな」
-PRINTFORMDW 明羅は半狂乱で絶叫している…	PRINTFORMDW 明羅は半狂乱で絶叫している…
-PRINTFORML 「化け物どもと根比べといこう」	PRINTFORML 「化け物どもと根比べといこう」
-PRINTFORML 「しょうがない……とっておけ」	PRINTFORML 「しょうがない……とっておけ」
-PRINTFORML 「構わんが……私でいいのか？」	PRINTFORML 「構わんが……私でいいのか？」
-PRINTFORML 探索{DAY}日目　触手が多い	PRINTFORML 探索{DAY}日目　触手が多い
-PRINTFORML 「出ずっぱりは厳しいな……」	PRINTFORML 「出ずっぱりは厳しいな……」
-PRINTFORML 「あ、甘いっ……ふうぅっ！」	PRINTFORML 「あ、甘いっ……ふうぅっ！」
-PRINTFORML 「うりゃあ！　弾多めぇっ！」	PRINTFORML 「うりゃあ！　弾多めぇっ！」
-PRINTFORML 「ちえええぇぇぇぇいっ！！」	PRINTFORML 「ちえええぇぇぇぇいっ！！」
-PRINTFORML 「真っ二つだああぁぁっ！！」	PRINTFORML 「真っ二つだああぁぁっ！！」
-PRINTFORML 「剣の応用で……つえぃっ！」	PRINTFORML 「剣の応用で……つえぃっ！」
-PRINTFORML 「剣だけの私では無いぞっ！」	PRINTFORML 「剣だけの私では無いぞっ！」
-PRINTFORML 「耐えて見えるものもあろう」	PRINTFORML 「耐えて見えるものもあろう」
-PRINTFORM 「止まれ…、止まってくれぇ……	PRINTFORM 「止まれ…、止まってくれぇ……
-PRINTFORML 「げ、ゴホッ！　ゴホッ！！」	PRINTFORML 「げ、ゴホッ！　ゴホッ！！」
-PRINTFORML 「ちまちまちまちまと～……」	PRINTFORML 「ちまちまちまちまと～……」
-PRINTFORML 「ひひゃあっ！　やめろっ！」	PRINTFORML 「ひひゃあっ！　やめろっ！」
-PRINTFORML 「く、このような辱め……っ」	PRINTFORML 「く、このような辱め……っ」
-PRINTFORML 「いやぁ……う、く…………」	PRINTFORML 「いやぁ……う、く…………」
-PRINTFORML 「ええぃ、いい加減にしろ！」	PRINTFORML 「ええぃ、いい加減にしろ！」
-PRINTFORML 「ひ！　いやだいやだぁっ！」	PRINTFORML 「ひ！　いやだいやだぁっ！」
-PRINTFORML 「ようし、ここから反撃だ！」	PRINTFORML 「ようし、ここから反撃だ！」
-PRINTFORML 「こ、ここからが修羅だー！」	PRINTFORML 「こ、ここからが修羅だー！」
-PRINTFORML 「ううう～……もどかしい～」	PRINTFORML 「ううう～……もどかしい～」
-PRINTFORML 「襤褸は着ようが心は錦、か」	PRINTFORML 「襤褸は着ようが心は錦、か」
-PRINTFORML 「剣の手入れはしているか？」	PRINTFORML 「剣の手入れはしているか？」
-PRINTFORMW 「がんばっているみたいだな」	PRINTFORMW 「がんばっているみたいだな」
-PRINTFORML 「余計な気遣いは無用だ……」	PRINTFORML 「余計な気遣いは無用だ……」
-PRINTFORML 「あ、あんた薬師の所の兎か」	PRINTFORML 「あ、あんた薬師の所の兎か」
-PRINTFORML 「ふむ……ほお……はあ……」	PRINTFORML 「ふむ……ほお……はあ……」
-PRINTFORMW 「むしろ軍師っぽいか……？」	PRINTFORMW 「むしろ軍師っぽいか……？」
-PRINTFORMW 「……と正直には喜べんなぁ」	PRINTFORMW 「……と正直には喜べんなぁ」
-PRINTFORML 「落ち着いて飲みたいものだ」	PRINTFORML 「落ち着いて飲みたいものだ」
-PRINTFORML 「着物など私の柄ではないが」	PRINTFORML 「着物など私の柄ではないが」
-PRINTFORML 「私が先に見張っておこうか」	PRINTFORML 「私が先に見張っておこうか」
-PRINTFORML 「こんな所で寝れるかーっ！」	PRINTFORML 「こんな所で寝れるかーっ！」
-PRINTFORM 「わ、私をどうしたいのだぁ……	PRINTFORM 「わ、私をどうしたいのだぁ……
-PRINTFORM 「ふあぁぁ……ふる、え、て……	PRINTFORM 「ふあぁぁ……ふる、え、て……
-PRINTFORM 「ん……ふ、くううぅ…………っ	PRINTFORM 「ん……ふ、くううぅ…………っ
-PRINTFORML 「誰にも会いたくないな……」	PRINTFORML 「誰にも会いたくないな……」
-PRINTFORML 「さて、虎穴に入ろうか……」	PRINTFORML 「さて、虎穴に入ろうか……」
-PRINTFORML 「私が野盗の真似事など……」	PRINTFORML 「私が野盗の真似事など……」
-PRINTFORML 「身ぐるみ置いて行けっ！！」	PRINTFORML 「身ぐるみ置いて行けっ！！」
-PRINTFORMD 少し書いて上から消されている	PRINTFORMD 少し書いて上から消されている
-PRINTFORM 探索{DAY}日目　必ず、この	PRINTFORM 探索{DAY}日目　必ず、この
-PRINTFORML 名前で呼んだ方がいいだろうか	PRINTFORML 名前で呼んだ方がいいだろうか
-PRINTFORML 「ちょうど余ってるな、ほら」	PRINTFORML 「ちょうど余ってるな、ほら」
-PRINTFORML 「な、何だっ！　まぶしっ！」	PRINTFORML 「な、何だっ！　まぶしっ！」
-PRINTFORML 「なんだ……やけに昂る……」	PRINTFORML 「なんだ……やけに昂る……」
-PRINTFORML 「よし、次は私に頼む……」	PRINTFORML 「よし、次は私に頼む……」
-PRINTFORMW 「印籠から薬を出してやる」	PRINTFORMW 「印籠から薬を出してやる」
-PRINTFORML 「こ、こんなもんで沈めー」	PRINTFORML 「こ、こんなもんで沈めー」
-PRINTFORML 「お前如きに刀なぞいらん」	PRINTFORML 「お前如きに刀なぞいらん」
-PRINTFORML 「ぜああああぁぁっ！！！」	PRINTFORML 「ぜああああぁぁっ！！！」
-PRINTFORML 「ええいちょこまかとっ！」	PRINTFORML 「ええいちょこまかとっ！」
-PRINTFORML 「ふむ、この刀もなかなか」	PRINTFORML 「ふむ、この刀もなかなか」
-PRINTFORML 「地で牽制し、天で討つ！」	PRINTFORML 「地で牽制し、天で討つ！」
-PRINTFORML 「そこかっ、見切ったぁ！」	PRINTFORML 「そこかっ、見切ったぁ！」
-PRINTFORML 「不浄の穴を守るなど……」	PRINTFORML 「不浄の穴を守るなど……」
-PRINTFORM 「…………が……はッ…………	PRINTFORM 「…………が……はッ…………
-PRINTFORM 「ひ、ぎいいいいいぃぃぃっっ	PRINTFORM 「ひ、ぎいいいいいぃぃぃっっ
-PRINTFORML 「うう……、っ、あひぃ！」	PRINTFORML 「うう……、っ、あひぃ！」
-PRINTFORML 「こ、これ以上いらんっ！」	PRINTFORML 「こ、これ以上いらんっ！」
-PRINTFORML 「イ、くううぅぅぅっ！！」	PRINTFORML 「イ、くううぅぅぅっ！！」
-PRINTFORML 「ふ、ざ、け、るな～……」	PRINTFORML 「ふ、ざ、け、るな～……」
-PRINTFORML 「修行が足らんな……私の」	PRINTFORML 「修行が足らんな……私の」
-PRINTFORML 「刀、は無事か…よかった」	PRINTFORML 「刀、は無事か…よかった」
-PRINTFORML 「あ、あぁ…………………」	PRINTFORML 「あ、あぁ…………………」
-PRINTFORML 「こっち見るなばかもん！」	PRINTFORML 「こっち見るなばかもん！」
-PRINTFORML 「か、環境まで敵かっ?!」	PRINTFORML 「か、環境まで敵かっ?!」
-PRINTFORML 「ぅ～ん……うめる、な～」	PRINTFORML 「ぅ～ん……うめる、な～」
-PRINTFORML 「一歩でも踏み入れば……」	PRINTFORML 「一歩でも踏み入れば……」
-PRINTFORML 「もごーっ！　うがーー！」	PRINTFORML 「もごーっ！　うがーー！」
-PRINTFORML 「我が剣の冴えを見よっ！」	PRINTFORML 「我が剣の冴えを見よっ！」
-PRINTFORML 「鞘は捨てぬ！　行くぞっ」	PRINTFORML 「鞘は捨てぬ！　行くぞっ」
-PRINTFORML 「疼いてぇ……堪らん……」	PRINTFORML 「疼いてぇ……堪らん……」
-PRINTFORMW 「に、人間をなめるなっ！」	PRINTFORMW 「に、人間をなめるなっ！」
-PRINTFORML 「……助けろ、ばかもんが」	PRINTFORML 「……助けろ、ばかもんが」
-PRINTFORML 「犬のほうが良かったか？」	PRINTFORML 「犬のほうが良かったか？」
-PRINTFORML 「どれ、聞かせてもらおう」	PRINTFORML 「どれ、聞かせてもらおう」
-PRINTFORMW 「あぁ、これか？　手記だ」	PRINTFORMW 「あぁ、これか？　手記だ」
-PRINTFORMW 「最近の妖怪は友好的だな」	PRINTFORMW 「最近の妖怪は友好的だな」
-PRINTFORMW 「は、博霊の一件はな……」	PRINTFORMW 「は、博霊の一件はな……」
-PRINTFORML 「へぇ、あの館のメイド…」	PRINTFORML 「へぇ、あの館のメイド…」
-PRINTFORML 「もう……だめだ…………」	PRINTFORML 「もう……だめだ…………」
-PRINTFORML 「申し訳ないが、頼んだぞ」	PRINTFORML 「申し訳ないが、頼んだぞ」
-PRINTFORM ！　あ、あはああぁ…………っ	PRINTFORM ！　あ、あはああぁ…………っ
-PRINTFORM 「うぐぅ……し、まったぁ……	PRINTFORM 「うぐぅ……し、まったぁ……
-PRINTFORML 「いかん……調子が優れん」	PRINTFORML 「いかん……調子が優れん」
-PRINTFORML 「せめて、剣は迷わず……」	PRINTFORML 「せめて、剣は迷わず……」
-PRINTFORML 「く……思うように動けん」	PRINTFORML 「く……思うように動けん」
-PRINTFORML 「今は……休むべきか……」	PRINTFORML 「今は……休むべきか……」
-PRINTFORML 「……………………あ……」	PRINTFORML 「……………………あ……」
-PRINTFORML 「気配を、殺して…………」	PRINTFORML 「気配を、殺して…………」
-PRINTFORML 「一人旅も気楽なものでな」	PRINTFORML 「一人旅も気楽なものでな」
-PRINTFORML 「ふーっ、生き返るようだ」	PRINTFORML 「ふーっ、生き返るようだ」
-PRINTFORML 探索{DAY}日目　疲れた	PRINTFORML 探索{DAY}日目　疲れた
-PRINTFORML 今は醜いまでに張っているが	PRINTFORML 今は醜いまでに張っているが
-PRINTFORML ここで知るとは思わなかった	PRINTFORML ここで知るとは思わなかった
-﻿PRINTFORML 触手宮　明羅の口上です。	PRINTFORML 触手宮　明羅の口上です。
-PRINTFORML 「も、勘弁してくれ……」	PRINTFORML 「も、勘弁してくれ……」
-PRINTFORML 「それっ！　今だ～っ！」	PRINTFORML 「それっ！　今だ～っ！」
-PRINTFORM 「…………焦らさ、ないでぇ	PRINTFORM 「…………焦らさ、ないでぇ
-PRINTFORML 「やりにくい……ていっ」	PRINTFORML 「やりにくい……ていっ」
-PRINTFORML 「うぅ～、当たれ～……」	PRINTFORML 「うぅ～、当たれ～……」
-PRINTFORMDW 勢いが良いのは口だけだ	PRINTFORMDW 勢いが良いのは口だけだ
-PRINTFORML 「さっさと解放せんか！」	PRINTFORML 「さっさと解放せんか！」
-PRINTFORML 「ぐっ……うごけん……」	PRINTFORML 「ぐっ……うごけん……」
-PRINTFORML 　味な、ま、ねをぉ……」	PRINTFORML 　味な、ま、ねをぉ……」
-PRINTFORML 「わ、私に触れるなっ！」	PRINTFORML 「わ、私に触れるなっ！」
-PRINTFORML 「う、刀がベトつく……」	PRINTFORML 「う、刀がベトつく……」
-PRINTFORML 「く、これが狙いか……」	PRINTFORML 「く、これが狙いか……」
-PRINTFORM 「は、にゃああああぁぁっっ	PRINTFORM 「は、にゃああああぁぁっっ
-PRINTFORML 「ぐ……ぬかった…っ！」	PRINTFORML 「ぐ……ぬかった…っ！」
-PRINTFORML 「そもそも切りにくい～」	PRINTFORML 「そもそも切りにくい～」
-PRINTFORML 「何が目的だ色惚けめ！」	PRINTFORML 「何が目的だ色惚けめ！」
-PRINTFORML 「間に合わんかっ……」 	PRINTFORML 「間に合わんかっ……」 
-PRINTFORML 「はっ、かかってこい！」	PRINTFORML 「はっ、かかってこい！」
-PRINTFORML 「め……面妖な輩だ……」	PRINTFORML 「め……面妖な輩だ……」
-PRINTFORML 「手数で圧倒してやる！」	PRINTFORML 「手数で圧倒してやる！」
-PRINTFORML 「ば、馬鹿者は私か?!」	PRINTFORML 「ば、馬鹿者は私か?!」
-PRINTFORML 「あ、……………………」	PRINTFORML 「あ、……………………」
-PRINTFORML 「……ぅ………………？」	PRINTFORML 「……ぅ………………？」
-PRINTFORMW 「お前は成長せぬな……」	PRINTFORMW 「お前は成長せぬな……」
-PRINTFORML 「べ……別次元の人間？」	PRINTFORML 「べ……別次元の人間？」
-PRINTFORML 「くぅ……あ、はぁ……」	PRINTFORML 「くぅ……あ、はぁ……」
-PRINTFORML 「気にするな、すぐ治る」	PRINTFORML 「気にするな、すぐ治る」
-PRINTFORML 「…………ううぅぅ……」	PRINTFORML 「…………ううぅぅ……」
-PRINTFORML 「抜刀に腹が邪魔だ……」	PRINTFORML 「抜刀に腹が邪魔だ……」
-PRINTFORML 「…………が、あっ……」	PRINTFORML 「…………が、あっ……」
-PRINTFORML 「あ……ま、て…………」	PRINTFORML 「あ……ま、て…………」
-PRINTFORML 「行かせてもらおうっ！」	PRINTFORML 「行かせてもらおうっ！」
-PRINTFORML 「鬼が出るか蛇が出るか」	PRINTFORML 「鬼が出るか蛇が出るか」
-PRINTFORML 「物漁りならまかせろー」	PRINTFORML 「物漁りならまかせろー」
-PRINTFORML 一ページ分千切られている	PRINTFORML 一ページ分千切られている
-PRINTFORML 「守るのは不得手だ…」	PRINTFORML 「守るのは不得手だ…」
-PRINTFORML 「まだるっこしいな…」	PRINTFORML 「まだるっこしいな…」
-PRINTFORML 「間合いを詰めるっ！」	PRINTFORML 「間合いを詰めるっ！」
-PRINTFORM 「は、早く……ここだ…ぁ	PRINTFORM 「は、早く……ここだ…ぁ
-PRINTFORML 「案ずるな、峰打ちだ」	PRINTFORML 「案ずるな、峰打ちだ」
-PRINTFORML 「切る切る切るっ！！」	PRINTFORML 「切る切る切るっ！！」
-PRINTFORML 「一・刀・入・魂！！」	PRINTFORML 「一・刀・入・魂！！」
-PRINTFORML 「お前で試し切りだ！」	PRINTFORML 「お前で試し切りだ！」
-PRINTFORML 「ば、かもんがー！」」	PRINTFORML 「ば、かもんがー！」」
-PRINTFORM 悪くない、かもな…………	PRINTFORM 悪くない、かもな…………
-PRINTFORML 「う…っ。……げえぇ」	PRINTFORML 「う…っ。……げえぇ」
-PRINTFORML 「うぅー、勘弁して～」	PRINTFORML 「うぅー、勘弁して～」
-PRINTFORML 「へはぁ！　ううぅ～」	PRINTFORML 「へはぁ！　ううぅ～」
-PRINTFORML 「ひにゃあ……っう！」	PRINTFORML 「ひにゃあ……っう！」
-PRINTFORML 「きもち……悪いぃ…」	PRINTFORML 「きもち……悪いぃ…」
-PRINTFORML 「むっ、掠ったかっ！」	PRINTFORML 「むっ、掠ったかっ！」
-PRINTFORML 「いい加減にしろ……」	PRINTFORML 「いい加減にしろ……」
-PRINTFORML 「弄るな下衆が……っ」	PRINTFORML 「弄るな下衆が……っ」
-PRINTFORML 「そこはやめろ……！」	PRINTFORML 「そこはやめろ……！」
-PRINTFORML 「当たりたくない……」	PRINTFORML 「当たりたくない……」
-PRINTFORML 「…………気のせいか」	PRINTFORML 「…………気のせいか」
-PRINTFORML 「私は……女だぁ……」	PRINTFORML 「私は……女だぁ……」
-PRINTFORML 「ば、ばかもんが……」	PRINTFORML 「ば、ばかもんが……」
-PRINTFORML 「心中、察しよう……」	PRINTFORML 「心中、察しよう……」
-PRINTFORML 「こっち見るな～……」	PRINTFORML 「こっち見るな～……」
-PRINTFORML 「生きていて何よりだ」	PRINTFORML 「生きていて何よりだ」
-PRINTFORML 「うむ、致し方無いな」	PRINTFORML 「うむ、致し方無いな」
-PRINTFORML 「宜しく頼むぞ、先生」	PRINTFORML 「宜しく頼むぞ、先生」
-PRINTFORML 「あんたがここに……」	PRINTFORML 「あんたがここに……」
-PRINTFORML 「世界は広いな～……」	PRINTFORML 「世界は広いな～……」
-PRINTFORMW 「しなりが特徴的だな」	PRINTFORMW 「しなりが特徴的だな」
-PRINTFORMDL オーガスムに達した…	PRINTFORMDL オーガスムに達した…
-PRINTFORML …と、まらないぃ……」	PRINTFORML …と、まらないぃ……」
-PRINTFORML 「……うん、大丈夫だ」	PRINTFORML 「……うん、大丈夫だ」
-PRINTFORML 「無理が祟ったか……」	PRINTFORML 「無理が祟ったか……」
-PRINTFORML 「ふうぅーー…………」	PRINTFORML 「ふうぅーー…………」
-PRINTFORML 「服に、滲む…………」	PRINTFORML 「服に、滲む…………」
-PRINTFORML 「…………う、ぁ……」	PRINTFORML 「…………う、ぁ……」
-PRINTFORML 「一気呵成にゆくぞ！」	PRINTFORML 「一気呵成にゆくぞ！」
-PRINTFORML 「隠密には自信がある」	PRINTFORML 「隠密には自信がある」
-PRINTFORML 「何かないものか……」	PRINTFORML 「何かないものか……」
-PRINTFORM 「あ、はあああぁぁぁ……	PRINTFORM 「あ、はあああぁぁぁ……
-PRINTFORML 「……ん、…………！」	PRINTFORML 「……ん、…………！」
-PRINTFORML 「何も持っていないな」	PRINTFORML 「何も持っていないな」
-PRINTFORML 「間合いを取る……」	PRINTFORML 「間合いを取る……」
-PRINTFORM 「な、慰めて……くれ…	PRINTFORM 「な、慰めて……くれ…
-PRINTFORML 「切る！　切るっ！」	PRINTFORML 「切る！　切るっ！」
-PRINTFORML 「搦手も使わねばな」	PRINTFORML 「搦手も使わねばな」
-PRINTFORML 「く、屈辱だ～……」	PRINTFORML 「く、屈辱だ～……」
-PRINTFORML 「的にするな……っ」	PRINTFORML 「的にするな……っ」
-PRINTFORML 「お前ごときに……」	PRINTFORML 「お前ごときに……」
-PRINTFORML 「手応えあり……っ」	PRINTFORML 「手応えあり……っ」
-PRINTFORML 「が…………うぷっ」	PRINTFORML 「が…………うぷっ」
-PRINTFORML 「そんな所をっ……」	PRINTFORML 「そんな所をっ……」
-PRINTFORML 「ん？　あ…………」	PRINTFORML 「ん？　あ…………」
-PRINTFORML 「ぜぇ……ぜぇ……」	PRINTFORML 「ぜぇ……ぜぇ……」
-PRINTFORML 「当たれ！　ばか！」	PRINTFORML 「当たれ！　ばか！」
-PRINTFORML 「は、破廉恥なっ！」	PRINTFORML 「は、破廉恥なっ！」
-PRINTFORML 「いっ、たぁ………」	PRINTFORML 「いっ、たぁ………」
-PRINTFORML 「ぐー………………」	PRINTFORML 「ぐー………………」
-PRINTFORML 「全部切ーーるっ！」	PRINTFORML 「全部切ーーるっ！」
-PRINTFORML なっ、何でもない！」	PRINTFORML なっ、何でもない！」
-PRINTFORML 「では、達者でな！」	PRINTFORML 「では、達者でな！」
-PRINTFORML 「妖怪寺の尼僧……」	PRINTFORML 「妖怪寺の尼僧……」
-PRINTFORMW 「あんた…人間か？」	PRINTFORMW 「あんた…人間か？」
-PRINTFORMW 「ま、そんなものか」	PRINTFORMW 「ま、そんなものか」
-PRINTFORML 「では、暇を戴こう」	PRINTFORML 「では、暇を戴こう」
-PRINTFORMW 「ひいぃ！　博麗！」	PRINTFORMW 「ひいぃ！　博麗！」
-PRINTFORMW 「酒だぁーーっ！！」	PRINTFORMW 「酒だぁーーっ！！」
-PRINTFORM 「ひ、やああぁぁぁ……	PRINTFORM 「ひ、やああぁぁぁ……
-PRINTFORML 「……鈍ったかなー」	PRINTFORML 「……鈍ったかなー」
-PRINTFORML 「少し、休むか……」	PRINTFORML 「少し、休むか……」
-PRINTFORML 「はぁ……気も重い」	PRINTFORML 「はぁ……気も重い」
-PRINTFORML 「慌てない慌てない」	PRINTFORML 「慌てない慌てない」
-PRINTFORML 「お前などに……っ」	PRINTFORML 「お前などに……っ」
-PRINTFORML 「か…かたじけない」	PRINTFORML 「か…かたじけない」
-PRINTFORML このページは白紙だ…	PRINTFORML このページは白紙だ…
-PRINTFORML 探索{DAY}日目　	PRINTFORML 探索{DAY}日目　
-PRINTFORML がいる。さあ、行こう	PRINTFORML がいる。さあ、行こう
-PRINTFORML 「……縮地の妖術か」	PRINTFORML 「……縮地の妖術か」
-PRINTFORML 「お助けーー！！」	PRINTFORML 「お助けーー！！」
-PRINTFORML 「快刀乱麻だっ！」	PRINTFORML 「快刀乱麻だっ！」
-PRINTFORML 「止めて、切る！」	PRINTFORML 「止めて、切る！」
-PRINTFORML 「く……やめろ！」	PRINTFORML 「く……やめろ！」
-PRINTFORML 「あ、がぐ……っ」	PRINTFORML 「あ、がぐ……っ」
-PRINTFORML 「うっとおしい！」	PRINTFORML 「うっとおしい！」
-PRINTFORML 「絶対当たらん！」	PRINTFORML 「絶対当たらん！」
-PRINTFORML 「動きは単調だな」	PRINTFORML 「動きは単調だな」
-PRINTFORML 「心眼で見切る！」	PRINTFORML 「心眼で見切る！」
-PRINTFORM 「く、助かった……ぁ	PRINTFORM 「く、助かった……ぁ
-PRINTFORML 「ぬかったぁ?!」	PRINTFORML 「ぬかったぁ?!」
-PRINTFORML 「やられ、たっ！」	PRINTFORML 「やられ、たっ！」
-PRINTFORML 「お、庭師の剣士」	PRINTFORML 「お、庭師の剣士」
-PRINTFORML 「言うてくれるな」	PRINTFORML 「言うてくれるな」
-PRINTFORML 「しからば、御免」	PRINTFORML 「しからば、御免」
-PRINTFORML 「最近はどうだ？」	PRINTFORML 「最近はどうだ？」
-PRINTFORML 「里香。久しいな」	PRINTFORML 「里香。久しいな」
-PRINTFORML 「よろしく頼むぞ」	PRINTFORML 「よろしく頼むぞ」
-PRINTFORMW 「素晴らしい……」	PRINTFORMW 「素晴らしい……」
-PRINTFORML 「…………うぇー」	PRINTFORML 「…………うぇー」
-PRINTFORMD を翻弄され、明羅は	PRINTFORMD を翻弄され、明羅は
-PRINTFORM 止まらないいぃぃっっ	PRINTFORM 止まらないいぃぃっっ
-PRINTFORM なかで、こす、れ……	PRINTFORM なかで、こす、れ……
-PRINTFORM 「い、いじめ、て……	PRINTFORM 「い、いじめ、て……
-PRINTFORML ……く、ひい、ぃ」	PRINTFORML ……く、ひい、ぃ」
-PRINTFORM 「い、一大事かぁ……	PRINTFORM 「い、一大事かぁ……
-PRINTFORML 「これぐらい……」	PRINTFORML 「これぐらい……」
-PRINTFORML 「いかんなぁ……」	PRINTFORML 「いかんなぁ……」
-PRINTFORML 「……治ったか？」	PRINTFORML 「……治ったか？」
-PRINTFORML 「少し、疲れたな」	PRINTFORML 「少し、疲れたな」
-PRINTFORML 「しーっ…………」	PRINTFORML 「しーっ…………」
-PRINTFORML 「御免蒙るな……」	PRINTFORML 「御免蒙るな……」
-PRINTFORML 「……くれてやる」	PRINTFORML 「……くれてやる」
-PRINTFORML 「力にはなれんな」	PRINTFORML 「力にはなれんな」
-PRINTFORML 「くっ、曲者か！」	PRINTFORML 「くっ、曲者か！」
-PRINTFORML 人で脱出してみせる	PRINTFORML 人で脱出してみせる
-PRINTFORML (…………殺気？)	PRINTFORML (…………殺気？)
-PRINTFORML 「突っ走れっ！」	PRINTFORML 「突っ走れっ！」
-PRINTFORML 「切って、撃つ」	PRINTFORML 「切って、撃つ」
-PRINTFORML 「ちぇすとぉ！」	PRINTFORML 「ちぇすとぉ！」
-PRINTFORML 「ずええぃっ！」	PRINTFORML 「ずええぃっ！」
-PRINTFORML 「触・即・斬！」	PRINTFORML 「触・即・斬！」
-PRINTFORML 「どおぅだあ！」	PRINTFORML 「どおぅだあ！」
-PRINTFORML 「く、ふうぅぅ～	PRINTFORML 「く、ふうぅぅ～
-PRINTFORML 「やったか?!」	PRINTFORML 「やったか?!」
-PRINTFORML 「この程度っ！」	PRINTFORML 「この程度っ！」
-PRINTFORML 「ふ、不覚っ！」	PRINTFORML 「ふ、不覚っ！」
-PRINTFORML 「何が狙いだ！」	PRINTFORML 「何が狙いだ！」
-PRINTFORML 「下郎がぁ……」	PRINTFORML 「下郎がぁ……」
-PRINTFORML 「やめんかっ！」	PRINTFORML 「やめんかっ！」
-PRINTFORML 「…………ぐー」	PRINTFORML 「…………ぐー」
-PRINTFORML 「願い下げだ！」	PRINTFORML 「願い下げだ！」
-PRINTFORML 「かたじけない」	PRINTFORML 「かたじけない」
-PRINTFORML 「む……無念…」	PRINTFORML 「む……無念…」
-PRINTFORMW 「大事ないか？」	PRINTFORMW 「大事ないか？」
-PRINTFORMW 「首尾は上々か」	PRINTFORMW 「首尾は上々か」
-PRINTFORMW 「こ、これは！」	PRINTFORMW 「こ、これは！」
-PRINTFORM ！　す、ご……いぃ	PRINTFORM ！　す、ご……いぃ
-PRINTFORM 「ひゅあああぁぁっ	PRINTFORM 「ひゅあああぁぁっ
-PRINTFORM ！　っ！はあぁッッ	PRINTFORM ！　っ！はあぁッッ
-PRINTFORML 「よし、行くか」	PRINTFORML 「よし、行くか」
-PRINTFORML 「さ、させんっ」	PRINTFORML 「さ、させんっ」
-PRINTFORMW 「お前が欲しい」	PRINTFORMW 「お前が欲しい」
-PRINTFORMW そ　　　　と　に	PRINTFORMW そ　　　　と　に
-PRINTFORML 「それそれ！」	PRINTFORML 「それそれ！」
-PRINTFORML 「くらえっ！」	PRINTFORML 「くらえっ！」
-PRINTFORML 「どうだぁ！」	PRINTFORML 「どうだぁ！」
-PRINTFORML 「とぅあっ！」	PRINTFORML 「とぅあっ！」
-PRINTFORML ……はは……」	PRINTFORML ……はは……」
-PRINTFORML 「触るなっ！」	PRINTFORML 「触るなっ！」
-PRINTFORML 「ぐうぅ……」	PRINTFORML 「ぐうぅ……」
-PRINTFORML 「よけるな！」	PRINTFORML 「よけるな！」
-PRINTFORML 「切り払う！」	PRINTFORML 「切り払う！」
-PRINTFORML 「不快だ……」	PRINTFORML 「不快だ……」
-PRINTFORML 「……切る！」	PRINTFORML 「……切る！」
-PRINTFORML 「ぐぉーーー」	PRINTFORML 「ぐぉーーー」
-PRINTFORML 「おう、里香」	PRINTFORML 「おう、里香」
-PRINTFORML 「宜しく頼む」	PRINTFORML 「宜しく頼む」
-PRINTFORM 「あああぁぁ……	PRINTFORM 「あああぁぁ……
-PRINTFORM 「う、ずいて……	PRINTFORM 「う、ずいて……
-PRINTFORML 「それぇっ！」	PRINTFORML 「それぇっ！」
-PRINTFORML 「ふーっ…」	PRINTFORML 「ふーっ…」
-PRINTFORML 「行くぞっ」	PRINTFORML 「行くぞっ」
-PRINTFORMW 「きるっ！」	PRINTFORMW 「きるっ！」
-PRINTFORML 「とおっ！」	PRINTFORML 「とおっ！」
-PRINTFORM 「ううぅ～……	PRINTFORM 「ううぅ～……
-PRINTFORML 「ええい！」	PRINTFORML 「ええい！」
-PRINTFORML 「読めたっ」	PRINTFORML 「読めたっ」
-PRINTFORML 「げ、博霊」	PRINTFORML 「げ、博霊」
-PRINTFORML 「達者でな」	PRINTFORML 「達者でな」
-PRINTFORML 「宜しくな」	PRINTFORML 「宜しくな」
-PRINTFORMD 触手の悪戯に	PRINTFORMD 触手の悪戯に
-PRINTFORM 「ひああああっ	PRINTFORM 「ひああああっ
-PRINTFORM 「だ、めだぁっ	PRINTFORM 「だ、めだぁっ
-PRINTFORML 「はー……」	PRINTFORML 「はー……」
-PRINTFORML (腹が……)	PRINTFORML (腹が……)
-PRINTFORML 「もうだ…」	PRINTFORML 「もうだ…」
-PRINTFORML 「てやっ」	PRINTFORML 「てやっ」
-PRINTFORML 「しッ！」	PRINTFORML 「しッ！」
-PRINTFORM 「くうぅ……	PRINTFORM 「くうぅ……
-PRINTFORM 　あはぁ……	PRINTFORM 　あはぁ……
-PRINTFORM ふああぁぁっ	PRINTFORM ふああぁぁっ
-PRINTFORML ！！！！」	PRINTFORML ！！！！」
-PRINTFORML 「任せろ」	PRINTFORML 「任せろ」
-PRINTFORML ！！！」	PRINTFORML ！！！」
-PRINTFORML !?!」	PRINTFORML !?!」
-PRINTFORML 「……」	PRINTFORML 「……」
-PRINTFORML 「うむ」	PRINTFORML 「うむ」
-PRINTFORM クリトリス	PRINTFORM クリトリス
-PRINTFORM 「あはぁっ	PRINTFORM 「あはぁっ
-PRINTFORM 「ふふ…	PRINTFORM 「ふふ…
-PRINTFORML ?!」	PRINTFORML ?!」
-PRINTFORM 「あ……	PRINTFORM 「あ……
-PRINTFORML ！！」	PRINTFORML ！！」
-PRINTFORML ！」	PRINTFORML ！」
-PRINTFORML 「」	PRINTFORML 「」
-PRINTFORML ？」	PRINTFORML ？」
-PRINTFORML 」	PRINTFORML 」
-PRINTFORMW 」	PRINTFORMW 」
-PRINTFORM 尻穴	PRINTFORM 尻穴
-PRINTFORM 性器	PRINTFORM 性器
-PRINTFORML )	PRINTFORML )
-PRINTFORML 	PRINTFORML 
-PRINTFORM 胸	PRINTFORM 胸
-PRINTFORM 3	PRINTFORM 3
-PRINTFORM 2	PRINTFORM 2
-PRINTFORM 達	PRINTFORM 達
-PRINTFORM 	PRINTFORM 
-PRINTFORML	PRINTFORML
+﻿﻿PRINTFORML 触手宮　明羅の口上です。		PRINTFORML 触手宮　明羅の口上です。
+PRINTFORML 緊張感がねえので嫌な人はOFF推奨。		PRINTFORML 緊張感がねえので嫌な人はOFF推奨。
+PRINTFORML やめて埋めないで、埋めないで。		PRINTFORML やめて埋めないで、埋めないで。
+PRINTFORML 襤褸は着てても心は錦な女侍は好きですか？		PRINTFORML 襤褸は着てても心は錦な女侍は好きですか？
+PRINTFORML 「か、構えてはいるぞ！　寄るんじゃない！」		PRINTFORML 「か、構えてはいるぞ！　寄るんじゃない！」
+PRINTFORML 「守るのは不得手だ…」		PRINTFORML 「守るのは不得手だ…」
+PRINTFORML 「まだるっこしいな…」		PRINTFORML 「まだるっこしいな…」
+PRINTFORML 「よし、次は私に頼む……」		PRINTFORML 「よし、次は私に頼む……」
+PRINTFORMW 「印籠から薬を出してやる」		PRINTFORMW 「印籠から薬を出してやる」
+PRINTFORML 「ふーっ…」		PRINTFORML 「ふーっ…」
+PRINTFORML 「前に出ないと切れんからな。しょうがない……ぃ」		PRINTFORML 「前に出ないと切れんからな。しょうがない……ぃ」
+PRINTFORML 「行くぞっ」		PRINTFORML 「行くぞっ」
+PRINTFORML 「間合いを詰めるっ！」		PRINTFORML 「間合いを詰めるっ！」
+PRINTFORML 「も、勘弁してくれ……」		PRINTFORML 「も、勘弁してくれ……」
+PRINTFORML 「出ずっぱりは厳しいな……」		PRINTFORML 「出ずっぱりは厳しいな……」
+PRINTFORML 「間合いを取る……」		PRINTFORML 「間合いを取る……」
+PRINTFORML 「お助けーー！！」		PRINTFORML 「お助けーー！！」
+PRINTFORML 「う、走るたびに……擦、れ……っ」		PRINTFORML 「う、走るたびに……擦、れ……っ」
+PRINTFORML 「それっ！　今だ～っ！」		PRINTFORML 「それっ！　今だ～っ！」
+PRINTFORML 「突っ走れっ！」		PRINTFORML 「突っ走れっ！」
+PRINTFORML 「倒す、じゃなく生きる、が先だ！」		PRINTFORML 「倒す、じゃなく生きる、が先だ！」
+PRINTFORML 「私がぁ……？　わ、かったぁ……」		PRINTFORML 「私がぁ……？　わ、かったぁ……」
+PRINTFORM 「な、慰めて……くれ…	!#!PRINTFORM 「な、慰めて……くれ…
+PRINTFORML 」		PRINTFORML 」
+PRINTFORML 「わ、私がか?!　……うぅ、わ、分かった」		PRINTFORML 「わ、私がか?!　……うぅ、わ、分かった」
+PRINTFORML 「うぅぅ……こっち……だけど来るなぁ」		PRINTFORML 「うぅぅ……こっち……だけど来るなぁ」
+PRINTFORM 「ほらぁ……じまん、の胸だぞぉ……	!#!PRINTFORM 「ほらぁ……じまん、の胸だぞぉ……
+PRINTFORML 「く、ううぅ～……どう、ぞ……」		PRINTFORML 「く、ううぅ～……どう、ぞ……」
+PRINTFORM 「…………焦らさ、ないでぇ	!#!PRINTFORM 「…………焦らさ、ないでぇ
+PRINTFORML 「す、好きなようにして……いいのだぞ？　…く」		PRINTFORML 「す、好きなようにして……いいのだぞ？　…く」
+PRINTFORM 「は、早く……ここだ…ぁ	!#!PRINTFORM 「は、早く……ここだ…ぁ
+PRINTFORML 「ど、どうせここなんだろう……！」		PRINTFORML 「ど、どうせここなんだろう……！」
+PRINTFORML 「こっちだぞ～…………ううぅ～」		PRINTFORML 「こっちだぞ～…………ううぅ～」
+PRINTFORML 「やりにくい……ていっ」		PRINTFORML 「やりにくい……ていっ」
+PRINTFORML 「こ、こんなもんで沈めー」		PRINTFORML 「こ、こんなもんで沈めー」
+PRINTFORML 「えーい……まあやられないよなぁ……」		PRINTFORML 「えーい……まあやられないよなぁ……」
+PRINTFORML 「と、とりあえずは撃っておこう……」		PRINTFORML 「と、とりあえずは撃っておこう……」
+PRINTFORML 「てやっ」		PRINTFORML 「てやっ」
+PRINTFORMW 「きるっ！」		PRINTFORMW 「きるっ！」
+PRINTFORML 「それそれ！」		PRINTFORML 「それそれ！」
+PRINTFORML 「切って、撃つ」		PRINTFORML 「切って、撃つ」
+PRINTFORML 「私の弾も捨てたものではなかろう？」		PRINTFORML 「私の弾も捨てたものではなかろう？」
+PRINTFORML 「お前如きに刀なぞいらん」		PRINTFORML 「お前如きに刀なぞいらん」
+PRINTFORML 「うぅ～、当たれ～……」		PRINTFORML 「うぅ～、当たれ～……」
+PRINTFORML 「ちぇすとぉ！」		PRINTFORML 「ちぇすとぉ！」
+PRINTFORML 「うりゃああぁぁ…！！　てやああぁぁ……！！」		PRINTFORML 「うりゃああぁぁ…！！　てやああぁぁ……！！」
+PRINTFORMDW 勢いが良いのは口だけだ	!#!PRINTFORMDW 勢いが良いのは口だけだ
+PRINTFORML 「か、かくなる上は蜘蛛の動きをヒントに編み出した必殺剣技を……」		PRINTFORML 「か、かくなる上は蜘蛛の動きをヒントに編み出した必殺剣技を……」
+PRINTFORML 「案ずるな、峰打ちだ」		PRINTFORML 「案ずるな、峰打ちだ」
+PRINTFORML 「切る！　切るっ！」		PRINTFORML 「切る！　切るっ！」
+PRINTFORML 「斬るッ！！　それっ！　これはおまけだ！！」		PRINTFORML 「斬るッ！！　それっ！　これはおまけだ！！」
+PRINTFORML 「弾幕と剣を合わせた、全く新しい剣技っ！！」		PRINTFORML 「弾幕と剣を合わせた、全く新しい剣技っ！！」
+PRINTFORML 「距離を置いたと油断したな！　甘いっ、弾も出るぞぉっ！」		PRINTFORML 「距離を置いたと油断したな！　甘いっ、弾も出るぞぉっ！」
+PRINTFORML 「あ、甘いっ……ふうぅっ！」		PRINTFORML 「あ、甘いっ……ふうぅっ！」
+PRINTFORML 「さっさと死ねぇ！　お願いだからぁ！」		PRINTFORML 「さっさと死ねぇ！　お願いだからぁ！」
+PRINTFORML 「こ、こいつら切りにくい～……」		PRINTFORML 「こ、こいつら切りにくい～……」
+PRINTFORML 「うりゃあ！　弾多めぇっ！」		PRINTFORML 「うりゃあ！　弾多めぇっ！」
+PRINTFORML 「切る切る切るっ！！」		PRINTFORML 「切る切る切るっ！！」
+PRINTFORML 「ずええぃっ！」		PRINTFORML 「ずええぃっ！」
+PRINTFORML 「弾幕も太刀も、あるのだぞっ！」		PRINTFORML 「弾幕も太刀も、あるのだぞっ！」
+PRINTFORML 「快刀乱麻だっ！」		PRINTFORML 「快刀乱麻だっ！」
+PRINTFORMW 「お前は…いらん！　死ねぇ！」		PRINTFORMW 「お前は…いらん！　死ねぇ！」
+PRINTFORML 「義光の最期を知っているか？」		PRINTFORML 「義光の最期を知っているか？」
+PRINTFORML 		PRINTFORML 
+PRINTFORML 「一・刀・入・魂！！」		PRINTFORML 「一・刀・入・魂！！」
+PRINTFORML 「はあああぁぁぁ…………ふうううぅぅぅぅーーーーー……」		PRINTFORML 「はあああぁぁぁ…………ふうううぅぅぅぅーーーーー……」
+PRINTFORMW 「矢尽き刀折れても私には弾幕がある……」		PRINTFORMW 「矢尽き刀折れても私には弾幕がある……」
+PRINTFORML 「ぜああああぁぁっ！！！」		PRINTFORML 「ぜああああぁぁっ！！！」
+PRINTFORM 	!#!PRINTFORM 
+PRINTFORML 「ちえええぇぇぇぇいっ！！」		PRINTFORML 「ちえええぇぇぇぇいっ！！」
+PRINTFORML 「真っ二つだああぁぁっ！！」		PRINTFORML 「真っ二つだああぁぁっ！！」
+PRINTFORML 「寄ってくるなばかもん……ッ！」		PRINTFORML 「寄ってくるなばかもん……ッ！」
+PRINTFORML 「搦手も使わねばな」		PRINTFORML 「搦手も使わねばな」
+PRINTFORML 「ええいちょこまかとっ！」		PRINTFORML 「ええいちょこまかとっ！」
+PRINTFORML 「止めて、切る！」		PRINTFORML 「止めて、切る！」
+PRINTFORML 「触・即・斬！」		PRINTFORML 「触・即・斬！」
+PRINTFORML 「隊列のどてっ腹にくれてやる！」		PRINTFORML 「隊列のどてっ腹にくれてやる！」
+PRINTFORML 「勢いを殺さず、流れるように切る……」		PRINTFORML 「勢いを殺さず、流れるように切る……」
+PRINTFORML 「くらえっ！」		PRINTFORML 「くらえっ！」
+PRINTFORML 「ケチればいいのか？　得意分野だ！」		PRINTFORML 「ケチればいいのか？　得意分野だ！」
+PRINTFORML 「……さすがに愛刀は使えぬから……いや、なんでもない」		PRINTFORML 「……さすがに愛刀は使えぬから……いや、なんでもない」
+PRINTFORML 「ふむ、この刀もなかなか」		PRINTFORML 「ふむ、この刀もなかなか」
+PRINTFORML 「とおっ！」		PRINTFORML 「とおっ！」
+PRINTFORML 「お前で試し切りだ！」		PRINTFORML 「お前で試し切りだ！」
+PRINTFORML 「私のより良い刀のような……」		PRINTFORML 「私のより良い刀のような……」
+PRINTFORML 「地で牽制し、天で討つ！」		PRINTFORML 「地で牽制し、天で討つ！」
+PRINTFORML 「ううぅ……ま、まさかこれのせいで盛るのか……？」		PRINTFORML 「ううぅ……ま、まさかこれのせいで盛るのか……？」
+PRINTFORML 「ふふふ……負ける気がしない！」		PRINTFORML 「ふふふ……負ける気がしない！」
+PRINTFORML 「私と博麗の力が合わさって最強に見えるっ！」		PRINTFORML 「私と博麗の力が合わさって最強に見えるっ！」
+PRINTFORML 「どおぅだあ！」		PRINTFORML 「どおぅだあ！」
+PRINTFORML 「今は何者も私を止めてくれるなー！」		PRINTFORML 「今は何者も私を止めてくれるなー！」
+PRINTFORML 「力が溢れる！！　最高の気分だぁ！！」		PRINTFORML 「力が溢れる！！　最高の気分だぁ！！」
+PRINTFORML 「剣の応用で……つえぃっ！」		PRINTFORML 「剣の応用で……つえぃっ！」
+PRINTFORML 「剣だけの私では無いぞっ！」		PRINTFORML 「剣だけの私では無いぞっ！」
+PRINTFORML 「どうだぁ！」		PRINTFORML 「どうだぁ！」
+PRINTFORML 「とぅあっ！」		PRINTFORML 「とぅあっ！」
+PRINTFORML 「この閃きが見えるか?!　……なーんてなっ！」		PRINTFORML 「この閃きが見えるか?!　……なーんてなっ！」
+PRINTFORML 「そこかっ、見切ったぁ！」		PRINTFORML 「そこかっ、見切ったぁ！」
+PRINTFORML 「う、埋まるのだけはっ！　それだけは勘弁だ！」		PRINTFORML 「う、埋まるのだけはっ！　それだけは勘弁だ！」
+PRINTFORML 「ひぎぃ！　ひぃー、ひは、ぁっ！！」		PRINTFORML 「ひぎぃ！　ひぃー、ひは、ぁっ！！」
+PRINTFORML 「はな、せっ！……あ?!　ぴあっ！」		PRINTFORML 「はな、せっ！……あ?!　ぴあっ！」
+PRINTFORML 「ちょ、ちょっと今はっ、あ、はあぁっ！！」		PRINTFORML 「ちょ、ちょっと今はっ、あ、はあぁっ！！」
+PRINTFORML 「くそっ！　ううぅっ!!?　うあぁっ！」		PRINTFORML 「くそっ！　ううぅっ!!?　うあぁっ！」
+PRINTFORML (だ、出せっ！　この化け物がーっ！！)		PRINTFORML (だ、出せっ！　この化け物がーっ！！)
+PRINTFORML (ぶ、不気味なっ！　だせえっ！)		PRINTFORML (ぶ、不気味なっ！　だせえっ！)
+PRINTFORML (刀も抜けんなら暴れてやる！)		PRINTFORML (刀も抜けんなら暴れてやる！)
+PRINTFORM 「ううぅ～……	!#!PRINTFORM 「ううぅ～……
+PRINTFORML 「さっさと解放せんか！」		PRINTFORML 「さっさと解放せんか！」
+PRINTFORML 「ば、かもんがー！」」		PRINTFORML 「ば、かもんがー！」」
+PRINTFORML 「剣が抜けないっ、はなせえっ！」		PRINTFORML 「剣が抜けないっ、はなせえっ！」
+PRINTFORML 「明鏡止水……されど我が心は業火の如く」		PRINTFORML 「明鏡止水……されど我が心は業火の如く」
+PRINTFORM 「た、耐えて見えるものもある……	!#!PRINTFORM 「た、耐えて見えるものもある……
+PRINTFORML 「耐えて見えるものもあろう」		PRINTFORML 「耐えて見えるものもあろう」
+PRINTFORMW (……はは、結局…こんなものだった、ということか……)		PRINTFORMW (……はは、結局…こんなものだった、ということか……)
+PRINTFORM 「……諦めた先は地獄の酒池肉林か……	!#!PRINTFORM 「……諦めた先は地獄の酒池肉林か……
+PRINTFORMW 」		PRINTFORMW 」
+PRINTFORM 「ふふ…	!#!PRINTFORM 「ふふ…
+PRINTFORM 悪くない、かもな…………	!#!PRINTFORM 悪くない、かもな…………
+PRINTFORM 「…………もう、無理。かなぁ……	!#!PRINTFORM 「…………もう、無理。かなぁ……
+PRINTFORML ……はは……」		PRINTFORML ……はは……」
+PRINTFORML 「ぐっ……うごけん……」		PRINTFORML 「ぐっ……うごけん……」
+PRINTFORML 「暫し待て、すぐに体制を立て直す」		PRINTFORML 「暫し待て、すぐに体制を立て直す」
+PRINTFORML 「う、ひゃっ！……いま、つ、らい、……」		PRINTFORML 「う、ひゃっ！……いま、つ、らい、……」
+PRINTFORMDW (こ、こんなに撫で回されて、ヘン、に……)	!#!PRINTFORMDW (こ、こんなに撫で回されて、ヘン、に……)
+PRINTFORML 「うぐぅ……人を、もてあそんでぇ、楽しいか…ぁ」		PRINTFORML 「うぐぅ……人を、もてあそんでぇ、楽しいか…ぁ」
+PRINTFORML 「よ、よりよってぇ……こんな、とき、にぃ……」		PRINTFORML 「よ、よりよってぇ……こんな、とき、にぃ……」
+PRINTFORML 「ま、まやかしだ、あぁぁ、ぁ……」		PRINTFORML 「ま、まやかしだ、あぁぁ、ぁ……」
+PRINTFORM 「止まれ…、止まってくれぇ……	!#!PRINTFORM 「止まれ…、止まってくれぇ……
+PRINTFORML 「く、ふうぅぅ～		PRINTFORML 「く、ふうぅぅ～
+PRINTFORML 　味な、ま、ねをぉ……」		PRINTFORML 　味な、ま、ねをぉ……」
+PRINTFORML 「不浄の穴を守るなど……」		PRINTFORML 「不浄の穴を守るなど……」
+PRINTFORML 「く、屈辱だ～……」		PRINTFORML 「く、屈辱だ～……」
+PRINTFORML 「的にするな……っ」		PRINTFORML 「的にするな……っ」
+PRINTFORML 「わ、私に触れるなっ！」		PRINTFORML 「わ、私に触れるなっ！」
+PRINTFORML 「お前ごときに……」		PRINTFORML 「お前ごときに……」
+PRINTFORML 「く……やめろ！」		PRINTFORML 「く……やめろ！」
+PRINTFORML 「やったか?!」		PRINTFORML 「やったか?!」
+PRINTFORML 「手応えあり……っ」		PRINTFORML 「手応えあり……っ」
+PRINTFORML 「う、刀がベトつく……」		PRINTFORML 「う、刀がベトつく……」
+PRINTFORML 「何も感じぬ！　……うぅ～……嘘です～」		PRINTFORML 「何も感じぬ！　……うぅ～……嘘です～」
+PRINTFORML 「う…っ。……げえぇ」		PRINTFORML 「う…っ。……げえぇ」
+PRINTFORML 「が…………うぷっ」		PRINTFORML 「が…………うぷっ」
+PRINTFORML 明羅は口に手を当てて嘔気をこらえている		PRINTFORML 明羅は口に手を当てて嘔気をこらえている
+PRINTFORML 「あ、がぐ……っ」		PRINTFORML 「あ、がぐ……っ」
+PRINTFORML 「おぐっ……い、今のは厳しい……」		PRINTFORML 「おぐっ……い、今のは厳しい……」
+PRINTFORML 「ぎ…っ、人間にはつらいな……」		PRINTFORML 「ぎ…っ、人間にはつらいな……」
+PRINTFORML 「げ、ゴホッ！　ゴホッ！！」		PRINTFORML 「げ、ゴホッ！　ゴホッ！！」
+PRINTFORML 「この程度っ！」		PRINTFORML 「この程度っ！」
+PRINTFORML 「うっとおしい！」		PRINTFORML 「うっとおしい！」
+PRINTFORML 「ちまちまちまちまと～……」		PRINTFORML 「ちまちまちまちまと～……」
+PRINTFORML 「く、これが狙いか……」		PRINTFORML 「く、これが狙いか……」
+PRINTFORML 「姑息な手段を使いおって～！！」		PRINTFORML 「姑息な手段を使いおって～！！」
+PRINTFORML 「ふ、不覚っ！」		PRINTFORML 「ふ、不覚っ！」
+PRINTFORML 「うぅー、勘弁して～」		PRINTFORML 「うぅー、勘弁して～」
+PRINTFORML 「ひひゃあっ！　やめろっ！」		PRINTFORML 「ひひゃあっ！　やめろっ！」
+PRINTFORML 「へはぁ！　ううぅ～」		PRINTFORML 「へはぁ！　ううぅ～」
+PRINTFORML 「ひにゃあ……っう！」		PRINTFORML 「ひにゃあ……っう！」
+PRINTFORML 「きもち……悪いぃ…」		PRINTFORML 「きもち……悪いぃ…」
+PRINTFORML 「何が狙いだ！」		PRINTFORML 「何が狙いだ！」
+PRINTFORML 「むっ、掠ったかっ！」		PRINTFORML 「むっ、掠ったかっ！」
+PRINTFORM 「…………が……はッ…………	!#!PRINTFORM 「…………が……はッ…………
+PRINTFORML ?!」		PRINTFORML ?!」
+PRINTFORMDL 腹を突き破るような感覚と一歩遅れてやってきたすさまじい快感に	!#!PRINTFORMDL 腹を突き破るような感覚と一歩遅れてやってきたすさまじい快感に
+PRINTFORMDL 明羅は意識も定かでなく達している…	!#!PRINTFORMDL 明羅は意識も定かでなく達している…
+PRINTFORML 「あ…ああぁ！　は、な、せええええぇ！　ひぎいいいぃっ！！！」		PRINTFORML 「あ…ああぁ！　は、な、せええええぇ！　ひぎいいいぃっ！！！」
+PRINTFORM 「ひいぃ……母乳、とまってぇ……	!#!PRINTFORM 「ひいぃ……母乳、とまってぇ……
+PRINTFORML 「あああぁぁっ！！　やめろぉ！　こ、こわれっ」		PRINTFORML 「あああぁぁっ！！　やめろぉ！　こ、こわれっ」
+PRINTFORM 「は、にゃああああぁぁっっ	!#!PRINTFORM 「は、にゃああああぁぁっっ
+PRINTFORML ！！！」		PRINTFORML ！！！」
+PRINTFORML 「いやぁっ！　抜け！　ぬけええぇぇっ！！」		PRINTFORML 「いやぁっ！　抜け！　ぬけええぇぇっ！！」
+PRINTFORM 「ひ、ぎいいいいいぃぃぃっっ	!#!PRINTFORM 「ひ、ぎいいいいいぃぃぃっっ
+PRINTFORML !?!」		PRINTFORML !?!」
+PRINTFORML 「ふああぁっ、駄目だっ！　ほんとにっ！　これ以上はぁっ！！」		PRINTFORML 「ふああぁっ、駄目だっ！　ほんとにっ！　これ以上はぁっ！！」
+PRINTFORML 「うあああぁぁぁぁっっ?!!?!」		PRINTFORML 「うあああぁぁぁぁっっ?!!?!」
+PRINTFORML 「あぁっ、なんだ?!　何か、く、るううぅぅっっ！！」		PRINTFORML 「あぁっ、なんだ?!　何か、く、るううぅぅっっ！！」
+PRINTFORML 「ひ、あ……あああぁあぁぁっっ！！！」		PRINTFORML 「ひ、あ……あああぁあぁぁっっ！！！」
+PRINTFORML 「ぐっ……抜、けぇ、あ、がああぁぁ！！」		PRINTFORML 「ぐっ……抜、けぇ、あ、がああぁぁ！！」
+PRINTFORML 「く、このような辱め……っ」		PRINTFORML 「く、このような辱め……っ」
+PRINTFORML 「ぐ、うぐぅ……あ、ふっ…！」		PRINTFORML 「ぐ、うぐぅ……あ、ふっ…！」
+PRINTFORML 「いい加減にしろ……」		PRINTFORML 「いい加減にしろ……」
+PRINTFORML 「さっさと、や、めんかぁ……！」		PRINTFORML 「さっさと、や、めんかぁ……！」
+PRINTFORML 「ぐ、あ、余り……いじってくれるなぁ…」		PRINTFORML 「ぐ、あ、余り……いじってくれるなぁ…」
+PRINTFORML 「もういいっ！　もういいからぁ！！」 		PRINTFORML 「もういいっ！　もういいからぁ！！」 
+PRINTFORML 「ぶ、ぶったぎって、や、りゅうぅ……」		PRINTFORML 「ぶ、ぶったぎって、や、りゅうぅ……」
+PRINTFORML 「うう……、っ、あひぃ！」		PRINTFORML 「うう……、っ、あひぃ！」
+PRINTFORML 「下郎がぁ……」		PRINTFORML 「下郎がぁ……」
+PRINTFORML 「やめんかっ！」		PRINTFORML 「やめんかっ！」
+PRINTFORML 「そんな所をっ……」		PRINTFORML 「そんな所をっ……」
+PRINTFORML 「こ、これ以上いらんっ！」		PRINTFORML 「こ、これ以上いらんっ！」
+PRINTFORML 「触るなっ！」		PRINTFORML 「触るなっ！」
+PRINTFORML 「弄るな下衆が……っ」		PRINTFORML 「弄るな下衆が……っ」
+PRINTFORML 「ぐうぅ……」		PRINTFORML 「ぐうぅ……」
+PRINTFORML 「そこはやめろ……！」		PRINTFORML 「そこはやめろ……！」
+PRINTFORML 「うわっ、ま……うー！　んーーっ！」		PRINTFORML 「うわっ、ま……うー！　んーーっ！」
+PRINTFORML 「うがーー！！！　食うなーーー！！　出せぇ…む、ぐう」		PRINTFORML 「うがーー！！！　食うなーーー！！　出せぇ…む、ぐう」
+PRINTFORML 「ぐ……ぬかった…っ！」		PRINTFORML 「ぐ……ぬかった…っ！」
+PRINTFORML 「あ?!　うわっ！　はなせっ！！」		PRINTFORML 「あ?!　うわっ！　はなせっ！！」
+PRINTFORML 「くっ、手足を封じるとは卑怯なー！」		PRINTFORML 「くっ、手足を封じるとは卑怯なー！」
+PRINTFORML 「う……ぐ…………き、さまぁ」		PRINTFORML 「う……ぐ…………き、さまぁ」
+PRINTFORML 「あひあぁっ！　ひゃ、めろおぉ！！」		PRINTFORML 「あひあぁっ！　ひゃ、めろおぉ！！」
+PRINTFORML 「いやぁ……う、く…………」		PRINTFORML 「いやぁ……う、く…………」
+PRINTFORML 「や、めろっ！　うわああぁっ！！　やめてくれぇ……」		PRINTFORML 「や、めろっ！　うわああぁっ！！　やめてくれぇ……」
+PRINTFORML 「ああぁぁぁっ?!　ぜ、絶対切ってやるぅっ！！」		PRINTFORML 「ああぁぁぁっ?!　ぜ、絶対切ってやるぅっ！！」
+PRINTFORML 「そ、それだけは！　それだけはああぁぁっ！！」		PRINTFORML 「そ、それだけは！　それだけはああぁぁっ！！」
+PRINTFORML 「小癪なぁ……正々堂々戦えっ！」		PRINTFORML 「小癪なぁ……正々堂々戦えっ！」
+PRINTFORML 「…………ぐー」		PRINTFORML 「…………ぐー」
+PRINTFORML 「うにぃ～～……卑怯ものぉー…………」		PRINTFORML 「うにぃ～～……卑怯ものぉー…………」
+PRINTFORMDW 明羅は頬を赤く上気させ、内腿を擦り合わせている…。	!#!PRINTFORMDW 明羅は頬を赤く上気させ、内腿を擦り合わせている…。
+PRINTFORML 「なっ?!　何がっ？　うひぃ、ひやあぁぁ……」		PRINTFORML 「なっ?!　何がっ？　うひぃ、ひやあぁぁ……」
+PRINTFORMDW 明羅は息を荒げ、自らの意思と関わらず自らを慰め始めた…。	!#!PRINTFORMDW 明羅は息を荒げ、自らの意思と関わらず自らを慰め始めた…。
+PRINTFORML 「ん？　あ…………」		PRINTFORML 「ん？　あ…………」
+PRINTFORML 「やめろやめろぉ！　ひ、はぁっ！」		PRINTFORML 「やめろやめろぉ！　ひ、はぁっ！」
+PRINTFORML 「やっ、め、ろお…ひはぁっ！」		PRINTFORML 「やっ、め、ろお…ひはぁっ！」
+PRINTFORML 「だ、駄目だ駄目だこんなのでわたしぃっ！！」		PRINTFORML 「だ、駄目だ駄目だこんなのでわたしぃっ！！」
+PRINTFORML 「イ、くううぅぅぅっ！！」		PRINTFORML 「イ、くううぅぅぅっ！！」
+PRINTFORML 「いやぁ……！　ひ、きゅあ！　う、ひ、へえぇ………」		PRINTFORML 「いやぁ……！　ひ、きゅあ！　う、ひ、へえぇ………」
+PRINTFORMDL 明羅は涎を垂らしながら自らの秘所をまさぐり始めた…。	!#!PRINTFORMDL 明羅は涎を垂らしながら自らの秘所をまさぐり始めた…。
+PRINTFORML 「あ……ふ、ふああぁぁぁっ！！」		PRINTFORML 「あ……ふ、ふああぁぁぁっ！！」
+PRINTFORML 「ぜぇ……ぜぇ……」		PRINTFORML 「ぜぇ……ぜぇ……」
+PRINTFORML 「ふ、ざ、け、るな～……」		PRINTFORML 「ふ、ざ、け、るな～……」
+PRINTFORML 「よけるな！」		PRINTFORML 「よけるな！」
+PRINTFORML 「当たれ！　ばか！」		PRINTFORML 「当たれ！　ばか！」
+PRINTFORML 「修行が足らんな……私の」		PRINTFORML 「修行が足らんな……私の」
+PRINTFORML 「そもそも切りにくい～」		PRINTFORML 「そもそも切りにくい～」
+PRINTFORML 「ええい！」		PRINTFORML 「ええい！」
+PRINTFORML 「絶対当たらん！」		PRINTFORML 「絶対当たらん！」
+PRINTFORML 「研ぎ澄まし、避ける。それだけだ」		PRINTFORML 「研ぎ澄まし、避ける。それだけだ」
+PRINTFORML 「弱った人間は的か？　ふざけるな」		PRINTFORML 「弱った人間は的か？　ふざけるな」
+PRINTFORML 「当たりたくない……」		PRINTFORML 「当たりたくない……」
+PRINTFORML 「願い下げだ！」		PRINTFORML 「願い下げだ！」
+PRINTFORML 「読めたっ」		PRINTFORML 「読めたっ」
+PRINTFORML 「切り払う！」		PRINTFORML 「切り払う！」
+PRINTFORML 「しッ！」		PRINTFORML 「しッ！」
+PRINTFORML 「動きは単調だな」		PRINTFORML 「動きは単調だな」
+PRINTFORML 「あやつに比べれば止まって見える！」		PRINTFORML 「あやつに比べれば止まって見える！」
+PRINTFORML 「は、破廉恥なっ！」		PRINTFORML 「は、破廉恥なっ！」
+PRINTFORML 「貴様などが触れるな！　ばかもん！」		PRINTFORML 「貴様などが触れるな！　ばかもん！」
+PRINTFORML 「何が目的だ色惚けめ！」		PRINTFORML 「何が目的だ色惚けめ！」
+PRINTFORML 「ええぃ、いい加減にしろ！」		PRINTFORML 「ええぃ、いい加減にしろ！」
+PRINTFORML 「それ、は、絶対ダメだあっ！」		PRINTFORML 「それ、は、絶対ダメだあっ！」
+PRINTFORML 「やめろ！　く、くらってたまるか！」		PRINTFORML 「やめろ！　く、くらってたまるか！」
+PRINTFORML 「ひ！　いやだいやだぁっ！」		PRINTFORML 「ひ！　いやだいやだぁっ！」
+PRINTFORML 「今の閃き、お前では見ることも叶わん」		PRINTFORML 「今の閃き、お前では見ることも叶わん」
+PRINTFORML 「刀、は無事か…よかった」		PRINTFORML 「刀、は無事か…よかった」
+PRINTFORML 「武士道とは死ぬことと見つけたり…まだまだこれから！」		PRINTFORML 「武士道とは死ぬことと見つけたり…まだまだこれから！」
+PRINTFORML 「あ、あぁ…………………」		PRINTFORML 「あ、あぁ…………………」
+PRINTFORML 「…………いっそ埋めてくれぇ」		PRINTFORML 「…………いっそ埋めてくれぇ」
+PRINTFORML 「こ、この服、一張羅なのにぃ！」		PRINTFORML 「こ、この服、一張羅なのにぃ！」
+PRINTFORML 「き…さま、やって良いことと悪いことがあるぞ！」		PRINTFORML 「き…さま、やって良いことと悪いことがあるぞ！」
+PRINTFORML 「かたじけない」		PRINTFORML 「かたじけない」
+PRINTFORML	!#!PRINTFORML
+PRINTFORML 「間に合わんかっ……」 		PRINTFORML 「間に合わんかっ……」 
+PRINTFORML 「いっ、たぁ………」		PRINTFORML 「いっ、たぁ………」
+PRINTFORML 「この人でなし！　触手！　外道おぉ！！　う、うああぁぁっ！！」		PRINTFORML 「この人でなし！　触手！　外道おぉ！！　う、うああぁぁっ！！」
+PRINTFORML 「……………………もう嫁に行けぬぅ……」		PRINTFORML 「……………………もう嫁に行けぬぅ……」
+PRINTFORML 「ぁぶッ！！　……う、迂闊っ」		PRINTFORML 「ぁぶッ！！　……う、迂闊っ」
+PRINTFORML 「ようし、ここから反撃だ！」		PRINTFORML 「ようし、ここから反撃だ！」
+PRINTFORML 「……昼下がりの陽光を感じた、気がしたが」		PRINTFORML 「……昼下がりの陽光を感じた、気がしたが」
+PRINTFORML 「…………気のせいか」		PRINTFORML 「…………気のせいか」
+PRINTFORML 「心眼で見切る！」		PRINTFORML 「心眼で見切る！」
+PRINTFORML 「し、心頭滅却すれば火もまた涼し！」		PRINTFORML 「し、心頭滅却すれば火もまた涼し！」
+PRINTFORML 「こっち見るなばかもん！」		PRINTFORML 「こっち見るなばかもん！」
+PRINTFORML 「恥などとうの昔に……す、捨てた！」		PRINTFORML 「恥などとうの昔に……す、捨てた！」
+PRINTFORML 「穴があったら埋まりたい……」		PRINTFORML 「穴があったら埋まりたい……」
+PRINTFORML 「不快だ……」		PRINTFORML 「不快だ……」
+PRINTFORML 「か、環境まで敵かっ?!」		PRINTFORML 「か、環境まで敵かっ?!」
+PRINTFORML 「んぅ……えへぇ～…………きもち、いぃ……」		PRINTFORML 「んぅ……えへぇ～…………きもち、いぃ……」
+PRINTFORML 「が、我慢など、でき、るかぁ……んふぅ、ふあっ！」		PRINTFORML 「が、我慢など、でき、るかぁ……んふぅ、ふあっ！」
+PRINTFORML 「あぁぁ…………昂ぶって……ん、くっ」		PRINTFORML 「あぁぁ…………昂ぶって……ん、くっ」
+PRINTFORM 「お、さま、れ……っ！　あぁ……むり、かぁ……	!#!PRINTFORM 「お、さま、れ……っ！　あぁ……むり、かぁ……
+PRINTFORML 「うー、うくうぅっ！　ふ、あ……」		PRINTFORML 「うー、うくうぅっ！　ふ、あ……」
+PRINTFORML 「ぅ～ん……うめる、な～」		PRINTFORML 「ぅ～ん……うめる、な～」
+PRINTFORML 「百合……はぁ……勘弁してぇ」		PRINTFORML 「百合……はぁ……勘弁してぇ」
+PRINTFORML 「私は……女だぁ……」		PRINTFORML 「私は……女だぁ……」
+PRINTFORML 「ぐー………………」		PRINTFORML 「ぐー………………」
+PRINTFORML 「一歩でも踏み入れば……」		PRINTFORML 「一歩でも踏み入れば……」
+PRINTFORML 「……切る！」		PRINTFORML 「……切る！」
+PRINTFORML 「うわっ…………ん、ぐぉ…………」		PRINTFORML 「うわっ…………ん、ぐぉ…………」
+PRINTFORML 「いぎっ！　強く、なって……」		PRINTFORML 「いぎっ！　強く、なって……」
+PRINTFORML 「や、めておけ！　や、やめて下さいっ！」		PRINTFORML 「や、めておけ！　や、やめて下さいっ！」
+PRINTFORML (ま、まだ諦めな、い！　ひ、うあぁ……)		PRINTFORML (ま、まだ諦めな、い！　ひ、うあぁ……)
+PRINTFORML 「もごーっ！　うがーー！」		PRINTFORML 「もごーっ！　うがーー！」
+PRINTFORMDL うるさいので口を抑えられている	!#!PRINTFORMDL うるさいので口を抑えられている
+PRINTFORML 「う、動けんっ！　は～な～せぇ！！」		PRINTFORML 「う、動けんっ！　は～な～せぇ！！」
+PRINTFORML 「はっ、かかってこい！」		PRINTFORML 「はっ、かかってこい！」
+PRINTFORML 「こ、ここからが修羅だー！」		PRINTFORML 「こ、ここからが修羅だー！」
+PRINTFORM 「あ……	!#!PRINTFORM 「あ……
+PRINTFORML ……何をにやけているんだ私は」		PRINTFORML ……何をにやけているんだ私は」
+PRINTFORML 「我が剣の冴えを見よっ！」		PRINTFORML 「我が剣の冴えを見よっ！」
+PRINTFORML 「全部切ーーるっ！」		PRINTFORML 「全部切ーーるっ！」
+PRINTFORML 「鞘は捨てぬ！　行くぞっ」		PRINTFORML 「鞘は捨てぬ！　行くぞっ」
+PRINTFORML 「くぅ……まだまだ修行が足りんか……」		PRINTFORML 「くぅ……まだまだ修行が足りんか……」
+PRINTFORML 「疼いてぇ……堪らん……」		PRINTFORML 「疼いてぇ……堪らん……」
+PRINTFORML 「あ……あんな奴相手にしてられるか……」		PRINTFORML 「あ……あんな奴相手にしてられるか……」
+PRINTFORML 「め……面妖な輩だ……」		PRINTFORML 「め……面妖な輩だ……」
+PRINTFORML 「ふ、食い逃げで培ったこの脚力を舐めてもらっては困る」		PRINTFORML 「ふ、食い逃げで培ったこの脚力を舐めてもらっては困る」
+PRINTFORML 「うむ。急がば回れ、急がば回れ」		PRINTFORML 「うむ。急がば回れ、急がば回れ」
+PRINTFORML 「む……無念…」		PRINTFORML 「む……無念…」
+PRINTFORML 「うぐう……生身には厳しい戦いだった…」		PRINTFORML 「うぐう……生身には厳しい戦いだった…」
+PRINTFORML 「ば、ばかもんが……」		PRINTFORML 「ば、ばかもんが……」
+PRINTFORM 「ふ、ふふ……残った触手は持ち帰って……	!#!PRINTFORM 「ふ、ふふ……残った触手は持ち帰って……
+PRINTFORML 「……な、何を考えているんだ私は！」		PRINTFORML 「……な、何を考えているんだ私は！」
+PRINTFORML 「またつまらぬ物を切ってしまった……はぁ」		PRINTFORML 「またつまらぬ物を切ってしまった……はぁ」
+PRINTFORML 「お前も我が刀の錆に…なったら困るな……」		PRINTFORML 「お前も我が刀の錆に…なったら困るな……」
+PRINTFORMW 「外に出たら刀を新調せねば……あぁ、また出費が～」		PRINTFORMW 「外に出たら刀を新調せねば……あぁ、また出費が～」
+PRINTFORMW 「言っておくが、埋めないぞ？」		PRINTFORMW 「言っておくが、埋めないぞ？」
+PRINTFORMW 「血切りでなく粘液切りとは……」		PRINTFORMW 「血切りでなく粘液切りとは……」
+PRINTFORM 「く、助かった……ぁ	!#!PRINTFORM 「く、助かった……ぁ
+PRINTFORML 「待っていろ、こんな奴すぐに微塵切りにして助けてやる！」		PRINTFORML 「待っていろ、こんな奴すぐに微塵切りにして助けてやる！」
+PRINTFORML 「ううう～……もどかしい～」		PRINTFORML 「ううう～……もどかしい～」
+PRINTFORML 「こ、の！　うつけぇ！　早く出せ！」		PRINTFORML 「こ、の！　うつけぇ！　早く出せ！」
+PRINTFORML 「ひぃー、だれか助けて下さーい！」		PRINTFORML 「ひぃー、だれか助けて下さーい！」
+PRINTFORML 「長引くとまずい、雷光の速さで敵を討つ！」		PRINTFORML 「長引くとまずい、雷光の速さで敵を討つ！」
+PRINTFORM 「さ、さっさと切る！　そのあとで……	!#!PRINTFORM 「さ、さっさと切る！　そのあとで……
+PRINTFORML なっ、何でもない！」		PRINTFORML なっ、何でもない！」
+PRINTFORML 「今宵も私の剣は血に飢えているっ！」		PRINTFORML 「今宵も私の剣は血に飢えているっ！」
+PRINTFORML 「手数で圧倒してやる！」		PRINTFORML 「手数で圧倒してやる！」
+PRINTFORMW 「に、人間をなめるなっ！」		PRINTFORMW 「に、人間をなめるなっ！」
+PRINTFORML 「ぐぉーーー」		PRINTFORML 「ぐぉーーー」
+PRINTFORMDW 明羅はおよそ少女とは思えない寝息を立てている	!#!PRINTFORMDW 明羅はおよそ少女とは思えない寝息を立てている
+PRINTFORML 「く、くく……この窮地にこの敵…………いいだろう！」		PRINTFORML 「く、くく……この窮地にこの敵…………いいだろう！」
+PRINTFORM 「しまった！　気をやっていたぁ……	!#!PRINTFORM 「しまった！　気をやっていたぁ……
+PRINTFORML 「ば、馬鹿者は私か?!」		PRINTFORML 「ば、馬鹿者は私か?!」
+PRINTFORML 「ぬかったぁ?!」		PRINTFORML 「ぬかったぁ?!」
+PRINTFORML 「やられ、たっ！」		PRINTFORML 「やられ、たっ！」
+PRINTFORML 「……己の力不足を今ほど感じたことはないな」		PRINTFORML 「……己の力不足を今ほど感じたことはないな」
+PRINTFORML 「必ず助ける。腹かっ捌くのはその後だ」		PRINTFORML 「必ず助ける。腹かっ捌くのはその後だ」
+PRINTFORML 「では、達者でな！」		PRINTFORML 「では、達者でな！」
+PRINTFORML 明羅はものすごくいい笑顔で走り去っていった		PRINTFORML 明羅はものすごくいい笑顔で走り去っていった
+PRINTFORML 「あ、……………………」		PRINTFORML 「あ、……………………」
+PRINTFORML 「おい待て！　……待って………くれぇ…」		PRINTFORML 「おい待て！　……待って………くれぇ…」
+PRINTFORML 「そんなこったろうと思ってたよ」		PRINTFORML 「そんなこったろうと思ってたよ」
+PRINTFORML 「……助けろ、ばかもんが」		PRINTFORML 「……助けろ、ばかもんが」
+PRINTFORML 「……ぅ………………？」		PRINTFORML 「……ぅ………………？」
+PRINTFORML 「……」		PRINTFORML「……」
+PRINTFORM 「……今なら、す、好きにしてもいいのだぞ？　……	!#!PRINTFORM 「……今なら、す、好きにしてもいいのだぞ？　……
+PRINTFORML 「……まぁ、なんだ。犬にやられたとでも思え」		PRINTFORML 「……まぁ、なんだ。犬にやられたとでも思え」
+PRINTFORML 「犬のほうが良かったか？」		PRINTFORML 「犬のほうが良かったか？」
+PRINTFORML 「……どうした。目が怖いぞ……？」		PRINTFORML 「……どうした。目が怖いぞ……？」
+PRINTFORML 「よ…寄るな。ギラギラしすぎだ……」		PRINTFORML 「よ…寄るな。ギラギラしすぎだ……」
+PRINTFORML 「か、体をすり寄せるなっ！　ば…ばかもんっ！」		PRINTFORML 「か、体をすり寄せるなっ！　ば…ばかもんっ！」
+PRINTFORML 「もう少し恥じらいという物をだな……」		PRINTFORML 「もう少し恥じらいという物をだな……」
+PRINTFORML 「まあ、人のことは言えぬが……」		PRINTFORML 「まあ、人のことは言えぬが……」
+PRINTFORML 「……不安になるやらほっとするやら」		PRINTFORML 「……不安になるやらほっとするやら」
+PRINTFORML 「げ、博霊」		PRINTFORML 「げ、博霊」
+PRINTFORML 「心中、察しよう……」		PRINTFORML 「心中、察しよう……」
+PRINTFORML 「襤褸は着ようが心は錦、か」		PRINTFORML 「襤褸は着ようが心は錦、か」
+PRINTFORML 「剣の手入れはしているか？」		PRINTFORML 「剣の手入れはしているか？」
+PRINTFORML 「お、庭師の剣士」		PRINTFORML 「お、庭師の剣士」
+PRINTFORML 「……どこのどいつだ。叩っ切ってやる」		PRINTFORML 「……どこのどいつだ。叩っ切ってやる」
+PRINTFORMW 「お前は成長せぬな……」		PRINTFORMW 「お前は成長せぬな……」
+PRINTCOLORW(0xa68a37, "「明羅も運の悪さは変わってないのです」")	!#!PRINTCOLORW(0xa68a37, "「明羅も運の悪さは変わってないのです」")
+PRINTFORML 「言うてくれるな」		PRINTFORML 「言うてくれるな」
+PRINTFORML 「おう、里香」		PRINTFORML 「おう、里香」
+PRINTFORML 「無理はするな、私の近くにいてくれ」		PRINTFORML 「無理はするな、私の近くにいてくれ」
+PRINTFORMDW 明羅は刀を抱いて眠っている…	!#!PRINTFORMDW 明羅は刀を抱いて眠っている…
+PRINTFORML 「こっち見るな～……」		PRINTFORML 「こっち見るな～……」
+PRINTFORML 「この格好は切腹しやすい、かもしれんな」		PRINTFORML 「この格好は切腹しやすい、かもしれんな」
+PRINTFORML 「襤褸は着ようが心は錦……襤褸もない？　これは一本とられたな」		PRINTFORML 「襤褸は着ようが心は錦……襤褸もない？　これは一本とられたな」
+PRINTFORML 「は、恥ずかしいからあまり見てくれるな……」		PRINTFORML 「は、恥ずかしいからあまり見てくれるな……」
+PRINTFORMW 「がんばっているみたいだな」		PRINTFORMW 「がんばっているみたいだな」
+PRINTFORMW 「大事ないか？」		PRINTFORMW 「大事ないか？」
+PRINTFORMW 「首尾は上々か」		PRINTFORMW 「首尾は上々か」
+PRINTFORML 「生きていて何よりだ」		PRINTFORML 「生きていて何よりだ」
+PRINTFORML 「しからば、御免」		PRINTFORML 「しからば、御免」
+PRINTFORML 「うむ」		PRINTFORML 「うむ」
+PRINTFORML 「達者でな」		PRINTFORML 「達者でな」
+PRINTFORML 「余計な気遣いは無用だ……」		PRINTFORML 「余計な気遣いは無用だ……」
+PRINTFORML 「せっかくの機会だ。武勇伝でも聞かせてくれ」		PRINTFORML 「せっかくの機会だ。武勇伝でも聞かせてくれ」
+PRINTFORML 「最近はどうだ？」		PRINTFORML 「最近はどうだ？」
+PRINTFORML 「どれ、聞かせてもらおう」		PRINTFORML 「どれ、聞かせてもらおう」
+PRINTFORMW 「あぁ、これか？　手記だ」		PRINTFORMW 「あぁ、これか？　手記だ」
+PRINTFORMW 「まぁ、なにが役に立つか分からんのでな」		PRINTFORMW 「まぁ、なにが役に立つか分からんのでな」
+PRINTFORMW 「この剣はそれほど良い剣でもないのだ」		PRINTFORMW 「この剣はそれほど良い剣でもないのだ」
+PRINTFORMW 「毎回骨董市なんかで二束三文で買い叩いているのでな」		PRINTFORMW 「毎回骨董市なんかで二束三文で買い叩いているのでな」
+PRINTFORMW 「里にはあまり顔を出さないな」		PRINTFORMW 「里にはあまり顔を出さないな」
+PRINTFORMW 「いつもは…山に籠もっているか、家で怠惰に暮らしておるかだな」		PRINTFORMW 「いつもは…山に籠もっているか、家で怠惰に暮らしておるかだな」
+PRINTFORMW 「最近の妖怪は友好的だな」		PRINTFORMW 「最近の妖怪は友好的だな」
+PRINTFORMW 「道端ですれ違うても元気に挨拶をして来るので反応に困る」		PRINTFORMW 「道端ですれ違うても元気に挨拶をして来るので反応に困る」
+PRINTFORMW 「は、博霊の一件はな……」		PRINTFORMW 「は、博霊の一件はな……」
+PRINTFORMW 「まあ、私も若かったという事だ。うん」		PRINTFORMW 「まあ、私も若かったという事だ。うん」
+PRINTFORMW 「しかしまぁ、吸血鬼に医者に神社に尼僧寺」		PRINTFORMW 「しかしまぁ、吸血鬼に医者に神社に尼僧寺」
+PRINTFORMW 「随分と新参が増えたな。それでも比較的平穏なのだから不思議なものだ」		PRINTFORMW 「随分と新参が増えたな。それでも比較的平穏なのだから不思議なものだ」
+PRINTFORMW 「弾幕など久しくやっておらんかったな」		PRINTFORMW 「弾幕など久しくやっておらんかったな」
+PRINTFORMW 「なにやら今はスペルカードとか言うものがあるそうだが…」		PRINTFORMW 「なにやら今はスペルカードとか言うものがあるそうだが…」
+PRINTFORMW 「なるほど、さーて…どうしたものか」		PRINTFORMW 「なるほど、さーて…どうしたものか」
+PRINTFORMW 「ううむ……そうか。実はこちらにもな…」		PRINTFORMW 「ううむ……そうか。実はこちらにもな…」
+PRINTFORMW 「確かこちらからなら……ここも駄目か？　嫌になるな」		PRINTFORMW 「確かこちらからなら……ここも駄目か？　嫌になるな」
+PRINTFORML 「道理を語っておる場合でもあるまいか……」		PRINTFORML 「道理を語っておる場合でもあるまいか……」
+PRINTFORML 「……かえって救われた、のか？」		PRINTFORML 「……かえって救われた、のか？」
+PRINTFORML 「うむ、致し方無いな」		PRINTFORML 「うむ、致し方無いな」
+PRINTFORML 「袖触れ合うも他生の縁、か……しょうのないことだ」		PRINTFORML 「袖触れ合うも他生の縁、か……しょうのないことだ」
+PRINTFORML 「……おい博麗、頼むから変な気は起こすなよ？」		PRINTFORML 「……おい博麗、頼むから変な気は起こすなよ？」
+PRINTFORML 「……あんた、雰囲気変わったな」		PRINTFORML 「……あんた、雰囲気変わったな」
+PRINTFORML 「へぇ、あの館のメイド…」		PRINTFORML 「へぇ、あの館のメイド…」
+PRINTFORML 「誰であれ、仕える主君がいる事は素直に羨ましいな」		PRINTFORML 「誰であれ、仕える主君がいる事は素直に羨ましいな」
+PRINTFORML 「宜しくな」		PRINTFORML 「宜しくな」
+PRINTFORML 「我らの剣の冴えで、全てを一閃のうちに葬ってやるとしよう」		PRINTFORML 「我らの剣の冴えで、全てを一閃のうちに葬ってやるとしよう」
+PRINTFORML 「げ、大妖怪……あ、ああ。宜しくお願いする」		PRINTFORML 「げ、大妖怪……あ、ああ。宜しくお願いする」
+PRINTFORML (私が博麗を襲ったこと、覚えてるのかなぁ……)		PRINTFORML (私が博麗を襲ったこと、覚えてるのかなぁ……)
+PRINTFORML 「宜しく頼むぞ、先生」		PRINTFORML 「宜しく頼むぞ、先生」
+PRINTFORML 「心配ないさ。先生がいなくなった後も、子供達は自主的に寺子屋で勉学に励んでいたよ」		PRINTFORML 「心配ないさ。先生がいなくなった後も、子供達は自主的に寺子屋で勉学に励んでいたよ」
+PRINTFORML 「まあ、遊んでる子も結構いたが」		PRINTFORML 「まあ、遊んでる子も結構いたが」
+PRINTFORML 「あ、あんた薬師の所の兎か」		PRINTFORML 「あ、あんた薬師の所の兎か」
+PRINTFORML 「いつも世話になっている。説明は聞けたもんじゃないがあの効き目は本物だな」		PRINTFORML 「いつも世話になっている。説明は聞けたもんじゃないがあの効き目は本物だな」
+PRINTFORML 「地上に降りた月の姫……人間とは違うのか」		PRINTFORML 「地上に降りた月の姫……人間とは違うのか」
+PRINTFORML 「なぁ、護衛の人出が足りていなかったりしないか？　腕のいい女剣士がいるんだが」		PRINTFORML 「なぁ、護衛の人出が足りていなかったりしないか？　腕のいい女剣士がいるんだが」
+PRINTFORML 「あんた、どこかで見たと思えば、竹林の娘だな」		PRINTFORML 「あんた、どこかで見たと思えば、竹林の娘だな」
+PRINTFORML 「何回かあそこで迷って案内してもらったな。その節はかたじけない」		PRINTFORML 「何回かあそこで迷って案内してもらったな。その節はかたじけない」
+PRINTFORML 「白狼天狗の剣……とくと拝見させてもらおう」		PRINTFORML 「白狼天狗の剣……とくと拝見させてもらおう」
+PRINTFORML 「博麗じゃない方の巫女さんだな」		PRINTFORML 「博麗じゃない方の巫女さんだな」
+PRINTFORML 「……外の世界では剣の道が廃れて久しいと聞くが、真か？」		PRINTFORML 「……外の世界では剣の道が廃れて久しいと聞くが、真か？」
+PRINTFORML 「稗田のもここに……無事か？」		PRINTFORML 「稗田のもここに……無事か？」
+PRINTFORML 「私でよければ、好きなだけ協力させてもらおう」		PRINTFORML 「私でよければ、好きなだけ協力させてもらおう」
+PRINTFORML 「外の世界の……ダイガクセイ？」		PRINTFORML 「外の世界の……ダイガクセイ？」
+PRINTFORML 「ふむ、目的は同じだ。一蓮托生といこうじゃないか」		PRINTFORML 「ふむ、目的は同じだ。一蓮托生といこうじゃないか」
+PRINTFORML 「……なるほど、あんたもここにいたのか」		PRINTFORML 「……なるほど、あんたもここにいたのか」
+PRINTFORML 「あの一件で私達を利用した事はまだ許してはいない」		PRINTFORML 「あの一件で私達を利用した事はまだ許してはいない」
+PRINTFORML 「しかし、今は合力してここを出てやろう。それが一番の近道だからな」		PRINTFORML 「しかし、今は合力してここを出てやろう。それが一番の近道だからな」
+PRINTFORML 「貴公の剣の煌きに、微力ながら我が鈍刀も助力いたしましょう」		PRINTFORML 「貴公の剣の煌きに、微力ながら我が鈍刀も助力いたしましょう」
+PRINTFORML 「里香。久しいな」		PRINTFORML 「里香。久しいな」
+PRINTFORML 「"のんこんばたんと"のお前にはここは辛かろう。私について来い」		PRINTFORML 「"のんこんばたんと"のお前にはここは辛かろう。私について来い」
+PRINTFORML 「あんたがここに……」		PRINTFORML 「あんたがここに……」
+PRINTFORML 「今回は相当危険なようだな……いや、むしろ幻想郷は大丈夫なのか？」		PRINTFORML 「今回は相当危険なようだな……いや、むしろ幻想郷は大丈夫なのか？」
+PRINTFORML 「なんだ、科学者とはまた変わった奴だな」		PRINTFORML 「なんだ、科学者とはまた変わった奴だな」
+PRINTFORML 「危なくなったら魔法も使ってくれよ？」		PRINTFORML 「危なくなったら魔法も使ってくれよ？」
+PRINTFORML 「宜しく頼む」		PRINTFORML 「宜しく頼む」
+PRINTFORML 「あの、だな。……少しその武器を見せてもらってよいか？」		PRINTFORML 「あの、だな。……少しその武器を見せてもらってよいか？」
+PRINTFORML 「ほおほお。これは、珍しいなぁ」		PRINTFORML 「ほおほお。これは、珍しいなぁ」
+PRINTFORML 「べ……別次元の人間？」		PRINTFORML 「べ……別次元の人間？」
+PRINTFORML 「ふむ……ほお……はあ……」		PRINTFORML 「ふむ……ほお……はあ……」
+PRINTFORML 「世界は広いな～……」		PRINTFORML 「世界は広いな～……」
+PRINTFORML 「妖怪寺の尼僧……」		PRINTFORML 「妖怪寺の尼僧……」
+PRINTFORML 「あ、説法を拝聴させて貰った事があるな。うん、あれは眠かった」		PRINTFORML 「あ、説法を拝聴させて貰った事があるな。うん、あれは眠かった」
+PRINTFORMW 「あんた…人間か？」		PRINTFORMW 「あんた…人間か？」
+PRINTCOLORW(0x7572fe, "「ふふん、我は脆弱な人の身を超え、思索の果てに万物斉同の境地に至った仙人である！」")	!#!PRINTCOLORW(0x7572fe, "「ふふん、我は脆弱な人の身を超え、思索の果てに万物斉同の境地に至った仙人である！」")
+PRINTFORML 「へー、尸解仙。ふんふん…………大変だったのだな……」		PRINTFORML 「へー、尸解仙。ふんふん…………大変だったのだな……」
+PRINTFORML 「外に出たら甘い物を買ってやろう」		PRINTFORML 「外に出たら甘い物を買ってやろう」
+PRINTCOLORL(0x7572fe, "「我を子供扱いするなぁ！」")	!#!PRINTCOLORL(0x7572fe, "「我を子供扱いするなぁ！」")
+PRINTFORML 「よろしく頼むぞ」		PRINTFORML 「よろしく頼むぞ」
+PRINTFORMW 「ま、そんなものか」		PRINTFORMW 「ま、そんなものか」
+PRINTFORMW 「これより我らは一心同体。我が身を剣としてあんたを守ってやろう」		PRINTFORMW 「これより我らは一心同体。我が身を剣としてあんたを守ってやろう」
+PRINTFORMW 「あ、まずくなったら見捨てるからな？」		PRINTFORMW 「あ、まずくなったら見捨てるからな？」
+PRINTFORML 「縁があればまた会うこともあろう……ではな」		PRINTFORML 「縁があればまた会うこともあろう……ではな」
+PRINTFORML 「では、暇を戴こう」		PRINTFORML 「では、暇を戴こう」
+PRINTFORML 「暫し、私一人で動きたいのだが……如何か」		PRINTFORML 「暫し、私一人で動きたいのだが……如何か」
+PRINTFORMW 「私の専門外だが、贅沢は言えぬか」		PRINTFORMW 「私の専門外だが、贅沢は言えぬか」
+PRINTFORMW 「しなりが特徴的だな」		PRINTFORMW 「しなりが特徴的だな」
+PRINTFORMW 「刃も肉厚だし、重さで断ち切る種類か」		PRINTFORMW 「刃も肉厚だし、重さで断ち切る種類か」
+PRINTFORMW 「小柄で靭やかな白狼天狗の為にあるような剣だな。無論、私も扱えないことはないが」		PRINTFORMW 「小柄で靭やかな白狼天狗の為にあるような剣だな。無論、私も扱えないことはないが」
+PRINTFORMW 「こ、これは！」		PRINTFORMW 「こ、これは！」
+PRINTFORMW ねんがんの　はくれいのたからを　てにいれたぞ！！		PRINTFORMW ねんがんの　はくれいのたからを　てにいれたぞ！！
+PRINTFORMW 「レプリカでもなんでも良い！　もう離さぬぞお！！		PRINTFORMW 「レプリカでもなんでも良い！　もう離さぬぞお！！
+PRINTFORMW 「素晴らしい……」		PRINTFORMW 「素晴らしい……」
+PRINTFORMW 「私の刀を質に入れてこれ使おうかなぁ……」		PRINTFORMW 「私の刀を質に入れてこれ使おうかなぁ……」
+PRINTFORMW 「ひいぃ！　博麗！」		PRINTFORMW 「ひいぃ！　博麗！」
+PRINTFORMDW なにやらトラウマがあるようだ	!#!PRINTFORMDW なにやらトラウマがあるようだ
+PRINTFORMW 「気分だけだが素早く動ける気がするな」		PRINTFORMW 「気分だけだが素早く動ける気がするな」
+PRINTFORMW 「むしろ軍師っぽいか……？」		PRINTFORMW 「むしろ軍師っぽいか……？」
+PRINTFORMW 「酒だぁーーっ！！」		PRINTFORMW 「酒だぁーーっ！！」
+PRINTFORMW 「……と正直には喜べんなぁ」		PRINTFORMW 「……と正直には喜べんなぁ」
+PRINTFORML 「舶来物の飲料…どれ、毒味を一杯」		PRINTFORML 「舶来物の飲料…どれ、毒味を一杯」
+PRINTFORML 「…………うぇー」		PRINTFORML 「…………うぇー」
+PRINTFORMDW 明羅は舌を出して眉間にしわを寄せ、何とも言えない表情をしている…	!#!PRINTFORMDW 明羅は舌を出して眉間にしわを寄せ、何とも言えない表情をしている…
+PRINTFORML 「落ち着いて飲みたいものだ」		PRINTFORML 「落ち着いて飲みたいものだ」
+PRINTFORML 「……持って帰って売ったら儲かるかなぁ」		PRINTFORML 「……持って帰って売ったら儲かるかなぁ」
+PRINTFORML 「人は月に花にと口実を付けて酒を飲むが、流石に触手にはなぁ……」		PRINTFORML 「人は月に花にと口実を付けて酒を飲むが、流石に触手にはなぁ……」
+PRINTFORMW 「……前々から思っていたが、普通の酒とどう違うのだろうな？」		PRINTFORMW 「……前々から思っていたが、普通の酒とどう違うのだろうな？」
+PRINTFORMW 「確かに酒はすべて神々しくはあるが」		PRINTFORMW 「確かに酒はすべて神々しくはあるが」
+PRINTFORML 「和服が入っているといいが……洋装は着づらいのでな」		PRINTFORML 「和服が入っているといいが……洋装は着づらいのでな」
+PRINTFORMW 「な、ななな、何だこれは！！」		PRINTFORMW 「な、ななな、何だこれは！！」
+PRINTFORMDW 明羅は顔を真っ赤にしながらも、袋にそれらの道具を突っ込んだ…	!#!PRINTFORMDW 明羅は顔を真っ赤にしながらも、袋にそれらの道具を突っ込んだ…
+PRINTFORMW 「な、何に使えと……言うのだ」		PRINTFORMW 「な、何に使えと……言うのだ」
+PRINTFORML 「着物は胸が小さいほうが似合うとか」		PRINTFORML 「着物は胸が小さいほうが似合うとか」
+PRINTFORML 「着物など私の柄ではないが」		PRINTFORML 「着物など私の柄ではないが」
+PRINTFORML 「もう……だめだ…………」		PRINTFORML 「もう……だめだ…………」
+PRINTFORML 「おちおち寝れぬのがなぁ……」		PRINTFORML 「おちおち寝れぬのがなぁ……」
+PRINTFORML 「寝られるうちに寝ておくか、その方が合理的だな」		PRINTFORML 「寝られるうちに寝ておくか、その方が合理的だな」
+PRINTFORML 「さ、先に寝かせてくれ……、限界だ……」		PRINTFORML 「さ、先に寝かせてくれ……、限界だ……」
+PRINTFORML 「先に寝るか？　私はどちらでも」		PRINTFORML 「先に寝るか？　私はどちらでも」
+PRINTFORML 「私が先に見張っておこうか」		PRINTFORML 「私が先に見張っておこうか」
+PRINTFORML 「あとは……まかせたー…。……くー」		PRINTFORML 「あとは……まかせたー…。……くー」
+PRINTFORML 「申し訳ないが、頼んだぞ」		PRINTFORML 「申し訳ないが、頼んだぞ」
+PRINTFORML 「逃げるなよ?!　絶対に逃げるんじゃないぞ?!」		PRINTFORML 「逃げるなよ?!　絶対に逃げるんじゃないぞ?!」
+PRINTFORML 「こんな所で寝れるかーっ！」		PRINTFORML 「こんな所で寝れるかーっ！」
+PRINTFORM 「わ、私をどうしたいのだぁ……	!#!PRINTFORM 「わ、私をどうしたいのだぁ……
+PRINTFORML 「うぅ……だからあれほど日頃から節約しろと……」		PRINTFORML 「うぅ……だからあれほど日頃から節約しろと……」
+PRINTFORML 「こ……こんなとこで節約しなくても～」		PRINTFORML 「こ……こんなとこで節約しなくても～」
+PRINTFORMDL 明羅は散々文句を垂れながらも渋々床についた…	!#!PRINTFORMDL 明羅は散々文句を垂れながらも渋々床についた…
+PRINTFORM 「くうぅ……	!#!PRINTFORM 「くうぅ……
+PRINTFORMW ……なん、のぉ……う、はあぁぁ……」		PRINTFORMW ……なん、のぉ……う、はあぁぁ……」
+PRINTFORMD 触手の悪戯に	!#!PRINTFORMD 触手の悪戯に
+PRINTFORM 尻穴	!#!PRINTFORM 尻穴
+PRINTFORM 胸	!#!PRINTFORM 胸
+PRINTFORM クリトリス	!#!PRINTFORM クリトリス
+PRINTFORM 性器	!#!PRINTFORM 性器
+PRINTFORMD を翻弄され、明羅は	!#!PRINTFORMD を翻弄され、明羅は
+PRINTFORMD 挿入されたままの触手をきゅうきゅう締め付けながら	!#!PRINTFORMD 挿入されたままの触手をきゅうきゅう締め付けながら
+PRINTFORMD ピンと立った乳首を弾かれた拍子に	!#!PRINTFORMD ピンと立った乳首を弾かれた拍子に
+PRINTFORMD 剥き出しになった淫核への刺激に身体を痙攣させ、	!#!PRINTFORMD 剥き出しになった淫核への刺激に身体を痙攣させ、
+PRINTFORMDL オーガスムに達した…	!#!PRINTFORMDL オーガスムに達した…
+PRINTFORM (や……めないと……ああぁ、自制がぁ……利かん	!#!PRINTFORM (や……めないと……ああぁ、自制がぁ……利かん
+PRINTFORML )		PRINTFORML )
+PRINTFORM 「こんな、事にっ……体力を使っている場合ではぁ……	!#!PRINTFORM 「こんな、事にっ……体力を使っている場合ではぁ……
+PRINTFORM 　あはぁ……	!#!PRINTFORM 　あはぁ……
+PRINTFORMW 明羅のほぐれきった尻穴は、凶悪な太さのアナルバイブを易々と咥えこんだ…		PRINTFORMW 明羅のほぐれきった尻穴は、凶悪な太さのアナルバイブを易々と咥えこんだ…
+PRINTFORM 「ひああああっ	!#!PRINTFORM 「ひああああっ
+PRINTFORM ！　す、ご……いぃ	!#!PRINTFORM ！　す、ご……いぃ
+PRINTFORM 「だ、めだぁっ	!#!PRINTFORM 「だ、めだぁっ
+PRINTFORM 止まらないいぃぃっっ	!#!PRINTFORM 止まらないいぃぃっっ
+PRINTFORML ！」		PRINTFORML ！」
+PRINTFORM 「ひ、やああぁぁぁ……	!#!PRINTFORM 「ひ、やああぁぁぁ……
+PRINTFORM ！　あ、あはああぁ…………っ	!#!PRINTFORM ！　あ、あはああぁ…………っ
+PRINTFORMDW 子供の腕くらいありそうなそれを、しとどに濡れた明羅の女陰は簡単に受け入れた… 	!#!PRINTFORMDW 子供の腕くらいありそうなそれを、しとどに濡れた明羅の女陰は簡単に受け入れた… 
+PRINTFORM 「あああぁぁ……	!#!PRINTFORM 「あああぁぁ……
+PRINTFORM なかで、こす、れ……	!#!PRINTFORM なかで、こす、れ……
+PRINTFORM 「う、ずいて……	!#!PRINTFORM 「う、ずいて……
+PRINTFORML …と、まらないぃ……」		PRINTFORML …と、まらないぃ……」
+PRINTFORM 「あ、ふあぁ……こり、こりぃ……	!#!PRINTFORM 「あ、ふあぁ……こり、こりぃ……
+PRINTFORM 「い、いじめ、て……	!#!PRINTFORM 「い、いじめ、て……
+PRINTFORML ……く、ひい、ぃ」		PRINTFORML ……く、ひい、ぃ」
+PRINTFORM 「ゆ…指だけでは……せつな……ぃ	!#!PRINTFORM 「ゆ…指だけでは……せつな……ぃ
+PRINTFORML 「う、ぐううぅ……す、少し太すぎないか……？」		PRINTFORML 「う、ぐううぅ……す、少し太すぎないか……？」
+PRINTFORM 「これで……動かれたら、あ、くぁ…	!#!PRINTFORM 「これで……動かれたら、あ、くぁ…
+PRINTFORM ふああぁぁっ	!#!PRINTFORM ふああぁぁっ
+PRINTFORML ！！」		PRINTFORML ！！」
+PRINTFORM 「あ、ふうぅぅ……ジンジン…する…	!#!PRINTFORM 「あ、ふうぅぅ……ジンジン…する…
+PRINTFORM 「ふあぁぁ……ふる、え、て……	!#!PRINTFORM 「ふあぁぁ……ふる、え、て……
+PRINTFORM 「くあぁ……びんか、んなとこ……こすって来るぅ……	!#!PRINTFORM 「くあぁ……びんか、んなとこ……こすって来るぅ……
+PRINTFORM 「ど、ぉして……ここで、ぇ………	!#!PRINTFORM 「ど、ぉして……ここで、ぇ………
+PRINTFORML 「は、ああぁぁぁ……か、たくぅ…っ！」		PRINTFORML 「は、ああぁぁぁ……か、たくぅ…っ！」
+PRINTFORML 「うく……ふうぅ、ううぅ………」		PRINTFORML 「うく……ふうぅ、ううぅ………」
+PRINTFORML 「くぅ……あ、はぁ……」		PRINTFORML 「くぅ……あ、はぁ……」
+PRINTFORM 「うぐぅ……し、まったぁ……	!#!PRINTFORM 「うぐぅ……し、まったぁ……
+PRINTFORM 「い、一大事かぁ……	!#!PRINTFORM 「い、一大事かぁ……
+PRINTFORM 「も、もうちょっと、な、のに……	!#!PRINTFORM 「も、もうちょっと、な、のに……
+PRINTFORMDW 明羅はまだ菊座に指を出し入れしている…	!#!PRINTFORMDW 明羅はまだ菊座に指を出し入れしている…
+PRINTFORMDW 明羅は未練がましく乳首を転がし、弄っている…	!#!PRINTFORMDW 明羅は未練がましく乳首を転がし、弄っている…
+PRINTFORMDW 明羅は淫核を潰していた指をのろのろとどけた…	!#!PRINTFORMDW 明羅は淫核を潰していた指をのろのろとどけた…
+PRINTFORMDW 明羅は挿入れていた指を掻き回しながらゆっくり引き抜いた…	!#!PRINTFORMDW 明羅は挿入れていた指を掻き回しながらゆっくり引き抜いた…
+PRINTFORM 「うぅぅっ?!　あ、はああぁっ！！　ど、う、してえええぇぇっ	!#!PRINTFORM 「うぅぅっ?!　あ、はああぁっ！！　ど、う、してえええぇぇっ
+PRINTFORM 「にいいいぃぃっ！　なんでぇ……こんなあああぁぁっ	!#!PRINTFORM 「にいいいぃぃっ！　なんでぇ……こんなあああぁぁっ
+PRINTFORM 「ん……ふ、くううぅ…………っ	!#!PRINTFORM 「ん……ふ、くううぅ…………っ
+PRINTFORML 「あ…ま、っ……へ、ええええぇぇぇっ！！！」		PRINTFORML 「あ…ま、っ……へ、ええええぇぇぇっ！！！」
+PRINTFORM 「お、降りられなくなる！　や…め……ふあああぁぁぁぁっ	!#!PRINTFORM 「お、降りられなくなる！　や…め……ふあああぁぁぁぁっ
+PRINTFORM 「ま、また……ク、るううううぅぅぅっ	!#!PRINTFORM 「ま、また……ク、るううううぅぅぅっ
+PRINTFORM 「あ、こす、ら、れて……っ　ふああぁぁぁっ	!#!PRINTFORM 「あ、こす、ら、れて……っ　ふああぁぁぁっ
+PRINTFORML 「ま、た胸ぇ……?!　ひっ！　ひやあああぁぁぁっ！！」		PRINTFORML 「ま、た胸ぇ……?!　ひっ！　ひやあああぁぁぁっ！！」
+PRINTFORM 「し、しつこ……っ、うあああぁぁぁぁっ	!#!PRINTFORM 「し、しつこ……っ、うあああぁぁぁぁっ
+PRINTFORM 「あはぁっ	!#!PRINTFORM 「あはぁっ
+PRINTFORML ！……ふ、くううぅぅっっ！！」		PRINTFORML ！……ふ、くううぅぅっっ！！」
+PRINTFORML 「な、んで……こ、こでっ！　く、うううぅぅっ！！		PRINTFORML 「な、んで……こ、こでっ！　く、うううぅぅっ！！
+PRINTFORML 「いいいぃっ！！　うぅ、ぎいいいぃぃっ！！」		PRINTFORML 「いいいぃっ！！　うぅ、ぎいいいぃぃっ！！」
+PRINTFORMDW 明羅は歯を食いしばって必死に快感を否定している… 	!#!PRINTFORMDW 明羅は歯を食いしばって必死に快感を否定している… 
+PRINTFORML 「く、そぉ……こ、んなぁ…の、で、ええぇぇっ！！」		PRINTFORML 「く、そぉ……こ、んなぁ…の、で、ええぇぇっ！！」
+PRINTFORM 「し、痺れっ……!?　ま、まてえっ！　あ、あああぁぁっ	!#!PRINTFORM 「し、痺れっ……!?　ま、まてえっ！　あ、あああぁぁっ
+PRINTFORML 「と、止まれ……止まって、えぇ…………」		PRINTFORML 「と、止まれ……止まって、えぇ…………」
+PRINTFORM 「ひゅあああぁぁっ	!#!PRINTFORM 「ひゅあああぁぁっ
+PRINTFORM ！　っ！はあぁッッ	!#!PRINTFORM ！　っ！はあぁッッ
+PRINTFORML ！！！！」		PRINTFORML ！！！！」
+PRINTFORM 「そ、そここす、るなぁっ！！　やぁ！　ひゃあああぁぁぁぁっ	!#!PRINTFORM 「そ、そここす、るなぁっ！！　やぁ！　ひゃあああぁぁぁぁっ
+PRINTFORML 「う、そだ……ぁっ！　……ああああぁぁぁぁっ		PRINTFORML 「う、そだ……ぁっ！　……ああああぁぁぁぁっ
+PRINTFORML 「まだまだ未熟だ……情けない…」		PRINTFORML 「まだまだ未熟だ……情けない…」
+PRINTFORML 「……！　…！！　…う……ぅ……」		PRINTFORML 「……！　…！！　…う……ぅ……」
+PRINTFORMDW 明羅の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…	!#!PRINTFORMDW 明羅の身体は抵抗なく快楽を受け入れ、腰をかくかく揺らして達している…
+PRINTFORML 「ま、間に合っているっ！　と！　ひ、はああぁ！」		PRINTFORML 「ま、間に合っているっ！　と！　ひ、はああぁ！」
+PRINTFORMDW 明羅はなんとか%ARGS:1%を振り払ったが、	!#!PRINTFORMDW 明羅はなんとか%ARGS:1%を振り払ったが、
+PRINTFORMDW 張った胸の先端からは依然として母乳が流れ出ている…	!#!PRINTFORMDW 張った胸の先端からは依然として母乳が流れ出ている…
+PRINTFORML 「……うん、大丈夫だ」		PRINTFORML 「……うん、大丈夫だ」
+PRINTFORML 「今、腹をかっ捌けばこいつも死ぬだろうか……」		PRINTFORML 「今、腹をかっ捌けばこいつも死ぬだろうか……」
+PRINTFORML 「」		PRINTFORML 「」
+PRINTFORML 「これぐらい……」		PRINTFORML 「これぐらい……」
+PRINTFORML 「……鈍ったかなー」		PRINTFORML 「……鈍ったかなー」
+PRINTFORML 「気にするな、すぐ治る」		PRINTFORML 「気にするな、すぐ治る」
+PRINTFORML 「無理が祟ったか……」		PRINTFORML 「無理が祟ったか……」
+PRINTFORML 「少し、休むか……」		PRINTFORML 「少し、休むか……」
+PRINTFORML 「深呼吸……すぅー、はああぁぁー」		PRINTFORML 「深呼吸……すぅー、はああぁぁー」
+PRINTFORML 「いかんなぁ……」		PRINTFORML 「いかんなぁ……」
+PRINTFORML 「箸が進まん……バテているのか」		PRINTFORML 「箸が進まん……バテているのか」
+PRINTFORML 「いかん……調子が優れん」		PRINTFORML 「いかん……調子が優れん」
+PRINTFORML 「はー……」		PRINTFORML 「はー……」
+PRINTFORML 「……やれやれ、取り越し苦労か」		PRINTFORML 「……やれやれ、取り越し苦労か」
+PRINTFORML 「やはりしっかりと食べんとな」		PRINTFORML 「やはりしっかりと食べんとな」
+PRINTFORML 「……治ったか？」		PRINTFORML 「……治ったか？」
+PRINTFORML 「よし、行くか」		PRINTFORML 「よし、行くか」
+PRINTFORML 「……は、はは。いつかこうなるのは分かっていたんだがな……」		PRINTFORML 「……は、はは。いつかこうなるのは分かっていたんだがな……」
+PRINTFORML 「どうしてこう、……泣きたくなるのか」		PRINTFORML 「どうしてこう、……泣きたくなるのか」
+PRINTFORML 「大丈夫。動ける、……動けるから…見捨てないでくれ……」		PRINTFORML 「大丈夫。動ける、……動けるから…見捨てないでくれ……」
+PRINTFORML (腹が……)		PRINTFORML (腹が……)
+PRINTFORML 「……私に、どうしろというのだ…………！！」		PRINTFORML 「……私に、どうしろというのだ…………！！」
+PRINTFORML 「私をどうしたいのだ！　なぁ！　こんな私をあざ笑うて楽しいか!?!」		PRINTFORML 「私をどうしたいのだ！　なぁ！　こんな私をあざ笑うて楽しいか!?!」
+PRINTFORML 「…………ううぅぅ……」		PRINTFORML 「…………ううぅぅ……」
+PRINTFORMDW 明羅は怒りをどこにもぶつける事ができず、力なくその場に崩れ落ちた…	!#!PRINTFORMDW 明羅は怒りをどこにもぶつける事ができず、力なくその場に崩れ落ちた…
+PRINTFORML 「はぁ……気も重い」		PRINTFORML 「はぁ……気も重い」
+PRINTFORML 「せめて、剣は迷わず……」		PRINTFORML 「せめて、剣は迷わず……」
+PRINTFORML 「抜刀に腹が邪魔だ……」		PRINTFORML 「抜刀に腹が邪魔だ……」
+PRINTFORML 「僅かな重みでも、普段通りの動きを阻害するには十分なのだな」		PRINTFORML 「僅かな重みでも、普段通りの動きを阻害するには十分なのだな」
+PRINTFORML 「く……思うように動けん」		PRINTFORML 「く……思うように動けん」
+PRINTFORML 「……い、今……動い、た……？」		PRINTFORML 「……い、今……動い、た……？」
+PRINTFORML 「誰にも会いたくないな……」		PRINTFORML 「誰にも会いたくないな……」
+PRINTFORML 「ふうぅーー…………」		PRINTFORML 「ふうぅーー…………」
+PRINTFORML 「しばらくの間、刀は抜き身で扱う事にするか」		PRINTFORML 「しばらくの間、刀は抜き身で扱う事にするか」
+PRINTFORML 「もう腰に差しておいては抜けんからな……」		PRINTFORML 「もう腰に差しておいては抜けんからな……」
+PRINTFORML 「身体が思うように動かん……」		PRINTFORML 「身体が思うように動かん……」
+PRINTFORML 「ぎ……少し元気が良すぎるな」		PRINTFORML 「ぎ……少し元気が良すぎるな」
+PRINTFORML 「駄目だな……何もできる気がしない」		PRINTFORML 「駄目だな……何もできる気がしない」
+PRINTFORML 「今は……休むべきか……」		PRINTFORML 「今は……休むべきか……」
+PRINTFORML 「…………が、あっ……」		PRINTFORML 「…………が、あっ……」
+PRINTFORML 「すまないが、もう少しゆっくり……」		PRINTFORML 「すまないが、もう少しゆっくり……」
+PRINTFORML 「あ、待ってくれ……一人にしないで……」		PRINTFORML 「あ、待ってくれ……一人にしないで……」
+PRINTFORML 「これでも急いでいるつもりなのだ……」		PRINTFORML 「これでも急いでいるつもりなのだ……」
+PRINTFORML 「うぐぅ……やはり馴れるものでは……」		PRINTFORML 「うぐぅ……やはり馴れるものでは……」
+PRINTFORML 「くそ……何度この苦痛を受けねばならん……」		PRINTFORML 「くそ……何度この苦痛を受けねばならん……」
+PRINTFORML 「なぜ私は女なんかに生まれたのか……」		PRINTFORML 「なぜ私は女なんかに生まれたのか……」
+PRINTFORML 「うぅ……張って辛いと思ったらそういうことか……」		PRINTFORML 「うぅ……張って辛いと思ったらそういうことか……」
+PRINTFORML 「服に、滲む…………」		PRINTFORML 「服に、滲む…………」
+PRINTFORML 「これ以上大きくなっていらぬ……」		PRINTFORML 「これ以上大きくなっていらぬ……」
+PRINTFORMW 「あ、がああぁぁっぁ！！　ひ、ひろげるなああぁっ！！　痛い！　いたいぃ！！」		PRINTFORMW 「あ、がああぁぁっぁ！！　ひ、ひろげるなああぁっ！！　痛い！　いたいぃ！！」
+PRINTFORMW 「は、始まった、か……ふ、ううぅぅぅ…………」		PRINTFORMW 「は、始まった、か……ふ、ううぅぅぅ…………」
+PRINTFORMW 「うああぁぁぁっ！！！　いやああああああああぁぁあぁぁ！！！」		PRINTFORMW 「うああぁぁぁっ！！！　いやああああああああぁぁあぁぁ！！！」
+PRINTFORMDW 自分のナカからずるり、ずるりと這いだしてくる化け物とそれのもたらす想像を絶する痛みに	!#!PRINTFORMDW 自分のナカからずるり、ずるりと這いだしてくる化け物とそれのもたらす想像を絶する痛みに
+PRINTFORMDW 明羅は半狂乱で絶叫している…	!#!PRINTFORMDW 明羅は半狂乱で絶叫している…
+PRINTFORML 「いがああぁぁ！　ゆ、ゆっくりでいい！！　あばれないでえぇっ！！」		PRINTFORML 「いがああぁぁ！　ゆ、ゆっくりでいい！！　あばれないでえぇっ！！」
+PRINTFORMDW 赤子とは思えない力でそれは産道をかき分け、這い出てくる…	!#!PRINTFORMDW 赤子とは思えない力でそれは産道をかき分け、這い出てくる…
+PRINTFORMDW 明羅はその徹底的な蹂躙に身体を反らせ、声を上げることでしか反応できない…	!#!PRINTFORMDW 明羅はその徹底的な蹂躙に身体を反らせ、声を上げることでしか反応できない…
+PRINTFORML 「……………………あ……」		PRINTFORML 「……………………あ……」
+PRINTFORML 「…………う、ぁ……」		PRINTFORML 「…………う、ぁ……」
+PRINTFORML 「あ……ま、て…………」		PRINTFORML 「あ……ま、て…………」
+PRINTFORML 「こういうのには全く疎いのだが……」		PRINTFORML 「こういうのには全く疎いのだが……」
+PRINTFORML 「えいやぁ！　……おおう、やってみるもんだ」		PRINTFORML 「えいやぁ！　……おおう、やってみるもんだ」
+PRINTFORML 「それぇっ！」		PRINTFORML 「それぇっ！」
+PRINTFORML 「少し、疲れたな」		PRINTFORML 「少し、疲れたな」
+PRINTFORML 「ふぁ……そろそろ寝る時間か…？」		PRINTFORML 「ふぁ……そろそろ寝る時間か…？」
+PRINTFORML 「あはははは！　眠すぎて逆に眠くなくなってきたぞ！！」		PRINTFORML 「あはははは！　眠すぎて逆に眠くなくなってきたぞ！！」
+PRINTFORML 「一気呵成にゆくぞ！」		PRINTFORML 「一気呵成にゆくぞ！」
+PRINTFORML 「誰ぞある！　切り捨てられたい者は前に出ろー！」		PRINTFORML 「誰ぞある！　切り捨てられたい者は前に出ろー！」
+PRINTFORML 「行かせてもらおうっ！」		PRINTFORML 「行かせてもらおうっ！」
+PRINTFORML 「隠密には自信がある」		PRINTFORML 「隠密には自信がある」
+PRINTFORML 「気配を、殺して…………」		PRINTFORML 「気配を、殺して…………」
+PRINTFORML 「しーっ…………」		PRINTFORML 「しーっ…………」
+PRINTFORML 「無闇に動かん方がいいのか……？」		PRINTFORML 「無闇に動かん方がいいのか……？」
+PRINTFORML 「化け物どもと根比べといこう」		PRINTFORML 「化け物どもと根比べといこう」
+PRINTFORML 「慌てない慌てない」		PRINTFORML 「慌てない慌てない」
+PRINTFORML 「鬼が出るか蛇が出るか」		PRINTFORML 「鬼が出るか蛇が出るか」
+PRINTFORML 「さて、虎穴に入ろうか……」		PRINTFORML 「さて、虎穴に入ろうか……」
+PRINTFORML 「何かないものか……」		PRINTFORML 「何かないものか……」
+PRINTFORML 「物漁りならまかせろー」		PRINTFORML 「物漁りならまかせろー」
+PRINTFORML 「うぅ……盛ってはいるがお前如きに……っ」		PRINTFORML 「うぅ……盛ってはいるがお前如きに……っ」
+PRINTFORM 「…く、かえってぇ、う、ずく、ぅ………	!#!PRINTFORM 「…く、かえってぇ、う、ずく、ぅ………
+PRINTFORM 「あ、はあああぁぁぁ……	!#!PRINTFORM 「あ、はあああぁぁぁ……
+PRINTFORML 「ど、うせ奪ったなら……愉しませてぇ、くれぇ		PRINTFORML 「ど、うせ奪ったなら……愉しませてぇ、くれぇ
+PRINTFORML 「お前などに……っ」		PRINTFORML 「お前などに……っ」
+PRINTFORML 「さ、させんっ」		PRINTFORML 「さ、させんっ」
+PRINTFORML 「御免蒙るな……」		PRINTFORML 「御免蒙るな……」
+PRINTFORML 「く、そ……切り刻んでやる……」		PRINTFORML 「く、そ……切り刻んでやる……」
+PRINTFORML 「いっ……！　くふううぅぅ……」		PRINTFORML 「いっ……！　くふううぅぅ……」
+PRINTFORML 明羅は目に涙を浮かべ、刀を固く握りしめている…		PRINTFORML 明羅は目に涙を浮かべ、刀を固く握りしめている…
+PRINTFORM 「……痛い…が、しょうがないな……ぁ	!#!PRINTFORM 「……痛い…が、しょうがないな……ぁ
+PRINTFORML ？」		PRINTFORML ？」
+PRINTFORML 「化け物共にやられるならいっそ……」		PRINTFORML 「化け物共にやられるならいっそ……」
+PRINTFORML 「何のために大事にとっておいたのか……」		PRINTFORML 「何のために大事にとっておいたのか……」
+PRINTFORML 「い…たぁ……はは、介錯は無用、だ……」		PRINTFORML 「い…たぁ……はは、介錯は無用、だ……」
+PRINTFORML 「いぎいいぃっ！！　痛いいぃっ！！　いたいいたいいたいいいいっっ！！！！」		PRINTFORML 「いぎいいぃっ！！　痛いいぃっ！！　いたいいたいいたいいいいっっ！！！！」
+PRINTFORML 「私が野盗の真似事など……」		PRINTFORML 「私が野盗の真似事など……」
+PRINTFORML 「しかし、今はなりふり構っていられんのも事実か……」		PRINTFORML 「しかし、今はなりふり構っていられんのも事実か……」
+PRINTFORMW 「お前が欲しい」		PRINTFORMW 「お前が欲しい」
+PRINTFORML 「……あ、いや、お前の道具が、だぞ？」		PRINTFORML 「……あ、いや、お前の道具が、だぞ？」
+PRINTFORML 「……ん、…………！」		PRINTFORML 「……ん、…………！」
+PRINTFORMDW 明羅は刀だけは固く抱いて離そうとしなかった	!#!PRINTFORMDW 明羅は刀だけは固く抱いて離そうとしなかった
+PRINTFORML 「……くれてやる」		PRINTFORML 「……くれてやる」
+PRINTFORML 「か、体でお礼とかそういうのはいらんからな？」		PRINTFORML 「か、体でお礼とかそういうのはいらんからな？」
+PRINTFORML 「しょうがない……とっておけ」		PRINTFORML 「しょうがない……とっておけ」
+PRINTFORML 「か、刀は流石に許してくれぇ……」		PRINTFORML 「か、刀は流石に許してくれぇ……」
+PRINTFORML 「何も持っていないな」		PRINTFORML 「何も持っていないな」
+PRINTFORML 「力にはなれんな」		PRINTFORML 「力にはなれんな」
+PRINTFORML 「……今回は高見の見物とさせてもらう」		PRINTFORML 「……今回は高見の見物とさせてもらう」
+PRINTFORML 「旅は道連れ世は情け、助太刀いたそう！」		PRINTFORML 「旅は道連れ世は情け、助太刀いたそう！」
+PRINTFORML 「一人旅も気楽なものでな」		PRINTFORML 「一人旅も気楽なものでな」
+PRINTFORML 「確かに一人では心許ないな……同行させてくれい」		PRINTFORML 「確かに一人では心許ないな……同行させてくれい」
+PRINTFORML 「くっ、曲者か！」		PRINTFORML 「くっ、曲者か！」
+PRINTFORML 「済まない……これも私の生きるため！」		PRINTFORML 「済まない……これも私の生きるため！」
+PRINTFORML 「身ぐるみ置いて行けっ！！」		PRINTFORML 「身ぐるみ置いて行けっ！！」
+PRINTFORML 「気を確かに持て、こんなところで諦めるな」		PRINTFORML 「気を確かに持て、こんなところで諦めるな」
+PRINTFORML 「構わんが……私でいいのか？」		PRINTFORML 「構わんが……私でいいのか？」
+PRINTFORML 「礼には及ばん。当然のことをしたまでだ」		PRINTFORML 「礼には及ばん。当然のことをしたまでだ」
+PRINTFORML 「か…かたじけない」		PRINTFORML 「か…かたじけない」
+PRINTFORMDW 明羅は抱くようにして守っていた刀を杖代わりに何とか立ち上がった	!#!PRINTFORMDW 明羅は抱くようにして守っていた刀を杖代わりに何とか立ち上がった
+PRINTFORML 「力になりたいが…今の私では足手まといになるな……」		PRINTFORML 「力になりたいが…今の私では足手まといになるな……」
+PRINTFORMDW そう言うと明羅は%CALLNAME:1%が呼び止めるのも聞かずに迷宮の闇に消えた… 	!#!PRINTFORMDW そう言うと明羅は%CALLNAME:1%が呼び止めるのも聞かずに迷宮の闇に消えた… 
+PRINTFORML 「うむ、こんな身でも囮ぐらいにはなろう……協力させてくれ」		PRINTFORML 「うむ、こんな身でも囮ぐらいにはなろう……協力させてくれ」
+PRINTFORML 「任せろ」		PRINTFORML 「任せろ」
+PRINTFORML 「この身、この剣、お前の好きにしてくれ」		PRINTFORML 「この身、この剣、お前の好きにしてくれ」
+PRINTFORML 「……あい分かった。だが私は少しでもお前%TACHI()%の助けになるよう動く、構わんな？」		PRINTFORML 「……あい分かった。だが私は少しでもお前%TACHI()%の助けになるよう動く、構わんな？」
+PRINTFORML 「ふーっ、生き返るようだ」		PRINTFORML 「ふーっ、生き返るようだ」
+PRINTFORML 「しのぶれど～♪　いろにいでにけり～っとぉ」		PRINTFORML 「しのぶれど～♪　いろにいでにけり～っとぉ」
+PRINTFORML 「先に湯加減を見させて貰ったぞ。いや、いい湯だった」		PRINTFORML 「先に湯加減を見させて貰ったぞ。いや、いい湯だった」
+PRINTFORML 「うわああぁっ！　それだけはやめろおっ！！」		PRINTFORML 「うわああぁっ！　それだけはやめろおっ！！」
+PRINTFORML 「う、ぅ……あ、りが、と…………」		PRINTFORML 「う、ぅ……あ、りが、と…………」
+PRINTFORML (…………あれ……？　まだ、生きてる……)		PRINTFORML (…………あれ……？　まだ、生きてる……)
+PRINTFORML 「………………う、ん……がん、ば、ろう……」		PRINTFORML 「………………う、ん……がん、ば、ろう……」
+PRINTFORML 探索{DAY}日目　何かの役に立てばと思い、この手記を書くことにする		PRINTFORML 探索{DAY}日目　何かの役に立てばと思い、この手記を書くことにする
+PRINTFORML 探索{DAY}日目　何が起こったのかまだ全く分からない、とにかく状況を把握せねば		PRINTFORML 探索{DAY}日目　何が起こったのかまだ全く分からない、とにかく状況を把握せねば
+PRINTFORML 探索{DAY}日目　少しずつこの迷宮が分かってきた。なんと悪趣味な場所だ……		PRINTFORML 探索{DAY}日目　少しずつこの迷宮が分かってきた。なんと悪趣味な場所だ……
+PRINTFORML 探索{DAY}日目　焦りは禁物だ。しかし早く出たいのも事実ではある		PRINTFORML 探索{DAY}日目　焦りは禁物だ。しかし早く出たいのも事実ではある
+PRINTFORML 探索{DAY}日目　醜悪な臭いが染み着いて取れない		PRINTFORML 探索{DAY}日目　醜悪な臭いが染み着いて取れない
+PRINTFORML 探索{DAY}日目　集団だと見つかりやすいが、合力せねば脱出は難しいディレンマ…		PRINTFORML 探索{DAY}日目　集団だと見つかりやすいが、合力せねば脱出は難しいディレンマ…
+PRINTFORML 探索{DAY}日目　悪臭にも慣れてきた		PRINTFORML 探索{DAY}日目　悪臭にも慣れてきた
+PRINTFORML 探索{DAY}日目　敵の攻めが苛烈になってきた。長びけば長引くほど私たちは不利になるだろう		PRINTFORML 探索{DAY}日目　敵の攻めが苛烈になってきた。長びけば長引くほど私たちは不利になるだろう
+PRINTFORML 探索{DAY}日目　一体何のためにこの迷宮は存在するのか、小一時間考えたが答えは出なかった		PRINTFORML 探索{DAY}日目　一体何のためにこの迷宮は存在するのか、小一時間考えたが答えは出なかった
+PRINTFORML 探索{DAY}日目　こんな場所でいびきをかいて寝られる自分の神経を疑う		PRINTFORML 探索{DAY}日目　こんな場所でいびきをかいて寝られる自分の神経を疑う
+PRINTFORML 探索{DAY}日目　そういえば最近仲間を見かける事が少なくなった。無事だろうか		PRINTFORML 探索{DAY}日目　そういえば最近仲間を見かける事が少なくなった。無事だろうか
+PRINTFORML 探索{DAY}日目　ときおり風の流れを感じる時がある。出口はある、諦めてはいけない		PRINTFORML 探索{DAY}日目　ときおり風の流れを感じる時がある。出口はある、諦めてはいけない
+PRINTFORML 探索{DAY}日目　ここで生まれた誰かの娘は本当に母親そっくりだが、擬態なのだろうか		PRINTFORML 探索{DAY}日目　ここで生まれた誰かの娘は本当に母親そっくりだが、擬態なのだろうか
+PRINTFORML 探索{DAY}日目　二ヶ月か。思い返せば気の遠くなるように密な日々だ		PRINTFORML 探索{DAY}日目　二ヶ月か。思い返せば気の遠くなるように密な日々だ
+PRINTFORML 探索{DAY}日目　調子が悪い。気が滅入る		PRINTFORML 探索{DAY}日目　調子が悪い。気が滅入る
+PRINTFORML 探索{DAY}日目　ふと、いなくなった仲間を思い返す		PRINTFORML 探索{DAY}日目　ふと、いなくなった仲間を思い返す
+PRINTFORML 探索{DAY}日目　外に出て宴、というより一年ぐらいごろごろして暮らしたくなってきた		PRINTFORML 探索{DAY}日目　外に出て宴、というより一年ぐらいごろごろして暮らしたくなってきた
+PRINTFORML 探索{DAY}日目　もう、大体の敵もおなじみになってきた		PRINTFORML 探索{DAY}日目　もう、大体の敵もおなじみになってきた
+PRINTFORML 探索{DAY}日目　疲れた		PRINTFORML 探索{DAY}日目　疲れた
+PRINTFORML 探索{DAY}日目　まだ、諦めない		PRINTFORML 探索{DAY}日目　まだ、諦めない
+PRINTFORML 探索{DAY}日目　触手が多い		PRINTFORML 探索{DAY}日目　触手が多い
+PRINTFORMW そ　　　　と　に		PRINTFORMW そ　　　　と　に
+PRINTFORMDL これが最後のページだ…　　　　	!#!PRINTFORMDL これが最後のページだ…　　　　
+PRINTFORMDL 紙が滲んでいて何が書いてあるか読めない	!#!PRINTFORMDL 紙が滲んでいて何が書いてあるか読めない
+PRINTFORMDL ページ一面が黒く塗られている　	!#!PRINTFORMDL ページ一面が黒く塗られている　
+PRINTFORMDL 頼りない線が一本だけ書かれている。何か書こうと思ってやめたらしい	!#!PRINTFORMDL 頼りない線が一本だけ書かれている。何か書こうと思ってやめたらしい
+PRINTFORMD 少し書いて上から消されている	!#!PRINTFORMD 少し書いて上から消されている
+PRINTFORML 「もうだ…」		PRINTFORML 「もうだ…」
+PRINTFORML このページは白紙だ…		PRINTFORML このページは白紙だ…
+PRINTFORML 一ページ分千切られている		PRINTFORML 一ページ分千切られている
+PRINTFORML よく分からない模様が書かれている		PRINTFORML よく分からない模様が書かれている
+PRINTFORML 筆が乱れすぎていて読むに堪えない		PRINTFORML 筆が乱れすぎていて読むに堪えない
+PRINTFORML 白紙のページに髪の毛が一本挟まっていた		PRINTFORML 白紙のページに髪の毛が一本挟まっていた
+PRINTFORML 長々と何かが書いてあったようだが、すべて上から消されている		PRINTFORML 長々と何かが書いてあったようだが、すべて上から消されている
+PRINTFORML 探索{DAY}日目　		PRINTFORML 探索{DAY}日目　
+PRINTFORML 探索{DAY}日目　だいじょうぶ		PRINTFORML 探索{DAY}日目　だいじょうぶ
+PRINTFORML 探索{DAY}日目　遠い、遠すぎる		PRINTFORML 探索{DAY}日目　遠い、遠すぎる
+PRINTFORML 探索{DAY}日目　まだいきている		PRINTFORML 探索{DAY}日目　まだいきている
+PRINTFORML 探索{DAY}日目　私は…………から……死…かも……………人………		PRINTFORML 探索{DAY}日目　私は…………から……死…かも……………人………
+PRINTFORMDW かろうじて読める箇所はこれだけだ 	!#!PRINTFORMDW かろうじて読める箇所はこれだけだ 
+PRINTFORML 探索{DAY}日目　なにもなかった		PRINTFORML 探索{DAY}日目　なにもなかった
+PRINTFORML 探索{DAY}日目　もう、だめかもしれない		PRINTFORML 探索{DAY}日目　もう、だめかもしれない
+PRINTFORML 探索{DAY}日目　特に書くこともなくなった		PRINTFORML 探索{DAY}日目　特に書くこともなくなった
+PRINTFORML 探索{DAY}日目　昨日と同じだ		PRINTFORML 探索{DAY}日目　昨日と同じだ
+PRINTFORML 探索{DAY}日目　は　　はは　　　　　は　　　　　　　は		PRINTFORML 探索{DAY}日目　は　　はは　　　　　は　　　　　　　は
+PRINTFORML 探索{DAY}日目　第一印象は「雰囲気が悪い」。今は「最悪」だ		PRINTFORML 探索{DAY}日目　第一印象は「雰囲気が悪い」。今は「最悪」だ
+PRINTFORML 探索{DAY}日目　壁に手をついたと思ったらうぞうぞ蠢きだした		PRINTFORML 探索{DAY}日目　壁に手をついたと思ったらうぞうぞ蠢きだした
+PRINTFORML 探索{DAY}日目　罠が大量に仕掛けられている。何のためだ？		PRINTFORML 探索{DAY}日目　罠が大量に仕掛けられている。何のためだ？
+PRINTFORML 探索{DAY}日目　ある意味、常に敵に囲まれているようなものだ。居心地が悪い		PRINTFORML 探索{DAY}日目　ある意味、常に敵に囲まれているようなものだ。居心地が悪い
+PRINTFORML 探索{DAY}日目　まあ、何とかなるだろう		PRINTFORML 探索{DAY}日目　まあ、何とかなるだろう
+PRINTFORML 探索{DAY}日目　落ち込んでいてもしょうがない、動かねば…		PRINTFORML 探索{DAY}日目　落ち込んでいてもしょうがない、動かねば…
+PRINTFORML 探索{DAY}日目　服が引っ張られたと思ったら壁だった		PRINTFORML 探索{DAY}日目　服が引っ張られたと思ったら壁だった
+PRINTFORML 探索{DAY}日目　人の気配はする。死人か何かは知らないが		PRINTFORML 探索{DAY}日目　人の気配はする。死人か何かは知らないが
+PRINTFORML 探索{DAY}日目　壁の触手は弾力に富んでいて、切断して脱出するのは難しそうだ		PRINTFORML 探索{DAY}日目　壁の触手は弾力に富んでいて、切断して脱出するのは難しそうだ
+PRINTFORML 探索{DAY}日目　私はどうやって来たのか、私はどこにいるのか、私はどこへ向かうのか		PRINTFORML 探索{DAY}日目　私はどうやって来たのか、私はどこにいるのか、私はどこへ向かうのか
+PRINTFORML 探索{DAY}日目　私の中に何かが居る。非常に不快な気分だ		PRINTFORML 探索{DAY}日目　私の中に何かが居る。非常に不快な気分だ
+PRINTFORML 探索{DAY}日目　まさか人外を身ごもるとは思っても見なかった		PRINTFORML 探索{DAY}日目　まさか人外を身ごもるとは思っても見なかった
+PRINTFORML 探索{DAY}日目　吐き気がする。原因は明らかだ		PRINTFORML 探索{DAY}日目　吐き気がする。原因は明らかだ
+PRINTFORML 探索{DAY}日目　人に言うことでは無いが、私の腹は無駄に肉もなく健康的であった。		PRINTFORML 探索{DAY}日目　人に言うことでは無いが、私の腹は無駄に肉もなく健康的であった。
+PRINTFORML 今は醜いまでに張っているが		PRINTFORML 今は醜いまでに張っているが
+PRINTFORML 探索{DAY}日目　私の体はせっせと栄養を化け物に送っている		PRINTFORML 探索{DAY}日目　私の体はせっせと栄養を化け物に送っている
+PRINTFORML 探索{DAY}日目　いっそ今腹を切れば(この先、筆が乱れていて読めない)		PRINTFORML 探索{DAY}日目　いっそ今腹を切れば(この先、筆が乱れていて読めない)
+PRINTFORML 探索{DAY}日目　内も外も、余談を許さない状況だ		PRINTFORML 探索{DAY}日目　内も外も、余談を許さない状況だ
+PRINTFORML 探索{DAY}日目　気づくと腹をさすっている。母性は偉大だ		PRINTFORML 探索{DAY}日目　気づくと腹をさすっている。母性は偉大だ
+PRINTFORML 探索{DAY}日目　蠢くな　やめろ　　痛い		PRINTFORML 探索{DAY}日目　蠢くな　やめろ　　痛い
+PRINTFORML 探索{DAY}日目　噂には聞いていたが、酸味が欲しくなる		PRINTFORML 探索{DAY}日目　噂には聞いていたが、酸味が欲しくなる
+PRINTFORML 探索{DAY}日目　白飯が恋しい		PRINTFORML 探索{DAY}日目　白飯が恋しい
+PRINTFORML 探索{DAY}日目　夢で青空をよく見るようになった		PRINTFORML 探索{DAY}日目　夢で青空をよく見るようになった
+PRINTFORML 探索{DAY}日目　風呂に入ろうが、嫌な空気は変わらないようだ		PRINTFORML 探索{DAY}日目　風呂に入ろうが、嫌な空気は変わらないようだ
+PRINTFORML 探索{DAY}日目　体は鈍らないが、たまには修練を行いたい		PRINTFORML 探索{DAY}日目　体は鈍らないが、たまには修練を行いたい
+PRINTFORML 探索{DAY}日目　日常に戻りたい。贅沢な考えなのか？		PRINTFORML 探索{DAY}日目　日常に戻りたい。贅沢な考えなのか？
+PRINTFORML 探索{DAY}日目　消えた人数に対して、ここにいる人数が少なすぎる		PRINTFORML 探索{DAY}日目　消えた人数に対して、ここにいる人数が少なすぎる
+PRINTFORML 探索{DAY}日目　常に最悪の事態を想定して動かねば……		PRINTFORML 探索{DAY}日目　常に最悪の事態を想定して動かねば……
+PRINTFORML 探索{DAY}日目　触手を切ってから刀が粘つく		PRINTFORML 探索{DAY}日目　触手を切ってから刀が粘つく
+PRINTFORML 探索{DAY}日目　落ちているものを拾うことに抵抗を感じたのは初めてだ		PRINTFORML 探索{DAY}日目　落ちているものを拾うことに抵抗を感じたのは初めてだ
+PRINTFORML 探索{DAY}日目　壁に何かが飲み込まれていた。何かは分からなかったが		PRINTFORML 探索{DAY}日目　壁に何かが飲み込まれていた。何かは分からなかったが
+PRINTFORML 探索{DAY}日目　盛ってしょうがない、どう鎮めたものか		PRINTFORML 探索{DAY}日目　盛ってしょうがない、どう鎮めたものか
+PRINTFORML 探索{DAY}日目　…(判別不能)…涎をこぼしてしまった		PRINTFORML 探索{DAY}日目　…(判別不能)…涎をこぼしてしまった
+PRINTFORML 探索{DAY}日目　気が付くと大事に手をやっている、修行不足か		PRINTFORML 探索{DAY}日目　気が付くと大事に手をやっている、修行不足か
+PRINTFORML 探索{DAY}日目　思考が纏まらない、宜しくないことばかり考えている		PRINTFORML 探索{DAY}日目　思考が纏まらない、宜しくないことばかり考えている
+PRINTFORML 探索{DAY}日目　我に返ると隙だらけで突っ立っている		PRINTFORML 探索{DAY}日目　我に返ると隙だらけで突っ立っている
+PRINTFORML 探索{DAY}日目　切ない。非常に切ない		PRINTFORML 探索{DAY}日目　切ない。非常に切ない
+PRINTFORML 探索{DAY}日目　鞘は使えない事もない。剣も……いや、流石にそれは剣士失格だろう		PRINTFORML 探索{DAY}日目　鞘は使えない事もない。剣も……いや、流石にそれは剣士失格だろう
+PRINTFORML 探索{DAY}日目　夢中で壁に体を擦り付けていた。誰かに見られていなかっだろうか		PRINTFORML 探索{DAY}日目　夢中で壁に体を擦り付けていた。誰かに見られていなかっだろうか
+PRINTFORML 探索{DAY}日目　一歩進むごとに痺れが走り、まともに動けない		PRINTFORML 探索{DAY}日目　一歩進むごとに痺れが走り、まともに動けない
+PRINTFORML 探索{DAY}日目　敵を見たらにやけてしまうのをどうにかしなければ		PRINTFORML 探索{DAY}日目　敵を見たらにやけてしまうのをどうにかしなければ
+PRINTFORML 探索{DAY}日目　小説が落ちていた。「そして誰もいなくなった」か、縁起でもない……		PRINTFORML 探索{DAY}日目　小説が落ちていた。「そして誰もいなくなった」か、縁起でもない……
+PRINTFORML 探索{DAY}日目　外に出たら、ゆっくり縁側で昼寝がしたい		PRINTFORML 探索{DAY}日目　外に出たら、ゆっくり縁側で昼寝がしたい
+PRINTFORML 探索{DAY}日目　思い出してみると、日常は素晴らしい物だと気づく	!#!		PRINTFORML 探索{DAY}日目　思い出してみると、日常は素晴らしい物だと気づく	!#!
+PRINTFORML 探索{DAY}日目　神隠しにあった皆は全員ここにいるのだろうか		PRINTFORML 探索{DAY}日目　神隠しにあった皆は全員ここにいるのだろうか
+PRINTFORML 探索{DAY}日目　珍味と思えば触手が食える事を知る		PRINTFORML 探索{DAY}日目　珍味と思えば触手が食える事を知る
+PRINTFORML 探索{DAY}日目　苦しいときこそ、笑えばよい		PRINTFORML 探索{DAY}日目　苦しいときこそ、笑えばよい
+PRINTFORML 探索{DAY}日目　武士道とは、堪え忍ぶことだ		PRINTFORML 探索{DAY}日目　武士道とは、堪え忍ぶことだ
+PRINTFORML 探索{DAY}日目　敵を倒す度に、出口が近づいていると思いたい		PRINTFORML 探索{DAY}日目　敵を倒す度に、出口が近づいていると思いたい
+PRINTFORML 探索{DAY}日目　人間でも、生き延びてみせる		PRINTFORML 探索{DAY}日目　人間でも、生き延びてみせる
+PRINTFORML 探索{DAY}日目　ここは幻想郷なのか、もしそうなら大妖怪に文句の一つも言いたい		PRINTFORML 探索{DAY}日目　ここは幻想郷なのか、もしそうなら大妖怪に文句の一つも言いたい
+PRINTFORML 探索{DAY}日目　手が震える、目が霞む		PRINTFORML 探索{DAY}日目　手が震える、目が霞む
+PRINTFORML 探索{DAY}日目　戦いづめだが弱音を吐いている場合でもない		PRINTFORML 探索{DAY}日目　戦いづめだが弱音を吐いている場合でもない
+PRINTFORML 探索{DAY}日目　こんな所で死ねば魂まで弄ばれそうだ		PRINTFORML 探索{DAY}日目　こんな所で死ねば魂まで弄ばれそうだ
+PRINTFORML 探索{DAY}日目　絶対死んでやるものか		PRINTFORML 探索{DAY}日目　絶対死んでやるものか
+PRINTFORML 探索{DAY}日目　膝はつかない。ついてたまるか		PRINTFORML 探索{DAY}日目　膝はつかない。ついてたまるか
+PRINTFORML 探索{DAY}日目　大丈夫、刀はまだ握ることができる		PRINTFORML 探索{DAY}日目　大丈夫、刀はまだ握ることができる
+PRINTFORML 探索{DAY}日目　体は動かないが、心は満ちている		PRINTFORML 探索{DAY}日目　体は動かないが、心は満ちている
+PRINTFORML 探索{DAY}日目　倒れるなら、前のめりに		PRINTFORML 探索{DAY}日目　倒れるなら、前のめりに
+PRINTFORML 探索{DAY}日目　虎は死んで毛皮を残す。私は何を残すのか		PRINTFORML 探索{DAY}日目　虎は死んで毛皮を残す。私は何を残すのか
+PRINTFORML 探索{DAY}日目　死ぬならば、誰かの役に立ってから死のう…		PRINTFORML 探索{DAY}日目　死ぬならば、誰かの役に立ってから死のう…
+PRINTFORML 探索{DAY}日目　しょくしゅ　　うま		PRINTFORML 探索{DAY}日目　しょくしゅ　　うま
+PRINTFORML 探索{DAY}日目　まだ慌てる時間ではない		PRINTFORML 探索{DAY}日目　まだ慌てる時間ではない
+PRINTFORML 探索{DAY}日目　私、この探索が終わったら、実家で花屋を継ぐんだ……	!#!		PRINTFORML 探索{DAY}日目　私、この探索が終わったら、実家で花屋を継ぐんだ……	!#!
+PRINTFORML 探索{DAY}日目　それでも博霊なら……何とかしてくれないだろうか		PRINTFORML 探索{DAY}日目　それでも博霊なら……何とかしてくれないだろうか
+PRINTFORML 探索{DAY}日目　「さーち・あんど・ですとろい」の精神だ		PRINTFORML 探索{DAY}日目　「さーち・あんど・ですとろい」の精神だ
+PRINTFORML 探索{DAY}日目　助けてミコえもーーん！		PRINTFORML 探索{DAY}日目　助けてミコえもーーん！
+PRINTFORML 探索{DAY}日目　白い鰐が見えた。吉兆だろうか		PRINTFORML 探索{DAY}日目　白い鰐が見えた。吉兆だろうか
+PRINTFORML 探索{DAY}日目　1、3、5、7、11、13、17、19、23、29、31……		PRINTFORML 探索{DAY}日目　1、3、5、7、11、13、17、19、23、29、31……
+PRINTFORML 探索{DAY}日目　人間賛歌は命の喜び！　生きることの素晴らしさ！		PRINTFORML 探索{DAY}日目　人間賛歌は命の喜び！　生きることの素晴らしさ！
+PRINTFORML 探索{DAY}日目　脱出まで、泣くんじゃない		PRINTFORML 探索{DAY}日目　脱出まで、泣くんじゃない
+PRINTFORML 探索{DAY}日目　裸に帯刀というのも変な格好だ		PRINTFORML 探索{DAY}日目　裸に帯刀というのも変な格好だ
+PRINTFORML 探索{DAY}日目　汚れるのが早い。せめて風呂に入りたい		PRINTFORML 探索{DAY}日目　汚れるのが早い。せめて風呂に入りたい
+PRINTFORML 探索{DAY}日目　隠しても隠さなくても、どうせ化け物には関係のないことだと最近わかった		PRINTFORML 探索{DAY}日目　隠しても隠さなくても、どうせ化け物には関係のないことだと最近わかった
+PRINTFORML 探索{DAY}日目　もう少し、見えない所も身だしなみに気をつけていればよかった		PRINTFORML 探索{DAY}日目　もう少し、見えない所も身だしなみに気をつけていればよかった
+PRINTFORML 探索{DAY}日目　髪が背中に当たってチクチクする		PRINTFORML 探索{DAY}日目　髪が背中に当たってチクチクする
+PRINTFORML 探索{DAY}日目　裸の間どうやってこの手記を携帯していたかは秘密だ		PRINTFORML 探索{DAY}日目　裸の間どうやってこの手記を携帯していたかは秘密だ
+PRINTFORML 探索{DAY}日目　何にも増して早く着替えを探さねば		PRINTFORML 探索{DAY}日目　何にも増して早く着替えを探さねば
+PRINTFORML 探索{DAY}日目　迷宮は寒くはないので、風邪の心配はない。生暖かく気持ち悪いが		PRINTFORML 探索{DAY}日目　迷宮は寒くはないので、風邪の心配はない。生暖かく気持ち悪いが
+PRINTFORML 探索{DAY}日目　色々と液体を浴びる時は、衣服が濡れると消耗が激しいので裸も悪くない		PRINTFORML 探索{DAY}日目　色々と液体を浴びる時は、衣服が濡れると消耗が激しいので裸も悪くない
+PRINTFORML 探索{DAY}日目　泉があったらそのまま飛び込める点はこの格好を評価したい		PRINTFORML 探索{DAY}日目　泉があったらそのまま飛び込める点はこの格好を評価したい
+PRINTFORML 探索{DAY}日目　多少の無茶も致し方無いことか		PRINTFORML 探索{DAY}日目　多少の無茶も致し方無いことか
+PRINTFORML 探索{DAY}日目　里の人間も相当数いなくなったはずだが姿が見えない		PRINTFORML 探索{DAY}日目　里の人間も相当数いなくなったはずだが姿が見えない
+PRINTFORML 探索{DAY}日目　私が居なくなった事に気づいている人はいるのだろうか		PRINTFORML 探索{DAY}日目　私が居なくなった事に気づいている人はいるのだろうか
+PRINTFORML 探索{DAY}日目　もしここから出れたら、里の蕎麦屋で月見蕎麦を食べたい	!#!		PRINTFORML 探索{DAY}日目　もしここから出れたら、里の蕎麦屋で月見蕎麦を食べたい	!#!
+PRINTFORML ……そのときはちゃんと金を払おう		PRINTFORML ……そのときはちゃんと金を払おう
+PRINTFORML 探索{DAY}日目　そういえば囲炉裏の火をくすぶらせたままだったような。心配だ		PRINTFORML 探索{DAY}日目　そういえば囲炉裏の火をくすぶらせたままだったような。心配だ
+PRINTFORML 探索{DAY}日目　とりあえず、今の原動力は脱出後の宴だ		PRINTFORML 探索{DAY}日目　とりあえず、今の原動力は脱出後の宴だ
+PRINTFORML 探索{DAY}日目　布団の虫干しをやりっぱなしだった。雨が降ってないことを祈る		PRINTFORML 探索{DAY}日目　布団の虫干しをやりっぱなしだった。雨が降ってないことを祈る
+PRINTFORML 探索{DAY}日目　刀に、肌着に、治療費。また暫く粗食で暮らすことになりそうだ…		PRINTFORML 探索{DAY}日目　刀に、肌着に、治療費。また暫く粗食で暮らすことになりそうだ…
+PRINTFORML 探索{DAY}日目　おかしくなりそうだ。いや、もうおかしいのかもしれない		PRINTFORML 探索{DAY}日目　おかしくなりそうだ。いや、もうおかしいのかもしれない
+PRINTFORML 探索{DAY}日目　外の空気が吸いたい。太陽が見たい。木々のざわめきを聞きたい		PRINTFORML 探索{DAY}日目　外の空気が吸いたい。太陽が見たい。木々のざわめきを聞きたい
+PRINTFORML 探索{DAY}日目　籠城では畳も土壁も食べる。そう思えば触手だって食えるのだ		PRINTFORML 探索{DAY}日目　籠城では畳も土壁も食べる。そう思えば触手だって食えるのだ
+PRINTFORML 探索{DAY}日目　こう何日も孤独が続くと、寂しい		PRINTFORML 探索{DAY}日目　こう何日も孤独が続くと、寂しい
+PRINTFORML 探索{DAY}日目　特筆して記録することはなかった		PRINTFORML 探索{DAY}日目　特筆して記録することはなかった
+PRINTFORML 探索{DAY}日目　最近独り言が多くなった		PRINTFORML 探索{DAY}日目　最近独り言が多くなった
+PRINTFORML 探索{DAY}日目　戦闘中に敵に話しかけるのは我ながらどうかと思った		PRINTFORML 探索{DAY}日目　戦闘中に敵に話しかけるのは我ながらどうかと思った
+PRINTFORML 探索{DAY}日目　休んでいるときに大声で誰かを呼びたくなるのをぐっと堪える		PRINTFORML 探索{DAY}日目　休んでいるときに大声で誰かを呼びたくなるのをぐっと堪える
+PRINTFORML 探索{DAY}日目　私は自分で自分を正常と思っているが、他人がいないので判断し辛い		PRINTFORML 探索{DAY}日目　私は自分で自分を正常と思っているが、他人がいないので判断し辛い
+PRINTFORML 探索{DAY}日目　無性に誰かと会ってどうでもいいことを話したい		PRINTFORML 探索{DAY}日目　無性に誰かと会ってどうでもいいことを話したい
+PRINTFORML 探索{DAY}日目　外に出たら、宴で誰彼構わず絡んでやる		PRINTFORML 探索{DAY}日目　外に出たら、宴で誰彼構わず絡んでやる
+PRINTFORML 探索{DAY}日目　一人は、嫌だ		PRINTFORML 探索{DAY}日目　一人は、嫌だ
+PRINTFORML 探索{DAY}日目　後ろに誰かがいてくれる。これほど心強い事はない　		PRINTFORML 探索{DAY}日目　後ろに誰かがいてくれる。これほど心強い事はない　
+PRINTFORML 探索{DAY}日目　妖怪でも妖精でも、自らの声に答えてくれる頼もしさよ		PRINTFORML 探索{DAY}日目　妖怪でも妖精でも、自らの声に答えてくれる頼もしさよ
+PRINTFORML 探索{DAY}日目　何気ない食事時の会話ですら、心が洗われる		PRINTFORML 探索{DAY}日目　何気ない食事時の会話ですら、心が洗われる
+PRINTFORML 探索{DAY}日目　%CALLNAME:(FLAG:10)%には、いくら感謝してもし足りない		PRINTFORML 探索{DAY}日目　%CALLNAME:(FLAG:10)%には、いくら感謝してもし足りない
+PRINTFORML 勿論、%CALLNAME:(FLAG:11)%もだ		PRINTFORML 勿論、%CALLNAME:(FLAG:11)%もだ
+PRINTFORM 探索{DAY}日目　必ず、この	!#!PRINTFORM 探索{DAY}日目　必ず、この
+PRINTFORM 3	!#!PRINTFORM 3
+PRINTFORM 2	!#!PRINTFORM 2
+PRINTFORML 人で脱出してみせる		PRINTFORML 人で脱出してみせる
+PRINTFORML 探索{DAY}日目　何にしても、話してみなければ分からないと言うことを		PRINTFORML 探索{DAY}日目　何にしても、話してみなければ分からないと言うことを
+PRINTFORML ここで知るとは思わなかった		PRINTFORML ここで知るとは思わなかった
+PRINTFORML 探索{DAY}日目　人は一人で生きていくことはできない。あながち間違っていない		PRINTFORML 探索{DAY}日目　人は一人で生きていくことはできない。あながち間違っていない
+PRINTFORML 探索{DAY}日目　話していると、知らぬうちに笑っていた。不思議なものだ		PRINTFORML 探索{DAY}日目　話していると、知らぬうちに笑っていた。不思議なものだ
+PRINTFORML 探索{DAY}日目　あんた、などと呼んでいるがよそよそしいだろうか。		PRINTFORML 探索{DAY}日目　あんた、などと呼んでいるがよそよそしいだろうか。
+PRINTFORML 名前で呼んだ方がいいだろうか		PRINTFORML 名前で呼んだ方がいいだろうか
+PRINTFORM 探索{DAY}日目　時間はある、剣も握れる、振り向けば%CALLNAME:(FLAG:10)%	!#!PRINTFORM 探索{DAY}日目　時間はある、剣も握れる、振り向けば%CALLNAME:(FLAG:10)%
+PRINTFORM 達	!#!PRINTFORM 達
+PRINTFORML がいる。さあ、行こう		PRINTFORML がいる。さあ、行こう
+PRINTFORML 「仕える主君を見誤った。ただそれだけだ」		PRINTFORML 「仕える主君を見誤った。ただそれだけだ」
+PRINTFORML 「あー、……融通の利かん奴だな」		PRINTFORML 「あー、……融通の利かん奴だな」
+PRINTFORML 「まぁ飲め、飲んで一時憂いを忘れろ」		PRINTFORML 「まぁ飲め、飲んで一時憂いを忘れろ」
+PRINTFORML 「ちょうど余ってるな、ほら」		PRINTFORML 「ちょうど余ってるな、ほら」
+PRINTFORML 「これか？　構わん、持って行け」		PRINTFORML 「これか？　構わん、持って行け」
+PRINTFORML 「ま、武士は相身互いと言うからな」		PRINTFORML 「ま、武士は相身互いと言うからな」
+PRINTFORML (…………殺気？)		PRINTFORML (…………殺気？)
+PRINTFORML 「な、何だっ！　まぶしっ！」		PRINTFORML 「な、何だっ！　まぶしっ！」
+PRINTFORM 「くっ、……%CALLNAME:(FLAG:10)%！　	!#!PRINTFORM 「くっ、……%CALLNAME:(FLAG:10)%！　
+PRINTFORM %CALLNAME:(FLAG:11)%！　	!#!PRINTFORM %CALLNAME:(FLAG:11)%！　
+PRINTFORML ……むぅ、バラバラになってしまったか」		PRINTFORML ……むぅ、バラバラになってしまったか」
+PRINTFORML 「まあ、探索を続けていればまた会えるだろう……」		PRINTFORML 「まあ、探索を続けていればまた会えるだろう……」
+PRINTFORML 「……縮地の妖術か」		PRINTFORML 「……縮地の妖術か」
+PRINTFORML 「ま、一見同じ場所にしか見えないが」		PRINTFORML 「ま、一見同じ場所にしか見えないが」
+PRINTFORML 「南無……。有り難く使わせて頂こう」		PRINTFORML 「南無……。有り難く使わせて頂こう」
+PRINTFORMW 「今の今まで畦道を散歩していたはずだが」		PRINTFORMW 「今の今まで畦道を散歩していたはずだが」
+PRINTFORML 「…………まさか例の神隠しか？」		PRINTFORML 「…………まさか例の神隠しか？」
+PRINTFORMDW 明羅は暫く目を閉じて思案した後、吹っ切れたように立ち上がった	!#!PRINTFORMDW 明羅は暫く目を閉じて思案した後、吹っ切れたように立ち上がった
+PRINTFORMW 「やれやれ。どうして私はこう運が悪いのか……」		PRINTFORMW 「やれやれ。どうして私はこう運が悪いのか……」
+PRINTFORM 「うわああぁっ！！　何だっ?!　の、ぼってくるうううぅぅっ	!#!PRINTFORM 「うわああぁっ！！　何だっ?!　の、ぼってくるうううぅぅっ
+PRINTFORML 「あ……あああああぁぁぁぁぁっ！！」		PRINTFORML 「あ……あああああぁぁぁぁぁっ！！」
+PRINTFORML 「も、だめぇ！！　でるうううぅぅぅぅっ！！」		PRINTFORML 「も、だめぇ！！　でるうううぅぅぅぅっ！！」
+PRINTFORML 「やめろっ！　達したくないいぃぃっ！！！！」		PRINTFORML 「やめろっ！　達したくないいぃぃっ！！！！」
+PRINTFORML 「はぁ……はぁ……、じ、地獄のような体験だった……」		PRINTFORML 「はぁ……はぁ……、じ、地獄のような体験だった……」
+PRINTFORML 「なんだ……やけに昂る……」		PRINTFORML 「なんだ……やけに昂る……」
+PRINTFORML 「ひはぁっ……なんだぁ……?!」		PRINTFORML 「ひはぁっ……なんだぁ……?!」

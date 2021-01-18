@@ -1,527 +1,525 @@
-﻿//口上:
-
-DATAFORM 「ところで%CALLNAME_82_0(ARG:1)%出口\@ LOCAL:82 == 1 ? は見つかって…そうですか、ないですか… # 知らない？　…まあそうだよね \@」	DATAFORM 「ところで%CALLNAME_82_0(ARG:1)%出口\@ LOCAL:82 == 1 ? は見つかって…そうですか、ないですか… # 知らない？　…まあそうだよね \@」
-DATAFORM 「あ゛ー%UNICODE(0x2665)%　やだー%UNICODE(0x2665)%　赤ちゃん作らされながら気持ちよくなるのやだあぁーっ%UNICODE(0x2665)%」	DATAFORM 「あ゛ー%UNICODE(0x2665)%　やだー%UNICODE(0x2665)%　赤ちゃん作らされながら気持ちよくなるのやだあぁーっ%UNICODE(0x2665)%」
-DATAFORM 「待ち伏せ？　あー、そりゃありがたい\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@。　今あたいあんま動けないからー…」	DATAFORM 「待ち伏せ？　あー、そりゃありがたい\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@。　今あたいあんま動けないからー…」
-DATAFORM 「んー…あたいに気使ってるわけじゃない、\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@よね？」	DATAFORM 「んー…あたいに気使ってるわけじゃない、\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@よね？」
-DATAFORM 「だめーっ%UNICODE(0x2665)%　あたいの子宮いっぱいにしちゃだめーっ%UNICODE(0x2665)%　ひい゛い゛いいぃっ」	DATAFORM 「だめーっ%UNICODE(0x2665)%　あたいの子宮いっぱいにしちゃだめーっ%UNICODE(0x2665)%　ひい゛い゛いいぃっ」
-DATAFORM 「なんでぇー！？　なんで嫌なのにあたいのおマンコきゅうきゅうしちゃってるのさぁー！？　もう、やだあーっ%UNICODE(0x2665)%」	DATAFORM 「なんでぇー！？　なんで嫌なのにあたいのおマンコきゅうきゅうしちゃってるのさぁー！？　もう、やだあーっ%UNICODE(0x2665)%」
-PRINTFORML 「このままじゃ全滅しちゃうから…ここは一度\@ LOCAL:82 == 1 ? 退かせてもらいます # 体勢立て直してくる \@！」	PRINTFORML 「このままじゃ全滅しちゃうから…ここは一度\@ LOCAL:82 == 1 ? 退かせてもらいます # 体勢立て直してくる \@！」
-DATAFORM 「ま、まった、あたい…こ、細かいのがまだ続ひてて…　ひゃあ゛う%UNICODE(0x2665)%！　まっておくれって言ってるだろぉ！」	DATAFORM 「ま、まった、あたい…こ、細かいのがまだ続ひてて…　ひゃあ゛う%UNICODE(0x2665)%！　まっておくれって言ってるだろぉ！」
-DATAFORM 「おお！？　%CALLNAME_82_0(ARG:1)%！？　大丈夫\@ LOCAL:82 == 1 ? ですか # かい \@！？」	DATAFORM 「おお！？　%CALLNAME_82_0(ARG:1)%！？　大丈夫\@ LOCAL:82 == 1 ? ですか # かい \@！？」
-DATAFORM 「だ…ダメになるっ%UNICODE(0x2665)%　イキすぎであたいばかになっちまううぅ%UNICODE(0x2665)%」	DATAFORM 「だ…ダメになるっ%UNICODE(0x2665)%　イキすぎであたいばかになっちまううぅ%UNICODE(0x2665)%」
-DATAFORM 「あそぶなあっ%UNICODE(0x2665)%！　あたいの体でこれ以上あそぶにゃああ%UNICODE(0x2665)%！」	DATAFORM 「あそぶなあっ%UNICODE(0x2665)%！　あたいの体でこれ以上あそぶにゃああ%UNICODE(0x2665)%！」
-DATAFORM 「むりーっ%UNICODE(0x2665)%　もうどこいじられても我慢するの無理なのーっ%UNICODE(0x2665)%」	DATAFORM 「むりーっ%UNICODE(0x2665)%　もうどこいじられても我慢するの無理なのーっ%UNICODE(0x2665)%」
-DATAFORM 「だめーっ%UNICODE(0x2665)%　子宮口なでなではホントにだめだってぇーっ%UNICODE(0x2665)%」	DATAFORM 「だめーっ%UNICODE(0x2665)%　子宮口なでなではホントにだめだってぇーっ%UNICODE(0x2665)%」
-DATAFORM 「またあっ%UNICODE(0x2665)%！　またそこかい！？　いいかげん、にい%UNICODE(0x2665)%っ！」	DATAFORM 「またあっ%UNICODE(0x2665)%！　またそこかい！？　いいかげん、にい%UNICODE(0x2665)%っ！」
-DATAFORM 「くうっ、あっ%UNICODE(0x2665)%　あたいがこんな、こんなにひぃい…%UNICODE(0x2665)%」	DATAFORM 「くうっ、あっ%UNICODE(0x2665)%　あたいがこんな、こんなにひぃい…%UNICODE(0x2665)%」
-DATAFORM 「やめろぉー%UNICODE(0x2665)%　イキまんこにしゃせーするなあぁーっ%UNICODE(0x2665)%」	DATAFORM 「やめろぉー%UNICODE(0x2665)%　イキまんこにしゃせーするなあぁーっ%UNICODE(0x2665)%」
-DATAFORM 「地獄から地上に出た身としてはなおさらお天道様が恋しい\@ LOCAL:82 == 1 ? んです #  \@よー…」	DATAFORM 「地獄から地上に出た身としてはなおさらお天道様が恋しい\@ LOCAL:82 == 1 ? んです #  \@よー…」
-DATAFORM 「フーッ　フーッ　……んん゛っ%UNICODE(0x2665)%　んんーーっ%UNICODE(0x2665)%！！」	DATAFORM 「フーッ　フーッ　……んん゛っ%UNICODE(0x2665)%　んんーーっ%UNICODE(0x2665)%！！」
-DATAFORM 「手当たり次第に探すだけで結構いろいろ見つかるん\@ LOCAL:82 == 1 ? です # だ \@よねー」	DATAFORM 「手当たり次第に探すだけで結構いろいろ見つかるん\@ LOCAL:82 == 1 ? です # だ \@よねー」
-DATAFORM 「壊れへるっ%UNICODE(0x2665)%　おマンコこわれへるうぅーっ%UNICODE(0x2665)%」	DATAFORM 「壊れへるっ%UNICODE(0x2665)%　おマンコこわれへるうぅーっ%UNICODE(0x2665)%」
-DATAFORM 「いやー、見せたかった\@ LOCAL:82 == 1 ? ですよ # なあ \@あたいの八面六臂の大活躍！」	DATAFORM 「いやー、見せたかった\@ LOCAL:82 == 1 ? ですよ # なあ \@あたいの八面六臂の大活躍！」
-DATAFORM 「そごっ%UNICODE(0x2665)%　そこくちゅくちゅざれひゃらあたいまたダメになっぢまうよおぉー！」	DATAFORM 「そごっ%UNICODE(0x2665)%　そこくちゅくちゅざれひゃらあたいまたダメになっぢまうよおぉー！」
-DATAFORM 「ホントに厄介なことばかり起きてこまっちゃ\@ LOCAL:82 == 1 ? いますよ # うよ \@ね」	DATAFORM 「ホントに厄介なことばかり起きてこまっちゃ\@ LOCAL:82 == 1 ? いますよ # うよ \@ね」
-DATAFORM 「だ、め…だ…って！　奥…子宮口っ　こじ開けられないでおくれよ…ォおっ%UNICODE(0x2665)%」	DATAFORM 「だ、め…だ…って！　奥…子宮口っ　こじ開けられないでおくれよ…ォおっ%UNICODE(0x2665)%」
-DATAFORM (%CALLNAME_82_0(ARG:1)%相当辛いみたいだなあ…なんだかあたい空回りしてる気がする)	DATAFORM (%CALLNAME_82_0(ARG:1)%相当辛いみたいだなあ…なんだかあたい空回りしてる気がする)
-PRINTFORMW 「お姉さんも同じように神隠しにあったクチだろう？　なら一緒に出口探しといかないかい？　…ほいできた」	PRINTFORMW 「お姉さんも同じように神隠しにあったクチだろう？　なら一緒に出口探しといかないかい？　…ほいできた」
-PRINTFORMDW 小悪魔も一瞬の逡巡はあったであろうものの、結局燐についていくことにしたようで後から慌てて駆けてくる	PRINTFORMDW 小悪魔も一瞬の逡巡はあったであろうものの、結局燐についていくことにしたようで後から慌てて駆けてくる
-PRINTFORMDW 乙女の色気と少女の柔らかさとを絶妙に併せ持つしなやかな身体を黒と深緑のワンピースに包んだ猫耳の妖だ	PRINTFORMDW 乙女の色気と少女の柔らかさとを絶妙に併せ持つしなやかな身体を黒と深緑のワンピースに包んだ猫耳の妖だ
-PRINTFORML 「んー、でも異変である以上じっとしててもそのうち巫女のおねーさんが解決してくれるたあ思うんだけど…」	PRINTFORML 「んー、でも異変である以上じっとしててもそのうち巫女のおねーさんが解決してくれるたあ思うんだけど…」
-DATAFORM 「おおあ゛っ%UNICODE(0x2665)%　えあ゛あぁあう%UNICODE(0x2665)%！！」	DATAFORM 「おおあ゛っ%UNICODE(0x2665)%　えあ゛あぁあう%UNICODE(0x2665)%！！」
-DATAFORM 「ほっ、%CALLNAME_82_0(ARG:1)%ですか…いや変なのがうろついてる場所なもんでつい」	DATAFORM 「ほっ、%CALLNAME_82_0(ARG:1)%ですか…いや変なのがうろついてる場所なもんでつい」
-PRINTFORML 「ちと動きにくいのが困りものだねー、ほらあたいってスレンダーってやつだからさ！　どうも慣れなくて」	PRINTFORML 「ちと動きにくいのが困りものだねー、ほらあたいってスレンダーってやつだからさ！　どうも慣れなくて」
-PRINTFORML 「ちょ、ちょっとまってて\@ LOCAL:82 == 1 ? くださいな # おくれ \@！？」	PRINTFORML 「ちょ、ちょっとまってて\@ LOCAL:82 == 1 ? くださいな # おくれ \@！？」
-DATAFORM 「止まってー！　イクの止まっておくれよぉー！　ぉっぉおお゛おっ%UNICODE(0x2665)%！」	DATAFORM 「止まってー！　イクの止まっておくれよぉー！　ぉっぉおお゛おっ%UNICODE(0x2665)%！」
-PRINTFORMW 「そっちも力が思うように出なくて困ってたんだろ？　あたい耳も効くし一人で居るより絶対いいって♪」	PRINTFORMW 「そっちも力が思うように出なくて困ってたんだろ？　あたい耳も効くし一人で居るより絶対いいって♪」
-DATAFORM 「こすれるっ　こすれるうっ　おマンコこすれてまたダメになるぅー%UNICODE(0x2665)%」	DATAFORM 「こすれるっ　こすれるうっ　おマンコこすれてまたダメになるぅー%UNICODE(0x2665)%」
-PRINTFORMW 「地獄育ちとはいえか弱く繊細な子猫ちゃんであるあたいにはここはちいとばかし陰気すぎるね、うん」	PRINTFORMW 「地獄育ちとはいえか弱く繊細な子猫ちゃんであるあたいにはここはちいとばかし陰気すぎるね、うん」
-DATAFORM 「くひぃーっ%UNICODE(0x2665)%　まださっきの響いてるってのに激しすぎるよぉ…っ」	DATAFORM 「くひぃーっ%UNICODE(0x2665)%　まださっきの響いてるってのに激しすぎるよぉ…っ」
-DATAFORM 「ふぐっ%UNICODE(0x2665)%　えあ゛ああぁーっ%UNICODE(0x2665)%」	DATAFORM 「ふぐっ%UNICODE(0x2665)%　えあ゛ああぁーっ%UNICODE(0x2665)%」
-PRINTFORMW 「話を聞く限りお互い身体が変な感じに変えられてるみたいだしさ、一人で居るより絶対いいって♪」	PRINTFORMW 「話を聞く限りお互い身体が変な感じに変えられてるみたいだしさ、一人で居るより絶対いいって♪」
-PRINTFORMDW そして共に歩く少女がそれ以上に深い淫性を秘めていることにもまた、燐は気付けてはいなかった…	PRINTFORMDW そして共に歩く少女がそれ以上に深い淫性を秘めていることにもまた、燐は気付けてはいなかった…
-DATAFORM 「ああっ%UNICODE(0x2665)%　ひ…うえああ…%UNICODE(0x2665)%」	DATAFORM 「ああっ%UNICODE(0x2665)%　ひ…うえああ…%UNICODE(0x2665)%」
-DATAFORM 「はぁぁ…%UNICODE(0x2665)%　どっか落ちつけるとこ探さないとだめだねこりゃ…」	DATAFORM 「はぁぁ…%UNICODE(0x2665)%　どっか落ちつけるとこ探さないとだめだねこりゃ…」
-DATAFORM 「おお゛っ%UNICODE(0x2665)%　あ、あ゛あぅ%UNICODE(0x2665)%」	DATAFORM 「おお゛っ%UNICODE(0x2665)%　あ、あ゛あぅ%UNICODE(0x2665)%」
-DATAFORM 「ただ帰るだけじゃ割に合わないさね。　お宝のひとつやふたつ持って帰っても罰はあたらんでしょ！」	DATAFORM 「ただ帰るだけじゃ割に合わないさね。　お宝のひとつやふたつ持って帰っても罰はあたらんでしょ！」
-PRINTFORMDW 火車の妖猫・火焔猫 燐は今自分以上に困った顔をしているだろう相手の背に向けて溜息をついた	PRINTFORMDW 火車の妖猫・火焔猫 燐は今自分以上に困った顔をしているだろう相手の背に向けて溜息をついた
-PRINTFORML 「おまけに何が原因やら猫にも戻れないときたもんだ。　力はこっちの方が出せるからいいけどさ、	PRINTFORML 「おまけに何が原因やら猫にも戻れないときたもんだ。　力はこっちの方が出せるからいいけどさ、
-PRINTFORMDW 縦横無尽に広がる道なき道は言い知れぬ不穏な空気を纏い、居る者の不安を掻きたてる昏い迷宮	PRINTFORMDW 縦横無尽に広がる道なき道は言い知れぬ不穏な空気を纏い、居る者の不安を掻きたてる昏い迷宮
-PRINTFORMW 「よっし決まり！　とりあえずこの辺りの地形とか確認して、なんか手がかりでも見つけよう！」	PRINTFORMW 「よっし決まり！　とりあえずこの辺りの地形とか確認して、なんか手がかりでも見つけよう！」
-DATAFORM 「あだいっ　もう、わかんなっ…ひいう゛！　あ、あ゛あっ%UNICODE(0x2665)%」	DATAFORM 「あだいっ　もう、わかんなっ…ひいう゛！　あ、あ゛あっ%UNICODE(0x2665)%」
-DATAFORM 「いじりすぎだってばあ！　こんなんじゃいつか壊れ…ぇえ%UNICODE(0x2665)%」	DATAFORM 「いじりすぎだってばあ！　こんなんじゃいつか壊れ…ぇえ%UNICODE(0x2665)%」
-PRINTFORML 「あ…後で必ず戻って来\@ LOCAL:82 == 1 ? ます # る \@から！」	PRINTFORML 「あ…後で必ず戻って来\@ LOCAL:82 == 1 ? ます # る \@から！」
-DATAFORM 「は、ぐう…くあう%UNICODE(0x2665)%！　こんなこといつまで続けて…っ！」	DATAFORM 「は、ぐう…くあう%UNICODE(0x2665)%！　こんなこといつまで続けて…っ！」
-PRINTFORMDL 小悪魔の赤髪の一部を結い、小さな三つ編みを一筋つ作り終えた燐はその出来に得心すると	PRINTFORMDL 小悪魔の赤髪の一部を結い、小さな三つ編みを一筋つ作り終えた燐はその出来に得心すると
-DATAFORM 「あ゛ひっ%UNICODE(0x2665)%　ひあ゛ぁああ！　も、もう何度目だよお…」	DATAFORM 「あ゛ひっ%UNICODE(0x2665)%　ひあ゛ぁああ！　も、もう何度目だよお…」
-DATAFORM 「もうイってなくても触られたら身体が跳ねちまうぅ%UNICODE(0x2665)%！」	DATAFORM 「もうイってなくても触られたら身体が跳ねちまうぅ%UNICODE(0x2665)%！」
-DATAFORM 「自分の子でも手は抜けないのが野生の掟さね。　あたいは半分飼い猫みたいなもんだけどさ」	DATAFORM 「自分の子でも手は抜けないのが野生の掟さね。　あたいは半分飼い猫みたいなもんだけどさ」
-DATAFORM (%CALLNAME_82_0(ARG:1)%…このくらいじゃ気分は晴れてくれないか)	DATAFORM (%CALLNAME_82_0(ARG:1)%…このくらいじゃ気分は晴れてくれないか)
-PRINTFORMW 　ただの神隠しでもないってことだよねこれ…思ったより厄介そうなことになってるなあ」	PRINTFORMW 　ただの神隠しでもないってことだよねこれ…思ったより厄介そうなことになってるなあ」
-PRINTFORMW 「うん、なんだかなんとかなる気がしてきたよ。　それじゃあ善は急げ、出発しんこー！」	PRINTFORMW 「うん、なんだかなんとかなる気がしてきたよ。　それじゃあ善は急げ、出発しんこー！」
-DATAFORM 「ひゃっ！？　そ、そっちはちょっとまずい…くあっ%UNICODE(0x2665)%」	DATAFORM 「ひゃっ！？　そ、そっちはちょっとまずい…くあっ%UNICODE(0x2665)%」
-DATAFORM 「ぉおおぉう%UNICODE(0x2665)%　やあ…ほ、本格的に遊ばれへるぅぅ…」	DATAFORM 「ぉおおぉう%UNICODE(0x2665)%　やあ…ほ、本格的に遊ばれへるぅぅ…」
-PRINTFORML 「はは、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」	PRINTFORML 「はは、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」
-DATAFORM 「うんうん、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」	DATAFORM 「うんうん、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」
-PRINTFORMDW 少々あわただしくはあるものの、こうして二人の迷宮探索は始まりを告げたのであった	PRINTFORMDW 少々あわただしくはあるものの、こうして二人の迷宮探索は始まりを告げたのであった
-PRINTFORMDL 生理的嫌悪を催すような動きで身を洞穴の隙間に潜り込ませていくそれらが放つ気配は	PRINTFORMDL 生理的嫌悪を催すような動きで身を洞穴の隙間に潜り込ませていくそれらが放つ気配は
-DATAFORM 「次々とあたいに降りかかる不幸…黒猫だからってのはそういうことじゃないだろう…？」	DATAFORM 「次々とあたいに降りかかる不幸…黒猫だからってのはそういうことじゃないだろう…？」
-DATAFORM 「我慢しようにもこれ結構…す、ごっ%UNICODE(0x2665)%　んぅぅー！」	DATAFORM 「我慢しようにもこれ結構…す、ごっ%UNICODE(0x2665)%　んぅぅー！」
-DATAFORM 「あたいのしなやかなボディがダメージを的確に軽減してくれる。　してくれるのだ！」	DATAFORM 「あたいのしなやかなボディがダメージを的確に軽減してくれる。　してくれるのだ！」
-DATAFORM 「いいかげん…に゛ゃう！　イキまくってる女の子いじめんのはやめておくれよぉー！」	DATAFORM 「いいかげん…に゛ゃう！　イキまくってる女の子いじめんのはやめておくれよぉー！」
-DATAFORM 「ううん！　そんながっついてばかりじゃ女の子は満足させたげられないってんだよォ」	DATAFORM 「ううん！　そんながっついてばかりじゃ女の子は満足させたげられないってんだよォ」
-DATAFORM 「え、ああぅ！　ちょっと擦られただけでもお%UNICODE(0x2665)%！」	DATAFORM 「え、ああぅ！　ちょっと擦られただけでもお%UNICODE(0x2665)%！」
-DATAFORM 「%CALLNAME_82_0(ARG:1)%…よかったー。　ええとお怪我は？」	DATAFORM 「%CALLNAME_82_0(ARG:1)%…よかったー。　ええとお怪我は？」
-PRINTFORML 　死体を攫うのが得意なあたいがよもや攫われる側になってしまうとは思わなんだ」	PRINTFORML 　死体を攫うのが得意なあたいがよもや攫われる側になってしまうとは思わなんだ」
-DATAFORM 「いいかげんに…しとくれよぉおおぉっあ%UNICODE(0x2665)%！？」	DATAFORM 「いいかげんに…しとくれよぉおおぉっあ%UNICODE(0x2665)%！？」
-DATAFORM 「ふーっ%UNICODE(0x2665)%　この疼きちっとも静まりやしない…」	DATAFORM 「ふーっ%UNICODE(0x2665)%　この疼きちっとも静まりやしない…」
-DATAFORM 「あ…ぐ…ふうっ！　あ、もう…ひゃああう%UNICODE(0x2665)%！」	DATAFORM 「あ…ぐ…ふうっ！　あ、もう…ひゃああう%UNICODE(0x2665)%！」
-DATAFORM 「こう伏せてると不思議と血が疼くねえ♪　とと、いけないいけない静かにしないと」	DATAFORM 「こう伏せてると不思議と血が疼くねえ♪　とと、いけないいけない静かにしないと」
-PRINTFORMW 「それじゃあ善は急げ、もたもたしてると置いてっちゃうよ！　出発しんこー！」	PRINTFORMW 「それじゃあ善は急げ、もたもたしてると置いてっちゃうよ！　出発しんこー！」
-DATAFORM 「ま、またぎついのがっ！　あああぅう%UNICODE(0x2665)%！！」	DATAFORM 「ま、またぎついのがっ！　あああぅう%UNICODE(0x2665)%！！」
-DATAFORM 「ひゃめ、ろうっ！　ひつこいっ%UNICODE(0x2665)%　へばあ！」	DATAFORM 「ひゃめ、ろうっ！　ひつこいっ%UNICODE(0x2665)%　へばあ！」
-DATAFORM 「しつこいなぁ…す、少しはやすませっぇえ%UNICODE(0x2665)%」	DATAFORM 「しつこいなぁ…す、少しはやすませっぇえ%UNICODE(0x2665)%」
-DATAFORM 「ひいぃ、イキすぎて子宮降りてきちまってるってのに…これじゃ確実に孕んで…」	DATAFORM 「ひいぃ、イキすぎて子宮降りてきちまってるってのに…これじゃ確実に孕んで…」
-PRINTFORML (本当か…！？　本当にそう思ってるのかあたいは…！　もうわかんないよ…)	PRINTFORML (本当か…！？　本当にそう思ってるのかあたいは…！　もうわかんないよ…)
-DATAFORM 「うう…ごめん\@ LOCAL:82 == 1 ? なさい # よ \@…」	DATAFORM 「うう…ごめん\@ LOCAL:82 == 1 ? なさい # よ \@…」
-DATAFORM 「あ、%CALLNAME_82_0(ARG:1)%…今、どんな感じですか？」	DATAFORM 「あ、%CALLNAME_82_0(ARG:1)%…今、どんな感じですか？」
-DATAFORM 「やあやあ%CALLNAME_82_0(ARG:1)%。　調子はどうだい？」	DATAFORM 「やあやあ%CALLNAME_82_0(ARG:1)%。　調子はどうだい？」
-PRINTFORML 「神隠しにあったヒトみんなここに来てるならそのうち会えるかもしれないし、	PRINTFORML 「神隠しにあったヒトみんなここに来てるならそのうち会えるかもしれないし、
-PRINTFORMDL その背から少し離れた物陰には細長い体をくねらせ蠢く影がひとつ、ふたつ…	PRINTFORMDL その背から少し離れた物陰には細長い体をくねらせ蠢く影がひとつ、ふたつ…
-DATAFORM (か…完全に目ぇつけられたあ…　おマンコ弱いの完全にばれちまってるぅ…っ)	DATAFORM (か…完全に目ぇつけられたあ…　おマンコ弱いの完全にばれちまってるぅ…っ)
-DATAFORM 「あたいみたいなべっぴんさんにイケナイ気分になるのはしょうがないけどねえ」	DATAFORM 「あたいみたいなべっぴんさんにイケナイ気分になるのはしょうがないけどねえ」
-DATAFORM 「ひーっ%UNICODE(0x2665)%　い、いい゛いいっぃぁあ゛ぁ！」	DATAFORM 「ひーっ%UNICODE(0x2665)%　い、いい゛いいっぃぁあ゛ぁ！」
-DATAFORM 「なんかこう『狩り』って感じがするよ。　そうさ、追われるのはあっちの方だ」	DATAFORM 「なんかこう『狩り』って感じがするよ。　そうさ、追われるのはあっちの方だ」
-PRINTFORML 「よっし決まり！　とりあえず脱出を目標にあちこちうろついてみますか！」	PRINTFORML 「よっし決まり！　とりあえず脱出を目標にあちこちうろついてみますか！」
-DATAFORM 「ちょっとやそっとじゃ自由になれそうにないねぇ。　今は耐えるしかないか」	DATAFORM 「ちょっとやそっとじゃ自由になれそうにないねぇ。　今は耐えるしかないか」
-PRINTFORML 「ぶち抜く一発ってのはどうも不得手だなァ。　お空の方が得意だろうね」	PRINTFORML 「ぶち抜く一発ってのはどうも不得手だなァ。　お空の方が得意だろうね」
-DATAFORM 「ひ、ずぅ%UNICODE(0x2665)%　もうこの程度のにすら…っ」	DATAFORM 「ひ、ずぅ%UNICODE(0x2665)%　もうこの程度のにすら…っ」
-DATAFORM 「胎の奥まで捕まえられてぇ…ここまでされたらもう出来ないよう祈るしか…」	DATAFORM 「胎の奥まで捕まえられてぇ…ここまでされたらもう出来ないよう祈るしか…」
-DATAFORM 「こんなの相手に何度も…っ　あああっ%UNICODE(0x2665)%」	DATAFORM 「こんなの相手に何度も…っ　あああっ%UNICODE(0x2665)%」
-DATAFORM 「イ゛ッ　…～～%UNICODE(0x2665)%　…さっきのより深…」	DATAFORM 「イ゛ッ　…～～%UNICODE(0x2665)%　…さっきのより深…」
-DATAFORM (あたい、濡れてきちまってる…少しずつ、ほだされてきちまってるんだ…っ)	DATAFORM (あたい、濡れてきちまってる…少しずつ、ほだされてきちまってるんだ…っ)
-DATAFORM 「おや%CALLNAME_82_0(ARG:1)%、ご機嫌うるわしゅー」	DATAFORM 「おや%CALLNAME_82_0(ARG:1)%、ご機嫌うるわしゅー」
-DATAFORM (うう…この匂いやけに胸に来る…　いけない、これじゃあいつらと同じさね)	DATAFORM (うう…この匂いやけに胸に来る…　いけない、これじゃあいつらと同じさね)
-DATAFORM 「危なそうなとこはいっそがーっといってばーっと駆け抜けりゃいいんだい！」	DATAFORM 「危なそうなとこはいっそがーっといってばーっと駆け抜けりゃいいんだい！」
-PRINTFORMDW 彼女が急ぎ進む先にあるものは果たして本当に"善"なのであろうか……	PRINTFORMDW 彼女が急ぎ進む先にあるものは果たして本当に"善"なのであろうか……
-DATAFORM 「ひづっ…あっ%UNICODE(0x2665)%　出さな…くはぁっ！」	DATAFORM 「ひづっ…あっ%UNICODE(0x2665)%　出さな…くはぁっ！」
-DATAFORM 「どんどん敏感になってきてるぅ…もう、まともに耐えられそうになひぃ…」	DATAFORM 「どんどん敏感になってきてるぅ…もう、まともに耐えられそうになひぃ…」
-DATAFORM 「まったく、犯人というか原因と言うかはどこにいらっしゃるんだかねえ…」	DATAFORM 「まったく、犯人というか原因と言うかはどこにいらっしゃるんだかねえ…」
-PRINTFORML 「地獄の針山はこんなもんじゃなかったけどね。これでも十分強力さ」	PRINTFORML 「地獄の針山はこんなもんじゃなかったけどね。これでも十分強力さ」
-PRINTFORML 「獲物に次々飛びつく飢えた魂の欠片。　こういう時にゃ便利だねぇ」	PRINTFORML 「獲物に次々飛びつく飢えた魂の欠片。　こういう時にゃ便利だねぇ」
-DATAFORM (…きつい匂いにゃなれっこの筈なんだけどなー…なんかクラクラする…)	DATAFORM (…きつい匂いにゃなれっこの筈なんだけどなー…なんかクラクラする…)
-PRINTFORMDW その始まりを見つめるいくつもの気配の存在に二人は気づいていない	PRINTFORMDW その始まりを見つめるいくつもの気配の存在に二人は気づいていない
-PRINTFORML 「塵も積もれば粉塵爆発。　無駄にもならなきゃばかにもできない」	PRINTFORML 「塵も積もれば粉塵爆発。　無駄にもならなきゃばかにもできない」
-DATAFORM 「あたいのお尻のみりきにメロメロかい？　でも触んのはお断りだよ！」	DATAFORM 「あたいのお尻のみりきにメロメロかい？　でも触んのはお断りだよ！」
-DATAFORM 「女の尻を追いかけて…っていきなしそれはディープすぎるだろお！？」	DATAFORM 「女の尻を追いかけて…っていきなしそれはディープすぎるだろお！？」
-DATAFORM 「まだ身重になる気はないってんだよォ！　だから外に…いい゛っ！？」	DATAFORM 「まだ身重になる気はないってんだよォ！　だから外に…いい゛っ！？」
-DATAFORM 「せめて避妊！　避妊してからにしておくれよおー！　うあ゛ああっ！」	DATAFORM 「せめて避妊！　避妊してからにしておくれよおー！　うあ゛ああっ！」
-DATAFORM 「お願っ…ひうっ%UNICODE(0x2665)%　た…たすけっ」	DATAFORM 「お願っ…ひうっ%UNICODE(0x2665)%　た…たすけっ」
-DATAFORM 「こんな、こと、でえ…ひんっ%UNICODE(0x2665)%！」	DATAFORM 「こんな、こと、でえ…ひんっ%UNICODE(0x2665)%！」
-DATAFORM (%CALLNAME_82_0(ARG:1)%のお腹…やっぱり…)	DATAFORM (%CALLNAME_82_0(ARG:1)%のお腹…やっぱり…)
-DATAFORM (ちょっとしたおしゃべりで気分ぐらいは楽にしといてあげたいねえ…)	DATAFORM (ちょっとしたおしゃべりで気分ぐらいは楽にしといてあげたいねえ…)
-PRINTFORMW があったりなかったりするのは特に意味があるわけではありません。	PRINTFORMW があったりなかったりするのは特に意味があるわけではありません。
-DATAFORM 「今は雌伏のとき！　やがて来る至福(しょうり)のときのために！」	DATAFORM 「今は雌伏のとき！　やがて来る至福(しょうり)のときのために！」
-PRINTFORML 「威力にこだわりすぎると制御難しくなるんでちと不安だけど…」	PRINTFORML 「威力にこだわりすぎると制御難しくなるんでちと不安だけど…」
-DATAFORM 「あっいっああ…っ%UNICODE(0x2665)%　だめえ…」	DATAFORM 「あっいっああ…っ%UNICODE(0x2665)%　だめえ…」
-DATAFORM 「え？　え？　待…ひゃあん%UNICODE(0x2665)%！」	DATAFORM 「え？　え？　待…ひゃあん%UNICODE(0x2665)%！」
-DATAFORM 「ぐぅーっ%UNICODE(0x2665)%　イ、グうぅぅーっ」	DATAFORM 「ぐぅーっ%UNICODE(0x2665)%　イ、グうぅぅーっ」
-DATAFORM 「きちゃダメ、ダメだってば！　こんなのでイきまく…あああぁっ！」	DATAFORM 「きちゃダメ、ダメだってば！　こんなのでイきまく…あああぁっ！」
-DATAFORM (女の子のいい匂いとも違う、けど…なんか気が落ち着かないねえ…)	DATAFORM (女の子のいい匂いとも違う、けど…なんか気が落ち着かないねえ…)
-PRINTFORML 「この先速度制限エリアでーす。　スピード違反は減点だよ！」	PRINTFORML 「この先速度制限エリアでーす。　スピード違反は減点だよ！」
-DATAFORM 「股すりあわせながらなんてちょっと間抜けだけど…っ　りゃあ！」	DATAFORM 「股すりあわせながらなんてちょっと間抜けだけど…っ　りゃあ！」
-DATAFORM 「どうせ正確に狙えるほど得手じゃないんだ、ばらまけばらまけ！」	DATAFORM 「どうせ正確に狙えるほど得手じゃないんだ、ばらまけばらまけ！」
-DATAFORM 「ああぁぅ！　あ…いや、な、なんでもない、なんでもないよ…？」	DATAFORM 「ああぁぅ！　あ…いや、な、なんでもない、なんでもないよ…？」
-DATAFORM 「カラダ言うこと聞かなくなってきてるよ…これじゃまず、いっ！」	DATAFORM 「カラダ言うこと聞かなくなってきてるよ…これじゃまず、いっ！」
-DATAFORM 「わひゃっ！　スキンシップにしては過激すぎやしないかねえ！？」	DATAFORM 「わひゃっ！　スキンシップにしては過激すぎやしないかねえ！？」
-DATAFORM 「くそ…ひどいことされるって分かってんのに身体が動かなくて…」	DATAFORM 「くそ…ひどいことされるって分かってんのに身体が動かなくて…」
-DATAFORM 「おいおいおいおい！？　それはさすがに冗談じゃ済まないよ！！」	DATAFORM 「おいおいおいおい！？　それはさすがに冗談じゃ済まないよ！！」
-DATAFORM 「～～～～～ッ%UNICODE(0x2665)%　～～～ッ！」	DATAFORM 「～～～～～ッ%UNICODE(0x2665)%　～～～ッ！」
-DATAFORM 「からだじゅう煮えて…もう、わけわかんあくなっひっまうよお…」	DATAFORM 「からだじゅう煮えて…もう、わけわかんあくなっひっまうよお…」
-DATAFORM 「身体重いー…でもだからってじっとしてるわけにもいかないー…」	DATAFORM 「身体重いー…でもだからってじっとしてるわけにもいかないー…」
-PRINTFORMDL そんな陰気な空間の中、底抜けの笑顔を呆れ困りの顔に変え、	PRINTFORMDL そんな陰気な空間の中、底抜けの笑顔を呆れ困りの顔に変え、
-PRINTFORMDW そんな所に不釣り合いな屈託のない笑顔を浮かべた少女が一人	PRINTFORMDW そんな所に不釣り合いな屈託のない笑顔を浮かべた少女が一人
-PRINTFORMDW そしてそれらの瞳なき視線は確かに燐の背へと向いていたのだ	PRINTFORMDW そしてそれらの瞳なき視線は確かに燐の背へと向いていたのだ
-PRINTFORML 「車輪の先端から火が出るいめーじで作ってみましたっと！」	PRINTFORML 「車輪の先端から火が出るいめーじで作ってみましたっと！」
-PRINTFORML 「ちんたらやっててもしゃーないね。　一気に押しきるよ！」	PRINTFORML 「ちんたらやっててもしゃーないね。　一気に押しきるよ！」
-PRINTFORML 「こういう地道な努力と策であたいは生き延びてきたのさ！」	PRINTFORML 「こういう地道な努力と策であたいは生き延びてきたのさ！」
-DATAFORM 「かひいっ　そこ、やえっ…　くしょお…完全に遊ばれてるぅ…」	DATAFORM 「かひいっ　そこ、やえっ…　くしょお…完全に遊ばれてるぅ…」
-DATAFORM (嘘だろお…？　こんな短時間で馴染んできちまってるなんて…)	DATAFORM (嘘だろお…？　こんな短時間で馴染んできちまってるなんて…)
-DATAFORM (このままじゃ捕まったら凄いかもーなんて思っちまいそうだ…)	DATAFORM (このままじゃ捕まったら凄いかもーなんて思っちまいそうだ…)
-DATAFORM 「あ゛ーっ%UNICODE(0x2665)%　うあ゛あーっ」	DATAFORM 「あ゛ーっ%UNICODE(0x2665)%　うあ゛あーっ」
-PRINTFORML 「肉体をすり抜け魂だけ削り取る怨霊の通りはどうだい！」	PRINTFORML 「肉体をすり抜け魂だけ削り取る怨霊の通りはどうだい！」
-DATAFORM 「わ、あ、あ、あ、あっ%UNICODE(0x2665)%」	DATAFORM 「わ、あ、あ、あ、あっ%UNICODE(0x2665)%」
-DATAFORM 「もうイクのやあぁーっ%UNICODE(0x2665)%」	DATAFORM 「もうイクのやあぁーっ%UNICODE(0x2665)%」
-DATAFORM 「イキ癖でもついちまったってのかい…だんだん短く…くぅっ」	DATAFORM 「イキ癖でもついちまったってのかい…だんだん短く…くぅっ」
-DATAFORM 「ひー…ひー…イ゛イィ%UNICODE(0x2665)%」	DATAFORM 「ひー…ひー…イ゛イィ%UNICODE(0x2665)%」
-DATAFORM (だんだん頭が追いつかなくなってきてる…これは、まずい…)	DATAFORM (だんだん頭が追いつかなくなってきてる…これは、まずい…)
-DATAFORM 「あああ…変な化け物じゃなく話が通じそうなお方に会えた…」	DATAFORM 「あああ…変な化け物じゃなく話が通じそうなお方に会えた…」
-PRINTFORMW 「それではここで問題です。　Q:ここはどこでしょう？」	PRINTFORMW 「それではここで問題です。　Q:ここはどこでしょう？」
-DATAFORM 「はぁ…う……いまさら…逃がすつもりもない、ってかい…」	DATAFORM 「はぁ…う……いまさら…逃がすつもりもない、ってかい…」
-PRINTFORML 「釣りだす怨霊にあたいの知った顔がないことを祈るよ」	PRINTFORML 「釣りだす怨霊にあたいの知った顔がないことを祈るよ」
-DATAFORM 「ひくひょう…これじゃおもちゃと変わらんじゃないかい…」	DATAFORM 「ひくひょう…これじゃおもちゃと変わらんじゃないかい…」
-DATAFORM 「んっ　そ…そーゆーのはもっと関係を深めてからだね…？」	DATAFORM 「んっ　そ…そーゆーのはもっと関係を深めてからだね…？」
-DATAFORM 「やめっ、ストップだってえ！　話くらい聞いとくれよお！」	DATAFORM 「やめっ、ストップだってえ！　話くらい聞いとくれよお！」
-DATAFORM 「お客様女の子へのおさわりは禁止となっておりますー！？」	DATAFORM 「お客様女の子へのおさわりは禁止となっておりますー！？」
-DATAFORM 「う…この感じ、早く逃げないとただじゃ済まなそうだね…」	DATAFORM 「う…この感じ、早く逃げないとただじゃ済まなそうだね…」
-DATAFORM 「こんなの…こんなの受け入れちゃだめだよあたいの体ァ…」	DATAFORM 「こんなの…こんなの受け入れちゃだめだよあたいの体ァ…」
-DATAFORM 「中に出されたらできちまう、できちまうじゃないかあっ！」	DATAFORM 「中に出されたらできちまう、できちまうじゃないかあっ！」
-DATAFORM 「えっちなことして友達に噂とかされると恥ずかしいしー…」	DATAFORM 「えっちなことして友達に噂とかされると恥ずかしいしー…」
-DATAFORM 「もー、わけわかんないことばっかしてくるんだからさー…」	DATAFORM 「もー、わけわかんないことばっかしてくるんだからさー…」
-DATAFORM 「イ…ク…っ%UNICODE(0x2665)%　あぁ！」	DATAFORM 「イ…ク…っ%UNICODE(0x2665)%　あぁ！」
-PRINTFORML 「いんやーまさかこの歳で身重になるとは思わなんだ！」	PRINTFORML 「いんやーまさかこの歳で身重になるとは思わなんだ！」
-DATAFORM 「んん。　突っこむよりは体力温存かねえ。　…あと眠いし」	DATAFORM 「んん。　突っこむよりは体力温存かねえ。　…あと眠いし」
-DATAFORM 「逃げるつもりでも戦うつもりでも先手を取るのは大事さね」	DATAFORM 「逃げるつもりでも戦うつもりでも先手を取るのは大事さね」
-PRINTFORMDL 今度は小悪魔の肩に手をかけ覗き込むように顔を寄せる	PRINTFORMDL 今度は小悪魔の肩に手をかけ覗き込むように顔を寄せる
-PRINTFORML 「…はぁ。　これ最近ウワサの神隠しってやつだよねえ。	PRINTFORML 「…はぁ。　これ最近ウワサの神隠しってやつだよねえ。
-PRINTFORMDL どうひいき目に見ても友好さを感じられるものではない	PRINTFORMDL どうひいき目に見ても友好さを感じられるものではない
-PRINTFORML 「満員御礼、怨霊弾けりゃ寒気と痛みが吹きすさぶ！」	PRINTFORML 「満員御礼、怨霊弾けりゃ寒気と痛みが吹きすさぶ！」
-PRINTFORMW は「;」を左につけるか消すかしたほうがよいでしょう	PRINTFORMW は「;」を左につけるか消すかしたほうがよいでしょう
-DATAFORM 「イきすぎてちょっと触られただけでも反応しちまう…っ」	DATAFORM 「イきすぎてちょっと触られただけでも反応しちまう…っ」
-DATAFORM 「それはちょっとおイタがすぎる、おイタが過ぎるよお？」	DATAFORM 「それはちょっとおイタがすぎる、おイタが過ぎるよお？」
-DATAFORM 「離せッ！　くるんじゃないよお！　ああ、あああっ！！」	DATAFORM 「離せッ！　くるんじゃないよお！　ああ、あああっ！！」
-DATAFORM 「はひいいいぃい！　せーえき、きちゃだめだよおー！！」	DATAFORM 「はひいいいぃい！　せーえき、きちゃだめだよおー！！」
-DATAFORM 「わー！　待った待った！！　子作りは計画的にいー！？」	DATAFORM 「わー！　待った待った！！　子作りは計画的にいー！？」
-DATAFORM (気持ちよかろうがなんだろうが嫌なモノは嫌なんだよ！)	DATAFORM (気持ちよかろうがなんだろうが嫌なモノは嫌なんだよ！)
-DATAFORM 「そう何度もカラダ好きにさせてられるかってんだい…！」	DATAFORM 「そう何度もカラダ好きにさせてられるかってんだい…！」
-DATAFORM 「あたいの色気にやられたからって唐突すぎるよまったく」	DATAFORM 「あたいの色気にやられたからって唐突すぎるよまったく」
-DATAFORM 「猫ってやつぁ無理矢理大抱えられるのがどうも苦手でね」	DATAFORM 「猫ってやつぁ無理矢理大抱えられるのがどうも苦手でね」
-DATAFORM 「かくして無事に勝利をおさめたのであった、まる…っと」	DATAFORM 「かくして無事に勝利をおさめたのであった、まる…っと」
-DATAFORM 「や…やだちょ…このエロ生物なんとかしておくれ…っ！」	DATAFORM 「や…やだちょ…このエロ生物なんとかしておくれ…っ！」
-DATAFORM 「はー…あ、あぁ…っ　こいつ…上手くなってきてる…？」	DATAFORM 「はー…あ、あぁ…っ　こいつ…上手くなってきてる…？」
-DATAFORM 「ええい！　じっとしてて事態が好転するわけでもなし！」	DATAFORM 「ええい！　じっとしてて事態が好転するわけでもなし！」
-DATAFORM 「こんだけ眠いとうかつに突っ込めないからねえ…むにゃ」	DATAFORM 「こんだけ眠いとうかつに突っ込めないからねえ…むにゃ」
-DATAFORM 「ナイスディフェンス！　とか言ってる場合じゃない！」	DATAFORM 「ナイスディフェンス！　とか言ってる場合じゃない！」
-PRINTFORML 「危ないやつらにゃ危ない弾幕！　容赦なしだよ！」	PRINTFORML 「危ないやつらにゃ危ない弾幕！　容赦なしだよ！」
-DATAFORM 「ちょっとは落ち着きなって、な？　な？　にゃうん！」	DATAFORM 「ちょっとは落ち着きなって、な？　な？　にゃうん！」
-DATAFORM 「あたい今戦ってられるような状態じゃないんだけど…」	DATAFORM 「あたい今戦ってられるような状態じゃないんだけど…」
-DATAFORM 「どーにもやりにくかったけど…ま、これでいいのかね」	DATAFORM 「どーにもやりにくかったけど…ま、これでいいのかね」
-DATAFORM 「少しはこっちの都合も考えてくれたっていいだろうに」	DATAFORM 「少しはこっちの都合も考えてくれたっていいだろうに」
-DATAFORM 「はー…はー…落ち着いたら…また、戻ってくるから…」	DATAFORM 「はー…はー…落ち着いたら…また、戻ってくるから…」
-PRINTFORML 「あー、うん。　コレは気にしないでいいからさ…」	PRINTFORML 「あー、うん。　コレは気にしないでいいからさ…」
-DATAFORM 「ただのおしゃべりでこんなに心が洗われるなんてー…」	DATAFORM 「ただのおしゃべりでこんなに心が洗われるなんてー…」
-DATAFORM 「さって！　気分転換にアイテム探しでもしよっかね！」	DATAFORM 「さって！　気分転換にアイテム探しでもしよっかね！」
-PRINTFORMW 「まあ、分かってたらお互い苦労はしないよねえ…」	PRINTFORMW 「まあ、分かってたらお互い苦労はしないよねえ…」
-PRINTFORMDL 勝手に物事を決めずかずかと先に進んでしまう燐。	PRINTFORMDL 勝手に物事を決めずかずかと先に進んでしまう燐。
-PRINTFORMW は「;」を左につけるか消すかしたほうがいいです。	PRINTFORMW は「;」を左につけるか消すかしたほうがいいです。
-DATAFORM 「いじられすぎてもう分かんなくなっちまってるぅ…」	DATAFORM 「いじられすぎてもう分かんなくなっちまってるぅ…」
-DATAFORM 「んっ、そんなこといきなりするもんじゃないよ…っ」	DATAFORM 「んっ、そんなこといきなりするもんじゃないよ…っ」
-DATAFORM 「いっ　いっちょまえに緩急つけてんじゃないよぉ…」	DATAFORM 「いっ　いっちょまえに緩急つけてんじゃないよぉ…」
-DATAFORM 「へ、変態！　いきなりお尻とか本物のド変態だ！！」	DATAFORM 「へ、変態！　いきなりお尻とか本物のド変態だ！！」
-DATAFORM 「わ、わ、えっちなのはいけないとおもいますー！！」	DATAFORM 「わ、わ、えっちなのはいけないとおもいますー！！」
-DATAFORM 「こんなのと子作りなんざ死んでもいやだってのに…」	DATAFORM 「こんなのと子作りなんざ死んでもいやだってのに…」
-DATAFORM 「ダメージまで負わされちゃ本格的にまずいからね…」	DATAFORM 「ダメージまで負わされちゃ本格的にまずいからね…」
-DATAFORM 「虎じゃないんだ、そう何度も相手してらんないよ…」	DATAFORM 「虎じゃないんだ、そう何度も相手してらんないよ…」
-DATAFORM 「おっとよかった、ちょいとお時間よろしいかいっと」	DATAFORM 「おっとよかった、ちょいとお時間よろしいかいっと」
-DATAFORM 「やっぱおしゃべりしてるほうが気が紛れていいさね」	DATAFORM 「やっぱおしゃべりしてるほうが気が紛れていいさね」
-DATAFORM 「案ずるより産むが易し！　…洒落になってない！！」	DATAFORM 「案ずるより産むが易し！　…洒落になってない！！」
-DATAFORM 「猫に戻れりゃもすこし静かにいけそうなんだがねえ」	DATAFORM 「猫に戻れりゃもすこし静かにいけそうなんだがねえ」
-DATAFORM 「あたいこれでも忍び足には自身あるんですよっと…」	DATAFORM 「あたいこれでも忍び足には自身あるんですよっと…」
-PRINTFORM 身体が子供みたいに縮んでるたあどういうことだい！	PRINTFORM 身体が子供みたいに縮んでるたあどういうことだい！
-PRINTFORM …なんか、体中…んっ、変にこそばゆい気がするし…	PRINTFORM …なんか、体中…んっ、変にこそばゆい気がするし…
-PRINTFORML 　巫女のお姉さん含めて知った顔もあるかもだし」	PRINTFORML 　巫女のお姉さん含めて知った顔もあるかもだし」
-PRINTFORML 「ちゃんと当ててきゃいつかは倒れるよねぇ？」	PRINTFORML 「ちゃんと当ててきゃいつかは倒れるよねぇ？」
-PRINTFORML 「"妖怪『火焔の車輪』"！　燃え尽きなあ！」	PRINTFORML 「"妖怪『火焔の車輪』"！　燃え尽きなあ！」
-DATAFORM 「うあっ　今そこをいじられんのはまずいってえ…」	DATAFORM 「うあっ　今そこをいじられんのはまずいってえ…」
-DATAFORM 「はふぁっ！？　変な声出ちまったじゃないかい！」	DATAFORM 「はふぁっ！？　変な声出ちまったじゃないかい！」
-DATAFORM 「こ…これ以上なにするつもりだってんだよぉ…！」	DATAFORM 「こ…これ以上なにするつもりだってんだよぉ…！」
-DATAFORM 「しまった！　このままじゃもっとまずいことに…」	DATAFORM 「しまった！　このままじゃもっとまずいことに…」
-DATAFORM 「服まで取られちゃ…守るもんがなくなっちまう…」	DATAFORM 「服まで取られちゃ…守るもんがなくなっちまう…」
-DATAFORM 「はぁ、はぁ…頭煮えてるとかわすのも一苦労だ…」	DATAFORM 「はぁ、はぁ…頭煮えてるとかわすのも一苦労だ…」
-DATAFORM 「黒猫のあたいが言うのもなんだけど…不運だねえ」	DATAFORM 「黒猫のあたいが言うのもなんだけど…不運だねえ」
-DATAFORM 「下手に暴れたらなにされるか…ぞっとしないね」	DATAFORM 「下手に暴れたらなにされるか…ぞっとしないね」
-DATAFORM 「あー…あたいちょっと用事を思い出しまして…」	DATAFORM 「あー…あたいちょっと用事を思い出しまして…」
-DATAFORM 「あんまりしつこいと女の子に嫌われちまうよ！」	DATAFORM 「あんまりしつこいと女の子に嫌われちまうよ！」
-DATAFORM 「なんだい、無料じゃ通してくれないってかい？」	DATAFORM 「なんだい、無料じゃ通してくれないってかい？」
-PRINTFORML 「ふふふー体力は確実に奪っていくものさー」	PRINTFORML 「ふふふー体力は確実に奪っていくものさー」
-PRINTFORML 「さーて、大きく振りかぶってー…おりゃ！」	PRINTFORML 「さーて、大きく振りかぶってー…おりゃ！」
-PRINTFORML 「ちと焦げ付くくらいは勘弁しておくれよ！」	PRINTFORML 「ちと焦げ付くくらいは勘弁しておくれよ！」
-PRINTFORML 「じゃじゃーん！　ここであたいの隠し玉！」	PRINTFORML 「じゃじゃーん！　ここであたいの隠し玉！」
-PRINTFORML 「あんまちょろちょろされても困るんでねぇ」	PRINTFORML 「あんまちょろちょろされても困るんでねぇ」
-DATAFORM 「うら若き乙女をキズモノにするとは不届きなー」	DATAFORM 「うら若き乙女をキズモノにするとは不届きなー」
-DATAFORM 「あっうぅ…くうん！　そんなやらしい動き…っ」	DATAFORM 「あっうぅ…くうん！　そんなやらしい動き…っ」
-DATAFORM 「や、やだっ、やだあ！　助けて、助けてえ！！」	DATAFORM 「や、やだっ、やだあ！　助けて、助けてえ！！」
-DATAFORM 「うへえなんかハチャメチャが押し寄せてきた！」	DATAFORM 「うへえなんかハチャメチャが押し寄せてきた！」
-DATAFORM 「気づいていたさ。　四つの耳は伊達じゃない！」	DATAFORM 「気づいていたさ。　四つの耳は伊達じゃない！」
-DATAFORM 「言葉通じ…たとしても聞くつもりがなさそうだ」	DATAFORM 「言葉通じ…たとしても聞くつもりがなさそうだ」
-DATAFORM 「い…行かないで…っ、もうイきたくないの…っ」	DATAFORM 「い…行かないで…っ、もうイきたくないの…っ」
-DATAFORM (…あのお腹についちゃあ触れるべきじゃないね)	DATAFORM (…あのお腹についちゃあ触れるべきじゃないね)
-DATAFORM 「助け合いの精神ってやつだね。　そーだなあ…」	DATAFORM 「助け合いの精神ってやつだね。　そーだなあ…」
-DATAFORM 「しーんちょーにー…うあいだ！　頭ぶつけた…」	DATAFORM 「しーんちょーにー…うあいだ！　頭ぶつけた…」
-DATAFORM 「あくび止めとかないと見つかっちまう…くあぁ」	DATAFORM 「あくび止めとかないと見つかっちまう…くあぁ」
-DATAFORM (忍び寄り刈り取るんだそうジャガーのように！)	DATAFORM (忍び寄り刈り取るんだそうジャガーのように！)
-PRINTFORML 「これ最近ウワサの神隠しってやつだよねえ。	PRINTFORML 「これ最近ウワサの神隠しってやつだよねえ。
-PRINTFORMDL 足取り軽く迷宮の奥へと向かい歩を進める燐	PRINTFORMDL 足取り軽く迷宮の奥へと向かい歩を進める燐
-DATAFORM 「にゃー…そう簡単に逃がしちゃくれないか…」	DATAFORM 「にゃー…そう簡単に逃がしちゃくれないか…」
-DATAFORM 「はぁ、はぁ…なぅぅ…さっさと…どけーっ！」	DATAFORM 「はぁ、はぁ…なぅぅ…さっさと…どけーっ！」
-DATAFORM 「イき過ぎて敏感になりまくっちまってるぅ…」	DATAFORM 「イき過ぎて敏感になりまくっちまってるぅ…」
-DATAFORM 「ひっう！　き、期待なんざしちゃいないよ！」	DATAFORM 「ひっう！　き、期待なんざしちゃいないよ！」
-DATAFORM 「ひゃん！　く…くすぐったかっただけだよ！」	DATAFORM 「ひゃん！　く…くすぐったかっただけだよ！」
-DATAFORM 「おおう！　ウブなネンネになんたる仕打ち！」	DATAFORM 「おおう！　ウブなネンネになんたる仕打ち！」
-DATAFORM 「ぎゃー！？　いけませんわお米屋さーん！？」	DATAFORM 「ぎゃー！？　いけませんわお米屋さーん！？」
-DATAFORM 「こんな乱暴にじゃなくもっと優しくだねえ…」	DATAFORM 「こんな乱暴にじゃなくもっと優しくだねえ…」
-DATAFORM 「ま、喰らっていいことあるわきゃないよねえ」	DATAFORM 「ま、喰らっていいことあるわきゃないよねえ」
-DATAFORM 「捕まってやるつもりはハナからないっての！」	DATAFORM 「捕まってやるつもりはハナからないっての！」
-DATAFORM 「ちょっとこの状況はまずいんでないかい！？」	DATAFORM 「ちょっとこの状況はまずいんでないかい！？」
-DATAFORM 「ああっと！　これじゃ独壇場にされちまう！」	DATAFORM 「ああっと！　これじゃ独壇場にされちまう！」
-DATAFORM 「こんなときに襲ってこられると厄介だねぇ…」	DATAFORM 「こんなときに襲ってこられると厄介だねぇ…」
-DATAFORM 「待ってー！？　値を助けてからにしてー！！」	DATAFORM 「待ってー！？　値を助けてからにしてー！！」
-DATAFORM 「おお人だ！　まともに話が通じそうな人だ！」	DATAFORM 「おお人だ！　まともに話が通じそうな人だ！」
-DATAFORM 「そんな沢山知ってるわけじゃないんだけどね」	DATAFORM 「そんな沢山知ってるわけじゃないんだけどね」
-DATAFORM 「一気に行く方が眠気覚ましにもなるでしょ！」	DATAFORM 「一気に行く方が眠気覚ましにもなるでしょ！」
-DATAFORM 「こう眠くちゃ細かいこと考えてられないし！」	DATAFORM 「こう眠くちゃ細かいこと考えてられないし！」
-DATAFORM 「無理は禁物…ていうかできるほど元気ないわ」	DATAFORM 「無理は禁物…ていうかできるほど元気ないわ」
-DATAFORM 「くあー…じっとしてると寝ちまいそうだよ…」	DATAFORM 「くあー…じっとしてると寝ちまいそうだよ…」
-DATAFORM 「あんまりあちこちは探せそうにないけどね…」	DATAFORM 「あんまりあちこちは探せそうにないけどね…」
-PRINTFORM 「そもそもなんなのさこれ。　いつの間にやら	PRINTFORM 「そもそもなんなのさこれ。　いつの間にやら
-PRINTFORML 「ねこぱんち弾幕！　実は結構痛いよ！」	PRINTFORML 「ねこぱんち弾幕！　実は結構痛いよ！」
-PRINTFORML 「こいつで全員お陀仏になっちまいな！」	PRINTFORML 「こいつで全員お陀仏になっちまいな！」
-PRINTFORMW はその行の左にある「;」を消しましょう	PRINTFORMW はその行の左にある「;」を消しましょう
-DATAFORM 「もうまともに我慢さえできないなんてぇ…」	DATAFORM 「もうまともに我慢さえできないなんてぇ…」
-DATAFORM 「い、今のうちに逃げた方がよくないかい？」	DATAFORM 「い、今のうちに逃げた方がよくないかい？」
-DATAFORM 「捕らわれのお姫様がここにいますよーう！」	DATAFORM 「捕らわれのお姫様がここにいますよーう！」
-PRINTFORMW 「ここが正念場だ。　やるっきゃない！」	PRINTFORMW 「ここが正念場だ。　やるっきゃない！」
-DATAFORM 「うっへえ、これまた変なのが出てきたねえ」	DATAFORM 「うっへえ、これまた変なのが出てきたねえ」
-DATAFORM 「ひやひやしたけどこれで一息つけるかねえ」	DATAFORM 「ひやひやしたけどこれで一息つけるかねえ」
-DATAFORM 「ふー、逃げ切れた…ってことでいいのかな」	DATAFORM 「ふー、逃げ切れた…ってことでいいのかな」
-DATAFORM 「縮こまっててもしゃーない！　とつげきー」	DATAFORM 「縮こまっててもしゃーない！　とつげきー」
-DATAFORM 「知らない場所で無茶はしてらんないしね…」	DATAFORM 「知らない場所で無茶はしてらんないしね…」
-DATAFORM 「だれかいませんかーだれもいませんねー…」	DATAFORM 「だれかいませんかーだれもいませんねー…」
-DATAFORM 「近場でなんか見つけられりゃ御の字かね…」	DATAFORM 「近場でなんか見つけられりゃ御の字かね…」
-DATAFORM 「お魚さがしたどらねこーおーいかけーて♪」	DATAFORM 「お魚さがしたどらねこーおーいかけーて♪」
-PRINTFORM がっちりつけられてるこいつぁ貞操帯かい？	PRINTFORM がっちりつけられてるこいつぁ貞操帯かい？
-PRINTFORML 「しっかり狙ってしっかりばら撒く！」	PRINTFORML 「しっかり狙ってしっかりばら撒く！」
-PRINTFORML 「いっちょ派手にいくとしますかねぇ」	PRINTFORML 「いっちょ派手にいくとしますかねぇ」
-PRINTFORML 「そこになおれ！　叩き潰してやる！」	PRINTFORML 「そこになおれ！　叩き潰してやる！」
-DATAFORM 「狙いもまともにつけられやしない…っ！」	DATAFORM 「狙いもまともにつけられやしない…っ！」
-DATAFORM 「使い方これであってるよね？　ていや！」	DATAFORM 「使い方これであってるよね？　ていや！」
-DATAFORM 「うーむ…ここは控えめにしとくべきかな」	DATAFORM 「うーむ…ここは控えめにしとくべきかな」
-DATAFORM (ううぅ…今度は生殺しにする気だあぁ…)	DATAFORM (ううぅ…今度は生殺しにする気だあぁ…)
-DATAFORM 「人を呼びます！　人を呼びますよー！？」	DATAFORM 「人を呼びます！　人を呼びますよー！？」
-DATAFORM 「そうそう体を許すほど尻軽じゃないさね」	DATAFORM 「そうそう体を許すほど尻軽じゃないさね」
-DATAFORM 「こんな魅力的な女は目に毒だったかい？」	DATAFORM 「こんな魅力的な女は目に毒だったかい？」
-DATAFORM 「いつまでかわせるか…ぞっとしないねえ」	DATAFORM 「いつまでかわせるか…ぞっとしないねえ」
-DATAFORM 「友好の挨拶を…って雰囲気じゃあないね」	DATAFORM 「友好の挨拶を…って雰囲気じゃあないね」
-DATAFORM 「はーしんど……ってこれじゃ年寄りだね」	DATAFORM 「はーしんど……ってこれじゃ年寄りだね」
-DATAFORM 「う、あああぁー……じんじんして、る…」	DATAFORM 「う、あああぁー……じんじんして、る…」
-DATAFORM 「えーっと、知ってるのはこのくらいさね」	DATAFORM 「えーっと、知ってるのはこのくらいさね」
-DATAFORM 「手負いの猫はジャッカルより凶暴だー！」	DATAFORM 「手負いの猫はジャッカルより凶暴だー！」
-DATAFORM 「ちょっちきついけど…ま、がんばるかね」	DATAFORM 「ちょっちきついけど…ま、がんばるかね」
-DATAFORM 「この足じゃすぐに追いつかれちまう…」	DATAFORM 「この足じゃすぐに追いつかれちまう…」
-PRINTFORML 「狩りの鉄則逃げ場を封じる作戦！」	PRINTFORML 「狩りの鉄則逃げ場を封じる作戦！」
-DATAFORM 「だああっと！？　こ、このスケベめ！」	DATAFORM 「だああっと！？　こ、このスケベめ！」
-DATAFORM 「今度は服まで取りきるつもりかい！？」	DATAFORM 「今度は服まで取りきるつもりかい！？」
-DATAFORM 「あたいピンチ！　いや実際どうしよう」	DATAFORM 「あたいピンチ！　いや実際どうしよう」
-DATAFORM 「先んずれば人を憎まず！　覚悟しろ！」	DATAFORM 「先んずれば人を憎まず！　覚悟しろ！」
-DATAFORM 「もうこれ以上は出会いたくないねぇ…」	DATAFORM 「もうこれ以上は出会いたくないねぇ…」
-DATAFORM 「言われなくともスタコラサッサだよ！」	DATAFORM 「言われなくともスタコラサッサだよ！」
-DATAFORM 「ま、まひゃイク…イッちゃ…うーーっ」	DATAFORM 「ま、まひゃイク…イッちゃ…うーーっ」
-DATAFORM 「ダメ、なのに…あたいまた…ん゛んっ」	DATAFORM 「ダメ、なのに…あたいまた…ん゛んっ」
-DATAFORM (うああ…もう…頭が沸騰しそうだよ…)	DATAFORM (うああ…もう…頭が沸騰しそうだよ…)
-DATAFORM 「そうそう…こればっかりはあたいも…」	DATAFORM 「そうそう…こればっかりはあたいも…」
-DATAFORM 「そうだなあ…あ！　あれはどうだろ！」	DATAFORM 「そうだなあ…あ！　あれはどうだろ！」
-DATAFORM 「この状態で無茶してもしゃーないし…」	DATAFORM 「この状態で無茶してもしゃーないし…」
-DATAFORM (本当にいいのか？　でも…でも…っ)	DATAFORM (本当にいいのか？　でも…でも…っ)
-DATAFORM 「逃げるんだ…もたもたしてたら…っ」	DATAFORM 「逃げるんだ…もたもたしてたら…っ」
-DATAFORM 「今は無理ッ、イタズラでも無理っ！」	DATAFORM 「今は無理ッ、イタズラでも無理っ！」
-DATAFORM 「ま…まだ満足しないってのかい…！」	DATAFORM 「ま…まだ満足しないってのかい…！」
-DATAFORM 「ぶぶぶ部長！　セクハラですよっ！」	DATAFORM 「ぶぶぶ部長！　セクハラですよっ！」
-DATAFORM 「わー！　幻想郷の性のみだれー！！」	DATAFORM 「わー！　幻想郷の性のみだれー！！」
-DATAFORM 「ど…どれだけ…だすってんだい…っ」	DATAFORM 「ど…どれだけ…だすってんだい…っ」
-DATAFORM 「これ以上は遠慮…させてもらうよ！」	DATAFORM 「これ以上は遠慮…させてもらうよ！」
-DATAFORM 「あっぶないねえ、乱暴はよしてくれ」	DATAFORM 「あっぶないねえ、乱暴はよしてくれ」
-DATAFORM 「よかったあ……これで…きっと…っ」	DATAFORM 「よかったあ……これで…きっと…っ」
-PRINTFORMW 「こんなの相手に…できるの…？」	PRINTFORMW 「こんなの相手に…できるの…？」
-DATAFORM 「ひー…もういっぱいいっぱいだよ…」	DATAFORM 「ひー…もういっぱいいっぱいだよ…」
-DATAFORM 「こんじょうが１ポイントあがった！」	DATAFORM 「こんじょうが１ポイントあがった！」
-PRINTFORMW 「服噛んですれば声でないよね？」	PRINTFORMW 「服噛んですれば声でないよね？」
-DATAFORM 「やば…今度のも深っ…ううぅう゛！」	DATAFORM 「やば…今度のも深っ…ううぅう゛！」
-DATAFORM 「こうなったら罠も踏み抜く勢いで！」	DATAFORM 「こうなったら罠も踏み抜く勢いで！」
-DATAFORM 「臆病なくらいでちょうどいいのよね」	DATAFORM 「臆病なくらいでちょうどいいのよね」
-DATAFORM 「こんな状態なら真っ向勝負よりはね」	DATAFORM 「こんな状態なら真っ向勝負よりはね」
-DATAFORM 「ハンディあるからねー…無理は禁物」	DATAFORM 「ハンディあるからねー…無理は禁物」
-PRINTFORMW 「誰か答えとくれよー寂しいよー」	PRINTFORMW 「誰か答えとくれよー寂しいよー」
-DATAFORM 「やだ、もう…やめろってばぁ…！」	DATAFORM 「やだ、もう…やめろってばぁ…！」
-DATAFORM 「防戦一方だとちょっとまずいなぁ」	DATAFORM 「防戦一方だとちょっとまずいなぁ」
-DATAFORM 「ううう…もういーじゃんかよう…」	DATAFORM 「ううう…もういーじゃんかよう…」
-PRINTFORML 「拾う骨くらいは残ると思うよ」	PRINTFORML 「拾う骨くらいは残ると思うよ」
-PRINTFORML 「でっかい花火を地上で一発！」	PRINTFORML 「でっかい花火を地上で一発！」
-DATAFORM 「なーんかもったいない気がしてね」	DATAFORM 「なーんかもったいない気がしてね」
-DATAFORM 「誰かにあたりゃそれでいいんだ！」	DATAFORM 「誰かにあたりゃそれでいいんだ！」
-DATAFORM 「く、くんなって！　あっちいけ！」	DATAFORM 「く、くんなって！　あっちいけ！」
-DATAFORM 「数日ほど待って…くれないよね…」	DATAFORM 「数日ほど待って…くれないよね…」
-DATAFORM 「こういうのの死体は要らないねぇ」	DATAFORM 「こういうのの死体は要らないねぇ」
-DATAFORM 「無理に戦い続けてもジリ貧さね…」	DATAFORM 「無理に戦い続けてもジリ貧さね…」
-DATAFORM 「くそ、またきちまう……ぅうぅっ」	DATAFORM 「くそ、またきちまう……ぅうぅっ」
-DATAFORM 「あたいもーちっとお話したいなー」	DATAFORM 「あたいもーちっとお話したいなー」
-DATAFORM (…にゃうう…なんか空気が重い…)	DATAFORM (…にゃうう…なんか空気が重い…)
-DATAFORM 「休み休みでないときついんよね…」	DATAFORM 「休み休みでないときついんよね…」
-DATAFORM 「なんかいーものなーいっかなー♪」	DATAFORM 「なんかいーものなーいっかなー♪」
-PRINTFORMDW そこはどことも知れぬ謎の洞窟	PRINTFORMDW そこはどことも知れぬ謎の洞窟
-DATAFORM 「耐えろ！　耐えるんだあたい！」	DATAFORM 「耐えろ！　耐えるんだあたい！」
-PRINTFORML 「そいじゃ一発力を込めて…」	PRINTFORML 「そいじゃ一発力を込めて…」
-PRINTFORML 「躰も魂もこんがり焼けな！」	PRINTFORML 「躰も魂もこんがり焼けな！」
-DATAFORM 「ひどいことしないどくれよぉ…」	DATAFORM 「ひどいことしないどくれよぉ…」
-DATAFORM 「わぎゃ！　動物虐待反たーい！」	DATAFORM 「わぎゃ！　動物虐待反たーい！」
-DATAFORM 「も、もうゆるひておくれよぉ…」	DATAFORM 「も、もうゆるひておくれよぉ…」
-DATAFORM 「い、息つく暇もありゃしない…」	DATAFORM 「い、息つく暇もありゃしない…」
-DATAFORM 「しつこいのは嫌われ…あうっ！」	DATAFORM 「しつこいのは嫌われ…あうっ！」
-DATAFORM 「ぎゃー！？　せめて外にー！！」	DATAFORM 「ぎゃー！？　せめて外にー！！」
-DATAFORM 「叩かれるのもっ、お断りだよ！」	DATAFORM 「叩かれるのもっ、お断りだよ！」
-DATAFORM 「この僅かな隙で倒せるか…！？」	DATAFORM 「この僅かな隙で倒せるか…！？」
-DATAFORM 「ああっ！　お願いへるぷみー！」	DATAFORM 「ああっ！　お願いへるぷみー！」
-DATAFORM 「わ！　まだ開店準備中だって！」	DATAFORM 「わ！　まだ開店準備中だって！」
-DATAFORM 「さすがに駄目かと思ったなー…」	DATAFORM 「さすがに駄目かと思ったなー…」
-DATAFORM 「ひにゃー、危ないところだった」	DATAFORM 「ひにゃー、危ないところだった」
-DATAFORM 「相手してられないよまったく…」	DATAFORM 「相手してられないよまったく…」
-DATAFORM 「猫だけど脱兎のごとくってね！」	DATAFORM 「猫だけど脱兎のごとくってね！」
-DATAFORM 「ええっ！？　置いてけぼり！？」	DATAFORM 「ええっ！？　置いてけぼり！？」
-DATAFORM 「ぎゃーん！　捨て駒やめてー！」	DATAFORM 「ぎゃーん！　捨て駒やめてー！」
-DATAFORM 「これは貸しに…しなくていいや」	DATAFORM 「これは貸しに…しなくていいや」
-DATAFORM 「駆け抜けろチーターのように！」	DATAFORM 「駆け抜けろチーターのように！」
-DATAFORM 「無理…っ、攻めきれない…！」	DATAFORM 「無理…っ、攻めきれない…！」
-DATAFORM 「これ以上は本当にまずい…っ」	DATAFORM 「これ以上は本当にまずい…っ」
-DATAFORM 「！　今のうちならいける…？」	DATAFORM 「！　今のうちならいける…？」
-PRINTFORML 「さあ！　そこをどきな！」	PRINTFORML 「さあ！　そこをどきな！」
-PRINTFORML 「跳ねて回って隙を撃つ！」	PRINTFORML 「跳ねて回って隙を撃つ！」
-PRINTFORML 「反撃の隙を与えるなー！」	PRINTFORML 「反撃の隙を与えるなー！」
-DATAFORM 「照準ないけどよし！　てー！」	DATAFORM 「照準ないけどよし！　てー！」
-DATAFORM 「使いどころは考えとかんとね」	DATAFORM 「使いどころは考えとかんとね」
-DATAFORM 「制圧射撃ー！　…とは違うか」	DATAFORM 「制圧射撃ー！　…とは違うか」
-DATAFORM 「うえ！　捕まっちまったい！」	DATAFORM 「うえ！　捕まっちまったい！」
-DATAFORM 「わー！　たーすーけーてー！」	DATAFORM 「わー！　たーすーけーてー！」
-DATAFORM 「ううっく、足がもつれそう…」	DATAFORM 「ううっく、足がもつれそう…」
-DATAFORM 「いったいなんなんだい全く！」	DATAFORM 「いったいなんなんだい全く！」
-DATAFORM 「そろそろ堪忍してくれって…」	DATAFORM 「そろそろ堪忍してくれって…」
-DATAFORM 「見よこの華麗な身のこなし！」	DATAFORM 「見よこの華麗な身のこなし！」
-DATAFORM 「退くか押し通るか…どうしよ」	DATAFORM 「退くか押し通るか…どうしよ」
-DATAFORM 「面倒なときに面倒なのがぁー」	DATAFORM 「面倒なときに面倒なのがぁー」
-DATAFORM 「ついてこないでくれよっと…」	DATAFORM 「ついてこないでくれよっと…」
-PRINTFORML 「今は…このままじゃ…っ」	PRINTFORML 「今は…このままじゃ…っ」
-DATAFORM 「あーっ、イ…っうあああぅ！」	DATAFORM 「あーっ、イ…っうあああぅ！」
-DATAFORM 「こんなのでえ…んんううっ！」	DATAFORM 「こんなのでえ…んんううっ！」
-PRINTFORM 股ぐらに変なのくっついてるわ	PRINTFORM 股ぐらに変なのくっついてるわ
-DATAFORM 「少し…落ち着かないと…っ」	DATAFORM 「少し…落ち着かないと…っ」
-DATAFORM 「攻めにまわる余裕がない…」	DATAFORM 「攻めにまわる余裕がない…」
-DATAFORM 「この機を逃したらもう…！」	DATAFORM 「この機を逃したらもう…！」
-DATAFORM 「これは潮時ってやつかね…」	DATAFORM 「これは潮時ってやつかね…」
-DATAFORM 「やっぱり帰っちゃ…ダメ？」	DATAFORM 「やっぱり帰っちゃ…ダメ？」
-PRINTFORML 「これが地獄の燐火さ！」	PRINTFORML 「これが地獄の燐火さ！」
-DATAFORM 「当たればいーのさ当たれば」	DATAFORM 「当たればいーのさ当たれば」
-DATAFORM 「そういうのはやめてとくれ」	DATAFORM 「そういうのはやめてとくれ」
-DATAFORM 「さあ、一気に打ち崩すよ！」	DATAFORM 「さあ、一気に打ち崩すよ！」
-DATAFORM 「はー…これでひと安心かね」	DATAFORM 「はー…これでひと安心かね」
-DATAFORM 「これまずいっ…ひゃうん！」	DATAFORM 「これまずいっ…ひゃうん！」
-DATAFORM 「わわわ！　これは一大事！」	DATAFORM 「わわわ！　これは一大事！」
-DATAFORM 「警戒たいせー……ふぁーあ」	DATAFORM 「警戒たいせー……ふぁーあ」
-DATAFORM 「物資ほきゅー物資ほきゅー」	DATAFORM 「物資ほきゅー物資ほきゅー」
-PRINTFORM 胸はばかでっかくなってるし	PRINTFORM 胸はばかでっかくなってるし
-PRINTFORML 「まとめて喰らえー！」	PRINTFORML 「まとめて喰らえー！」
-DATAFORM 「スケベは御免こーむるよ」	DATAFORM 「スケベは御免こーむるよ」
-DATAFORM 「今度は何する気だよぅ…」	DATAFORM 「今度は何する気だよぅ…」
-DATAFORM 「あー、こいつはまずい…」	DATAFORM 「あー、こいつはまずい…」
-DATAFORM 「地獄にも来ないでくれよ」	DATAFORM 「地獄にも来ないでくれよ」
-DATAFORM 「ふいー、なんとかなった」	DATAFORM 「ふいー、なんとかなった」
-DATAFORM 「にゃう…ぎ、ひぃぃーっ」	DATAFORM 「にゃう…ぎ、ひぃぃーっ」
-DATAFORM 「こんな…、は、ふうぅ！」	DATAFORM 「こんな…、は、ふうぅ！」
-PRINTFORMDW 「……………………」	PRINTFORMDW 「……………………」
-DATAFORM 「痛い！　痛いって！！」	DATAFORM 「痛い！　痛いって！！」
-DATAFORM 「うおうっ！　紙一重！」	DATAFORM 「うおうっ！　紙一重！」
-DATAFORM 「痛いのは嫌いなんだよ」	DATAFORM 「痛いのは嫌いなんだよ」
-DATAFORM 「ひいい、セーフせーふ」	DATAFORM 「ひいい、セーフせーふ」
-DATAFORM 「もー、こんな時にー…」	DATAFORM 「もー、こんな時にー…」
-DATAFORM 「よゆー、うん。　余裕」	DATAFORM 「よゆー、うん。　余裕」
-DATAFORM 「ざっとこんなもんよー」	DATAFORM 「ざっとこんなもんよー」
-DATAFORM 「うぃなー…！　お燐！」	DATAFORM 「うぃなー…！　お燐！」
-DATAFORM 「それじゃあまた来週ー」	DATAFORM 「それじゃあまた来週ー」
-DATAFORM 「やば…イッ……んんっ」	DATAFORM 「やば…イッ……んんっ」
-DATAFORM 「これ以上我慢…ひっ！」	DATAFORM 「これ以上我慢…ひっ！」
-DATAFORM 「ああ…ひぃ、いんっ！」	DATAFORM 「ああ…ひぃ、いんっ！」
-DATAFORM 「どどどどうしよう！？」	DATAFORM 「どどどどうしよう！？」
-DATAFORM 「うわぁめでぃーっく！」	DATAFORM 「うわぁめでぃーっく！」
-PRINTFORML 「ホントに……ね…」	PRINTFORML 「ホントに……ね…」
-DATAFORM 「あはは…いやまったく」	DATAFORM 「あはは…いやまったく」
-DATAFORM 「あ！　その話詳しく！」	DATAFORM 「あ！　その話詳しく！」
-DATAFORM 「うおー！」(やけくそ)	DATAFORM 「うおー！」(やけくそ)
-DATAFORM 「撃つべし撃つべし！」	DATAFORM 「撃つべし撃つべし！」
-DATAFORM 「はぁっ、かわせた…」	DATAFORM 「はぁっ、かわせた…」
-DATAFORM 「やめて…くれよっ！」	DATAFORM 「やめて…くれよっ！」
-DATAFORM 「残念！　ハズレだよ」	DATAFORM 「残念！　ハズレだよ」
-DATAFORM 「や、いやだよもう！」	DATAFORM 「や、いやだよもう！」
-DATAFORM 「たーすーけーてー…」	DATAFORM 「たーすーけーてー…」
-DATAFORM 「よーっし、いくよ！」	DATAFORM 「よーっし、いくよ！」
-DATAFORM 「これで懲りたかい？」	DATAFORM 「これで懲りたかい？」
-PRINTFORML 「い…一時退却！」	PRINTFORML 「い…一時退却！」
-DATAFORM 「あ、後でどうにか…」	DATAFORM 「あ、後でどうにか…」
-DATAFORM 「にゃ、く…やうぅっ」	DATAFORM 「にゃ、く…やうぅっ」
-DATAFORM 「にゃ…あああうっ！」	DATAFORM 「にゃ…あああうっ！」
-DATAFORM 「はーあ、あ、あぅ！」	DATAFORM 「はーあ、あ、あぅ！」
-DATAFORM 「第一村人はっけーん」	DATAFORM 「第一村人はっけーん」
-PRINTFORM でさ。　困っちまうよ	PRINTFORM でさ。　困っちまうよ
-DATAFORM 「うぎぎ、歯がゆい」	DATAFORM 「うぎぎ、歯がゆい」
-PRINTFORML 「おりゃーっ！」	PRINTFORML 「おりゃーっ！」
-DATAFORM 「うーし、片付いた」	DATAFORM 「うーし、片付いた」
-DATAFORM 「あ…も、う…っ！」	DATAFORM 「あ…も、う…っ！」
-DATAFORM 「あ…くぅ、うっ！」	DATAFORM 「あ…くぅ、うっ！」
-DATAFORM 「ん、く、んーっ！」	DATAFORM 「ん、く、んーっ！」
-DATAFORM 「ふむふむふむーん」	DATAFORM 「ふむふむふむーん」
-DATAFORM 「いいこと聞いた！」	DATAFORM 「いいこと聞いた！」
-DATAFORM 「いやー助かります」	DATAFORM 「いやー助かります」
-DATAFORM 「役に立つ…かなあ」	DATAFORM 「役に立つ…かなあ」
-DATAFORM 「そろーりそろーり」	DATAFORM 「そろーりそろーり」
-DATAFORM 「今だダッシュ！」	DATAFORM 「今だダッシュ！」
-DATAFORM 「ここで…こう！」	DATAFORM 「ここで…こう！」
-DATAFORM 「仕留めてやる！」	DATAFORM 「仕留めてやる！」
-DATAFORM 「ぶち込めー！！」	DATAFORM 「ぶち込めー！！」
-DATAFORM 「痛……いいぃ…」	DATAFORM 「痛……いいぃ…」
-DATAFORM 「乙女の柔肌が！」	DATAFORM 「乙女の柔肌が！」
-DATAFORM 「あっぶないねえ」	DATAFORM 「あっぶないねえ」
-DATAFORM 「今だかかれー！」	DATAFORM 「今だかかれー！」
-DATAFORM 「先制チャンス！」	DATAFORM 「先制チャンス！」
-DATAFORM 「い…一時退却！」	DATAFORM 「い…一時退却！」
-DATAFORM 「いいのかなー…」	DATAFORM 「いいのかなー…」
-DATAFORM 「うあ…ああぅ！」	DATAFORM 「うあ…ああぅ！」
-DATAFORM 「ひふ…ひ、うっ」	DATAFORM 「ひふ…ひ、うっ」
-DATAFORM 「た、大変だっ！」	DATAFORM 「た、大変だっ！」
-DATAFORM 「へえ…なるほど」	DATAFORM 「へえ…なるほど」
-DATAFORM 「来るなぁぁ…」	DATAFORM 「来るなぁぁ…」
-PRINTFORML 「にゃーん」	PRINTFORML 「にゃーん」
-DATAFORM 「ぎゃ……う…」	DATAFORM 「ぎゃ……う…」
-DATAFORM 「あいちちち…」	DATAFORM 「あいちちち…」
-DATAFORM 「！　…来る！」	DATAFORM 「！　…来る！」
-DATAFORM 「じゃーねー♪」	DATAFORM 「じゃーねー♪」
-DATAFORM 「………もう…」	DATAFORM 「………もう…」
-DATAFORM 「ふ…ふくうぅ」	DATAFORM 「ふ…ふくうぅ」
-DATAFORM 「どうもですー」	DATAFORM 「どうもですー」
-PRINTFORMW 「…………」	PRINTFORMW 「…………」
-DATAFORM 「…………っ」	DATAFORM 「…………っ」
-DATAFORM 「あう…う…」	DATAFORM 「あう…う…」
-DATAFORM 「すすす……」	DATAFORM 「すすす……」
-DATAFORM 「っ！　う…」	DATAFORM 「っ！　う…」
-DATAFORM 「みぎゃっ！」	DATAFORM 「みぎゃっ！」
-DATAFORM 「あだーっ！」	DATAFORM 「あだーっ！」
-DATAFORM 「ひに゛ゃ！」	DATAFORM 「ひに゛ゃ！」
-DATAFORM 「あらよっと」	DATAFORM 「あらよっと」
-DATAFORM 「そこだ！」	DATAFORM 「そこだ！」
-DATAFORM 「いづ…っ」	DATAFORM 「いづ…っ」
-DATAFORM 「ぎ……っ」	DATAFORM 「ぎ……っ」
-DATAFORM 「怖い怖い」	DATAFORM 「怖い怖い」
-DATAFORM 「ひらり♪」	DATAFORM 「ひらり♪」
-DATAFORM 「フーッ！」	DATAFORM 「フーッ！」
-DATAFORM 「ひょーい」	DATAFORM 「ひょーい」
-DATAFORM 「勝利っ！」	DATAFORM 「勝利っ！」
-PRINTFORM 母乳滲むわ	PRINTFORM 母乳滲むわ
-PRINTFORM 　…それに	PRINTFORM 　…それに
-PRINTFORM ついでに	PRINTFORM ついでに
-PRINTFORM 「しかも	PRINTFORM 「しかも
-PRINTFORMW 「」	PRINTFORMW 「」
-PRINTFORMW 「	PRINTFORMW 「
-PRINTFORMW 　	PRINTFORMW 　
-PRINTFORML 　	PRINTFORML 　
-PRINTFORML 」	PRINTFORML 」
-PRINTFORMW 	PRINTFORMW 
-PRINTFORML 	PRINTFORML 
-﻿PRINTDATAL	PRINTDATAL
-PRINTDATAW	PRINTDATAW
-PRINTFORML	PRINTFORML
+﻿﻿PRINTDATAL	!#!PRINTDATAL
+DATAFORM 「無理…っ、攻めきれない…！」	!#!DATAFORM 「無理…っ、攻めきれない…！」
+DATAFORM 「少し…落ち着かないと…っ」	!#!DATAFORM 「少し…落ち着かないと…っ」
+DATAFORM 「やだ、もう…やめろってばぁ…！」	!#!DATAFORM 「やだ、もう…やめろってばぁ…！」
+DATAFORM 「来るなぁぁ…」	!#!DATAFORM 「来るなぁぁ…」
+DATAFORM 「ちょっとやそっとじゃ自由になれそうにないねぇ。　今は耐えるしかないか」	!#!DATAFORM 「ちょっとやそっとじゃ自由になれそうにないねぇ。　今は耐えるしかないか」
+DATAFORM 「下手に暴れたらなにされるか…ぞっとしないね」	!#!DATAFORM 「下手に暴れたらなにされるか…ぞっとしないね」
+DATAFORM 「うぎぎ、歯がゆい」	!#!DATAFORM 「うぎぎ、歯がゆい」
+DATAFORM 「耐えろ！　耐えるんだあたい！」	!#!DATAFORM 「耐えろ！　耐えるんだあたい！」
+DATAFORM 「今は雌伏のとき！　やがて来る至福(しょうり)のときのために！」	!#!DATAFORM 「今は雌伏のとき！　やがて来る至福(しょうり)のときのために！」
+DATAFORM 「あたいのしなやかなボディがダメージを的確に軽減してくれる。　してくれるのだ！」	!#!DATAFORM 「あたいのしなやかなボディがダメージを的確に軽減してくれる。　してくれるのだ！」
+DATAFORM 「防戦一方だとちょっとまずいなぁ」	!#!DATAFORM 「防戦一方だとちょっとまずいなぁ」
+DATAFORM 「攻めにまわる余裕がない…」	!#!DATAFORM 「攻めにまわる余裕がない…」
+DATAFORM 「…………っ」	!#!DATAFORM 「…………っ」
+DATAFORM 「あう…う…」	!#!DATAFORM 「あう…う…」
+DATAFORM (本当にいいのか？　でも…でも…っ)	!#!DATAFORM (本当にいいのか？　でも…でも…っ)
+DATAFORM 「この機を逃したらもう…！」	!#!DATAFORM 「この機を逃したらもう…！」
+DATAFORM 「これ以上は本当にまずい…っ」	!#!DATAFORM 「これ以上は本当にまずい…っ」
+DATAFORM 「逃げるんだ…もたもたしてたら…っ」	!#!DATAFORM 「逃げるんだ…もたもたしてたら…っ」
+DATAFORM 「あー…あたいちょっと用事を思い出しまして…」	!#!DATAFORM 「あー…あたいちょっと用事を思い出しまして…」
+DATAFORM 「今だダッシュ！」	!#!DATAFORM 「今だダッシュ！」
+DATAFORM 「すすす……」	!#!DATAFORM 「すすす……」
+DATAFORM 「！　今のうちならいける…？」	!#!DATAFORM 「！　今のうちならいける…？」
+DATAFORM 「これは潮時ってやつかね…」	!#!DATAFORM 「これは潮時ってやつかね…」
+DATAFORM 「この足じゃすぐに追いつかれちまう…」	!#!DATAFORM 「この足じゃすぐに追いつかれちまう…」
+DATAFORM 「ううう…もういーじゃんかよう…」	!#!DATAFORM 「ううう…もういーじゃんかよう…」
+DATAFORM 「はぁ…う……いまさら…逃がすつもりもない、ってかい…」	!#!DATAFORM 「はぁ…う……いまさら…逃がすつもりもない、ってかい…」
+DATAFORM 「あんまりしつこいと女の子に嫌われちまうよ！」	!#!DATAFORM 「あんまりしつこいと女の子に嫌われちまうよ！」
+DATAFORM 「やっぱり帰っちゃ…ダメ？」	!#!DATAFORM 「やっぱり帰っちゃ…ダメ？」
+DATAFORM 「ナイスディフェンス！　とか言ってる場合じゃない！」	!#!DATAFORM 「ナイスディフェンス！　とか言ってる場合じゃない！」
+DATAFORM 「にゃー…そう簡単に逃がしちゃくれないか…」	!#!DATAFORM 「にゃー…そう簡単に逃がしちゃくれないか…」
+DATAFORM 「なんだい、無料じゃ通してくれないってかい？」	!#!DATAFORM 「なんだい、無料じゃ通してくれないってかい？」
+PRINTFORML 「ねこぱんち弾幕！　実は結構痛いよ！」		PRINTFORML 「ねこぱんち弾幕！　実は結構痛いよ！」
+PRINTFORML 「塵も積もれば粉塵爆発。　無駄にもならなきゃばかにもできない」		PRINTFORML 「塵も積もれば粉塵爆発。　無駄にもならなきゃばかにもできない」
+PRINTFORML 「ふふふー体力は確実に奪っていくものさー」		PRINTFORML 「ふふふー体力は確実に奪っていくものさー」
+PRINTFORML 「しっかり狙ってしっかりばら撒く！」		PRINTFORML 「しっかり狙ってしっかりばら撒く！」
+PRINTFORML 「ちゃんと当ててきゃいつかは倒れるよねぇ？」		PRINTFORML 「ちゃんと当ててきゃいつかは倒れるよねぇ？」
+PRINTFORML 「さあ！　そこをどきな！」		PRINTFORML 「さあ！　そこをどきな！」
+PRINTFORML 「車輪の先端から火が出るいめーじで作ってみましたっと！」		PRINTFORML 「車輪の先端から火が出るいめーじで作ってみましたっと！」
+PRINTFORML 「さーて、大きく振りかぶってー…おりゃ！」		PRINTFORML 「さーて、大きく振りかぶってー…おりゃ！」
+PRINTFORML 「拾う骨くらいは残ると思うよ」		PRINTFORML 「拾う骨くらいは残ると思うよ」
+PRINTFORML 「地獄の針山はこんなもんじゃなかったけどね。これでも十分強力さ」		PRINTFORML 「地獄の針山はこんなもんじゃなかったけどね。これでも十分強力さ」
+PRINTFORML 「ちと焦げ付くくらいは勘弁しておくれよ！」		PRINTFORML 「ちと焦げ付くくらいは勘弁しておくれよ！」
+PRINTFORML 「おりゃーっ！」		PRINTFORML 「おりゃーっ！」
+PRINTFORML 「満員御礼、怨霊弾けりゃ寒気と痛みが吹きすさぶ！」		PRINTFORML 「満員御礼、怨霊弾けりゃ寒気と痛みが吹きすさぶ！」
+PRINTFORML 「威力にこだわりすぎると制御難しくなるんでちと不安だけど…」		PRINTFORML 「威力にこだわりすぎると制御難しくなるんでちと不安だけど…」
+PRINTFORML 「危ないやつらにゃ危ない弾幕！　容赦なしだよ！」		PRINTFORML 「危ないやつらにゃ危ない弾幕！　容赦なしだよ！」
+PRINTFORML 「跳ねて回って隙を撃つ！」		PRINTFORML 「跳ねて回って隙を撃つ！」
+PRINTFORML 「釣りだす怨霊にあたいの知った顔がないことを祈るよ」		PRINTFORML 「釣りだす怨霊にあたいの知った顔がないことを祈るよ」
+PRINTFORML 「じゃじゃーん！　ここであたいの隠し玉！」		PRINTFORML 「じゃじゃーん！　ここであたいの隠し玉！」
+PRINTFORML 「いっちょ派手にいくとしますかねぇ」		PRINTFORML 「いっちょ派手にいくとしますかねぇ」
+PRINTFORML 「ちんたらやっててもしゃーないね。　一気に押しきるよ！」		PRINTFORML 「ちんたらやっててもしゃーないね。　一気に押しきるよ！」
+PRINTFORML 「そいじゃ一発力を込めて…」		PRINTFORML 「そいじゃ一発力を込めて…」
+PRINTFORML 「そこになおれ！　叩き潰してやる！」		PRINTFORML 「そこになおれ！　叩き潰してやる！」
+PRINTFORML 「躰も魂もこんがり焼けな！」		PRINTFORML 「躰も魂もこんがり焼けな！」
+PRINTFORML 「でっかい花火を地上で一発！」		PRINTFORML 「でっかい花火を地上で一発！」
+PRINTFORML 「これが地獄の燐火さ！」		PRINTFORML 「これが地獄の燐火さ！」
+PRINTFORML 「"妖怪『火焔の車輪』"！　燃え尽きなあ！」		PRINTFORML 「"妖怪『火焔の車輪』"！　燃え尽きなあ！」
+PRINTFORML 「反撃の隙を与えるなー！」		PRINTFORML 「反撃の隙を与えるなー！」
+PRINTFORML 「にゃーん」		PRINTFORML 「にゃーん」
+PRINTFORML 「あんまちょろちょろされても困るんでねぇ」		PRINTFORML 「あんまちょろちょろされても困るんでねぇ」
+PRINTFORML 「この先速度制限エリアでーす。　スピード違反は減点だよ！」		PRINTFORML 「この先速度制限エリアでーす。　スピード違反は減点だよ！」
+PRINTFORML 「こういう地道な努力と策であたいは生き延びてきたのさ！」		PRINTFORML 「こういう地道な努力と策であたいは生き延びてきたのさ！」
+PRINTFORML 「狩りの鉄則逃げ場を封じる作戦！」		PRINTFORML 「狩りの鉄則逃げ場を封じる作戦！」
+PRINTFORML 「こいつで全員お陀仏になっちまいな！」		PRINTFORML 「こいつで全員お陀仏になっちまいな！」
+PRINTFORML 「ぶち抜く一発ってのはどうも不得手だなァ。　お空の方が得意だろうね」		PRINTFORML 「ぶち抜く一発ってのはどうも不得手だなァ。　お空の方が得意だろうね」
+PRINTFORML 「肉体をすり抜け魂だけ削り取る怨霊の通りはどうだい！」		PRINTFORML 「肉体をすり抜け魂だけ削り取る怨霊の通りはどうだい！」
+PRINTFORML 「まとめて喰らえー！」		PRINTFORML 「まとめて喰らえー！」
+PRINTFORML 「獲物に次々飛びつく飢えた魂の欠片。　こういう時にゃ便利だねぇ」		PRINTFORML 「獲物に次々飛びつく飢えた魂の欠片。　こういう時にゃ便利だねぇ」
+DATAFORM 「狙いもまともにつけられやしない…っ！」	!#!DATAFORM 「狙いもまともにつけられやしない…っ！」
+DATAFORM 「はぁ、はぁ…なぅぅ…さっさと…どけーっ！」	!#!DATAFORM 「はぁ、はぁ…なぅぅ…さっさと…どけーっ！」
+DATAFORM 「股すりあわせながらなんてちょっと間抜けだけど…っ　りゃあ！」	!#!DATAFORM 「股すりあわせながらなんてちょっと間抜けだけど…っ　りゃあ！」
+DATAFORM 「照準ないけどよし！　てー！」	!#!DATAFORM 「照準ないけどよし！　てー！」
+DATAFORM 「撃つべし撃つべし！」	!#!DATAFORM 「撃つべし撃つべし！」
+DATAFORM 「当たればいーのさ当たれば」	!#!DATAFORM 「当たればいーのさ当たれば」
+DATAFORM 「ここで…こう！」	!#!DATAFORM 「ここで…こう！」
+DATAFORM 「使い方これであってるよね？　ていや！」	!#!DATAFORM 「使い方これであってるよね？　ていや！」
+DATAFORM 「仕留めてやる！」	!#!DATAFORM 「仕留めてやる！」
+DATAFORM 「そこだ！」	!#!DATAFORM 「そこだ！」
+DATAFORM 「ぶち込めー！！」	!#!DATAFORM 「ぶち込めー！！」
+DATAFORM 「なーんかもったいない気がしてね」	!#!DATAFORM 「なーんかもったいない気がしてね」
+DATAFORM 「使いどころは考えとかんとね」	!#!DATAFORM 「使いどころは考えとかんとね」
+DATAFORM 「うーむ…ここは控えめにしとくべきかな」	!#!DATAFORM 「うーむ…ここは控えめにしとくべきかな」
+DATAFORM 「誰かにあたりゃそれでいいんだ！」	!#!DATAFORM 「誰かにあたりゃそれでいいんだ！」
+DATAFORM 「制圧射撃ー！　…とは違うか」	!#!DATAFORM 「制圧射撃ー！　…とは違うか」
+DATAFORM 「どうせ正確に狙えるほど得手じゃないんだ、ばらまけばらまけ！」	!#!DATAFORM 「どうせ正確に狙えるほど得手じゃないんだ、ばらまけばらまけ！」
+PRINTFORMW 	!#!PRINTFORMW 
+PRINTFORMW は「;」を左につけるか消すかしたほうがよいでしょう	!#!PRINTFORMW は「;」を左につけるか消すかしたほうがよいでしょう
+PRINTFORMW はその行の左にある「;」を消しましょう	!#!PRINTFORMW はその行の左にある「;」を消しましょう
+PRINTFORMW 「	!#!PRINTFORMW 「
+PRINTFORMW 　	!#!PRINTFORMW 　
+DATAFORM 「いづ…っ」	!#!DATAFORM 「いづ…っ」
+DATAFORM 「ぎ……っ」	!#!DATAFORM 「ぎ……っ」
+DATAFORM 「っ！　う…」	!#!DATAFORM 「っ！　う…」
+DATAFORM 「ぎゃ……う…」	!#!DATAFORM 「ぎゃ……う…」
+DATAFORM 「痛……いいぃ…」	!#!DATAFORM 「痛……いいぃ…」
+DATAFORM 「ひどいことしないどくれよぉ…」	!#!DATAFORM 「ひどいことしないどくれよぉ…」
+DATAFORM 「みぎゃっ！」	!#!DATAFORM 「みぎゃっ！」
+DATAFORM 「乙女の柔肌が！」	!#!DATAFORM 「乙女の柔肌が！」
+DATAFORM 「あだーっ！」	!#!DATAFORM 「あだーっ！」
+DATAFORM 「わぎゃ！　動物虐待反たーい！」	!#!DATAFORM 「わぎゃ！　動物虐待反たーい！」
+DATAFORM 「あいちちち…」	!#!DATAFORM 「あいちちち…」
+DATAFORM 「うら若き乙女をキズモノにするとは不届きなー」	!#!DATAFORM 「うら若き乙女をキズモノにするとは不届きなー」
+DATAFORM 「ひに゛ゃ！」	!#!DATAFORM 「ひに゛ゃ！」
+DATAFORM 「痛い！　痛いって！！」	!#!DATAFORM 「痛い！　痛いって！！」
+DATAFORM 「壊れへるっ%UNICODE(0x2665)%　おマンコこわれへるうぅーっ%UNICODE(0x2665)%」	!#!DATAFORM 「壊れへるっ%UNICODE(0x2665)%　おマンコこわれへるうぅーっ%UNICODE(0x2665)%」
+DATAFORM 「だめーっ%UNICODE(0x2665)%　子宮口なでなではホントにだめだってぇーっ%UNICODE(0x2665)%」	!#!DATAFORM 「だめーっ%UNICODE(0x2665)%　子宮口なでなではホントにだめだってぇーっ%UNICODE(0x2665)%」
+DATAFORM 「こすれるっ　こすれるうっ　おマンコこすれてまたダメになるぅー%UNICODE(0x2665)%」	!#!DATAFORM 「こすれるっ　こすれるうっ　おマンコこすれてまたダメになるぅー%UNICODE(0x2665)%」
+DATAFORM 「そごっ%UNICODE(0x2665)%　そこくちゅくちゅざれひゃらあたいまたダメになっぢまうよおぉー！」	!#!DATAFORM 「そごっ%UNICODE(0x2665)%　そこくちゅくちゅざれひゃらあたいまたダメになっぢまうよおぉー！」
+DATAFORM 「だ…ダメになるっ%UNICODE(0x2665)%　イキすぎであたいばかになっちまううぅ%UNICODE(0x2665)%」	!#!DATAFORM 「だ…ダメになるっ%UNICODE(0x2665)%　イキすぎであたいばかになっちまううぅ%UNICODE(0x2665)%」
+DATAFORM 「くうっ、あっ%UNICODE(0x2665)%　あたいがこんな、こんなにひぃい…%UNICODE(0x2665)%」	!#!DATAFORM 「くうっ、あっ%UNICODE(0x2665)%　あたいがこんな、こんなにひぃい…%UNICODE(0x2665)%」
+DATAFORM 「あ゛ひっ%UNICODE(0x2665)%　ひあ゛ぁああ！　も、もう何度目だよお…」	!#!DATAFORM 「あ゛ひっ%UNICODE(0x2665)%　ひあ゛ぁああ！　も、もう何度目だよお…」
+DATAFORM 「ま、またぎついのがっ！　あああぅう%UNICODE(0x2665)%！！」	!#!DATAFORM 「ま、またぎついのがっ！　あああぅう%UNICODE(0x2665)%！！」
+DATAFORM 「あだいっ　もう、わかんなっ…ひいう゛！　あ、あ゛あっ%UNICODE(0x2665)%」	!#!DATAFORM 「あだいっ　もう、わかんなっ…ひいう゛！　あ、あ゛あっ%UNICODE(0x2665)%」
+DATAFORM 「いいかげん…に゛ゃう！　イキまくってる女の子いじめんのはやめておくれよぉー！」	!#!DATAFORM 「いいかげん…に゛ゃう！　イキまくってる女の子いじめんのはやめておくれよぉー！」
+DATAFORM 「いじられすぎてもう分かんなくなっちまってるぅ…」	!#!DATAFORM 「いじられすぎてもう分かんなくなっちまってるぅ…」
+DATAFORM 「もうイってなくても触られたら身体が跳ねちまうぅ%UNICODE(0x2665)%！」	!#!DATAFORM 「もうイってなくても触られたら身体が跳ねちまうぅ%UNICODE(0x2665)%！」
+DATAFORM 「ま、まった、あたい…こ、細かいのがまだ続ひてて…　ひゃあ゛う%UNICODE(0x2665)%！　まっておくれって言ってるだろぉ！」	!#!DATAFORM 「ま、まった、あたい…こ、細かいのがまだ続ひてて…　ひゃあ゛う%UNICODE(0x2665)%！　まっておくれって言ってるだろぉ！」
+DATAFORM 「あそぶなあっ%UNICODE(0x2665)%！　あたいの体でこれ以上あそぶにゃああ%UNICODE(0x2665)%！」	!#!DATAFORM 「あそぶなあっ%UNICODE(0x2665)%！　あたいの体でこれ以上あそぶにゃああ%UNICODE(0x2665)%！」
+DATAFORM 「ひゃめ、ろうっ！　ひつこいっ%UNICODE(0x2665)%　へばあ！」	!#!DATAFORM 「ひゃめ、ろうっ！　ひつこいっ%UNICODE(0x2665)%　へばあ！」
+DATAFORM (か…完全に目ぇつけられたあ…　おマンコ弱いの完全にばれちまってるぅ…っ)	!#!DATAFORM (か…完全に目ぇつけられたあ…　おマンコ弱いの完全にばれちまってるぅ…っ)
+DATAFORM 「かひいっ　そこ、やえっ…　くしょお…完全に遊ばれてるぅ…」	!#!DATAFORM 「かひいっ　そこ、やえっ…　くしょお…完全に遊ばれてるぅ…」
+DATAFORM 「うあっ　今そこをいじられんのはまずいってえ…」	!#!DATAFORM 「うあっ　今そこをいじられんのはまずいってえ…」
+DATAFORM 「いじりすぎだってばあ！　こんなんじゃいつか壊れ…ぇえ%UNICODE(0x2665)%」	!#!DATAFORM 「いじりすぎだってばあ！　こんなんじゃいつか壊れ…ぇえ%UNICODE(0x2665)%」
+DATAFORM 「いいかげんに…しとくれよぉおおぉっあ%UNICODE(0x2665)%！？」	!#!DATAFORM 「いいかげんに…しとくれよぉおおぉっあ%UNICODE(0x2665)%！？」
+DATAFORM 「は、ぐう…くあう%UNICODE(0x2665)%！　こんなこといつまで続けて…っ！」	!#!DATAFORM 「は、ぐう…くあう%UNICODE(0x2665)%！　こんなこといつまで続けて…っ！」
+DATAFORM 「またあっ%UNICODE(0x2665)%！　またそこかい！？　いいかげん、にい%UNICODE(0x2665)%っ！」	!#!DATAFORM 「またあっ%UNICODE(0x2665)%！　またそこかい！？　いいかげん、にい%UNICODE(0x2665)%っ！」
+DATAFORM 「イき過ぎて敏感になりまくっちまってるぅ…」	!#!DATAFORM 「イき過ぎて敏感になりまくっちまってるぅ…」
+DATAFORM 「くひぃーっ%UNICODE(0x2665)%　まださっきの響いてるってのに激しすぎるよぉ…っ」	!#!DATAFORM 「くひぃーっ%UNICODE(0x2665)%　まださっきの響いてるってのに激しすぎるよぉ…っ」
+DATAFORM 「も、もうゆるひておくれよぉ…」	!#!DATAFORM 「も、もうゆるひておくれよぉ…」
+DATAFORM 「もうまともに我慢さえできないなんてぇ…」	!#!DATAFORM 「もうまともに我慢さえできないなんてぇ…」
+DATAFORM 「ひくひょう…これじゃおもちゃと変わらんじゃないかい…」	!#!DATAFORM 「ひくひょう…これじゃおもちゃと変わらんじゃないかい…」
+DATAFORM 「イきすぎてちょっと触られただけでも反応しちまう…っ」	!#!DATAFORM 「イきすぎてちょっと触られただけでも反応しちまう…っ」
+DATAFORM 「しつこいなぁ…す、少しはやすませっぇえ%UNICODE(0x2665)%」	!#!DATAFORM 「しつこいなぁ…す、少しはやすませっぇえ%UNICODE(0x2665)%」
+DATAFORM (嘘だろお…？　こんな短時間で馴染んできちまってるなんて…)	!#!DATAFORM (嘘だろお…？　こんな短時間で馴染んできちまってるなんて…)
+DATAFORM 「ひゃっ！？　そ、そっちはちょっとまずい…くあっ%UNICODE(0x2665)%」	!#!DATAFORM 「ひゃっ！？　そ、そっちはちょっとまずい…くあっ%UNICODE(0x2665)%」
+DATAFORM 「ああぁぅ！　あ…いや、な、なんでもない、なんでもないよ…？」	!#!DATAFORM 「ああぁぅ！　あ…いや、な、なんでもない、なんでもないよ…？」
+DATAFORM 「んっ　そ…そーゆーのはもっと関係を深めてからだね…？」	!#!DATAFORM 「んっ　そ…そーゆーのはもっと関係を深めてからだね…？」
+DATAFORM 「ひっう！　き、期待なんざしちゃいないよ！」	!#!DATAFORM 「ひっう！　き、期待なんざしちゃいないよ！」
+DATAFORM 「はふぁっ！？　変な声出ちまったじゃないかい！」	!#!DATAFORM 「はふぁっ！？　変な声出ちまったじゃないかい！」
+DATAFORM 「あっうぅ…くうん！　そんなやらしい動き…っ」	!#!DATAFORM 「あっうぅ…くうん！　そんなやらしい動き…っ」
+DATAFORM 「ひゃん！　く…くすぐったかっただけだよ！」	!#!DATAFORM 「ひゃん！　く…くすぐったかっただけだよ！」
+DATAFORM 「んっ、そんなこといきなりするもんじゃないよ…っ」	!#!DATAFORM 「んっ、そんなこといきなりするもんじゃないよ…っ」
+DATAFORM 「ううん！　そんながっついてばかりじゃ女の子は満足させたげられないってんだよォ」	!#!DATAFORM 「ううん！　そんながっついてばかりじゃ女の子は満足させたげられないってんだよォ」
+DATAFORM 「やめっ、ストップだってえ！　話くらい聞いとくれよお！」	!#!DATAFORM 「やめっ、ストップだってえ！　話くらい聞いとくれよお！」
+DATAFORM (ううぅ…今度は生殺しにする気だあぁ…)	!#!DATAFORM (ううぅ…今度は生殺しにする気だあぁ…)
+DATAFORM 「ひ、ずぅ%UNICODE(0x2665)%　もうこの程度のにすら…っ」	!#!DATAFORM 「ひ、ずぅ%UNICODE(0x2665)%　もうこの程度のにすら…っ」
+DATAFORM 「え、ああぅ！　ちょっと擦られただけでもお%UNICODE(0x2665)%！」	!#!DATAFORM 「え、ああぅ！　ちょっと擦られただけでもお%UNICODE(0x2665)%！」
+DATAFORM 「あっいっああ…っ%UNICODE(0x2665)%　だめえ…」	!#!DATAFORM 「あっいっああ…っ%UNICODE(0x2665)%　だめえ…」
+DATAFORM 「ぉおおぉう%UNICODE(0x2665)%　やあ…ほ、本格的に遊ばれへるぅぅ…」	!#!DATAFORM 「ぉおおぉう%UNICODE(0x2665)%　やあ…ほ、本格的に遊ばれへるぅぅ…」
+DATAFORM 「むりーっ%UNICODE(0x2665)%　もうどこいじられても我慢するの無理なのーっ%UNICODE(0x2665)%」	!#!DATAFORM 「むりーっ%UNICODE(0x2665)%　もうどこいじられても我慢するの無理なのーっ%UNICODE(0x2665)%」
+DATAFORM 「わ、あ、あ、あ、あっ%UNICODE(0x2665)%」	!#!DATAFORM 「わ、あ、あ、あ、あっ%UNICODE(0x2665)%」
+DATAFORM 「い、息つく暇もありゃしない…」	!#!DATAFORM 「い、息つく暇もありゃしない…」
+DATAFORM 「いっ　いっちょまえに緩急つけてんじゃないよぉ…」	!#!DATAFORM 「いっ　いっちょまえに緩急つけてんじゃないよぉ…」
+DATAFORM 「今は無理ッ、イタズラでも無理っ！」	!#!DATAFORM 「今は無理ッ、イタズラでも無理っ！」
+DATAFORM 「ちょっとは落ち着きなって、な？　な？　にゃうん！」	!#!DATAFORM 「ちょっとは落ち着きなって、な？　な？　にゃうん！」
+DATAFORM 「しつこいのは嫌われ…あうっ！」	!#!DATAFORM 「しつこいのは嫌われ…あうっ！」
+DATAFORM 「ま…まだ満足しないってのかい…！」	!#!DATAFORM 「ま…まだ満足しないってのかい…！」
+DATAFORM 「カラダ言うこと聞かなくなってきてるよ…これじゃまず、いっ！」	!#!DATAFORM 「カラダ言うこと聞かなくなってきてるよ…これじゃまず、いっ！」
+DATAFORM 「あたいのお尻のみりきにメロメロかい？　でも触んのはお断りだよ！」	!#!DATAFORM 「あたいのお尻のみりきにメロメロかい？　でも触んのはお断りだよ！」
+DATAFORM 「へ、変態！　いきなりお尻とか本物のド変態だ！！」	!#!DATAFORM 「へ、変態！　いきなりお尻とか本物のド変態だ！！」
+DATAFORM 「女の尻を追いかけて…っていきなしそれはディープすぎるだろお！？」	!#!DATAFORM 「女の尻を追いかけて…っていきなしそれはディープすぎるだろお！？」
+DATAFORM 「だああっと！？　こ、このスケベめ！」	!#!DATAFORM 「だああっと！？　こ、このスケベめ！」
+DATAFORM 「人を呼びます！　人を呼びますよー！？」	!#!DATAFORM 「人を呼びます！　人を呼びますよー！？」
+DATAFORM 「ぶぶぶ部長！　セクハラですよっ！」	!#!DATAFORM 「ぶぶぶ部長！　セクハラですよっ！」
+DATAFORM 「わー！　幻想郷の性のみだれー！！」	!#!DATAFORM 「わー！　幻想郷の性のみだれー！！」
+DATAFORM 「おおう！　ウブなネンネになんたる仕打ち！」	!#!DATAFORM 「おおう！　ウブなネンネになんたる仕打ち！」
+DATAFORM 「それはちょっとおイタがすぎる、おイタが過ぎるよお？」	!#!DATAFORM 「それはちょっとおイタがすぎる、おイタが過ぎるよお？」
+DATAFORM 「わひゃっ！　スキンシップにしては過激すぎやしないかねえ！？」	!#!DATAFORM 「わひゃっ！　スキンシップにしては過激すぎやしないかねえ！？」
+DATAFORM 「お客様女の子へのおさわりは禁止となっておりますー！？」	!#!DATAFORM 「お客様女の子へのおさわりは禁止となっておりますー！？」
+DATAFORM 「わ、わ、えっちなのはいけないとおもいますー！！」	!#!DATAFORM 「わ、わ、えっちなのはいけないとおもいますー！！」
+DATAFORM 「こ…これ以上なにするつもりだってんだよぉ…！」	!#!DATAFORM 「こ…これ以上なにするつもりだってんだよぉ…！」
+DATAFORM 「や、やだっ、やだあ！　助けて、助けてえ！！」	!#!DATAFORM 「や、やだっ、やだあ！　助けて、助けてえ！！」
+DATAFORM 「離せッ！　くるんじゃないよお！　ああ、あああっ！！」	!#!DATAFORM 「離せッ！　くるんじゃないよお！　ああ、あああっ！！」
+DATAFORM 「う…この感じ、早く逃げないとただじゃ済まなそうだね…」	!#!DATAFORM 「う…この感じ、早く逃げないとただじゃ済まなそうだね…」
+DATAFORM 「しまった！　このままじゃもっとまずいことに…」	!#!DATAFORM 「しまった！　このままじゃもっとまずいことに…」
+DATAFORM 「くそ…ひどいことされるって分かってんのに身体が動かなくて…」	!#!DATAFORM 「くそ…ひどいことされるって分かってんのに身体が動かなくて…」
+DATAFORM 「ぎゃー！？　いけませんわお米屋さーん！？」	!#!DATAFORM 「ぎゃー！？　いけませんわお米屋さーん！？」
+DATAFORM 「こんな乱暴にじゃなくもっと優しくだねえ…」	!#!DATAFORM 「こんな乱暴にじゃなくもっと優しくだねえ…」
+DATAFORM 「うえ！　捕まっちまったい！」	!#!DATAFORM 「うえ！　捕まっちまったい！」
+DATAFORM 「わー！　たーすーけーてー！」	!#!DATAFORM 「わー！　たーすーけーてー！」
+DATAFORM 「あ゛ー%UNICODE(0x2665)%　やだー%UNICODE(0x2665)%　赤ちゃん作らされながら気持ちよくなるのやだあぁーっ%UNICODE(0x2665)%」	!#!DATAFORM 「あ゛ー%UNICODE(0x2665)%　やだー%UNICODE(0x2665)%　赤ちゃん作らされながら気持ちよくなるのやだあぁーっ%UNICODE(0x2665)%」
+DATAFORM 「やめろぉー%UNICODE(0x2665)%　イキまんこにしゃせーするなあぁーっ%UNICODE(0x2665)%」	!#!DATAFORM 「やめろぉー%UNICODE(0x2665)%　イキまんこにしゃせーするなあぁーっ%UNICODE(0x2665)%」
+DATAFORM 「だめーっ%UNICODE(0x2665)%　あたいの子宮いっぱいにしちゃだめーっ%UNICODE(0x2665)%　ひい゛い゛いいぃっ」	!#!DATAFORM 「だめーっ%UNICODE(0x2665)%　あたいの子宮いっぱいにしちゃだめーっ%UNICODE(0x2665)%　ひい゛い゛いいぃっ」
+DATAFORM 「なんでぇー！？　なんで嫌なのにあたいのおマンコきゅうきゅうしちゃってるのさぁー！？　もう、やだあーっ%UNICODE(0x2665)%」	!#!DATAFORM 「なんでぇー！？　なんで嫌なのにあたいのおマンコきゅうきゅうしちゃってるのさぁー！？　もう、やだあーっ%UNICODE(0x2665)%」
+DATAFORM 「はひいいいぃい！　せーえき、きちゃだめだよおー！！」	!#!DATAFORM 「はひいいいぃい！　せーえき、きちゃだめだよおー！！」
+DATAFORM 「だ、め…だ…って！　奥…子宮口っ　こじ開けられないでおくれよ…ォおっ%UNICODE(0x2665)%」	!#!DATAFORM 「だ、め…だ…って！　奥…子宮口っ　こじ開けられないでおくれよ…ォおっ%UNICODE(0x2665)%」
+DATAFORM 「こんなの…こんなの受け入れちゃだめだよあたいの体ァ…」	!#!DATAFORM 「こんなの…こんなの受け入れちゃだめだよあたいの体ァ…」
+DATAFORM 「ひいぃ、イキすぎて子宮降りてきちまってるってのに…これじゃ確実に孕んで…」	!#!DATAFORM 「ひいぃ、イキすぎて子宮降りてきちまってるってのに…これじゃ確実に孕んで…」
+DATAFORM 「胎の奥まで捕まえられてぇ…ここまでされたらもう出来ないよう祈るしか…」	!#!DATAFORM 「胎の奥まで捕まえられてぇ…ここまでされたらもう出来ないよう祈るしか…」
+DATAFORM 「ど…どれだけ…だすってんだい…っ」	!#!DATAFORM 「ど…どれだけ…だすってんだい…っ」
+DATAFORM 「ひづっ…あっ%UNICODE(0x2665)%　出さな…くはぁっ！」	!#!DATAFORM 「ひづっ…あっ%UNICODE(0x2665)%　出さな…くはぁっ！」
+DATAFORM 「中に出されたらできちまう、できちまうじゃないかあっ！」	!#!DATAFORM 「中に出されたらできちまう、できちまうじゃないかあっ！」
+DATAFORM 「こんなのと子作りなんざ死んでもいやだってのに…」	!#!DATAFORM 「こんなのと子作りなんざ死んでもいやだってのに…」
+DATAFORM 「おいおいおいおい！？　それはさすがに冗談じゃ済まないよ！！」	!#!DATAFORM 「おいおいおいおい！？　それはさすがに冗談じゃ済まないよ！！」
+DATAFORM 「まだ身重になる気はないってんだよォ！　だから外に…いい゛っ！？」	!#!DATAFORM 「まだ身重になる気はないってんだよォ！　だから外に…いい゛っ！？」
+DATAFORM 「わー！　待った待った！！　子作りは計画的にいー！？」	!#!DATAFORM 「わー！　待った待った！！　子作りは計画的にいー！？」
+DATAFORM 「ぎゃー！？　せめて外にー！！」	!#!DATAFORM 「ぎゃー！？　せめて外にー！！」
+DATAFORM 「せめて避妊！　避妊してからにしておくれよおー！　うあ゛ああっ！」	!#!DATAFORM 「せめて避妊！　避妊してからにしておくれよおー！　うあ゛ああっ！」
+DATAFORM 「ううっく、足がもつれそう…」	!#!DATAFORM 「ううっく、足がもつれそう…」
+DATAFORM 「叩かれるのもっ、お断りだよ！」	!#!DATAFORM 「叩かれるのもっ、お断りだよ！」
+DATAFORM 「はぁっ、かわせた…」	!#!DATAFORM 「はぁっ、かわせた…」
+DATAFORM 「ダメージまで負わされちゃ本格的にまずいからね…」	!#!DATAFORM 「ダメージまで負わされちゃ本格的にまずいからね…」
+DATAFORM 「やめて…くれよっ！」	!#!DATAFORM 「やめて…くれよっ！」
+DATAFORM 「今度は服まで取りきるつもりかい！？」	!#!DATAFORM 「今度は服まで取りきるつもりかい！？」
+DATAFORM 「服まで取られちゃ…守るもんがなくなっちまう…」	!#!DATAFORM 「服まで取られちゃ…守るもんがなくなっちまう…」
+DATAFORM (気持ちよかろうがなんだろうが嫌なモノは嫌なんだよ！)	!#!DATAFORM (気持ちよかろうがなんだろうが嫌なモノは嫌なんだよ！)
+DATAFORM 「これ以上は遠慮…させてもらうよ！」	!#!DATAFORM 「これ以上は遠慮…させてもらうよ！」
+DATAFORM 「はぁ、はぁ…頭煮えてるとかわすのも一苦労だ…」	!#!DATAFORM 「はぁ、はぁ…頭煮えてるとかわすのも一苦労だ…」
+DATAFORM 「そう何度もカラダ好きにさせてられるかってんだい…！」	!#!DATAFORM 「そう何度もカラダ好きにさせてられるかってんだい…！」
+DATAFORM 「虎じゃないんだ、そう何度も相手してらんないよ…」	!#!DATAFORM 「虎じゃないんだ、そう何度も相手してらんないよ…」
+DATAFORM 「いったいなんなんだい全く！」	!#!DATAFORM 「いったいなんなんだい全く！」
+DATAFORM 「うおうっ！　紙一重！」	!#!DATAFORM 「うおうっ！　紙一重！」
+DATAFORM 「ま、喰らっていいことあるわきゃないよねえ」	!#!DATAFORM 「ま、喰らっていいことあるわきゃないよねえ」
+DATAFORM 「残念！　ハズレだよ」	!#!DATAFORM 「残念！　ハズレだよ」
+DATAFORM 「あっぶないねえ、乱暴はよしてくれ」	!#!DATAFORM 「あっぶないねえ、乱暴はよしてくれ」
+DATAFORM 「怖い怖い」	!#!DATAFORM 「怖い怖い」
+DATAFORM 「あらよっと」	!#!DATAFORM 「あらよっと」
+DATAFORM 「痛いのは嫌いなんだよ」	!#!DATAFORM 「痛いのは嫌いなんだよ」
+DATAFORM 「ひらり♪」	!#!DATAFORM 「ひらり♪」
+DATAFORM 「フーッ！」	!#!DATAFORM 「フーッ！」
+DATAFORM 「そうそう体を許すほど尻軽じゃないさね」	!#!DATAFORM 「そうそう体を許すほど尻軽じゃないさね」
+DATAFORM 「あたいみたいなべっぴんさんにイケナイ気分になるのはしょうがないけどねえ」	!#!DATAFORM 「あたいみたいなべっぴんさんにイケナイ気分になるのはしょうがないけどねえ」
+DATAFORM 「スケベは御免こーむるよ」	!#!DATAFORM 「スケベは御免こーむるよ」
+DATAFORM 「あたいの色気にやられたからって唐突すぎるよまったく」	!#!DATAFORM 「あたいの色気にやられたからって唐突すぎるよまったく」
+DATAFORM 「こんな魅力的な女は目に毒だったかい？」	!#!DATAFORM 「こんな魅力的な女は目に毒だったかい？」
+DATAFORM 「そういうのはやめてとくれ」	!#!DATAFORM 「そういうのはやめてとくれ」
+DATAFORM 「えっちなことして友達に噂とかされると恥ずかしいしー…」	!#!DATAFORM 「えっちなことして友達に噂とかされると恥ずかしいしー…」
+DATAFORM 「そろそろ堪忍してくれって…」	!#!DATAFORM 「そろそろ堪忍してくれって…」
+DATAFORM 「今度は何する気だよぅ…」	!#!DATAFORM 「今度は何する気だよぅ…」
+DATAFORM 「や、いやだよもう！」	!#!DATAFORM 「や、いやだよもう！」
+DATAFORM 「く、くんなって！　あっちいけ！」	!#!DATAFORM 「く、くんなって！　あっちいけ！」
+DATAFORM 「猫ってやつぁ無理矢理大抱えられるのがどうも苦手でね」	!#!DATAFORM 「猫ってやつぁ無理矢理大抱えられるのがどうも苦手でね」
+DATAFORM 「捕まってやるつもりはハナからないっての！」	!#!DATAFORM 「捕まってやるつもりはハナからないっての！」
+DATAFORM 「ひょーい」	!#!DATAFORM 「ひょーい」
+DATAFORM 「見よこの華麗な身のこなし！」	!#!DATAFORM 「見よこの華麗な身のこなし！」
+DATAFORM 「ひいい、セーフせーふ」	!#!DATAFORM 「ひいい、セーフせーふ」
+DATAFORM 「あっぶないねえ」	!#!DATAFORM 「あっぶないねえ」
+DATAFORM 「もー、わけわかんないことばっかしてくるんだからさー…」	!#!DATAFORM 「もー、わけわかんないことばっかしてくるんだからさー…」
+DATAFORM 「いつまでかわせるか…ぞっとしないねえ」	!#!DATAFORM 「いつまでかわせるか…ぞっとしないねえ」
+DATAFORM 「あー、こいつはまずい…」	!#!DATAFORM 「あー、こいつはまずい…」
+DATAFORM 「あたい今戦ってられるような状態じゃないんだけど…」	!#!DATAFORM 「あたい今戦ってられるような状態じゃないんだけど…」
+DATAFORM 「数日ほど待って…くれないよね…」	!#!DATAFORM 「数日ほど待って…くれないよね…」
+DATAFORM 「い、今のうちに逃げた方がよくないかい？」	!#!DATAFORM 「い、今のうちに逃げた方がよくないかい？」
+DATAFORM 「退くか押し通るか…どうしよ」	!#!DATAFORM 「退くか押し通るか…どうしよ」
+DATAFORM 「この僅かな隙で倒せるか…！？」	!#!DATAFORM 「この僅かな隙で倒せるか…！？」
+DATAFORM 「もー、こんな時にー…」	!#!DATAFORM 「もー、こんな時にー…」
+DATAFORM 「次々とあたいに降りかかる不幸…黒猫だからってのはそういうことじゃないだろう…？」	!#!DATAFORM 「次々とあたいに降りかかる不幸…黒猫だからってのはそういうことじゃないだろう…？」
+DATAFORM 「面倒なときに面倒なのがぁー」	!#!DATAFORM 「面倒なときに面倒なのがぁー」
+DATAFORM 「ああっ%UNICODE(0x2665)%　ひ…うえああ…%UNICODE(0x2665)%」	!#!DATAFORM 「ああっ%UNICODE(0x2665)%　ひ…うえああ…%UNICODE(0x2665)%」
+DATAFORM 「お願っ…ひうっ%UNICODE(0x2665)%　た…たすけっ」	!#!DATAFORM 「お願っ…ひうっ%UNICODE(0x2665)%　た…たすけっ」
+DATAFORM 「よかったあ……これで…きっと…っ」	!#!DATAFORM 「よかったあ……これで…きっと…っ」
+DATAFORM 「たーすーけーてー…」	!#!DATAFORM 「たーすーけーてー…」
+DATAFORM 「ああっ！　お願いへるぷみー！」	!#!DATAFORM 「ああっ！　お願いへるぷみー！」
+DATAFORM 「捕らわれのお姫様がここにいますよーう！」	!#!DATAFORM 「捕らわれのお姫様がここにいますよーう！」
+PRINTFORMW 「こんなの相手に…できるの…？」	!#!PRINTFORMW 「こんなの相手に…できるの…？」
+PRINTFORMW 「ここが正念場だ。　やるっきゃない！」	!#!PRINTFORMW 「ここが正念場だ。　やるっきゃない！」
+DATAFORM 「わ！　まだ開店準備中だって！」	!#!DATAFORM 「わ！　まだ開店準備中だって！」
+DATAFORM 「うへえなんかハチャメチャが押し寄せてきた！」	!#!DATAFORM 「うへえなんかハチャメチャが押し寄せてきた！」
+DATAFORM 「ちょっとこの状況はまずいんでないかい！？」	!#!DATAFORM 「ちょっとこの状況はまずいんでないかい！？」
+DATAFORM 「あたいピンチ！　いや実際どうしよう」	!#!DATAFORM 「あたいピンチ！　いや実際どうしよう」
+DATAFORM 「ああっと！　これじゃ独壇場にされちまう！」	!#!DATAFORM 「ああっと！　これじゃ独壇場にされちまう！」
+DATAFORM 「気づいていたさ。　四つの耳は伊達じゃない！」	!#!DATAFORM 「気づいていたさ。　四つの耳は伊達じゃない！」
+DATAFORM 「先んずれば人を憎まず！　覚悟しろ！」	!#!DATAFORM 「先んずれば人を憎まず！　覚悟しろ！」
+DATAFORM 「今だかかれー！」	!#!DATAFORM 「今だかかれー！」
+DATAFORM 「さあ、一気に打ち崩すよ！」	!#!DATAFORM 「さあ、一気に打ち崩すよ！」
+DATAFORM 「先制チャンス！」	!#!DATAFORM 「先制チャンス！」
+DATAFORM 「言葉通じ…たとしても聞くつもりがなさそうだ」	!#!DATAFORM 「言葉通じ…たとしても聞くつもりがなさそうだ」
+DATAFORM 「友好の挨拶を…って雰囲気じゃあないね」	!#!DATAFORM 「友好の挨拶を…って雰囲気じゃあないね」
+DATAFORM 「よーっし、いくよ！」	!#!DATAFORM 「よーっし、いくよ！」
+DATAFORM 「！　…来る！」	!#!DATAFORM 「！　…来る！」
+DATAFORM 「うっへえ、これまた変なのが出てきたねえ」	!#!DATAFORM 「うっへえ、これまた変なのが出てきたねえ」
+DATAFORM 「これで懲りたかい？」	!#!DATAFORM 「これで懲りたかい？」
+DATAFORM 「自分の子でも手は抜けないのが野生の掟さね。　あたいは半分飼い猫みたいなもんだけどさ」	!#!DATAFORM 「自分の子でも手は抜けないのが野生の掟さね。　あたいは半分飼い猫みたいなもんだけどさ」
+DATAFORM 「どーにもやりにくかったけど…ま、これでいいのかね」	!#!DATAFORM 「どーにもやりにくかったけど…ま、これでいいのかね」
+DATAFORM 「もうこれ以上は出会いたくないねぇ…」	!#!DATAFORM 「もうこれ以上は出会いたくないねぇ…」
+DATAFORM 「ひー…もういっぱいいっぱいだよ…」	!#!DATAFORM 「ひー…もういっぱいいっぱいだよ…」
+DATAFORM 「さすがに駄目かと思ったなー…」	!#!DATAFORM 「さすがに駄目かと思ったなー…」
+DATAFORM 「こんなときに襲ってこられると厄介だねぇ…」	!#!DATAFORM 「こんなときに襲ってこられると厄介だねぇ…」
+DATAFORM 「はーしんど……ってこれじゃ年寄りだね」	!#!DATAFORM 「はーしんど……ってこれじゃ年寄りだね」
+DATAFORM 「よゆー、うん。　余裕」	!#!DATAFORM 「よゆー、うん。　余裕」
+DATAFORM 「勝利っ！」	!#!DATAFORM 「勝利っ！」
+DATAFORM 「こういうのの死体は要らないねぇ」	!#!DATAFORM 「こういうのの死体は要らないねぇ」
+DATAFORM 「ざっとこんなもんよー」	!#!DATAFORM 「ざっとこんなもんよー」
+DATAFORM 「こんじょうが１ポイントあがった！」	!#!DATAFORM 「こんじょうが１ポイントあがった！」
+DATAFORM 「うぃなー…！　お燐！」	!#!DATAFORM 「うぃなー…！　お燐！」
+DATAFORM 「黒猫のあたいが言うのもなんだけど…不運だねえ」	!#!DATAFORM 「黒猫のあたいが言うのもなんだけど…不運だねえ」
+DATAFORM 「地獄にも来ないでくれよ」	!#!DATAFORM 「地獄にも来ないでくれよ」
+DATAFORM 「かくして無事に勝利をおさめたのであった、まる…っと」	!#!DATAFORM 「かくして無事に勝利をおさめたのであった、まる…っと」
+DATAFORM 「ふいー、なんとかなった」	!#!DATAFORM 「ふいー、なんとかなった」
+DATAFORM 「ひやひやしたけどこれで一息つけるかねえ」	!#!DATAFORM 「ひやひやしたけどこれで一息つけるかねえ」
+DATAFORM 「うーし、片付いた」	!#!DATAFORM 「うーし、片付いた」
+DATAFORM 「ひにゃー、危ないところだった」	!#!DATAFORM 「ひにゃー、危ないところだった」
+DATAFORM 「少しはこっちの都合も考えてくれたっていいだろうに」	!#!DATAFORM 「少しはこっちの都合も考えてくれたっていいだろうに」
+PRINTDATAW	!#!PRINTDATAW
+DATAFORM 「はぁぁ…%UNICODE(0x2665)%　どっか落ちつけるとこ探さないとだめだねこりゃ…」	!#!DATAFORM 「はぁぁ…%UNICODE(0x2665)%　どっか落ちつけるとこ探さないとだめだねこりゃ…」
+DATAFORM 「ふーっ%UNICODE(0x2665)%　この疼きちっとも静まりやしない…」	!#!DATAFORM 「ふーっ%UNICODE(0x2665)%　この疼きちっとも静まりやしない…」
+DATAFORM (このままじゃ捕まったら凄いかもーなんて思っちまいそうだ…)	!#!DATAFORM (このままじゃ捕まったら凄いかもーなんて思っちまいそうだ…)
+DATAFORM 「無理に戦い続けてもジリ貧さね…」	!#!DATAFORM 「無理に戦い続けてもジリ貧さね…」
+DATAFORM 「ふー、逃げ切れた…ってことでいいのかな」	!#!DATAFORM 「ふー、逃げ切れた…ってことでいいのかな」
+DATAFORM 「相手してられないよまったく…」	!#!DATAFORM 「相手してられないよまったく…」
+DATAFORM 「はー…これでひと安心かね」	!#!DATAFORM 「はー…これでひと安心かね」
+DATAFORM 「ついてこないでくれよっと…」	!#!DATAFORM 「ついてこないでくれよっと…」
+DATAFORM 「言われなくともスタコラサッサだよ！」	!#!DATAFORM 「言われなくともスタコラサッサだよ！」
+DATAFORM 「じゃーねー♪」	!#!DATAFORM 「じゃーねー♪」
+DATAFORM 「それじゃあまた来週ー」	!#!DATAFORM 「それじゃあまた来週ー」
+DATAFORM 「猫だけど脱兎のごとくってね！」	!#!DATAFORM 「猫だけど脱兎のごとくってね！」
+PRINTFORML 「今は…このままじゃ…っ」		PRINTFORML 「今は…このままじゃ…っ」
+PRINTFORML 「このままじゃ全滅しちゃうから…ここは一度\@ LOCAL:82 == 1 ? 退かせてもらいます # 体勢立て直してくる \@！」		PRINTFORML 「このままじゃ全滅しちゃうから…ここは一度\@ LOCAL:82 == 1 ? 退かせてもらいます # 体勢立て直してくる \@！」
+PRINTFORML 「あ…後で必ず戻って来\@ LOCAL:82 == 1 ? ます # る \@から！」		PRINTFORML 「あ…後で必ず戻って来\@ LOCAL:82 == 1 ? ます # る \@から！」
+PRINTFORML (本当か…！？　本当にそう思ってるのかあたいは…！　もうわかんないよ…)		PRINTFORML (本当か…！？　本当にそう思ってるのかあたいは…！　もうわかんないよ…)
+PRINTFORML 「い…一時退却！」		PRINTFORML 「い…一時退却！」
+PRINTFORML 「ちょ、ちょっとまってて\@ LOCAL:82 == 1 ? くださいな # おくれ \@！？」		PRINTFORML 「ちょ、ちょっとまってて\@ LOCAL:82 == 1 ? くださいな # おくれ \@！？」
+DATAFORM 「うう…ごめん\@ LOCAL:82 == 1 ? なさい # よ \@…」	!#!DATAFORM 「うう…ごめん\@ LOCAL:82 == 1 ? なさい # よ \@…」
+DATAFORM 「はー…はー…落ち着いたら…また、戻ってくるから…」	!#!DATAFORM 「はー…はー…落ち着いたら…また、戻ってくるから…」
+DATAFORM 「………もう…」	!#!DATAFORM 「………もう…」
+DATAFORM 「い…一時退却！」	!#!DATAFORM 「い…一時退却！」
+DATAFORM 「いいのかなー…」	!#!DATAFORM 「いいのかなー…」
+DATAFORM 「あ、後でどうにか…」	!#!DATAFORM 「あ、後でどうにか…」
+DATAFORM 「い…行かないで…っ、もうイきたくないの…っ」	!#!DATAFORM 「い…行かないで…っ、もうイきたくないの…っ」
+DATAFORM 「え？　え？　待…ひゃあん%UNICODE(0x2665)%！」	!#!DATAFORM 「え？　え？　待…ひゃあん%UNICODE(0x2665)%！」
+DATAFORM 「や…やだちょ…このエロ生物なんとかしておくれ…っ！」	!#!DATAFORM 「や…やだちょ…このエロ生物なんとかしておくれ…っ！」
+DATAFORM 「ええっ！？　置いてけぼり！？」	!#!DATAFORM 「ええっ！？　置いてけぼり！？」
+DATAFORM 「ぎゃーん！　捨て駒やめてー！」	!#!DATAFORM 「ぎゃーん！　捨て駒やめてー！」
+DATAFORM 「待ってー！？　値を助けてからにしてー！！」	!#!DATAFORM 「待ってー！？　値を助けてからにしてー！！」
+PRINTFORMW 「服噛んですれば声でないよね？」	!#!PRINTFORMW 「服噛んですれば声でないよね？」
+DATAFORM 「おおあ゛っ%UNICODE(0x2665)%　えあ゛あぁあう%UNICODE(0x2665)%！！」	!#!DATAFORM 「おおあ゛っ%UNICODE(0x2665)%　えあ゛あぁあう%UNICODE(0x2665)%！！」
+DATAFORM 「～～～～～ッ%UNICODE(0x2665)%　～～～ッ！」	!#!DATAFORM 「～～～～～ッ%UNICODE(0x2665)%　～～～ッ！」
+DATAFORM 「にゃう…ぎ、ひぃぃーっ」	!#!DATAFORM 「にゃう…ぎ、ひぃぃーっ」
+DATAFORM 「ぐぅーっ%UNICODE(0x2665)%　イ、グうぅぅーっ」	!#!DATAFORM 「ぐぅーっ%UNICODE(0x2665)%　イ、グうぅぅーっ」
+DATAFORM 「ひーっ%UNICODE(0x2665)%　い、いい゛いいっぃぁあ゛ぁ！」	!#!DATAFORM 「ひーっ%UNICODE(0x2665)%　い、いい゛いいっぃぁあ゛ぁ！」
+DATAFORM 「ま、まひゃイク…イッちゃ…うーーっ」	!#!DATAFORM 「ま、まひゃイク…イッちゃ…うーーっ」
+DATAFORM 「あ゛ーっ%UNICODE(0x2665)%　うあ゛あーっ」	!#!DATAFORM 「あ゛ーっ%UNICODE(0x2665)%　うあ゛あーっ」
+DATAFORM 「おお゛っ%UNICODE(0x2665)%　あ、あ゛あぅ%UNICODE(0x2665)%」	!#!DATAFORM 「おお゛っ%UNICODE(0x2665)%　あ、あ゛あぅ%UNICODE(0x2665)%」
+DATAFORM 「もうイクのやあぁーっ%UNICODE(0x2665)%」	!#!DATAFORM 「もうイクのやあぁーっ%UNICODE(0x2665)%」
+DATAFORM 「フーッ　フーッ　……んん゛っ%UNICODE(0x2665)%　んんーーっ%UNICODE(0x2665)%！！」	!#!DATAFORM 「フーッ　フーッ　……んん゛っ%UNICODE(0x2665)%　んんーーっ%UNICODE(0x2665)%！！」
+DATAFORM 「止まってー！　イクの止まっておくれよぉー！　ぉっぉおお゛おっ%UNICODE(0x2665)%！」	!#!DATAFORM 「止まってー！　イクの止まっておくれよぉー！　ぉっぉおお゛おっ%UNICODE(0x2665)%！」
+DATAFORM 「ふぐっ%UNICODE(0x2665)%　えあ゛ああぁーっ%UNICODE(0x2665)%」	!#!DATAFORM 「ふぐっ%UNICODE(0x2665)%　えあ゛ああぁーっ%UNICODE(0x2665)%」
+DATAFORM 「あ…ぐ…ふうっ！　あ、もう…ひゃああう%UNICODE(0x2665)%！」	!#!DATAFORM 「あ…ぐ…ふうっ！　あ、もう…ひゃああう%UNICODE(0x2665)%！」
+DATAFORM 「こんなの相手に何度も…っ　あああっ%UNICODE(0x2665)%」	!#!DATAFORM 「こんなの相手に何度も…っ　あああっ%UNICODE(0x2665)%」
+DATAFORM 「くそ、またきちまう……ぅうぅっ」	!#!DATAFORM 「くそ、またきちまう……ぅうぅっ」
+DATAFORM 「我慢しようにもこれ結構…す、ごっ%UNICODE(0x2665)%　んぅぅー！」	!#!DATAFORM 「我慢しようにもこれ結構…す、ごっ%UNICODE(0x2665)%　んぅぅー！」
+DATAFORM 「にゃ、く…やうぅっ」	!#!DATAFORM 「にゃ、く…やうぅっ」
+DATAFORM 「きちゃダメ、ダメだってば！　こんなのでイきまく…あああぁっ！」	!#!DATAFORM 「きちゃダメ、ダメだってば！　こんなのでイきまく…あああぁっ！」
+DATAFORM 「あーっ、イ…っうあああぅ！」	!#!DATAFORM 「あーっ、イ…っうあああぅ！」
+DATAFORM 「イキ癖でもついちまったってのかい…だんだん短く…くぅっ」	!#!DATAFORM 「イキ癖でもついちまったってのかい…だんだん短く…くぅっ」
+DATAFORM 「イ゛ッ　…～～%UNICODE(0x2665)%　…さっきのより深…」	!#!DATAFORM 「イ゛ッ　…～～%UNICODE(0x2665)%　…さっきのより深…」
+DATAFORM 「ダメ、なのに…あたいまた…ん゛んっ」	!#!DATAFORM 「ダメ、なのに…あたいまた…ん゛んっ」
+DATAFORM 「やば…今度のも深っ…ううぅう゛！」	!#!DATAFORM 「やば…今度のも深っ…ううぅう゛！」
+DATAFORM 「こんな、こと、でえ…ひんっ%UNICODE(0x2665)%！」	!#!DATAFORM 「こんな、こと、でえ…ひんっ%UNICODE(0x2665)%！」
+DATAFORM 「これまずいっ…ひゃうん！」	!#!DATAFORM 「これまずいっ…ひゃうん！」
+DATAFORM 「やば…イッ……んんっ」	!#!DATAFORM 「やば…イッ……んんっ」
+DATAFORM 「あ…も、う…っ！」	!#!DATAFORM 「あ…も、う…っ！」
+DATAFORM 「こんな…、は、ふうぅ！」	!#!DATAFORM 「こんな…、は、ふうぅ！」
+DATAFORM 「イ…ク…っ%UNICODE(0x2665)%　あぁ！」	!#!DATAFORM 「イ…ク…っ%UNICODE(0x2665)%　あぁ！」
+DATAFORM 「これ以上我慢…ひっ！」	!#!DATAFORM 「これ以上我慢…ひっ！」
+DATAFORM 「あ…くぅ、うっ！」	!#!DATAFORM 「あ…くぅ、うっ！」
+DATAFORM 「にゃ…あああうっ！」	!#!DATAFORM 「にゃ…あああうっ！」
+DATAFORM 「ああ…ひぃ、いんっ！」	!#!DATAFORM 「ああ…ひぃ、いんっ！」
+DATAFORM 「ん、く、んーっ！」	!#!DATAFORM 「ん、く、んーっ！」
+DATAFORM 「うあ…ああぅ！」	!#!DATAFORM 「うあ…ああぅ！」
+DATAFORM 「ふ…ふくうぅ」	!#!DATAFORM 「ふ…ふくうぅ」
+DATAFORM 「はーあ、あ、あぅ！」	!#!DATAFORM 「はーあ、あ、あぅ！」
+DATAFORM 「ひふ…ひ、うっ」	!#!DATAFORM 「ひふ…ひ、うっ」
+DATAFORM 「こんなのでえ…んんううっ！」	!#!DATAFORM 「こんなのでえ…んんううっ！」
+DATAFORM (うああ…もう…頭が沸騰しそうだよ…)	!#!DATAFORM (うああ…もう…頭が沸騰しそうだよ…)
+DATAFORM 「ひー…ひー…イ゛イィ%UNICODE(0x2665)%」	!#!DATAFORM 「ひー…ひー…イ゛イィ%UNICODE(0x2665)%」
+DATAFORM 「からだじゅう煮えて…もう、わけわかんあくなっひっまうよお…」	!#!DATAFORM 「からだじゅう煮えて…もう、わけわかんあくなっひっまうよお…」
+DATAFORM 「どんどん敏感になってきてるぅ…もう、まともに耐えられそうになひぃ…」	!#!DATAFORM 「どんどん敏感になってきてるぅ…もう、まともに耐えられそうになひぃ…」
+DATAFORM (だんだん頭が追いつかなくなってきてる…これは、まずい…)	!#!DATAFORM (だんだん頭が追いつかなくなってきてる…これは、まずい…)
+DATAFORM 「はー…あ、あぁ…っ　こいつ…上手くなってきてる…？」	!#!DATAFORM 「はー…あ、あぁ…っ　こいつ…上手くなってきてる…？」
+DATAFORM (あたい、濡れてきちまってる…少しずつ、ほだされてきちまってるんだ…っ)	!#!DATAFORM (あたい、濡れてきちまってる…少しずつ、ほだされてきちまってるんだ…っ)
+DATAFORM 「う、あああぁー……じんじんして、る…」	!#!DATAFORM 「う、あああぁー……じんじんして、る…」
+DATAFORM 「どどどどうしよう！？」	!#!DATAFORM 「どどどどうしよう！？」
+DATAFORM 「た、大変だっ！」	!#!DATAFORM 「た、大変だっ！」
+DATAFORM 「うわぁめでぃーっく！」	!#!DATAFORM 「うわぁめでぃーっく！」
+DATAFORM 「わわわ！　これは一大事！」	!#!DATAFORM 「わわわ！　これは一大事！」
+DATAFORM 「おお！？　%CALLNAME_82_0(ARG:1)%！？　大丈夫\@ LOCAL:82 == 1 ? ですか # かい \@！？」	!#!DATAFORM 「おお！？　%CALLNAME_82_0(ARG:1)%！？　大丈夫\@ LOCAL:82 == 1 ? ですか # かい \@！？」
+DATAFORM 「どうもですー」	!#!DATAFORM 「どうもですー」
+DATAFORM 「あ、%CALLNAME_82_0(ARG:1)%…今、どんな感じですか？」	!#!DATAFORM 「あ、%CALLNAME_82_0(ARG:1)%…今、どんな感じですか？」
+DATAFORM 「あああ…変な化け物じゃなく話が通じそうなお方に会えた…」	!#!DATAFORM 「あああ…変な化け物じゃなく話が通じそうなお方に会えた…」
+DATAFORM 「%CALLNAME_82_0(ARG:1)%…よかったー。　ええとお怪我は？」	!#!DATAFORM 「%CALLNAME_82_0(ARG:1)%…よかったー。　ええとお怪我は？」
+DATAFORM 「ほっ、%CALLNAME_82_0(ARG:1)%ですか…いや変なのがうろついてる場所なもんでつい」	!#!DATAFORM 「ほっ、%CALLNAME_82_0(ARG:1)%ですか…いや変なのがうろついてる場所なもんでつい」
+DATAFORM 「おっとよかった、ちょいとお時間よろしいかいっと」	!#!DATAFORM 「おっとよかった、ちょいとお時間よろしいかいっと」
+DATAFORM 「やあやあ%CALLNAME_82_0(ARG:1)%。　調子はどうだい？」	!#!DATAFORM 「やあやあ%CALLNAME_82_0(ARG:1)%。　調子はどうだい？」
+DATAFORM 「おお人だ！　まともに話が通じそうな人だ！」	!#!DATAFORM 「おお人だ！　まともに話が通じそうな人だ！」
+DATAFORM 「第一村人はっけーん」	!#!DATAFORM 「第一村人はっけーん」
+DATAFORM 「おや%CALLNAME_82_0(ARG:1)%、ご機嫌うるわしゅー」	!#!DATAFORM 「おや%CALLNAME_82_0(ARG:1)%、ご機嫌うるわしゅー」
+PRINTFORML 「はは、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」		PRINTFORML 「はは、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」
+PRINTFORML 「ホントに……ね…」		PRINTFORML 「ホントに……ね…」
+PRINTFORML 「あー、うん。　コレは気にしないでいいからさ…」		PRINTFORML 「あー、うん。　コレは気にしないでいいからさ…」
+PRINTFORML 「いんやーまさかこの歳で身重になるとは思わなんだ！」		PRINTFORML 「いんやーまさかこの歳で身重になるとは思わなんだ！」
+PRINTFORML 「ちと動きにくいのが困りものだねー、ほらあたいってスレンダーってやつだからさ！　どうも慣れなくて」		PRINTFORML 「ちと動きにくいのが困りものだねー、ほらあたいってスレンダーってやつだからさ！　どうも慣れなくて」
+DATAFORM 「ところで%CALLNAME_82_0(ARG:1)%出口\@ LOCAL:82 == 1 ? は見つかって…そうですか、ないですか… # 知らない？　…まあそうだよね \@」	!#!DATAFORM 「ところで%CALLNAME_82_0(ARG:1)%出口\@ LOCAL:82 == 1 ? は見つかって…そうですか、ないですか… # 知らない？　…まあそうだよね \@」
+DATAFORM 「まったく、犯人というか原因と言うかはどこにいらっしゃるんだかねえ…」	!#!DATAFORM 「まったく、犯人というか原因と言うかはどこにいらっしゃるんだかねえ…」
+DATAFORM 「そうそう…こればっかりはあたいも…」	!#!DATAFORM 「そうそう…こればっかりはあたいも…」
+DATAFORM 「手当たり次第に探すだけで結構いろいろ見つかるん\@ LOCAL:82 == 1 ? です # だ \@よねー」	!#!DATAFORM 「手当たり次第に探すだけで結構いろいろ見つかるん\@ LOCAL:82 == 1 ? です # だ \@よねー」
+DATAFORM 「ホントに厄介なことばかり起きてこまっちゃ\@ LOCAL:82 == 1 ? いますよ # うよ \@ね」	!#!DATAFORM 「ホントに厄介なことばかり起きてこまっちゃ\@ LOCAL:82 == 1 ? いますよ # うよ \@ね」
+DATAFORM 「ただのおしゃべりでこんなに心が洗われるなんてー…」	!#!DATAFORM 「ただのおしゃべりでこんなに心が洗われるなんてー…」
+DATAFORM 「地獄から地上に出た身としてはなおさらお天道様が恋しい\@ LOCAL:82 == 1 ? んです #  \@よー…」	!#!DATAFORM 「地獄から地上に出た身としてはなおさらお天道様が恋しい\@ LOCAL:82 == 1 ? んです #  \@よー…」
+DATAFORM 「いやー、見せたかった\@ LOCAL:82 == 1 ? ですよ # なあ \@あたいの八面六臂の大活躍！」	!#!DATAFORM 「いやー、見せたかった\@ LOCAL:82 == 1 ? ですよ # なあ \@あたいの八面六臂の大活躍！」
+DATAFORM 「やっぱおしゃべりしてるほうが気が紛れていいさね」	!#!DATAFORM 「やっぱおしゃべりしてるほうが気が紛れていいさね」
+DATAFORM 「うんうん、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」	!#!DATAFORM 「うんうん、お互い大変\@ LOCAL:82 == 1 ? ですね # だー \@」
+DATAFORM 「あはは…いやまったく」	!#!DATAFORM 「あはは…いやまったく」
+DATAFORM 「あたいもーちっとお話したいなー」	!#!DATAFORM 「あたいもーちっとお話したいなー」
+DATAFORM (…あのお腹についちゃあ触れるべきじゃないね)	!#!DATAFORM (…あのお腹についちゃあ触れるべきじゃないね)
+DATAFORM (%CALLNAME_82_0(ARG:1)%のお腹…やっぱり…)	!#!DATAFORM (%CALLNAME_82_0(ARG:1)%のお腹…やっぱり…)
+DATAFORM (ちょっとしたおしゃべりで気分ぐらいは楽にしといてあげたいねえ…)	!#!DATAFORM (ちょっとしたおしゃべりで気分ぐらいは楽にしといてあげたいねえ…)
+DATAFORM (…きつい匂いにゃなれっこの筈なんだけどなー…なんかクラクラする…)	!#!DATAFORM (…きつい匂いにゃなれっこの筈なんだけどなー…なんかクラクラする…)
+DATAFORM (うう…この匂いやけに胸に来る…　いけない、これじゃあいつらと同じさね)	!#!DATAFORM (うう…この匂いやけに胸に来る…　いけない、これじゃあいつらと同じさね)
+DATAFORM (女の子のいい匂いとも違う、けど…なんか気が落ち着かないねえ…)	!#!DATAFORM (女の子のいい匂いとも違う、けど…なんか気が落ち着かないねえ…)
+DATAFORM (%CALLNAME_82_0(ARG:1)%…このくらいじゃ気分は晴れてくれないか)	!#!DATAFORM (%CALLNAME_82_0(ARG:1)%…このくらいじゃ気分は晴れてくれないか)
+DATAFORM (%CALLNAME_82_0(ARG:1)%相当辛いみたいだなあ…なんだかあたい空回りしてる気がする)	!#!DATAFORM (%CALLNAME_82_0(ARG:1)%相当辛いみたいだなあ…なんだかあたい空回りしてる気がする)
+DATAFORM (…にゃうう…なんか空気が重い…)	!#!DATAFORM (…にゃうう…なんか空気が重い…)
+DATAFORM 「ふむふむふむーん」	!#!DATAFORM 「ふむふむふむーん」
+DATAFORM 「へえ…なるほど」	!#!DATAFORM 「へえ…なるほど」
+DATAFORM 「いいこと聞いた！」	!#!DATAFORM 「いいこと聞いた！」
+DATAFORM 「あ！　その話詳しく！」	!#!DATAFORM 「あ！　その話詳しく！」
+DATAFORM 「いやー助かります」	!#!DATAFORM 「いやー助かります」
+DATAFORM 「えーっと、知ってるのはこのくらいさね」	!#!DATAFORM 「えーっと、知ってるのはこのくらいさね」
+DATAFORM 「そうだなあ…あ！　あれはどうだろ！」	!#!DATAFORM 「そうだなあ…あ！　あれはどうだろ！」
+DATAFORM 「そんな沢山知ってるわけじゃないんだけどね」	!#!DATAFORM 「そんな沢山知ってるわけじゃないんだけどね」
+DATAFORM 「これは貸しに…しなくていいや」	!#!DATAFORM 「これは貸しに…しなくていいや」
+DATAFORM 「助け合いの精神ってやつだね。　そーだなあ…」	!#!DATAFORM 「助け合いの精神ってやつだね。　そーだなあ…」
+DATAFORM 「役に立つ…かなあ」	!#!DATAFORM 「役に立つ…かなあ」
+PRINTFORML 		PRINTFORML 
+DATAFORM 「ええい！　じっとしてて事態が好転するわけでもなし！」	!#!DATAFORM 「ええい！　じっとしてて事態が好転するわけでもなし！」
+DATAFORM 「手負いの猫はジャッカルより凶暴だー！」	!#!DATAFORM 「手負いの猫はジャッカルより凶暴だー！」
+DATAFORM 「こうなったら罠も踏み抜く勢いで！」	!#!DATAFORM 「こうなったら罠も踏み抜く勢いで！」
+DATAFORM 「一気に行く方が眠気覚ましにもなるでしょ！」	!#!DATAFORM 「一気に行く方が眠気覚ましにもなるでしょ！」
+DATAFORM 「うおー！」(やけくそ)	!#!DATAFORM 「うおー！」(やけくそ)
+DATAFORM 「こう眠くちゃ細かいこと考えてられないし！」	!#!DATAFORM 「こう眠くちゃ細かいこと考えてられないし！」
+DATAFORM 「案ずるより産むが易し！　…洒落になってない！！」	!#!DATAFORM 「案ずるより産むが易し！　…洒落になってない！！」
+DATAFORM 「危なそうなとこはいっそがーっといってばーっと駆け抜けりゃいいんだい！」	!#!DATAFORM 「危なそうなとこはいっそがーっといってばーっと駆け抜けりゃいいんだい！」
+DATAFORM 「駆け抜けろチーターのように！」	!#!DATAFORM 「駆け抜けろチーターのように！」
+DATAFORM 「縮こまっててもしゃーない！　とつげきー」	!#!DATAFORM 「縮こまっててもしゃーない！　とつげきー」
+DATAFORM 「無理は禁物…ていうかできるほど元気ないわ」	!#!DATAFORM 「無理は禁物…ていうかできるほど元気ないわ」
+DATAFORM 「知らない場所で無茶はしてらんないしね…」	!#!DATAFORM 「知らない場所で無茶はしてらんないしね…」
+DATAFORM 「臆病なくらいでちょうどいいのよね」	!#!DATAFORM 「臆病なくらいでちょうどいいのよね」
+DATAFORM 「しーんちょーにー…うあいだ！　頭ぶつけた…」	!#!DATAFORM 「しーんちょーにー…うあいだ！　頭ぶつけた…」
+DATAFORM 「あくび止めとかないと見つかっちまう…くあぁ」	!#!DATAFORM 「あくび止めとかないと見つかっちまう…くあぁ」
+DATAFORM 「こんだけ眠いとうかつに突っ込めないからねえ…むにゃ」	!#!DATAFORM 「こんだけ眠いとうかつに突っ込めないからねえ…むにゃ」
+DATAFORM 「猫に戻れりゃもすこし静かにいけそうなんだがねえ」	!#!DATAFORM 「猫に戻れりゃもすこし静かにいけそうなんだがねえ」
+DATAFORM 「そろーりそろーり」	!#!DATAFORM 「そろーりそろーり」
+DATAFORM 「だれかいませんかーだれもいませんねー…」	!#!DATAFORM 「だれかいませんかーだれもいませんねー…」
+DATAFORM 「あたいこれでも忍び足には自身あるんですよっと…」	!#!DATAFORM 「あたいこれでも忍び足には自身あるんですよっと…」
+DATAFORM 「待ち伏せ？　あー、そりゃありがたい\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@。　今あたいあんま動けないからー…」	!#!DATAFORM 「待ち伏せ？　あー、そりゃありがたい\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@。　今あたいあんま動けないからー…」
+DATAFORM 「んー…あたいに気使ってるわけじゃない、\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@よね？」	!#!DATAFORM 「んー…あたいに気使ってるわけじゃない、\@ GROUPMATCH(NO:1, 81,84,80,36,23) ? です #  \@よね？」
+DATAFORM 「こんな状態なら真っ向勝負よりはね」	!#!DATAFORM 「こんな状態なら真っ向勝負よりはね」
+DATAFORM 「ハンディあるからねー…無理は禁物」	!#!DATAFORM 「ハンディあるからねー…無理は禁物」
+DATAFORM 「この状態で無茶してもしゃーないし…」	!#!DATAFORM 「この状態で無茶してもしゃーないし…」
+DATAFORM 「休み休みでないときついんよね…」	!#!DATAFORM 「休み休みでないときついんよね…」
+DATAFORM 「んん。　突っこむよりは体力温存かねえ。　…あと眠いし」	!#!DATAFORM 「んん。　突っこむよりは体力温存かねえ。　…あと眠いし」
+DATAFORM 「警戒たいせー……ふぁーあ」	!#!DATAFORM 「警戒たいせー……ふぁーあ」
+DATAFORM 「くあー…じっとしてると寝ちまいそうだよ…」	!#!DATAFORM 「くあー…じっとしてると寝ちまいそうだよ…」
+DATAFORM 「こう伏せてると不思議と血が疼くねえ♪　とと、いけないいけない静かにしないと」	!#!DATAFORM 「こう伏せてると不思議と血が疼くねえ♪　とと、いけないいけない静かにしないと」
+DATAFORM 「なんかこう『狩り』って感じがするよ。　そうさ、追われるのはあっちの方だ」	!#!DATAFORM 「なんかこう『狩り』って感じがするよ。　そうさ、追われるのはあっちの方だ」
+DATAFORM 「逃げるつもりでも戦うつもりでも先手を取るのは大事さね」	!#!DATAFORM 「逃げるつもりでも戦うつもりでも先手を取るのは大事さね」
+DATAFORM (忍び寄り刈り取るんだそうジャガーのように！)	!#!DATAFORM (忍び寄り刈り取るんだそうジャガーのように！)
+DATAFORM 「身体重いー…でもだからってじっとしてるわけにもいかないー…」	!#!DATAFORM 「身体重いー…でもだからってじっとしてるわけにもいかないー…」
+DATAFORM 「あんまりあちこちは探せそうにないけどね…」	!#!DATAFORM 「あんまりあちこちは探せそうにないけどね…」
+DATAFORM 「近場でなんか見つけられりゃ御の字かね…」	!#!DATAFORM 「近場でなんか見つけられりゃ御の字かね…」
+DATAFORM 「ちょっちきついけど…ま、がんばるかね」	!#!DATAFORM 「ちょっちきついけど…ま、がんばるかね」
+DATAFORM 「なんかいーものなーいっかなー♪」	!#!DATAFORM 「なんかいーものなーいっかなー♪」
+DATAFORM 「さって！　気分転換にアイテム探しでもしよっかね！」	!#!DATAFORM 「さって！　気分転換にアイテム探しでもしよっかね！」
+DATAFORM 「お魚さがしたどらねこーおーいかけーて♪」	!#!DATAFORM 「お魚さがしたどらねこーおーいかけーて♪」
+DATAFORM 「ただ帰るだけじゃ割に合わないさね。　お宝のひとつやふたつ持って帰っても罰はあたらんでしょ！」	!#!DATAFORM 「ただ帰るだけじゃ割に合わないさね。　お宝のひとつやふたつ持って帰っても罰はあたらんでしょ！」
+DATAFORM 「物資ほきゅー物資ほきゅー」	!#!DATAFORM 「物資ほきゅー物資ほきゅー」
+PRINTFORMW 「」	!#!PRINTFORMW 「」
+PRINTFORML 　		PRINTFORML 　
+PRINTFORMDW そこはどことも知れぬ謎の洞窟	!#!PRINTFORMDW そこはどことも知れぬ謎の洞窟
+PRINTFORMDW 縦横無尽に広がる道なき道は言い知れぬ不穏な空気を纏い、居る者の不安を掻きたてる昏い迷宮	!#!PRINTFORMDW 縦横無尽に広がる道なき道は言い知れぬ不穏な空気を纏い、居る者の不安を掻きたてる昏い迷宮
+PRINTFORMW 「それではここで問題です。　Q:ここはどこでしょう？」	!#!PRINTFORMW 「それではここで問題です。　Q:ここはどこでしょう？」
+PRINTFORMW 「…………」	!#!PRINTFORMW 「…………」
+PRINTFORMW 「まあ、分かってたらお互い苦労はしないよねえ…」	!#!PRINTFORMW 「まあ、分かってたらお互い苦労はしないよねえ…」
+PRINTFORMDL そんな陰気な空間の中、底抜けの笑顔を呆れ困りの顔に変え、	!#!PRINTFORMDL そんな陰気な空間の中、底抜けの笑顔を呆れ困りの顔に変え、
+PRINTFORMDW 火車の妖猫・火焔猫 燐は今自分以上に困った顔をしているだろう相手の背に向けて溜息をついた	!#!PRINTFORMDW 火車の妖猫・火焔猫 燐は今自分以上に困った顔をしているだろう相手の背に向けて溜息をついた
+PRINTFORML 「これ最近ウワサの神隠しってやつだよねえ。		PRINTFORML 「これ最近ウワサの神隠しってやつだよねえ。
+PRINTFORML 　死体を攫うのが得意なあたいがよもや攫われる側になってしまうとは思わなんだ」		PRINTFORML 　死体を攫うのが得意なあたいがよもや攫われる側になってしまうとは思わなんだ」
+PRINTFORMW 「お姉さんも同じように神隠しにあったクチだろう？　なら一緒に出口探しといかないかい？　…ほいできた」	!#!PRINTFORMW 「お姉さんも同じように神隠しにあったクチだろう？　なら一緒に出口探しといかないかい？　…ほいできた」
+PRINTFORMDL 小悪魔の赤髪の一部を結い、小さな三つ編みを一筋つ作り終えた燐はその出来に得心すると	!#!PRINTFORMDL 小悪魔の赤髪の一部を結い、小さな三つ編みを一筋つ作り終えた燐はその出来に得心すると
+PRINTFORMDL 今度は小悪魔の肩に手をかけ覗き込むように顔を寄せる	!#!PRINTFORMDL 今度は小悪魔の肩に手をかけ覗き込むように顔を寄せる
+PRINTFORMW 「話を聞く限りお互い身体が変な感じに変えられてるみたいだしさ、一人で居るより絶対いいって♪」	!#!PRINTFORMW 「話を聞く限りお互い身体が変な感じに変えられてるみたいだしさ、一人で居るより絶対いいって♪」
+PRINTFORMW 「そっちも力が思うように出なくて困ってたんだろ？　あたい耳も効くし一人で居るより絶対いいって♪」	!#!PRINTFORMW 「そっちも力が思うように出なくて困ってたんだろ？　あたい耳も効くし一人で居るより絶対いいって♪」
+PRINTFORMW 「よっし決まり！　とりあえずこの辺りの地形とか確認して、なんか手がかりでも見つけよう！」	!#!PRINTFORMW 「よっし決まり！　とりあえずこの辺りの地形とか確認して、なんか手がかりでも見つけよう！」
+PRINTFORMW 「それじゃあ善は急げ、もたもたしてると置いてっちゃうよ！　出発しんこー！」	!#!PRINTFORMW 「それじゃあ善は急げ、もたもたしてると置いてっちゃうよ！　出発しんこー！」
+PRINTFORMDL 勝手に物事を決めずかずかと先に進んでしまう燐。	!#!PRINTFORMDL 勝手に物事を決めずかずかと先に進んでしまう燐。
+PRINTFORMDW 小悪魔も一瞬の逡巡はあったであろうものの、結局燐についていくことにしたようで後から慌てて駆けてくる	!#!PRINTFORMDW 小悪魔も一瞬の逡巡はあったであろうものの、結局燐についていくことにしたようで後から慌てて駆けてくる
+PRINTFORMDW 少々あわただしくはあるものの、こうして二人の迷宮探索は始まりを告げたのであった	!#!PRINTFORMDW 少々あわただしくはあるものの、こうして二人の迷宮探索は始まりを告げたのであった
+PRINTFORMDW 「……………………」	!#!PRINTFORMDW 「……………………」
+PRINTFORMDW その始まりを見つめるいくつもの気配の存在に二人は気づいていない	!#!PRINTFORMDW その始まりを見つめるいくつもの気配の存在に二人は気づいていない
+PRINTFORMDW そして共に歩く少女がそれ以上に深い淫性を秘めていることにもまた、燐は気付けてはいなかった…	!#!PRINTFORMDW そして共に歩く少女がそれ以上に深い淫性を秘めていることにもまた、燐は気付けてはいなかった…
+PRINTFORMDW そんな所に不釣り合いな屈託のない笑顔を浮かべた少女が一人	!#!PRINTFORMDW そんな所に不釣り合いな屈託のない笑顔を浮かべた少女が一人
+PRINTFORMDW 乙女の色気と少女の柔らかさとを絶妙に併せ持つしなやかな身体を黒と深緑のワンピースに包んだ猫耳の妖だ	!#!PRINTFORMDW 乙女の色気と少女の柔らかさとを絶妙に併せ持つしなやかな身体を黒と深緑のワンピースに包んだ猫耳の妖だ
+PRINTFORMW 「誰か答えとくれよー寂しいよー」	!#!PRINTFORMW 「誰か答えとくれよー寂しいよー」
+PRINTFORML 「…はぁ。　これ最近ウワサの神隠しってやつだよねえ。		PRINTFORML 「…はぁ。　これ最近ウワサの神隠しってやつだよねえ。
+PRINTFORM 「そもそもなんなのさこれ。　いつの間にやら	!#!PRINTFORM 「そもそもなんなのさこれ。　いつの間にやら
+PRINTFORM 胸はばかでっかくなってるし	!#!PRINTFORM 胸はばかでっかくなってるし
+PRINTFORM 母乳滲むわ	!#!PRINTFORM 母乳滲むわ
+PRINTFORM 股ぐらに変なのくっついてるわ	!#!PRINTFORM 股ぐらに変なのくっついてるわ
+PRINTFORM ついでに	!#!PRINTFORM ついでに
+PRINTFORM がっちりつけられてるこいつぁ貞操帯かい？	!#!PRINTFORM がっちりつけられてるこいつぁ貞操帯かい？
+PRINTFORM でさ。　困っちまうよ	!#!PRINTFORM でさ。　困っちまうよ
+PRINTFORML 」		PRINTFORML 」
+PRINTFORM 「しかも	!#!PRINTFORM 「しかも
+PRINTFORM 身体が子供みたいに縮んでるたあどういうことだい！	!#!PRINTFORM 身体が子供みたいに縮んでるたあどういうことだい！
+PRINTFORM 　…それに	!#!PRINTFORM 　…それに
+PRINTFORM …なんか、体中…んっ、変にこそばゆい気がするし…	!#!PRINTFORM …なんか、体中…んっ、変にこそばゆい気がするし…
+PRINTFORML 「おまけに何が原因やら猫にも戻れないときたもんだ。　力はこっちの方が出せるからいいけどさ、		PRINTFORML 「おまけに何が原因やら猫にも戻れないときたもんだ。　力はこっちの方が出せるからいいけどさ、
+PRINTFORMW 　ただの神隠しでもないってことだよねこれ…思ったより厄介そうなことになってるなあ」	!#!PRINTFORMW 　ただの神隠しでもないってことだよねこれ…思ったより厄介そうなことになってるなあ」
+PRINTFORML 「んー、でも異変である以上じっとしててもそのうち巫女のおねーさんが解決してくれるたあ思うんだけど…」		PRINTFORML 「んー、でも異変である以上じっとしててもそのうち巫女のおねーさんが解決してくれるたあ思うんだけど…」
+PRINTFORMW 「地獄育ちとはいえか弱く繊細な子猫ちゃんであるあたいにはここはちいとばかし陰気すぎるね、うん」	!#!PRINTFORMW 「地獄育ちとはいえか弱く繊細な子猫ちゃんであるあたいにはここはちいとばかし陰気すぎるね、うん」
+PRINTFORML 「よっし決まり！　とりあえず脱出を目標にあちこちうろついてみますか！」		PRINTFORML 「よっし決まり！　とりあえず脱出を目標にあちこちうろついてみますか！」
+PRINTFORML 「神隠しにあったヒトみんなここに来てるならそのうち会えるかもしれないし、		PRINTFORML 「神隠しにあったヒトみんなここに来てるならそのうち会えるかもしれないし、
+PRINTFORML 　巫女のお姉さん含めて知った顔もあるかもだし」		PRINTFORML 　巫女のお姉さん含めて知った顔もあるかもだし」
+PRINTFORMW 「うん、なんだかなんとかなる気がしてきたよ。　それじゃあ善は急げ、出発しんこー！」	!#!PRINTFORMW 「うん、なんだかなんとかなる気がしてきたよ。　それじゃあ善は急げ、出発しんこー！」
+PRINTFORMDL 足取り軽く迷宮の奥へと向かい歩を進める燐	!#!PRINTFORMDL 足取り軽く迷宮の奥へと向かい歩を進める燐
+PRINTFORMDL その背から少し離れた物陰には細長い体をくねらせ蠢く影がひとつ、ふたつ…	!#!PRINTFORMDL その背から少し離れた物陰には細長い体をくねらせ蠢く影がひとつ、ふたつ…
+PRINTFORMDL 生理的嫌悪を催すような動きで身を洞穴の隙間に潜り込ませていくそれらが放つ気配は	!#!PRINTFORMDL 生理的嫌悪を催すような動きで身を洞穴の隙間に潜り込ませていくそれらが放つ気配は
+PRINTFORMDL どうひいき目に見ても友好さを感じられるものではない	!#!PRINTFORMDL どうひいき目に見ても友好さを感じられるものではない
+PRINTFORMDW そしてそれらの瞳なき視線は確かに燐の背へと向いていたのだ	!#!PRINTFORMDW そしてそれらの瞳なき視線は確かに燐の背へと向いていたのだ
+PRINTFORMDW 彼女が急ぎ進む先にあるものは果たして本当に"善"なのであろうか……	!#!PRINTFORMDW 彼女が急ぎ進む先にあるものは果たして本当に"善"なのであろうか……
+PRINTFORML	!#!PRINTFORML
+PRINTFORMW があったりなかったりするのは特に意味があるわけではありません。	!#!PRINTFORMW があったりなかったりするのは特に意味があるわけではありません。
+PRINTFORMW は「;」を左につけるか消すかしたほうがいいです。	!#!PRINTFORMW は「;」を左につけるか消すかしたほうがいいです。

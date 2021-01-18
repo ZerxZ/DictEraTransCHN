@@ -1,285 +1,283 @@
-﻿//口上:
-
-PRINTFORMW （どうか触手が大食いお化けを再起不能にしてくれますように！　復讐されるような事態になりませんように！）	PRINTFORMW （どうか触手が大食いお化けを再起不能にしてくれますように！　復讐されるような事態になりませんように！）
-PRINTFORMW 「はひっ♪　こんなにっ、イったら……うはぁっ♪　まわり、真っ白くなって、見えないよぉっ……♪」	PRINTFORMW 「はひっ♪　こんなにっ、イったら……うはぁっ♪　まわり、真っ白くなって、見えないよぉっ……♪」
-PRINTFORMDW 目をごしごしと擦りながら起き上がったミスティアは、足音から伝わる感触に小さく悲鳴を上げた。	PRINTFORMDW 目をごしごしと擦りながら起き上がったミスティアは、足音から伝わる感触に小さく悲鳴を上げた。
-PRINTFORMDW この迷宮には目のついていない魔物が多数いることを、勇ましげに歌うミスティアはまだ知らない。	PRINTFORMDW この迷宮には目のついていない魔物が多数いることを、勇ましげに歌うミスティアはまだ知らない。
-PRINTFORMW 「ひんっ、あひっ、ひぁぁぁぁぁぁっ♪　きかれ、てる……私の、エッチな、うたぁ……♪」	PRINTFORMW 「ひんっ、あひっ、ひぁぁぁぁぁぁっ♪　きかれ、てる……私の、エッチな、うたぁ……♪」
-PRINTFORMDW それ以前に最近の屋台は神隠しの噂話で持ち切りだったのだが、彼女は覚えていなかった。	PRINTFORMDW それ以前に最近の屋台は神隠しの噂話で持ち切りだったのだが、彼女は覚えていなかった。
-PRINTFORML 「こーころをー♪　閉ざさーれてるーの？　そーれとも♪　私、とーざしーてーるーのー？」	PRINTFORML 「こーころをー♪　閉ざさーれてるーの？　そーれとも♪　私、とーざしーてーるーのー？」
-PRINTFORMW 「あ♪　あ♪　あ♪　きもち♪　きもちいぃ♪　いいよぉ、い♪　いっ♪　いぃぃぃっ♪」	PRINTFORMW 「あ♪　あ♪　あ♪　きもち♪　きもちいぃ♪　いいよぉ、い♪　いっ♪　いぃぃぃっ♪」
-PRINTFORML 「ダダダン♪　ダンダダダダダーンダーンダーンダーン♪　アーアアー♪　アーアアー♪」	PRINTFORML 「ダダダン♪　ダンダダダダダーンダーンダーンダーン♪　アーアアー♪　アーアアー♪」
-PRINTFORML 「ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪　ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪」	PRINTFORML 「ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪　ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪」
-PRINTFORMW 「キャーーーーーーー！？　ヘンタイ！　ヘンタイ！　ヘンタイ！　ヘンターイ！！！」	PRINTFORMW 「キャーーーーーーー！？　ヘンタイ！　ヘンタイ！　ヘンタイ！　ヘンターイ！！！」
-PRINTFORMW 「イってる、イってるからぁ♪　そのままして、もっとして、絶頂させつづけてぇっ♪」	PRINTFORMW 「イってる、イってるからぁ♪　そのままして、もっとして、絶頂させつづけてぇっ♪」
-PRINTFORMW 「あんたがいると付属のおでんが売れて儲かる……ここでおでん買うやついないけど」	PRINTFORMW 「あんたがいると付属のおでんが売れて儲かる……ここでおでん買うやついないけど」
-PRINTFORMW 「夜盲『夜雀の歌』～♪　ほんとは貫通してないけど、その視界じゃそう見える♪」	PRINTFORMW 「夜盲『夜雀の歌』～♪　ほんとは貫通してないけど、その視界じゃそう見える♪」
-PRINTFORMW 「はへっ♪　はひっ♪　あんっ、そういえば、わらひ♪　はじめて、が……はぁ♪」	PRINTFORMW 「はへっ♪　はひっ♪　あんっ、そういえば、わらひ♪　はじめて、が……はぁ♪」
-PRINTFORMW 「あんたもいたんだ！　あ、おはよーございますって言わないと駄目なんだっけ？」	PRINTFORMW 「あんたもいたんだ！　あ、おはよーございますって言わないと駄目なんだっけ？」
-PRINTFORML 「ダン♪　ダダン♪　ダンダンダンダン♪　アッ♪　アアッ♪　アッ♪　アアッ♪」	PRINTFORML 「ダン♪　ダダン♪　ダンダンダンダン♪　アッ♪　アアッ♪　アッ♪　アアッ♪」
-PRINTFORMW 「鳥符『ヒューマンケージダブル』！　人間じゃなくても閉じ込めるのは簡単♪」	PRINTFORMW 「鳥符『ヒューマンケージダブル』！　人間じゃなくても閉じ込めるのは簡単♪」
-PRINTFORMW 「はへっ♪　はひっ♪　あんっ、まもら、ないと♪　わらひのっ、はじめてぇ♪」	PRINTFORMW 「はへっ♪　はひっ♪　あんっ、まもら、ないと♪　わらひのっ、はじめてぇ♪」
-PRINTFORMW 「はぁ、は♪　はっ♪　は♪　だめ、はじめて、のこして、きもちよくしてっ♪」	PRINTFORMW 「はぁ、は♪　はっ♪　は♪　だめ、はじめて、のこして、きもちよくしてっ♪」
-PRINTFORML 「いーつからー♪　歪みはじめてーいーたー？偽善とー嘘に守られーてーたー？」	PRINTFORML 「いーつからー♪　歪みはじめてーいーたー？偽善とー嘘に守られーてーたー？」
-PRINTFORMW 「そ、その気になったらあんたらが全滅するくらいの妖怪も呼べるんだから！」	PRINTFORMW 「そ、その気になったらあんたらが全滅するくらいの妖怪も呼べるんだから！」
-PRINTFORMW 　わらひ、こんなあいてでっ、んあああああ♪　はじめて、捨てちゃったぁ♪」	PRINTFORMW 　わらひ、こんなあいてでっ、んあああああ♪　はじめて、捨てちゃったぁ♪」
-PRINTFORMDW ミスティアの口からはため息が漏れるばかりで、得意の歌が響く様子はない。	PRINTFORMDW ミスティアの口からはため息が漏れるばかりで、得意の歌が響く様子はない。
-PRINTFORMW 「馬鹿なやつ。こういう薄暗い場所なら夜雀の能力が生きるってもんだわ～♪」	PRINTFORMW 「馬鹿なやつ。こういう薄暗い場所なら夜雀の能力が生きるってもんだわ～♪」
-PRINTFORML 「果てのないこの闇も♪　繰り返す後悔も♪　あーしたつくーるげんじつー♪」	PRINTFORML 「果てのないこの闇も♪　繰り返す後悔も♪　あーしたつくーるげんじつー♪」
-PRINTFORMW 「鳥符『ミステリアスソング』！　おたおたしてる間にまとめてごっつん♪」	PRINTFORMW 「鳥符『ミステリアスソング』！　おたおたしてる間にまとめてごっつん♪」
-PRINTFORMW 「ほしいよ……もっと、せーえき♪　だしてっ、触手ちんちんからぁ……♪」	PRINTFORMW 「ほしいよ……もっと、せーえき♪　だしてっ、触手ちんちんからぁ……♪」
-PRINTFORML 「体が重いからって静かにしていると、そのうちお経を聞くはめになるわ！」	PRINTFORML 「体が重いからって静かにしていると、そのうちお経を聞くはめになるわ！」
-PRINTFORML 「とーめないーで♪　きーみの呼吸ー♪　とーきはもーどせなーいけどー♪」	PRINTFORML 「とーめないーで♪　きーみの呼吸ー♪　とーきはもーどせなーいけどー♪」
-PRINTFORM 「あ……あっ、なか、でてるっ、わたしのなか、せーえき、吸ってるよぉ……	PRINTFORM 「あ……あっ、なか、でてるっ、わたしのなか、せーえき、吸ってるよぉ……
-PRINTFORMW 「なんで……こん、なぁっ♪　こども、産むの……きもひ、いぃの……♪」	PRINTFORMW 「なんで……こん、なぁっ♪　こども、産むの……きもひ、いぃの……♪」
-PRINTFORMW 「声符『木菟咆哮』！　ミミズクなんかよりよほど聴き応えあるけど♪」	PRINTFORMW 「声符『木菟咆哮』！　ミミズクなんかよりよほど聴き応えあるけど♪」
-PRINTFORMW 「あんっ、あ、あぁぁぁぁあんっ…………♪　はぁ、あっ、あぁ……♪」	PRINTFORMW 「あんっ、あ、あぁぁぁぁあんっ…………♪　はぁ、あっ、あぁ……♪」
-PRINTFORMW 「んうっ……♪　ま、た、卵じゃ……ひゃっ♪　なか、響いて、るぅ♪」	PRINTFORMW 「んうっ……♪　ま、た、卵じゃ……ひゃっ♪　なか、響いて、るぅ♪」
-PRINTFORMDW 生肉を踏んだような足触りと音はなんとも不快だ。不意打ちなら尚更。	PRINTFORMDW 生肉を踏んだような足触りと音はなんとも不快だ。不意打ちなら尚更。
-PRINTFORMW 「……なんで私こんな所にいるんだっけ……えーっと、うーんと、確か」	PRINTFORMW 「……なんで私こんな所にいるんだっけ……えーっと、うーんと、確か」
-PRINTFORMW 「這いつくばってでもじっとして、私の歌を聞く事に集中するのよ！」	PRINTFORMW 「這いつくばってでもじっとして、私の歌を聞く事に集中するのよ！」
-PRINTFORMW 「き、きっと話しあえばなんとかなるわよ！　元はお仲間なんだし！」	PRINTFORMW 「き、きっと話しあえばなんとかなるわよ！　元はお仲間なんだし！」
-PRINTFORMW 「えっと、響子によるとこういう時は確か……おはよーございます！」	PRINTFORMW 「えっと、響子によるとこういう時は確か……おはよーございます！」
-PRINTFORMW 「私がいなくなって苦戦して、それで私のありがたみを知ってよね！」	PRINTFORMW 「私がいなくなって苦戦して、それで私のありがたみを知ってよね！」
-PRINTFORMDW 見れば地面も天井も壁も、視界の限り毒々しい肉色で染まっている。	PRINTFORMDW 見れば地面も天井も壁も、視界の限り毒々しい肉色で染まっている。
-PRINTFORMW 「このままあんあん叫ばされ続けてたら、相方の喉が潰れちゃう！」	PRINTFORMW 「このままあんあん叫ばされ続けてたら、相方の喉が潰れちゃう！」
-PRINTFORMW （ぁ……私、こんな状態なのに、それだけで終わっちゃうの……？）	PRINTFORMW （ぁ……私、こんな状態なのに、それだけで終わっちゃうの……？）
-PRINTFORMW 「あんっ……♪　あん、あん、あん、あん、あぁぁぁぁあんっ♪♪」	PRINTFORMW 「あんっ……♪　あん、あん、あん、あん、あぁぁぁぁあんっ♪♪」
-PRINTFORMW （……こんな事態なのに、いつもと全然表情を変えないわねこいつ）	PRINTFORMW （……こんな事態なのに、いつもと全然表情を変えないわねこいつ）
-PRINTFORMW 「眼精疲労にはヤツメウナギ……とか言ってる場合じゃないね……」	PRINTFORMW 「眼精疲労にはヤツメウナギ……とか言ってる場合じゃないね……」
-PRINTFORMDW さすがに歌う余裕が無いのか、ミスティアは黙って走っている……	PRINTFORMDW さすがに歌う余裕が無いのか、ミスティアは黙って走っている……
-PRINTFORMW 「ふんだ！　この私を追い出すなんて、どうなっても知らないよ！」	PRINTFORMW 「ふんだ！　この私を追い出すなんて、どうなっても知らないよ！」
-PRINTFORML 「うんめいーはー♪　この手のなかー♪　うーごきだーすからー♪」	PRINTFORML 「うんめいーはー♪　この手のなかー♪　うーごきだーすからー♪」
-PRINTFORMW 「仲間が呼べればみんなで舞うんだけど、ここにはいないのよね」	PRINTFORMW 「仲間が呼べればみんなで舞うんだけど、ここにはいないのよね」
-PRINTFORMW 「そんなに私の歌を聞きたいなら、まず打楽器になってくれる？」	PRINTFORMW 「そんなに私の歌を聞きたいなら、まず打楽器になってくれる？」
-PRINTFORMW 「あぁ……♪　からだ全部、きもちいいので染まっちゃうよぉ♪」	PRINTFORMW 「あぁ……♪　からだ全部、きもちいいので染まっちゃうよぉ♪」
-PRINTFORMW 「い、イク♪　いぐいくいくいくっ、イっちゃうぅぅうっ♪♪♪」	PRINTFORMW 「い、イク♪　いぐいくいくいくっ、イっちゃうぅぅうっ♪♪♪」
-PRINTFORML 「あ……はっ、これっ♪　奥♪　しっかり、とどいちゃった……♪	PRINTFORML 「あ……はっ、これっ♪　奥♪　しっかり、とどいちゃった……♪
-PRINTFORMW 「私がここにいるんだから、そうやっていちいちビクつかない！」	PRINTFORMW 「私がここにいるんだから、そうやっていちいちビクつかない！」
-PRINTFORMW 「あんた達がここに連れ込んだんだもの、途中退場はダメよ？」	PRINTFORMW 「あんた達がここに連れ込んだんだもの、途中退場はダメよ？」
-PRINTFORMW 「やああああああ♪　こんなっ♪　はげし、すぎるってばぁ♪」	PRINTFORMW 「やああああああ♪　こんなっ♪　はげし、すぎるってばぁ♪」
-PRINTFORMW 「ちんちん、触手ちんちんっ♪　いっぱい♪　だしてるのぉ♪」	PRINTFORMW 「ちんちん、触手ちんちんっ♪　いっぱい♪　だしてるのぉ♪」
-PRINTFORMW 「あんたが光ると鳥目の意味がなくなるからやめてほしいわ～」	PRINTFORMW 「あんたが光ると鳥目の意味がなくなるからやめてほしいわ～」
-PRINTFORMW 「……なるほど。これはさらわれた、と解釈するのが妥当ね！」	PRINTFORMW 「……なるほど。これはさらわれた、と解釈するのが妥当ね！」
-PRINTFORML 「輝くなーみだをあーつめて♪　じーかんの海をわーたろう♪」	PRINTFORML 「輝くなーみだをあーつめて♪　じーかんの海をわーたろう♪」
-PRINTFORMW 「あ……謝ってくれれば、許してあげないこともないわよ？」	PRINTFORMW 「あ……謝ってくれれば、許してあげないこともないわよ？」
-PRINTFORMW 「夜雀『真夜中のコーラスマスター』！　私の歌を聞けぇ！」	PRINTFORMW 「夜雀『真夜中のコーラスマスター』！　私の歌を聞けぇ！」
-PRINTFORMW 「ちんちん、ちんちんが、なかに、あーっ♪　あーっ♪♪♪」	PRINTFORMW 「ちんちん、ちんちんが、なかに、あーっ♪　あーっ♪♪♪」
-PRINTFORML 「あ……あぁ、これっ……奥、しっかり、とどいちゃった……	PRINTFORML 「あ……あぁ、これっ……奥、しっかり、とどいちゃった……
-PRINTFORMW 『上流から大物が流れてきた！　これは取らないと……！？』	PRINTFORMW 『上流から大物が流れてきた！　これは取らないと……！？』
-PRINTFORML 「はぁ、こういう時こそ盛り上げていかなきゃいけないのに」	PRINTFORML 「はぁ、こういう時こそ盛り上げていかなきゃいけないのに」
-PRINTFORMW 「私をバードウォッチングしてみて？　できるものなら！」	PRINTFORMW 「私をバードウォッチングしてみて？　できるものなら！」
-PRINTFORMW 「うわさのミスティア？　いいえ、伝説のミスティアよ！」	PRINTFORMW 「うわさのミスティア？　いいえ、伝説のミスティアよ！」
-PRINTFORMW 「おでんを出す季節だと思ったらあんたがいただけだった」	PRINTFORMW 「おでんを出す季節だと思ったらあんたがいただけだった」
-PRINTFORMW 「はぁ、はぁ……ん、あ、はぁ♪　むね、またきた……♪」	PRINTFORMW 「はぁ、はぁ……ん、あ、はぁ♪　むね、またきた……♪」
-PRINTFORMW 「うるさい壁なんてあったらコンサートがぶち壊しだわ～」	PRINTFORMW 「うるさい壁なんてあったらコンサートがぶち壊しだわ～」
-PRINTFORMW 「勝手にしなさいよ大食い亡霊！　触手に食われちゃえ！」	PRINTFORMW 「勝手にしなさいよ大食い亡霊！　触手に食われちゃえ！」
-PRINTFORML 「…………。…………！？　…………！（ﾌﾟﾙﾌﾟﾙ）」	PRINTFORML 「…………。…………！？　…………！（ﾌﾟﾙﾌﾟﾙ）」
-PRINTFORML 「うん、歌おう。気持ちを切り替えていかないと大変だわ」	PRINTFORML 「うん、歌おう。気持ちを切り替えていかないと大変だわ」
-PRINTFORMW 「YOUはSHOCK！ 愛で～空が～落ちてくる～♪」	PRINTFORMW 「YOUはSHOCK！ 愛で～空が～落ちてくる～♪」
-PRINTFORMW 「くる♪　きちゃうっ♪　こんなのがまんできなっ……」	PRINTFORMW 「くる♪　きちゃうっ♪　こんなのがまんできなっ……」
-PRINTFORM 「や……おく、ゴツゴツ、されながらっ、だされてるぅ……	PRINTFORM 「や……おく、ゴツゴツ、されながらっ、だされてるぅ……
-PRINTFORMW 「ど、どう、見えないでしょ？　見えてないんだよね？」	PRINTFORMW 「ど、どう、見えないでしょ？　見えてないんだよね？」
-PRINTFORMW 「ふ、ふふふ、まだまだへーきなんだから……本当よ？」	PRINTFORMW 「ふ、ふふふ、まだまだへーきなんだから……本当よ？」
-PRINTFORMW 「あわわわ、後はよろしく！　遠くで応援してるから！」	PRINTFORMW 「あわわわ、後はよろしく！　遠くで応援してるから！」
-PRINTFORMW 「そりゃ、生き残ってるだろうけど……あ、亡霊だっけ」	PRINTFORMW 「そりゃ、生き残ってるだろうけど……あ、亡霊だっけ」
-PRINTFORMW 「それなら出血大サービス、即席コンサートの時間よ！」	PRINTFORMW 「それなら出血大サービス、即席コンサートの時間よ！」
-PRINTFORMW 「ひっ……なん、でっ……たまごじゃ、ないぃ……！？」	PRINTFORMW 「ひっ……なん、でっ……たまごじゃ、ないぃ……！？」
-PRINTFORMW 「……こんなんじゃだめだめ。歌って盛り上げなくちゃ」	PRINTFORMW 「……こんなんじゃだめだめ。歌って盛り上げなくちゃ」
-PRINTFORMW 「♪～♪♪～♪……はぁ、なんか声がしっくり来ないわ」	PRINTFORMW 「♪～♪♪～♪……はぁ、なんか声がしっくり来ないわ」
-PRINTFORMW 「この私と別れるだなんて、どうなっても知らないよ？」	PRINTFORMW 「この私と別れるだなんて、どうなっても知らないよ？」
-PRINTFORMW 『うなぎうなぎうなぎ～♪　うなぎーをたべーるとー♪』	PRINTFORMW 『うなぎうなぎうなぎ～♪　うなぎーをたべーるとー♪』
-PRINTFORMW 『いやぁ、今日もヤツメウナギが大漁ね！　……おや？』	PRINTFORMW 『いやぁ、今日もヤツメウナギが大漁ね！　……おや？』
-PRINTFORML 「……声を出せればいつでも歌えるわけじゃないっての」	PRINTFORML 「……声を出せればいつでも歌えるわけじゃないっての」
-PRINTFORMW 「夜どころか、真っ昼間でも見えなくなったかしら？」	PRINTFORMW 「夜どころか、真っ昼間でも見えなくなったかしら？」
-PRINTFORMW 「も、もしはじめてを奪ったら、私のファンが……！」	PRINTFORMW 「も、もしはじめてを奪ったら、私のファンが……！」
-PRINTFORMW 　私、こんな相手で……はじめて、捨てちゃった……」	PRINTFORMW 　私、こんな相手で……はじめて、捨てちゃった……」
-PRINTFORMW 「あ、私が鳥目になってると思ったらあんたの仕業か」	PRINTFORMW 「あ、私が鳥目になってると思ったらあんたの仕業か」
-PRINTFORMW 「あぁ……あんたか。どーりで勝手に縮こまってると」	PRINTFORMW 「あぁ……あんたか。どーりで勝手に縮こまってると」
-PRINTFORMW 「あぅ……赤ちゃんぅ、産むのぉ……こんなに……♪」	PRINTFORMW 「あぅ……赤ちゃんぅ、産むのぉ……こんなに……♪」
-PRINTFORMW 「あわわ、私が鳥目に！　……じゃなくて眠いだけか」	PRINTFORMW 「あわわ、私が鳥目に！　……じゃなくて眠いだけか」
-PRINTFORMW 「こんな状態じゃ、とてもじゃないけど歌えない……」	PRINTFORMW 「こんな状態じゃ、とてもじゃないけど歌えない……」
-PRINTFORMW （相変わらずあいつは何考えてるかわかんないわ……）	PRINTFORMW （相変わらずあいつは何考えてるかわかんないわ……）
-PRINTFORML 「この眠気じゃ、どんな歌でも子守唄になるわよ……」	PRINTFORML 「この眠気じゃ、どんな歌でも子守唄になるわよ……」
-PRINTFORML 「あー、あー……はぁ、こんな喉じゃぜんっぜん駄目」	PRINTFORML 「あー、あー……はぁ、こんな喉じゃぜんっぜん駄目」
-PRINTFORML 「こういう時こそ、歌って気分を上げて行かないと！」	PRINTFORML 「こういう時こそ、歌って気分を上げて行かないと！」
-PRINTFORMDL ミスティアは縮こまりながら周りを見渡している……	PRINTFORMDL ミスティアは縮こまりながら周りを見渡している……
-PRINTFORML 「デーレー♪　デーレー♪　デン！　デデデン！！！」	PRINTFORML 「デーレー♪　デーレー♪　デン！　デデデン！！！」
-PRINTFORMW （匂い……すごい……♪　ちんちん、ほしい……♪）	PRINTFORMW （匂い……すごい……♪　ちんちん、ほしい……♪）
-PRINTFORML 　　　　　　　　　　　　　　　ﾚｼﾞｪﾝﾀﾞﾘｰ	PRINTFORML 　　　　　　　　　　　　　　　ﾚｼﾞｪﾝﾀﾞﾘｰ
-PRINTFORMW 「これだと、ユニゾンどころの話じゃないかも……」	PRINTFORMW 「これだと、ユニゾンどころの話じゃないかも……」
-PRINTFORMW 「あんた達を手伝ってなんかやるもんか、べーだ！」	PRINTFORMW 「あんた達を手伝ってなんかやるもんか、べーだ！」
-PRINTFORML 「なんだろ……歌おうとしても、スッキリできない」	PRINTFORML 「なんだろ……歌おうとしても、スッキリできない」
-PRINTFORMDL ミスティアは足をすり合わせもじもじしている……	PRINTFORMDL ミスティアは足をすり合わせもじもじしている……
-PRINTFORMW 「こ、コンサートは中止よ！　さっさと帰って！」	PRINTFORMW 「こ、コンサートは中止よ！　さっさと帰って！」
-PRINTFORMW 「ゆ、幽々子さん、私は食べられないですぅ……」	PRINTFORMW 「ゆ、幽々子さん、私は食べられないですぅ……」
-PRINTFORMW 「べ、別に、これくらい、なんともないしっ……」	PRINTFORMW 「べ、別に、これくらい、なんともないしっ……」
-PRINTFORMW 「ま、マンツーマンでライブはやらないのよっ！」	PRINTFORMW 「ま、マンツーマンでライブはやらないのよっ！」
-PRINTFORMW 「ま、まだはじめてだって皆に言えるよね……？」	PRINTFORMW 「ま、まだはじめてだって皆に言えるよね……？」
-PRINTFORMW 「声の調子も動き方も中途半端で嫌になるわ……」	PRINTFORMW 「声の調子も動き方も中途半端で嫌になるわ……」
-PRINTFORML 「動き回ろうとしても、なんかむずむずして……」	PRINTFORML 「動き回ろうとしても、なんかむずむずして……」
-PRINTFORML 「……無理に歌っても、歌いながら寝ちゃうかも」	PRINTFORML 「……無理に歌っても、歌いながら寝ちゃうかも」
-PRINTFORML 「うぎゅ！　……体痛くて、変な声が出ちゃった」	PRINTFORML 「うぎゅ！　……体痛くて、変な声が出ちゃった」
-PRINTFORML 「ここ、見た目のつまらなさが音にまで響いてる」	PRINTFORML 「ここ、見た目のつまらなさが音にまで響いてる」
-﻿PRINTFORMW 「私に変なことしたら一生鳥目になるわよ！？」	PRINTFORMW 「私に変なことしたら一生鳥目になるわよ！？」
-PRINTFORMW 「静かな歌だなんて、お経のほうがましだわ～」	PRINTFORMW 「静かな歌だなんて、お経のほうがましだわ～」
-PRINTFORMW 「あんた達は私の歌を聞く耳だけあればいいの」	PRINTFORMW 「あんた達は私の歌を聞く耳だけあればいいの」
-PRINTFORMW 「早くっ……♪　もっと強く、してぇっ……♪」	PRINTFORMW 「早くっ……♪　もっと強く、してぇっ……♪」
-PRINTFORMW 「なんか見やすいと思ったら、あんたの仕業ね」	PRINTFORMW 「なんか見やすいと思ったら、あんたの仕業ね」
-PRINTFORML 「ちゃんと歌を聞く気がある相手でよかったわ～	PRINTFORML 「ちゃんと歌を聞く気がある相手でよかったわ～
-PRINTFORMW 「はぁ、はぁ……う、あ！？　む、ねぇ……♪」	PRINTFORMW 「はぁ、はぁ……う、あ！？　む、ねぇ……♪」
-PRINTFORMW （走るだけでこんなに息が荒くなるなんて……）	PRINTFORMW （走るだけでこんなに息が荒くなるなんて……）
-PRINTFORMW 「正直言うと、いっそ逃げたいかなーって……」	PRINTFORMW 「正直言うと、いっそ逃げたいかなーって……」
-PRINTFORML 「暗いのはいいけど、ジメジメしてるのはやだ」	PRINTFORML 「暗いのはいいけど、ジメジメしてるのはやだ」
-PRINTFORMW 「……しょうがないから、静かにしてるけど」	PRINTFORMW 「……しょうがないから、静かにしてるけど」
-PRINTFORMW 「ま、まだ戦えるところを見せてやるわ……」	PRINTFORMW 「ま、まだ戦えるところを見せてやるわ……」
-PRINTFORMW 「こんな近くで歌えるわけないでしょ……！」	PRINTFORMW 「こんな近くで歌えるわけないでしょ……！」
-PRINTFORMW 「きもちいこと、するから……痛いのは……」	PRINTFORMW 「きもちいこと、するから……痛いのは……」
-PRINTFORMW 「ヌ、ヌードライブ、とか……無理だってば」	PRINTFORMW 「ヌ、ヌードライブ、とか……無理だってば」
-PRINTFORMW 「こ、こんな状態じゃ……歌って踊れない！」	PRINTFORMW 「こ、こんな状態じゃ……歌って踊れない！」
-PRINTFORMW 「私のはじめては、安くないんだから……！」	PRINTFORMW 「私のはじめては、安くないんだから……！」
-PRINTFORMW 「ラ……ライブの、お願いは、後にして……」	PRINTFORMW 「ラ……ライブの、お願いは、後にして……」
-PRINTFORMW 「う……声の調子、悪くなってきてるわ……」	PRINTFORMW 「う……声の調子、悪くなってきてるわ……」
-PRINTFORMDW ミスティアは歌いながら走り回っている……	PRINTFORMDW ミスティアは歌いながら走り回っている……
-PRINTFORMW 「ふふん、鳥目にする相手はどこかしら～♪」	PRINTFORMW 「ふふん、鳥目にする相手はどこかしら～♪」
-PRINTFORMW 「……退屈しのぎに歌でも歌えたら楽なのに」	PRINTFORMW 「……退屈しのぎに歌でも歌えたら楽なのに」
-PRINTFORMW 「て、体よく追い出してるんじゃないよね？」	PRINTFORMW 「て、体よく追い出してるんじゃないよね？」
-PRINTFORML 「今、歌う所を見られたらファンが減るわ！」	PRINTFORML 「今、歌う所を見られたらファンが減るわ！」
-PRINTFORML 「どこであろうと、私は心のままに歌うわ！」	PRINTFORML 「どこであろうと、私は心のままに歌うわ！」
-PRINTFORML 「陰気な作りね～陰気すぎて苛々するくらい」	PRINTFORML 「陰気な作りね～陰気すぎて苛々するくらい」
-PRINTFORMW 「ん～、でかいの撃つのにギャラリー不足」	PRINTFORMW 「ん～、でかいの撃つのにギャラリー不足」
-PRINTFORMDL 触手宮のみすちー口上です。テーマは歌。	PRINTFORMDL 触手宮のみすちー口上です。テーマは歌。
-PRINTFORMW 「そこ♪　そのままもっと、あ、あっ……」	PRINTFORMW 「そこ♪　そのままもっと、あ、あっ……」
-PRINTFORMW 「山よ！　天よ！　私の歌を聴けぇぇ！！」	PRINTFORMW 「山よ！　天よ！　私の歌を聴けぇぇ！！」
-PRINTFORMW 「私が戻るまで、喉だけは守っててよ！？」	PRINTFORMW 「私が戻るまで、喉だけは守っててよ！？」
-PRINTFORMW 「あれ、双子の生き別れなんていたっけ？」	PRINTFORMW 「あれ、双子の生き別れなんていたっけ？」
-PRINTFORMW 「こんなバックコーラスはごめんだわ……」	PRINTFORMW 「こんなバックコーラスはごめんだわ……」
-PRINTFORMW 「もうだめ、まともに周りが見えない……」	PRINTFORMW 「もうだめ、まともに周りが見えない……」
-PRINTFORMW 「あ、あはは……少しやりすぎたのかしら」	PRINTFORMW 「あ、あはは……少しやりすぎたのかしら」
-PRINTFORMW 「握手会はここじゃしてないのっ……！」	PRINTFORMW 「握手会はここじゃしてないのっ……！」
-PRINTFORMW 「私を間近で見られるなんて幸せよ～？」	PRINTFORMW 「私を間近で見られるなんて幸せよ～？」
-PRINTFORMW 「せ、せめて喉だけは守らないと……！」	PRINTFORMW 「せ、せめて喉だけは守らないと……！」
-PRINTFORMW 「服も私の歌を盛り上げる一部なのに！」	PRINTFORMW 「服も私の歌を盛り上げる一部なのに！」
-PRINTFORMW 「そんなに私の歌を聞きたいのかしら？」	PRINTFORMW 「そんなに私の歌を聞きたいのかしら？」
-PRINTFORMW 「へっへーん、私の歌声が届いたのね！」	PRINTFORMW 「へっへーん、私の歌声が届いたのね！」
-PRINTFORMW 「な、なんとかしたいけど……でも……」	PRINTFORMW 「な、なんとかしたいけど……でも……」
-PRINTFORMW 「襲うのにちょうどよさそうな奴はっと」	PRINTFORMW 「襲うのにちょうどよさそうな奴はっと」
-PRINTFORMW 「じっとしてるなんてつまんないわ……」	PRINTFORMW 「じっとしてるなんてつまんないわ……」
-PRINTFORMW 「ねんねして……ころっと……ＺＺＺ」	PRINTFORMW 「ねんねして……ころっと……ＺＺＺ」
-PRINTFORMW 「まだこっちが見えてないよね……？」	PRINTFORMW 「まだこっちが見えてないよね……？」
-PRINTFORMW （……やっぱり歌ってると目立つかな）	PRINTFORMW （……やっぱり歌ってると目立つかな）
-PRINTFORMW （助けなかったら私が食われる……！）	PRINTFORMW （助けなかったら私が食われる……！）
-PRINTFORMW 「ソロコンサートのほうが好きなのよ」	PRINTFORMW 「ソロコンサートのほうが好きなのよ」
-PRINTFORML 「息、熱くて……変な声が出そぉ……」	PRINTFORML 「息、熱くて……変な声が出そぉ……」
-PRINTFORML 「こんな状態で歌うのはさすがに……」	PRINTFORML 「こんな状態で歌うのはさすがに……」
-PRINTFORML 「……歌って踊れる体調じゃないわー」	PRINTFORML 「……歌って踊れる体調じゃないわー」
-PRINTFORMW 「景気よくガンガン使っていこー♪」	PRINTFORMW 「景気よくガンガン使っていこー♪」
-PRINTFORMW 「ここからでも十分声は届くわね～」	PRINTFORMW 「ここからでも十分声は届くわね～」
-PRINTFORMW 「こんなんじゃ盛り上がらないわ～」	PRINTFORMW 「こんなんじゃ盛り上がらないわ～」
-PRINTFORMW 「私の歌でときめき倒してあげる！」	PRINTFORMW 「私の歌でときめき倒してあげる！」
-PRINTFORMW 「あんたにだけ、見えないのよ～！」	PRINTFORMW 「あんたにだけ、見えないのよ～！」
-PRINTFORMW 「ちかくで……鳴けばいいの……？」	PRINTFORMW 「ちかくで……鳴けばいいの……？」
-PRINTFORMW 「ふっふーん、見えないでしょー？」	PRINTFORMW 「ふっふーん、見えないでしょー？」
-PRINTFORMW 「ちょ、ちょ～っと疲れてるだけ！」	PRINTFORMW 「ちょ、ちょ～っと疲れてるだけ！」
-PRINTFORMW 「あんたはもう、歌も聞こえないよ」	PRINTFORMW 「あんたはもう、歌も聞こえないよ」
-PRINTFORMW 「あれ……？　あ、本人じゃないか」	PRINTFORMW 「あれ……？　あ、本人じゃないか」
-PRINTFORMW 「そんなに私の歌が聞きたいなら♪」	PRINTFORMW 「そんなに私の歌が聞きたいなら♪」
-PRINTFORMW 「ごめん、当分は一人でやらせて？」	PRINTFORMW 「ごめん、当分は一人でやらせて？」
-PRINTFORMW 「うーん、音の反響が気に食わない」	PRINTFORMW 「うーん、音の反響が気に食わない」
-PRINTFORML 「あ……聞こえ、ない……なにも……	PRINTFORML 「あ……聞こえ、ない……なにも……
-PRINTFORMW 「あんたとのコンビはもう解散よ！」	PRINTFORMW 「あんたとのコンビはもう解散よ！」
-PRINTFORMW 「ん……私の視界が鳥目に……うげ」	PRINTFORMW 「ん……私の視界が鳥目に……うげ」
-PRINTFORMW 『な、ちょ、巻き付いて……きゅう』	PRINTFORMW 『な、ちょ、巻き付いて……きゅう』
-PRINTFORMW 「そんな音を聞かせないで……！」	PRINTFORMW 「そんな音を聞かせないで……！」
-PRINTFORMDL 全般的に音符を多用しています。	PRINTFORMDL 全般的に音符を多用しています。
-PRINTFORMW 「鳥目加減が足りないみたいね？」	PRINTFORMW 「鳥目加減が足りないみたいね？」
-PRINTFORMW 「はぁ、薄暗い場所で助かったわ」	PRINTFORMW 「はぁ、薄暗い場所で助かったわ」
-PRINTFORMW 「こりゃユニゾンが組めるわね～」	PRINTFORMW 「こりゃユニゾンが組めるわね～」
-PRINTFORMW （……敵を見つけるまで我慢我慢）	PRINTFORMW （……敵を見つけるまで我慢我慢）
-PRINTFORMW 「ああもう、早く来ないかしら？」	PRINTFORMW 「ああもう、早く来ないかしら？」
-PRINTFORMDW ふふん、と胸を張るミスティア。	PRINTFORMDW ふふん、と胸を張るミスティア。
-PRINTFORML 「暗い歌しか思いつかないや……」	PRINTFORML 「暗い歌しか思いつかないや……」
-PRINTFORML 「ココーア・ソーダ・クエン酸♪」	PRINTFORML 「ココーア・ソーダ・クエン酸♪」
-PRINTFORMW 「さぁ、私の歌を聴きなさい！」	PRINTFORMW 「さぁ、私の歌を聴きなさい！」
-PRINTFORMW 「私に惚れるなよ、ベイベー！」	PRINTFORMW 「私に惚れるなよ、ベイベー！」
-PRINTFORMW 楽しく鳥目になっちゃいな～♪」	PRINTFORMW 楽しく鳥目になっちゃいな～♪」
-PRINTFORMW 「好き勝手、させるもんか……」	PRINTFORMW 「好き勝手、させるもんか……」
-PRINTFORMW 「さ……さすがに、無理かな？」	PRINTFORMW 「さ……さすがに、無理かな？」
-PRINTFORMW 「これで片付けはおしまいっと」	PRINTFORMW 「これで片付けはおしまいっと」
-PRINTFORML 「な、なんか……いっぱいいる」	PRINTFORML 「な、なんか……いっぱいいる」
-PRINTFORMW 「間近で聞いてよ、私の歌♪」	PRINTFORMW 「間近で聞いてよ、私の歌♪」
-PRINTFORMW 「ああもう、うるさいわね！」	PRINTFORMW 「ああもう、うるさいわね！」
-PRINTFORMW 「夢見る彼方で熱くなろ～♪」	PRINTFORMW 「夢見る彼方で熱くなろ～♪」
-PRINTFORM 「『ブラインドナイトバード』！	PRINTFORM 「『ブラインドナイトバード』！
-PRINTFORMW 「やだ、痕が残っちゃう……」	PRINTFORMW 「やだ、痕が残っちゃう……」
-PRINTFORMW 「この……しつこいわよ！？」	PRINTFORMW 「この……しつこいわよ！？」
-PRINTFORMW 「あ！？　はいってる……！」	PRINTFORMW 「あ！？　はいってる……！」
-PRINTFORMW 「む、無理……これはムリ！」	PRINTFORMW 「む、無理……これはムリ！」
-PRINTFORMW 「ら、楽勝だった、わね……」	PRINTFORMW 「ら、楽勝だった、わね……」
-PRINTFORMW 「……休めるのはいいけどね」	PRINTFORMW 「……休めるのはいいけどね」
-PRINTFORMW 「ちょ、ちょっと待って～！」	PRINTFORMW 「ちょ、ちょっと待って～！」
-PRINTFORML 「――あぁもう、ねっむい！」	PRINTFORML 「――あぁもう、ねっむい！」
-PRINTFORML 「体が重いってやだなぁ……」	PRINTFORML 「体が重いってやだなぁ……」
-PRINTFORML 「かっかかって来なさいよ！」	PRINTFORML 「かっかかって来なさいよ！」
-PRINTFORML 「どんな歌がいいかしら～？」	PRINTFORML 「どんな歌がいいかしら～？」
-PRINTFORMW 「う、歌わなきゃ…………」	PRINTFORMW 「う、歌わなきゃ…………」
-PRINTFORMW 「相方は返してもらうよ！」	PRINTFORMW 「相方は返してもらうよ！」
-PRINTFORMW 「キ～プユ～バ～ニン～♪」	PRINTFORMW 「キ～プユ～バ～ニン～♪」
-PRINTFORMW 「もう、ケチケチしてる！」	PRINTFORMW 「もう、ケチケチしてる！」
-PRINTFORMW めくらで頭をごっつんこ♪」	PRINTFORMW めくらで頭をごっつんこ♪」
-PRINTFORMW 「ほら、歌ってみなさいよ」	PRINTFORMW 「ほら、歌ってみなさいよ」
-PRINTFORMW 「何やってんのヘンタイ！」	PRINTFORMW 「何やってんのヘンタイ！」
-PRINTFORMW 「もう……うたえない……」	PRINTFORMW 「もう……うたえない……」
-PRINTFORMW 「服……もう、いいや……」	PRINTFORMW 「服……もう、いいや……」
-PRINTFORMW 「ど、どうしよう……！？」	PRINTFORMW 「ど、どうしよう……！？」
-PRINTFORMW （断ったら食われる……！）	PRINTFORMW （断ったら食われる……！）
-PRINTFORMW 「じゃーんじゃじゃーん！」	PRINTFORMW 「じゃーんじゃじゃーん！」
-PRINTFORMW 「ふわああああ……ねっむ」	PRINTFORMW 「ふわああああ……ねっむ」
-PRINTFORML 「……歌う気になれないよ」	PRINTFORML 「……歌う気になれないよ」
-PRINTFORMW 「あわわ、押しかけ！？」	PRINTFORMW 「あわわ、押しかけ！？」
-PRINTFORMW 「え、ちょっ、まっ！？」	PRINTFORMW 「え、ちょっ、まっ！？」
-PRINTFORMW 「……う～ん、どうしよ」	PRINTFORMW 「……う～ん、どうしよ」
-PRINTFORMW 「うげ……いたんだ……」	PRINTFORMW 「うげ……いたんだ……」
-PRINTFORMW 「……馬鹿にしてんの？」	PRINTFORMW 「……馬鹿にしてんの？」
-PRINTFORMW 「うぇぇ、気色悪ぅ……」	PRINTFORMW 「うぇぇ、気色悪ぅ……」
-PRINTFORML 「すごく　動き　にくい」	PRINTFORML 「すごく　動き　にくい」
-PRINTFORMW 「あわわ……次、次！」	PRINTFORMW 「あわわ……次、次！」
-PRINTFORMW 「まずは前奏から……」	PRINTFORMW 「まずは前奏から……」
-PRINTFORMW 「歌の邪魔をしない！」	PRINTFORMW 「歌の邪魔をしない！」
-PRINTFORMW 「調子はどう、相棒？」	PRINTFORMW 「調子はどう、相棒？」
-PRINTFORMW 「あれ、誰かいるの？」	PRINTFORMW 「あれ、誰かいるの？」
-PRINTFORM 「オッケー、頑張りましょ	PRINTFORM 「オッケー、頑張りましょ
-PRINTFORML 「ぜぇ、ぜぇっ……！」	PRINTFORML 「ぜぇ、ぜぇっ……！」
-PRINTFORMW 「くぅ……くぅ……」	PRINTFORMW 「くぅ……くぅ……」
-PRINTFORMW 「そんなのでぇっ！」	PRINTFORMW 「そんなのでぇっ！」
-PRINTFORMW 「お触りはだめっ！」	PRINTFORMW 「お触りはだめっ！」
-PRINTFORMW 「ふん……いい気味」	PRINTFORMW 「ふん……いい気味」
-PRINTFORM 「オッケー、今助けるよ	PRINTFORM 「オッケー、今助けるよ
-PRINTFORMW 「……きゅ、急用が」	PRINTFORMW 「……きゅ、急用が」
-PRINTFORML 「見せられないよ！」	PRINTFORML 「見せられないよ！」
-PRINTFORMW 「離れなさいよ！」	PRINTFORMW 「離れなさいよ！」
-PRINTFORMW 「や、やだ……！」	PRINTFORMW 「や、やだ……！」
-PRINTFORMW 「とっておきよ！」	PRINTFORMW 「とっておきよ！」
-PRINTFORMW 「見ぃ～つけた！」	PRINTFORMW 「見ぃ～つけた！」
-PRINTFORMW 「いったいのよ！」	PRINTFORMW 「いったいのよ！」
-PRINTFORMW 「らっくしょ～♪」	PRINTFORMW 「らっくしょ～♪」
-PRINTFORMW 「……ミミズク？」	PRINTFORMW 「……ミミズク？」
-PRINTFORMW 　……あるよね？」	PRINTFORMW 　……あるよね？」
-PRINTFORMW 　うた、も……」 	PRINTFORMW 　うた、も……」 
-PRINTFORML 「喉…………重い」	PRINTFORML 「喉…………重い」
-PRINTFORMW 「へったくそ♪」	PRINTFORMW 「へったくそ♪」
-PRINTFORMW 「ふぇっ……？」	PRINTFORMW 「ふぇっ……？」
-PRINTFORMW 「整地整地～♪」	PRINTFORMW 「整地整地～♪」
-PRINTFORMW 「………………」	PRINTFORMW 「………………」
-PRINTFORMW 「ぎゃー！？」	PRINTFORMW 「ぎゃー！？」
-PRINTFORMW 「あわわ……」	PRINTFORMW 「あわわ……」
-PRINTFORMW 「うぅ……」	PRINTFORMW 「うぅ……」
-PRINTFORMDL ～回想終了	PRINTFORMDL ～回想終了
-PRINTFORMDL 回想中～	PRINTFORMDL 回想中～
-PRINTFORMW ！」	PRINTFORMW ！」
-PRINTFORMDL 	PRINTFORMDL 
-PRINTFORMW 」	PRINTFORMW 」
-PRINTFORM 相棒	PRINTFORM 相棒
-PRINTFORM ♪	PRINTFORM ♪
-PRINTFORMW 	PRINTFORMW 
-PRINTFORML 	PRINTFORML 
+﻿﻿PRINTFORMW 「私に変なことしたら一生鳥目になるわよ！？」	!#!PRINTFORMW 「私に変なことしたら一生鳥目になるわよ！？」
+PRINTFORMW 「そ、その気になったらあんたらが全滅するくらいの妖怪も呼べるんだから！」	!#!PRINTFORMW 「そ、その気になったらあんたらが全滅するくらいの妖怪も呼べるんだから！」
+PRINTFORMW 「……しょうがないから、静かにしてるけど」	!#!PRINTFORMW 「……しょうがないから、静かにしてるけど」
+PRINTFORMW 「静かな歌だなんて、お経のほうがましだわ～」	!#!PRINTFORMW 「静かな歌だなんて、お経のほうがましだわ～」
+PRINTFORMW 「あわわ……次、次！」	!#!PRINTFORMW 「あわわ……次、次！」
+PRINTFORMW 「景気よくガンガン使っていこー♪」	!#!PRINTFORMW 「景気よくガンガン使っていこー♪」
+PRINTFORMW 「ま、まだ戦えるところを見せてやるわ……」	!#!PRINTFORMW 「ま、まだ戦えるところを見せてやるわ……」
+PRINTFORMW 「間近で聞いてよ、私の歌♪」	!#!PRINTFORMW 「間近で聞いてよ、私の歌♪」
+PRINTFORMW 「うぅ……」	!#!PRINTFORMW 「うぅ……」
+PRINTFORMW 「ここからでも十分声は届くわね～」	!#!PRINTFORMW 「ここからでも十分声は届くわね～」
+PRINTFORMW 「う、歌わなきゃ…………」	!#!PRINTFORMW 「う、歌わなきゃ…………」
+PRINTFORMW 「離れなさいよ！」	!#!PRINTFORMW 「離れなさいよ！」
+PRINTFORMW 「こ、コンサートは中止よ！　さっさと帰って！」	!#!PRINTFORMW 「こ、コンサートは中止よ！　さっさと帰って！」
+PRINTFORMW 「あ……謝ってくれれば、許してあげないこともないわよ？」	!#!PRINTFORMW 「あ……謝ってくれれば、許してあげないこともないわよ？」
+PRINTFORMW 「そんな音を聞かせないで……！」	!#!PRINTFORMW 「そんな音を聞かせないで……！」
+PRINTFORMW 「ああもう、うるさいわね！」	!#!PRINTFORMW 「ああもう、うるさいわね！」
+PRINTFORMW 「や、やだ……！」	!#!PRINTFORMW 「や、やだ……！」
+PRINTFORMW 「このままあんあん叫ばされ続けてたら、相方の喉が潰れちゃう！」	!#!PRINTFORMW 「このままあんあん叫ばされ続けてたら、相方の喉が潰れちゃう！」
+PRINTFORMW 「相方は返してもらうよ！」	!#!PRINTFORMW 「相方は返してもらうよ！」
+PRINTFORMW 「YOUはSHOCK！ 愛で～空が～落ちてくる～♪」	!#!PRINTFORMW 「YOUはSHOCK！ 愛で～空が～落ちてくる～♪」
+PRINTFORMW 「キ～プユ～バ～ニン～♪」	!#!PRINTFORMW 「キ～プユ～バ～ニン～♪」
+PRINTFORMW 「まずは前奏から……」	!#!PRINTFORMW 「まずは前奏から……」
+PRINTFORMW 「こんなんじゃ盛り上がらないわ～」	!#!PRINTFORMW 「こんなんじゃ盛り上がらないわ～」
+PRINTFORMW 「もう、ケチケチしてる！」	!#!PRINTFORMW 「もう、ケチケチしてる！」
+PRINTFORMW 「私の歌でときめき倒してあげる！」	!#!PRINTFORMW 「私の歌でときめき倒してあげる！」
+PRINTFORMW 「夢見る彼方で熱くなろ～♪」	!#!PRINTFORMW 「夢見る彼方で熱くなろ～♪」
+PRINTFORMW 「さぁ、私の歌を聴きなさい！」	!#!PRINTFORMW 「さぁ、私の歌を聴きなさい！」
+PRINTFORMW 「私に惚れるなよ、ベイベー！」	!#!PRINTFORMW 「私に惚れるなよ、ベイベー！」
+PRINTFORMW 「握手会はここじゃしてないのっ……！」	!#!PRINTFORMW 「握手会はここじゃしてないのっ……！」
+PRINTFORMW 「声符『木菟咆哮』！　ミミズクなんかよりよほど聴き応えあるけど♪」	!#!PRINTFORMW 「声符『木菟咆哮』！　ミミズクなんかよりよほど聴き応えあるけど♪」
+PRINTFORMW 「私をバードウォッチングしてみて？　できるものなら！」	!#!PRINTFORMW 「私をバードウォッチングしてみて？　できるものなら！」
+PRINTFORMW 「ん～、でかいの撃つのにギャラリー不足」	!#!PRINTFORMW 「ん～、でかいの撃つのにギャラリー不足」
+PRINTFORMW 「とっておきよ！」	!#!PRINTFORMW 「とっておきよ！」
+PRINTFORM 「『ブラインドナイトバード』！	!#!PRINTFORM 「『ブラインドナイトバード』！
+PRINTFORMW 楽しく鳥目になっちゃいな～♪」	!#!PRINTFORMW 楽しく鳥目になっちゃいな～♪」
+PRINTFORMW めくらで頭をごっつんこ♪」	!#!PRINTFORMW めくらで頭をごっつんこ♪」
+PRINTFORMW 「仲間が呼べればみんなで舞うんだけど、ここにはいないのよね」	!#!PRINTFORMW 「仲間が呼べればみんなで舞うんだけど、ここにはいないのよね」
+PRINTFORMW 「鳥符『ヒューマンケージダブル』！　人間じゃなくても閉じ込めるのは簡単♪」	!#!PRINTFORMW 「鳥符『ヒューマンケージダブル』！　人間じゃなくても閉じ込めるのは簡単♪」
+PRINTFORMW 「夜盲『夜雀の歌』～♪　ほんとは貫通してないけど、その視界じゃそう見える♪」	!#!PRINTFORMW 「夜盲『夜雀の歌』～♪　ほんとは貫通してないけど、その視界じゃそう見える♪」
+PRINTFORMW 「あんたにだけ、見えないのよ～！」	!#!PRINTFORMW 「あんたにだけ、見えないのよ～！」
+PRINTFORMW 「鳥符『ミステリアスソング』！　おたおたしてる間にまとめてごっつん♪」	!#!PRINTFORMW 「鳥符『ミステリアスソング』！　おたおたしてる間にまとめてごっつん♪」
+PRINTFORMW 「夜雀『真夜中のコーラスマスター』！　私の歌を聞けぇ！」	!#!PRINTFORMW 「夜雀『真夜中のコーラスマスター』！　私の歌を聞けぇ！」
+PRINTFORMW 「私を間近で見られるなんて幸せよ～？」	!#!PRINTFORMW 「私を間近で見られるなんて幸せよ～？」
+PRINTFORMW 「見ぃ～つけた！」	!#!PRINTFORMW 「見ぃ～つけた！」
+PRINTFORMW 「そんなに私の歌を聞きたいなら、まず打楽器になってくれる？」	!#!PRINTFORMW 「そんなに私の歌を聞きたいなら、まず打楽器になってくれる？」
+PRINTFORMW 「あんた達がここに連れ込んだんだもの、途中退場はダメよ？」	!#!PRINTFORMW 「あんた達がここに連れ込んだんだもの、途中退場はダメよ？」
+PRINTFORMW 「歌の邪魔をしない！」	!#!PRINTFORMW 「歌の邪魔をしない！」
+PRINTFORMW 「あんた達は私の歌を聞く耳だけあればいいの」	!#!PRINTFORMW 「あんた達は私の歌を聞く耳だけあればいいの」
+PRINTFORMW 「這いつくばってでもじっとして、私の歌を聞く事に集中するのよ！」	!#!PRINTFORMW 「這いつくばってでもじっとして、私の歌を聞く事に集中するのよ！」
+PRINTFORMW 「こんな近くで歌えるわけないでしょ……！」	!#!PRINTFORMW 「こんな近くで歌えるわけないでしょ……！」
+PRINTFORMDL 	!#!PRINTFORMDL 
+PRINTFORMDL 触手宮のみすちー口上です。テーマは歌。	!#!PRINTFORMDL 触手宮のみすちー口上です。テーマは歌。
+PRINTFORMDL 全般的に音符を多用しています。	!#!PRINTFORMDL 全般的に音符を多用しています。
+PRINTFORMW 「ゆ、幽々子さん、私は食べられないですぅ……」	!#!PRINTFORMW 「ゆ、幽々子さん、私は食べられないですぅ……」
+PRINTFORMW 「くぅ……くぅ……」	!#!PRINTFORMW 「くぅ……くぅ……」
+PRINTFORMW 「ねんねして……ころっと……ＺＺＺ」	!#!PRINTFORMW 「ねんねして……ころっと……ＺＺＺ」
+PRINTFORMW 「好き勝手、させるもんか……」	!#!PRINTFORMW 「好き勝手、させるもんか……」
+PRINTFORMW 「ほら、歌ってみなさいよ」	!#!PRINTFORMW 「ほら、歌ってみなさいよ」
+PRINTFORMW 「そんなのでぇっ！」	!#!PRINTFORMW 「そんなのでぇっ！」
+PRINTFORMW 「へったくそ♪」	!#!PRINTFORMW 「へったくそ♪」
+PRINTFORMW 「ふぇっ……？」	!#!PRINTFORMW 「ふぇっ……？」
+PRINTFORMW 「きもちいこと、するから……痛いのは……」	!#!PRINTFORMW 「きもちいこと、するから……痛いのは……」
+PRINTFORMW 「せ、せめて喉だけは守らないと……！」	!#!PRINTFORMW 「せ、せめて喉だけは守らないと……！」
+PRINTFORMW 「やだ、痕が残っちゃう……」	!#!PRINTFORMW 「やだ、痕が残っちゃう……」
+PRINTFORMW 「この……しつこいわよ！？」	!#!PRINTFORMW 「この……しつこいわよ！？」
+PRINTFORMW 「鳥目加減が足りないみたいね？」	!#!PRINTFORMW 「鳥目加減が足りないみたいね？」
+PRINTFORMW 「いったいのよ！」	!#!PRINTFORMW 「いったいのよ！」
+PRINTFORMW 「早くっ……♪　もっと強く、してぇっ……♪」	!#!PRINTFORMW 「早くっ……♪　もっと強く、してぇっ……♪」
+PRINTFORMW 「あぁ……♪　からだ全部、きもちいいので染まっちゃうよぉ♪」	!#!PRINTFORMW 「あぁ……♪　からだ全部、きもちいいので染まっちゃうよぉ♪」
+PRINTFORMW 「そこ♪　そのままもっと、あ、あっ……」	!#!PRINTFORMW 「そこ♪　そのままもっと、あ、あっ……」
+PRINTFORMW （ぁ……私、こんな状態なのに、それだけで終わっちゃうの……？）	!#!PRINTFORMW （ぁ……私、こんな状態なのに、それだけで終わっちゃうの……？）
+PRINTFORMW 「やああああああ♪　こんなっ♪　はげし、すぎるってばぁ♪」	!#!PRINTFORMW 「やああああああ♪　こんなっ♪　はげし、すぎるってばぁ♪」
+PRINTFORMW 「くる♪　きちゃうっ♪　こんなのがまんできなっ……」	!#!PRINTFORMW 「くる♪　きちゃうっ♪　こんなのがまんできなっ……」
+PRINTFORMW 「べ、別に、これくらい、なんともないしっ……」	!#!PRINTFORMW 「べ、別に、これくらい、なんともないしっ……」
+PRINTFORMW 「何やってんのヘンタイ！」	!#!PRINTFORMW 「何やってんのヘンタイ！」
+PRINTFORMW 「お触りはだめっ！」	!#!PRINTFORMW 「お触りはだめっ！」
+PRINTFORMW 「ちかくで……鳴けばいいの……？」	!#!PRINTFORMW 「ちかくで……鳴けばいいの……？」
+PRINTFORMW （匂い……すごい……♪　ちんちん、ほしい……♪）	!#!PRINTFORMW （匂い……すごい……♪　ちんちん、ほしい……♪）
+PRINTFORMW 「ま、マンツーマンでライブはやらないのよっ！」	!#!PRINTFORMW 「ま、マンツーマンでライブはやらないのよっ！」
+PRINTFORMW 「ほしいよ……もっと、せーえき♪　だしてっ、触手ちんちんからぁ……♪」	!#!PRINTFORMW 「ほしいよ……もっと、せーえき♪　だしてっ、触手ちんちんからぁ……♪」
+PRINTFORMW 「ちんちん、触手ちんちんっ♪　いっぱい♪　だしてるのぉ♪」	!#!PRINTFORMW 「ちんちん、触手ちんちんっ♪　いっぱい♪　だしてるのぉ♪」
+PRINTFORMW 「ちんちん、ちんちんが、なかに、あーっ♪　あーっ♪♪♪」	!#!PRINTFORMW 「ちんちん、ちんちんが、なかに、あーっ♪　あーっ♪♪♪」
+PRINTFORMW 「キャーーーーーーー！？　ヘンタイ！　ヘンタイ！　ヘンタイ！　ヘンターイ！！！」	!#!PRINTFORMW 「キャーーーーーーー！？　ヘンタイ！　ヘンタイ！　ヘンタイ！　ヘンターイ！！！」
+PRINTFORMW 「あ！？　はいってる……！」	!#!PRINTFORMW 「あ！？　はいってる……！」
+PRINTFORM 「や……おく、ゴツゴツ、されながらっ、だされてるぅ……	!#!PRINTFORM 「や……おく、ゴツゴツ、されながらっ、だされてるぅ……
+PRINTFORM 「あ……あっ、なか、でてるっ、わたしのなか、せーえき、吸ってるよぉ……	!#!PRINTFORM 「あ……あっ、なか、でてるっ、わたしのなか、せーえき、吸ってるよぉ……
+PRINTFORM ♪	!#!PRINTFORM ♪
+PRINTFORMW 」	!#!PRINTFORMW 」
+PRINTFORMW 「ど、どう、見えないでしょ？　見えてないんだよね？」	!#!PRINTFORMW 「ど、どう、見えないでしょ？　見えてないんだよね？」
+PRINTFORMW 「ふっふーん、見えないでしょー？」	!#!PRINTFORMW 「ふっふーん、見えないでしょー？」
+PRINTFORMW 「もう……うたえない……」	!#!PRINTFORMW 「もう……うたえない……」
+PRINTFORMW 「服……もう、いいや……」	!#!PRINTFORMW 「服……もう、いいや……」
+PRINTFORMW 「ヌ、ヌードライブ、とか……無理だってば」	!#!PRINTFORMW 「ヌ、ヌードライブ、とか……無理だってば」
+PRINTFORMW 「こ、こんな状態じゃ……歌って踊れない！」	!#!PRINTFORMW 「こ、こんな状態じゃ……歌って踊れない！」
+PRINTFORMW 「服も私の歌を盛り上げる一部なのに！」	!#!PRINTFORMW 「服も私の歌を盛り上げる一部なのに！」
+PRINTFORMW 「ぎゃー！？」	!#!PRINTFORMW 「ぎゃー！？」
+PRINTFORMW 「む、無理……これはムリ！」	!#!PRINTFORMW 「む、無理……これはムリ！」
+PRINTFORMW 「ちょ、ちょ～っと疲れてるだけ！」	!#!PRINTFORMW 「ちょ、ちょ～っと疲れてるだけ！」
+PRINTFORMW 「まだこっちが見えてないよね……？」	!#!PRINTFORMW 「まだこっちが見えてないよね……？」
+PRINTFORMW 「ふ、ふふふ、まだまだへーきなんだから……本当よ？」	!#!PRINTFORMW 「ふ、ふふふ、まだまだへーきなんだから……本当よ？」
+PRINTFORMW 「あわわ、押しかけ！？」	!#!PRINTFORMW 「あわわ、押しかけ！？」
+PRINTFORMW 「さ……さすがに、無理かな？」	!#!PRINTFORMW 「さ……さすがに、無理かな？」
+PRINTFORMW 「山よ！　天よ！　私の歌を聴けぇぇ！！」	!#!PRINTFORMW 「山よ！　天よ！　私の歌を聴けぇぇ！！」
+PRINTFORML 　　　　　　　　　　　　　　　ﾚｼﾞｪﾝﾀﾞﾘｰ	!#!PRINTFORML 　　　　　　　　　　　　　　　ﾚｼﾞｪﾝﾀﾞﾘｰ
+PRINTFORMW 「うわさのミスティア？　いいえ、伝説のミスティアよ！」	!#!PRINTFORMW 「うわさのミスティア？　いいえ、伝説のミスティアよ！」
+PRINTFORMW 「そんなに私の歌を聞きたいのかしら？」	!#!PRINTFORMW 「そんなに私の歌を聞きたいのかしら？」
+PRINTFORMW 「ら、楽勝だった、わね……」	!#!PRINTFORMW 「ら、楽勝だった、わね……」
+PRINTFORMW 「らっくしょ～♪」	!#!PRINTFORMW 「らっくしょ～♪」
+PRINTFORMW 「夜どころか、真っ昼間でも見えなくなったかしら？」	!#!PRINTFORMW 「夜どころか、真っ昼間でも見えなくなったかしら？」
+PRINTFORMW 「あんたはもう、歌も聞こえないよ」	!#!PRINTFORMW 「あんたはもう、歌も聞こえないよ」
+PRINTFORMW （……やっぱり歌ってると目立つかな）	!#!PRINTFORMW （……やっぱり歌ってると目立つかな）
+PRINTFORMW 「はぁ、薄暗い場所で助かったわ」	!#!PRINTFORMW 「はぁ、薄暗い場所で助かったわ」
+PRINTFORMW 「き、きっと話しあえばなんとかなるわよ！　元はお仲間なんだし！」	!#!PRINTFORMW 「き、きっと話しあえばなんとかなるわよ！　元はお仲間なんだし！」
+PRINTFORMW （どうか触手が大食いお化けを再起不能にしてくれますように！　復讐されるような事態になりませんように！）	!#!PRINTFORMW （どうか触手が大食いお化けを再起不能にしてくれますように！　復讐されるような事態になりませんように！）
+PRINTFORMW 「私が戻るまで、喉だけは守っててよ！？」	!#!PRINTFORMW 「私が戻るまで、喉だけは守っててよ！？」
+PRINTFORMW 「ど、どうしよう……！？」	!#!PRINTFORMW 「ど、どうしよう……！？」
+PRINTFORMW 「あわわわ、後はよろしく！　遠くで応援してるから！」	!#!PRINTFORMW 「あわわわ、後はよろしく！　遠くで応援してるから！」
+PRINTFORMW 「え、ちょっ、まっ！？」	!#!PRINTFORMW 「え、ちょっ、まっ！？」
+PRINTFORMW 「はひっ♪　こんなにっ、イったら……うはぁっ♪　まわり、真っ白くなって、見えないよぉっ……♪」	!#!PRINTFORMW 「はひっ♪　こんなにっ、イったら……うはぁっ♪　まわり、真っ白くなって、見えないよぉっ……♪」
+PRINTFORMW 「イってる、イってるからぁ♪　そのままして、もっとして、絶頂させつづけてぇっ♪」	!#!PRINTFORMW 「イってる、イってるからぁ♪　そのままして、もっとして、絶頂させつづけてぇっ♪」
+PRINTFORMW 「あ♪　あ♪　あ♪　きもち♪　きもちいぃ♪　いいよぉ、い♪　いっ♪　いぃぃぃっ♪」	!#!PRINTFORMW 「あ♪　あ♪　あ♪　きもち♪　きもちいぃ♪　いいよぉ、い♪　いっ♪　いぃぃぃっ♪」
+PRINTFORMW 「あんっ……♪　あん、あん、あん、あん、あぁぁぁぁあんっ♪♪」	!#!PRINTFORMW 「あんっ……♪　あん、あん、あん、あん、あぁぁぁぁあんっ♪♪」
+PRINTFORMW 「ひんっ、あひっ、ひぁぁぁぁぁぁっ♪　きかれ、てる……私の、エッチな、うたぁ……♪」	!#!PRINTFORMW 「ひんっ、あひっ、ひぁぁぁぁぁぁっ♪　きかれ、てる……私の、エッチな、うたぁ……♪」
+PRINTFORMW 「あんっ、あ、あぁぁぁぁあんっ…………♪　はぁ、あっ、あぁ……♪」	!#!PRINTFORMW 「あんっ、あ、あぁぁぁぁあんっ…………♪　はぁ、あっ、あぁ……♪」
+PRINTFORMW 「い、イク♪　いぐいくいくいくっ、イっちゃうぅぅうっ♪♪♪」	!#!PRINTFORMW 「い、イク♪　いぐいくいくいくっ、イっちゃうぅぅうっ♪♪♪」
+PRINTFORMW 「はへっ♪　はひっ♪　あんっ、そういえば、わらひ♪　はじめて、が……はぁ♪」	!#!PRINTFORMW 「はへっ♪　はひっ♪　あんっ、そういえば、わらひ♪　はじめて、が……はぁ♪」
+PRINTFORMW 「はへっ♪　はひっ♪　あんっ、まもら、ないと♪　わらひのっ、はじめてぇ♪」	!#!PRINTFORMW 「はへっ♪　はひっ♪　あんっ、まもら、ないと♪　わらひのっ、はじめてぇ♪」
+PRINTFORMW 「も、もしはじめてを奪ったら、私のファンが……！」	!#!PRINTFORMW 「も、もしはじめてを奪ったら、私のファンが……！」
+PRINTFORMW 「はぁ、は♪　はっ♪　は♪　だめ、はじめて、のこして、きもちよくしてっ♪」	!#!PRINTFORMW 「はぁ、は♪　はっ♪　は♪　だめ、はじめて、のこして、きもちよくしてっ♪」
+PRINTFORMW 「私のはじめては、安くないんだから……！」	!#!PRINTFORMW 「私のはじめては、安くないんだから……！」
+PRINTFORMW 「ま、まだはじめてだって皆に言えるよね……？」	!#!PRINTFORMW 「ま、まだはじめてだって皆に言えるよね……？」
+PRINTFORML 「あ……はっ、これっ♪　奥♪　しっかり、とどいちゃった……♪	!#!PRINTFORML 「あ……はっ、これっ♪　奥♪　しっかり、とどいちゃった……♪
+PRINTFORMW 　わらひ、こんなあいてでっ、んあああああ♪　はじめて、捨てちゃったぁ♪」	!#!PRINTFORMW 　わらひ、こんなあいてでっ、んあああああ♪　はじめて、捨てちゃったぁ♪」
+PRINTFORML 「あ……あぁ、これっ……奥、しっかり、とどいちゃった……	!#!PRINTFORML 「あ……あぁ、これっ……奥、しっかり、とどいちゃった……
+PRINTFORMW 　私、こんな相手で……はじめて、捨てちゃった……」	!#!PRINTFORMW 　私、こんな相手で……はじめて、捨てちゃった……」
+PRINTFORMW 「ラ……ライブの、お願いは、後にして……」	!#!PRINTFORMW 「ラ……ライブの、お願いは、後にして……」
+PRINTFORMW 「あわわ……」	!#!PRINTFORMW 「あわわ……」
+PRINTFORMW 「ふん……いい気味」	!#!PRINTFORMW 「ふん……いい気味」
+PRINTFORMW 「……う～ん、どうしよ」	!#!PRINTFORMW 「……う～ん、どうしよ」
+PRINTFORMW 「あれ、双子の生き別れなんていたっけ？」	!#!PRINTFORMW 「あれ、双子の生き別れなんていたっけ？」
+PRINTFORMW 「こりゃユニゾンが組めるわね～」	!#!PRINTFORMW 「こりゃユニゾンが組めるわね～」
+PRINTFORMW 「これだと、ユニゾンどころの話じゃないかも……」	!#!PRINTFORMW 「これだと、ユニゾンどころの話じゃないかも……」
+PRINTFORMW 「あれ……？　あ、本人じゃないか」	!#!PRINTFORMW 「あれ……？　あ、本人じゃないか」
+PRINTFORMW （……こんな事態なのに、いつもと全然表情を変えないわねこいつ）	!#!PRINTFORMW （……こんな事態なのに、いつもと全然表情を変えないわねこいつ）
+PRINTFORMW 「あ、私が鳥目になってると思ったらあんたの仕業か」	!#!PRINTFORMW 「あ、私が鳥目になってると思ったらあんたの仕業か」
+PRINTFORMW 「私がここにいるんだから、そうやっていちいちビクつかない！」	!#!PRINTFORMW 「私がここにいるんだから、そうやっていちいちビクつかない！」
+PRINTFORMW 「あぁ……あんたか。どーりで勝手に縮こまってると」	!#!PRINTFORMW 「あぁ……あんたか。どーりで勝手に縮こまってると」
+PRINTFORMW 「あんたがいると付属のおでんが売れて儲かる……ここでおでん買うやついないけど」	!#!PRINTFORMW 「あんたがいると付属のおでんが売れて儲かる……ここでおでん買うやついないけど」
+PRINTFORMW 「おでんを出す季節だと思ったらあんたがいただけだった」	!#!PRINTFORMW 「おでんを出す季節だと思ったらあんたがいただけだった」
+PRINTFORMW 「あんたが光ると鳥目の意味がなくなるからやめてほしいわ～」	!#!PRINTFORMW 「あんたが光ると鳥目の意味がなくなるからやめてほしいわ～」
+PRINTFORMW 「なんか見やすいと思ったら、あんたの仕業ね」	!#!PRINTFORMW 「なんか見やすいと思ったら、あんたの仕業ね」
+PRINTFORMW 「そりゃ、生き残ってるだろうけど……あ、亡霊だっけ」	!#!PRINTFORMW 「そりゃ、生き残ってるだろうけど……あ、亡霊だっけ」
+PRINTFORMW 「うげ……いたんだ……」	!#!PRINTFORMW 「うげ……いたんだ……」
+PRINTFORMW 「調子はどう、相棒？」	!#!PRINTFORMW 「調子はどう、相棒？」
+PRINTFORMW 「あんたもいたんだ！　あ、おはよーございますって言わないと駄目なんだっけ？」	!#!PRINTFORMW 「あんたもいたんだ！　あ、おはよーございますって言わないと駄目なんだっけ？」
+PRINTFORMW 「えっと、響子によるとこういう時は確か……おはよーございます！」	!#!PRINTFORMW 「えっと、響子によるとこういう時は確か……おはよーございます！」
+PRINTFORMW 「……ミミズク？」	!#!PRINTFORMW 「……ミミズク？」
+PRINTFORMW 「あれ、誰かいるの？」	!#!PRINTFORMW 「あれ、誰かいるの？」
+PRINTFORML 「ちゃんと歌を聞く気がある相手でよかったわ～	!#!PRINTFORML 「ちゃんと歌を聞く気がある相手でよかったわ～
+PRINTFORMW 　……あるよね？」	!#!PRINTFORMW 　……あるよね？」
+PRINTFORMW 「へっへーん、私の歌声が届いたのね！」	!#!PRINTFORMW 「へっへーん、私の歌声が届いたのね！」
+PRINTFORM 「オッケー、頑張りましょ	!#!PRINTFORM 「オッケー、頑張りましょ
+PRINTFORM 相棒	!#!PRINTFORM 相棒
+PRINTFORMW ！」	!#!PRINTFORMW ！」
+PRINTFORMW （断ったら食われる……！）	!#!PRINTFORMW （断ったら食われる……！）
+PRINTFORMW 「そんなに私の歌が聞きたいなら♪」	!#!PRINTFORMW 「そんなに私の歌が聞きたいなら♪」
+PRINTFORM 「オッケー、今助けるよ	!#!PRINTFORM 「オッケー、今助けるよ
+PRINTFORMW （助けなかったら私が食われる……！）	!#!PRINTFORMW （助けなかったら私が食われる……！）
+PRINTFORMW 「それなら出血大サービス、即席コンサートの時間よ！」	!#!PRINTFORMW 「それなら出血大サービス、即席コンサートの時間よ！」
+PRINTFORMW 「な、なんとかしたいけど……でも……」	!#!PRINTFORMW 「な、なんとかしたいけど……でも……」
+PRINTFORMW 「……きゅ、急用が」	!#!PRINTFORMW 「……きゅ、急用が」
+PRINTFORMW 「ごめん、当分は一人でやらせて？」	!#!PRINTFORMW 「ごめん、当分は一人でやらせて？」
+PRINTFORMW 「……馬鹿にしてんの？」	!#!PRINTFORMW 「……馬鹿にしてんの？」
+PRINTFORMW 「ソロコンサートのほうが好きなのよ」	!#!PRINTFORMW 「ソロコンサートのほうが好きなのよ」
+PRINTFORMW 	!#!PRINTFORMW 
+PRINTFORMW 「んうっ……♪　ま、た、卵じゃ……ひゃっ♪　なか、響いて、るぅ♪」	!#!PRINTFORMW 「んうっ……♪　ま、た、卵じゃ……ひゃっ♪　なか、響いて、るぅ♪」
+PRINTFORMW 「はぁ、はぁ……ん、あ、はぁ♪　むね、またきた……♪」	!#!PRINTFORMW 「はぁ、はぁ……ん、あ、はぁ♪　むね、またきた……♪」
+PRINTFORMW 「なんで……こん、なぁっ♪　こども、産むの……きもひ、いぃの……♪」	!#!PRINTFORMW 「なんで……こん、なぁっ♪　こども、産むの……きもひ、いぃの……♪」
+PRINTFORMW 「ひっ……なん、でっ……たまごじゃ、ないぃ……！？」	!#!PRINTFORMW 「ひっ……なん、でっ……たまごじゃ、ないぃ……！？」
+PRINTFORMW 「はぁ、はぁ……う、あ！？　む、ねぇ……♪」	!#!PRINTFORMW 「はぁ、はぁ……う、あ！？　む、ねぇ……♪」
+PRINTFORMW 「あぅ……赤ちゃんぅ、産むのぉ……こんなに……♪」	!#!PRINTFORMW 「あぅ……赤ちゃんぅ、産むのぉ……こんなに……♪」
+PRINTFORMW 「うぇぇ、気色悪ぅ……」	!#!PRINTFORMW 「うぇぇ、気色悪ぅ……」
+PRINTFORMW 「こんなバックコーラスはごめんだわ……」	!#!PRINTFORMW 「こんなバックコーラスはごめんだわ……」
+PRINTFORMW 「これで片付けはおしまいっと」	!#!PRINTFORMW 「これで片付けはおしまいっと」
+PRINTFORMW 「整地整地～♪」	!#!PRINTFORMW 「整地整地～♪」
+PRINTFORMW 「うーん、音の反響が気に食わない」	!#!PRINTFORMW 「うーん、音の反響が気に食わない」
+PRINTFORMW 「うるさい壁なんてあったらコンサートがぶち壊しだわ～」	!#!PRINTFORMW 「うるさい壁なんてあったらコンサートがぶち壊しだわ～」
+PRINTFORMW 「もうだめ、まともに周りが見えない……」	!#!PRINTFORMW 「もうだめ、まともに周りが見えない……」
+PRINTFORMW 「う……声の調子、悪くなってきてるわ……」	!#!PRINTFORMW 「う……声の調子、悪くなってきてるわ……」
+PRINTFORMW 「眼精疲労にはヤツメウナギ……とか言ってる場合じゃないね……」	!#!PRINTFORMW 「眼精疲労にはヤツメウナギ……とか言ってる場合じゃないね……」
+PRINTFORMW 「あわわ、私が鳥目に！　……じゃなくて眠いだけか」	!#!PRINTFORMW 「あわわ、私が鳥目に！　……じゃなくて眠いだけか」
+PRINTFORMDW さすがに歌う余裕が無いのか、ミスティアは黙って走っている……	!#!PRINTFORMDW さすがに歌う余裕が無いのか、ミスティアは黙って走っている……
+PRINTFORML 「ぜぇ、ぜぇっ……！」	!#!PRINTFORML 「ぜぇ、ぜぇっ……！」
+PRINTFORMW （走るだけでこんなに息が荒くなるなんて……）	!#!PRINTFORMW （走るだけでこんなに息が荒くなるなんて……）
+PRINTFORMW 「……こんなんじゃだめだめ。歌って盛り上げなくちゃ」	!#!PRINTFORMW 「……こんなんじゃだめだめ。歌って盛り上げなくちゃ」
+PRINTFORMW 「♪～♪♪～♪……はぁ、なんか声がしっくり来ないわ」	!#!PRINTFORMW 「♪～♪♪～♪……はぁ、なんか声がしっくり来ないわ」
+PRINTFORMW 「じゃーんじゃじゃーん！」	!#!PRINTFORMW 「じゃーんじゃじゃーん！」
+PRINTFORMDW ミスティアは歌いながら走り回っている……	!#!PRINTFORMDW ミスティアは歌いながら走り回っている……
+PRINTFORMDW ミスティアの口からはため息が漏れるばかりで、得意の歌が響く様子はない。	!#!PRINTFORMDW ミスティアの口からはため息が漏れるばかりで、得意の歌が響く様子はない。
+PRINTFORMW 「こんな状態じゃ、とてもじゃないけど歌えない……」	!#!PRINTFORMW 「こんな状態じゃ、とてもじゃないけど歌えない……」
+PRINTFORMW （……敵を見つけるまで我慢我慢）	!#!PRINTFORMW （……敵を見つけるまで我慢我慢）
+PRINTFORMW 「声の調子も動き方も中途半端で嫌になるわ……」	!#!PRINTFORMW 「声の調子も動き方も中途半端で嫌になるわ……」
+PRINTFORMW 「ふふん、鳥目にする相手はどこかしら～♪」	!#!PRINTFORMW 「ふふん、鳥目にする相手はどこかしら～♪」
+PRINTFORMW 「襲うのにちょうどよさそうな奴はっと」	!#!PRINTFORMW 「襲うのにちょうどよさそうな奴はっと」
+PRINTFORMW 「正直言うと、いっそ逃げたいかなーって……」	!#!PRINTFORMW 「正直言うと、いっそ逃げたいかなーって……」
+PRINTFORMW 「……休めるのはいいけどね」	!#!PRINTFORMW 「……休めるのはいいけどね」
+PRINTFORMW 「ふわああああ……ねっむ」	!#!PRINTFORMW 「ふわああああ……ねっむ」
+PRINTFORMW 「……退屈しのぎに歌でも歌えたら楽なのに」	!#!PRINTFORMW 「……退屈しのぎに歌でも歌えたら楽なのに」
+PRINTFORMW 「ああもう、早く来ないかしら？」	!#!PRINTFORMW 「ああもう、早く来ないかしら？」
+PRINTFORMW 「じっとしてるなんてつまんないわ……」	!#!PRINTFORMW 「じっとしてるなんてつまんないわ……」
+PRINTFORMW 「て、体よく追い出してるんじゃないよね？」	!#!PRINTFORMW 「て、体よく追い出してるんじゃないよね？」
+PRINTFORMW 「ふんだ！　この私を追い出すなんて、どうなっても知らないよ！」	!#!PRINTFORMW 「ふんだ！　この私を追い出すなんて、どうなっても知らないよ！」
+PRINTFORMW 「この私と別れるだなんて、どうなっても知らないよ？」	!#!PRINTFORMW 「この私と別れるだなんて、どうなっても知らないよ？」
+PRINTFORML 「あ……聞こえ、ない……なにも……	!#!PRINTFORML 「あ……聞こえ、ない……なにも……
+PRINTFORMW 　うた、も……」 	!#!PRINTFORMW 　うた、も……」 
+PRINTFORMW 「私がいなくなって苦戦して、それで私のありがたみを知ってよね！」	!#!PRINTFORMW 「私がいなくなって苦戦して、それで私のありがたみを知ってよね！」
+PRINTFORMW 「勝手にしなさいよ大食い亡霊！　触手に食われちゃえ！」	!#!PRINTFORMW 「勝手にしなさいよ大食い亡霊！　触手に食われちゃえ！」
+PRINTFORMW 「あんたとのコンビはもう解散よ！」	!#!PRINTFORMW 「あんたとのコンビはもう解散よ！」
+PRINTFORMW 「あんた達を手伝ってなんかやるもんか、べーだ！」	!#!PRINTFORMW 「あんた達を手伝ってなんかやるもんか、べーだ！」
+PRINTFORMW 「あ、あはは……少しやりすぎたのかしら」	!#!PRINTFORMW 「あ、あはは……少しやりすぎたのかしら」
+PRINTFORMW （相変わらずあいつは何考えてるかわかんないわ……）	!#!PRINTFORMW （相変わらずあいつは何考えてるかわかんないわ……）
+PRINTFORMW 「ちょ、ちょっと待って～！」	!#!PRINTFORMW 「ちょ、ちょっと待って～！」
+PRINTFORMW 「ん……私の視界が鳥目に……うげ」	!#!PRINTFORMW 「ん……私の視界が鳥目に……うげ」
+PRINTFORMDW 目をごしごしと擦りながら起き上がったミスティアは、足音から伝わる感触に小さく悲鳴を上げた。	!#!PRINTFORMDW 目をごしごしと擦りながら起き上がったミスティアは、足音から伝わる感触に小さく悲鳴を上げた。
+PRINTFORMDW 生肉を踏んだような足触りと音はなんとも不快だ。不意打ちなら尚更。	!#!PRINTFORMDW 生肉を踏んだような足触りと音はなんとも不快だ。不意打ちなら尚更。
+PRINTFORMDW 見れば地面も天井も壁も、視界の限り毒々しい肉色で染まっている。	!#!PRINTFORMDW 見れば地面も天井も壁も、視界の限り毒々しい肉色で染まっている。
+PRINTFORMW 「……なんで私こんな所にいるんだっけ……えーっと、うーんと、確か」	!#!PRINTFORMW 「……なんで私こんな所にいるんだっけ……えーっと、うーんと、確か」
+PRINTFORMDL 回想中～	!#!PRINTFORMDL 回想中～
+PRINTFORMW 『うなぎうなぎうなぎ～♪　うなぎーをたべーるとー♪』	!#!PRINTFORMW 『うなぎうなぎうなぎ～♪　うなぎーをたべーるとー♪』
+PRINTFORMW 『いやぁ、今日もヤツメウナギが大漁ね！　……おや？』	!#!PRINTFORMW 『いやぁ、今日もヤツメウナギが大漁ね！　……おや？』
+PRINTFORMW 『上流から大物が流れてきた！　これは取らないと……！？』	!#!PRINTFORMW 『上流から大物が流れてきた！　これは取らないと……！？』
+PRINTFORMW 『な、ちょ、巻き付いて……きゅう』	!#!PRINTFORMW 『な、ちょ、巻き付いて……きゅう』
+PRINTFORMDL ～回想終了	!#!PRINTFORMDL ～回想終了
+PRINTFORMW 「………………」	!#!PRINTFORMW 「………………」
+PRINTFORMW 「……なるほど。これはさらわれた、と解釈するのが妥当ね！」	!#!PRINTFORMW 「……なるほど。これはさらわれた、と解釈するのが妥当ね！」
+PRINTFORMDW ふふん、と胸を張るミスティア。	!#!PRINTFORMDW ふふん、と胸を張るミスティア。
+PRINTFORMDW それ以前に最近の屋台は神隠しの噂話で持ち切りだったのだが、彼女は覚えていなかった。	!#!PRINTFORMDW それ以前に最近の屋台は神隠しの噂話で持ち切りだったのだが、彼女は覚えていなかった。
+PRINTFORMW 「馬鹿なやつ。こういう薄暗い場所なら夜雀の能力が生きるってもんだわ～♪」	!#!PRINTFORMW 「馬鹿なやつ。こういう薄暗い場所なら夜雀の能力が生きるってもんだわ～♪」
+PRINTFORML 	!#!PRINTFORML 
+PRINTFORMDW この迷宮には目のついていない魔物が多数いることを、勇ましげに歌うミスティアはまだ知らない。	!#!PRINTFORMDW この迷宮には目のついていない魔物が多数いることを、勇ましげに歌うミスティアはまだ知らない。
+PRINTFORML 「なんだろ……歌おうとしても、スッキリできない」	!#!PRINTFORML 「なんだろ……歌おうとしても、スッキリできない」
+PRINTFORML 「動き回ろうとしても、なんかむずむずして……」	!#!PRINTFORML 「動き回ろうとしても、なんかむずむずして……」
+PRINTFORML 「息、熱くて……変な声が出そぉ……」	!#!PRINTFORML 「息、熱くて……変な声が出そぉ……」
+PRINTFORML 「暗い歌しか思いつかないや……」	!#!PRINTFORML 「暗い歌しか思いつかないや……」
+PRINTFORML 「喉…………重い」	!#!PRINTFORML 「喉…………重い」
+PRINTFORML 「……歌う気になれないよ」	!#!PRINTFORML 「……歌う気になれないよ」
+PRINTFORML 「――あぁもう、ねっむい！」	!#!PRINTFORML 「――あぁもう、ねっむい！」
+PRINTFORML 「……無理に歌っても、歌いながら寝ちゃうかも」	!#!PRINTFORML 「……無理に歌っても、歌いながら寝ちゃうかも」
+PRINTFORML 「この眠気じゃ、どんな歌でも子守唄になるわよ……」	!#!PRINTFORML 「この眠気じゃ、どんな歌でも子守唄になるわよ……」
+PRINTFORML 「こんな状態で歌うのはさすがに……」	!#!PRINTFORML 「こんな状態で歌うのはさすがに……」
+PRINTFORML 「今、歌う所を見られたらファンが減るわ！」	!#!PRINTFORML 「今、歌う所を見られたらファンが減るわ！」
+PRINTFORML 「……声を出せればいつでも歌えるわけじゃないっての」	!#!PRINTFORML 「……声を出せればいつでも歌えるわけじゃないっての」
+PRINTFORML 「見せられないよ！」	!#!PRINTFORML 「見せられないよ！」
+PRINTFORMDL ミスティアは足をすり合わせもじもじしている……	!#!PRINTFORMDL ミスティアは足をすり合わせもじもじしている……
+PRINTFORML 「すごく　動き　にくい」	!#!PRINTFORML 「すごく　動き　にくい」
+PRINTFORML 「…………。…………！？　…………！（ﾌﾟﾙﾌﾟﾙ）」	!#!PRINTFORML 「…………。…………！？　…………！（ﾌﾟﾙﾌﾟﾙ）」
+PRINTFORML 「あー、あー……はぁ、こんな喉じゃぜんっぜん駄目」	!#!PRINTFORML 「あー、あー……はぁ、こんな喉じゃぜんっぜん駄目」
+PRINTFORML 「……歌って踊れる体調じゃないわー」	!#!PRINTFORML 「……歌って踊れる体調じゃないわー」
+PRINTFORML 「体が重いってやだなぁ……」	!#!PRINTFORML 「体が重いってやだなぁ……」
+PRINTFORML 「はぁ、こういう時こそ盛り上げていかなきゃいけないのに」	!#!PRINTFORML 「はぁ、こういう時こそ盛り上げていかなきゃいけないのに」
+PRINTFORML 「うぎゅ！　……体痛くて、変な声が出ちゃった」	!#!PRINTFORML 「うぎゅ！　……体痛くて、変な声が出ちゃった」
+PRINTFORML 「こういう時こそ、歌って気分を上げて行かないと！」	!#!PRINTFORML 「こういう時こそ、歌って気分を上げて行かないと！」
+PRINTFORML 「うん、歌おう。気持ちを切り替えていかないと大変だわ」	!#!PRINTFORML 「うん、歌おう。気持ちを切り替えていかないと大変だわ」
+PRINTFORML 「体が重いからって静かにしていると、そのうちお経を聞くはめになるわ！」	!#!PRINTFORML 「体が重いからって静かにしていると、そのうちお経を聞くはめになるわ！」
+PRINTFORML 「な、なんか……いっぱいいる」	!#!PRINTFORML 「な、なんか……いっぱいいる」
+PRINTFORML 「かっかかって来なさいよ！」	!#!PRINTFORML 「かっかかって来なさいよ！」
+PRINTFORMDL ミスティアは縮こまりながら周りを見渡している……	!#!PRINTFORMDL ミスティアは縮こまりながら周りを見渡している……
+PRINTFORML 「どんな歌がいいかしら～？」	!#!PRINTFORML 「どんな歌がいいかしら～？」
+PRINTFORML 「ココーア・ソーダ・クエン酸♪」	!#!PRINTFORML 「ココーア・ソーダ・クエン酸♪」
+PRINTFORML 「とーめないーで♪　きーみの呼吸ー♪　とーきはもーどせなーいけどー♪」	!#!PRINTFORML 「とーめないーで♪　きーみの呼吸ー♪　とーきはもーどせなーいけどー♪」
+PRINTFORML 「輝くなーみだをあーつめて♪　じーかんの海をわーたろう♪」	!#!PRINTFORML 「輝くなーみだをあーつめて♪　じーかんの海をわーたろう♪」
+PRINTFORML 「うんめいーはー♪　この手のなかー♪　うーごきだーすからー♪」	!#!PRINTFORML 「うんめいーはー♪　この手のなかー♪　うーごきだーすからー♪」
+PRINTFORML 「果てのないこの闇も♪　繰り返す後悔も♪　あーしたつくーるげんじつー♪」	!#!PRINTFORML 「果てのないこの闇も♪　繰り返す後悔も♪　あーしたつくーるげんじつー♪」
+PRINTFORML 「こーころをー♪　閉ざさーれてるーの？　そーれとも♪　私、とーざしーてーるーのー？」	!#!PRINTFORML 「こーころをー♪　閉ざさーれてるーの？　そーれとも♪　私、とーざしーてーるーのー？」
+PRINTFORML 「いーつからー♪　歪みはじめてーいーたー？偽善とー嘘に守られーてーたー？」	!#!PRINTFORML 「いーつからー♪　歪みはじめてーいーたー？偽善とー嘘に守られーてーたー？」
+PRINTFORML 「ダン♪　ダダン♪　ダンダンダンダン♪　アッ♪　アアッ♪　アッ♪　アアッ♪」	!#!PRINTFORML 「ダン♪　ダダン♪　ダンダンダンダン♪　アッ♪　アアッ♪　アッ♪　アアッ♪」
+PRINTFORML 「ダダダン♪　ダンダダダダダーンダーンダーンダーン♪　アーアアー♪　アーアアー♪」	!#!PRINTFORML 「ダダダン♪　ダンダダダダダーンダーンダーンダーン♪　アーアアー♪　アーアアー♪」
+PRINTFORML 「デーレー♪　デーレー♪　デン！　デデデン！！！」	!#!PRINTFORML 「デーレー♪　デーレー♪　デン！　デデデン！！！」
+PRINTFORML 「ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪　ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪」	!#!PRINTFORML 「ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪　ラ♪　ラ～ラ～♪　ラ・ラ♪　ラ～ラ～♪」
+PRINTFORML 「ここ、見た目のつまらなさが音にまで響いてる」	!#!PRINTFORML 「ここ、見た目のつまらなさが音にまで響いてる」
+PRINTFORML 「どこであろうと、私は心のままに歌うわ！」	!#!PRINTFORML 「どこであろうと、私は心のままに歌うわ！」
+PRINTFORML 「暗いのはいいけど、ジメジメしてるのはやだ」	!#!PRINTFORML 「暗いのはいいけど、ジメジメしてるのはやだ」
+PRINTFORML 「陰気な作りね～陰気すぎて苛々するくらい」	!#!PRINTFORML 「陰気な作りね～陰気すぎて苛々するくらい」

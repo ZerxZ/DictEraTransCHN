@@ -1,726 +1,724 @@
-﻿//口上:
-
-PRINTFORMDW 力が抜け思うように抵抗できない%CALLNAME:TARGET%の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…	PRINTFORMDW 力が抜け思うように抵抗できない%CALLNAME:TARGET%の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…
-PRINTFORMDW %CALLNAME:1%はぐったりと動かない%CALLNAME:TARGET%を一度だけ振り返り、早足でその場を離れた…	PRINTFORMDW %CALLNAME:1%はぐったりと動かない%CALLNAME:TARGET%を一度だけ振り返り、早足でその場を離れた…
-PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている%CALLNAME:TARGET%に抵抗する術はない！	PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている%CALLNAME:TARGET%に抵抗する術はない！
-PRINTFORMDW 動きの鈍った%CALLNAME:TARGET%はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…	PRINTFORMDW 動きの鈍った%CALLNAME:TARGET%はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…
-PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、%CALLNAME:TARGET%はどうにか脱出しようと力を込める…	PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、%CALLNAME:TARGET%はどうにか脱出しようと力を込める…
-PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする%CALLNAME:TARGET%の手から力が抜ける…	PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする%CALLNAME:TARGET%の手から力が抜ける…
-PRINTFORMDW 尻穴から何もかも吸い出されるような錯覚に、%CALLNAME:TARGET%は上ずった悲鳴を上げて激しく首を振る…	PRINTFORMDW 尻穴から何もかも吸い出されるような錯覚に、%CALLNAME:TARGET%は上ずった悲鳴を上げて激しく首を振る…
-PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、%CALLNAME:TARGET%の寝息が苦しげに乱れる…	PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、%CALLNAME:TARGET%の寝息が苦しげに乱れる…
-PRINTFORMDW 小さな身体をがくがくと揺らして絶頂に達する%CALLNAME:TARGET%の目から、大粒の涙が零れ落ちる…	PRINTFORMDW 小さな身体をがくがくと揺らして絶頂に達する%CALLNAME:TARGET%の目から、大粒の涙が零れ落ちる…
-PRINTFORMDW 力を吸われ続ける%CALLNAME:TARGET%は、身体を締め上げる触手から思うように脱出できずにいる…	PRINTFORMDW 力を吸われ続ける%CALLNAME:TARGET%は、身体を締め上げる触手から思うように脱出できずにいる…
-PRINTFORMDW %CALLNAME:TARGET%はいつになく激しい、絶叫じみた嬌声を上げ、背を弓なりに反らせて痙攣する！	PRINTFORMDW %CALLNAME:TARGET%はいつになく激しい、絶叫じみた嬌声を上げ、背を弓なりに反らせて痙攣する！
-PRINTFORMDW 自分の下半身に纏わりつく触手に、獣欲に濁る%CALLNAME:TARGET%の瞳は釘付けになってしまう…	PRINTFORMDW 自分の下半身に纏わりつく触手に、獣欲に濁る%CALLNAME:TARGET%の瞳は釘付けになってしまう…
-PRINTFORMDW 初々しい秘肉に触手の先が食い込むのを見ても、%CALLNAME:TARGET%は抗う素振りさえ見せない…	PRINTFORMDW 初々しい秘肉に触手の先が食い込むのを見ても、%CALLNAME:TARGET%は抗う素振りさえ見せない…
-PRINTFORMDW 異物感が下腹部を襲い、%CALLNAME:TARGET%は意識がないまま、息を呑むような悲鳴を上げた…	PRINTFORMDW 異物感が下腹部を襲い、%CALLNAME:TARGET%は意識がないまま、息を呑むような悲鳴を上げた…
-PRINTFORMDW ぐったりと力を抜いた%CALLNAME:TARGET%の身体が、壊れた玩具のようにびくびくと痙攣する…	PRINTFORMDW ぐったりと力を抜いた%CALLNAME:TARGET%の身体が、壊れた玩具のようにびくびくと痙攣する…
-PRINTFORMDW 細い身体をぬらぬらと粘液で穢しながら、敗北の姿を嘲笑うかのように、ことさらにゆっくりと蹂躙していく…	PRINTFORMDW 細い身体をぬらぬらと粘液で穢しながら、敗北の姿を嘲笑うかのように、ことさらにゆっくりと蹂躙していく…
-PRINTFORMDW 荒い息を吐きながら、%CALLNAME:TARGET%は火照る身体を恐怖とは別の感情で震わせている…	PRINTFORMDW 荒い息を吐きながら、%CALLNAME:TARGET%は火照る身体を恐怖とは別の感情で震わせている…
-PRINTFORMDW %CALLNAME:TARGET%は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…	PRINTFORMDW %CALLNAME:TARGET%は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…
-PRINTFORMDW 全身から力が抜けていくのを感じながら、%CALLNAME:TARGET%の意識は闇に溶けていった──	PRINTFORMDW 全身から力が抜けていくのを感じながら、%CALLNAME:TARGET%の意識は闇に溶けていった──
-PRINTFORMDW これから我が身に起こる運命を知らず、%CALLNAME:TARGET%は安らかに寝息を立てている…	PRINTFORMDW これから我が身に起こる運命を知らず、%CALLNAME:TARGET%は安らかに寝息を立てている…
-PRINTFORMDW %CALLNAME:TARGET%の瞳は獣欲に濁り、虚ろな笑みを浮かべたまま陵辱を受け続けている…	PRINTFORMDW %CALLNAME:TARGET%の瞳は獣欲に濁り、虚ろな笑みを浮かべたまま陵辱を受け続けている…
-PRINTFORMDW 言い知れない不快感と違和感に、%CALLNAME:TARGET%は眉を顰めて呻くことしかできない…	PRINTFORMDW 言い知れない不快感と違和感に、%CALLNAME:TARGET%は眉を顰めて呻くことしかできない…
-PRINTFORMDW 肌を舐める肉壁のおぞましい感触すら快感に変わっていく中、文は必死に首を振って意識を保とうとする…	PRINTFORMDW 肌を舐める肉壁のおぞましい感触すら快感に変わっていく中、文は必死に首を振って意識を保とうとする…
-PRINTFORMDW 触手が吸い上げるのに合わせて、%CALLNAME:TARGET%はびくびくと腰を震わせてしまう…	PRINTFORMDW 触手が吸い上げるのに合わせて、%CALLNAME:TARGET%はびくびくと腰を震わせてしまう…
-PRINTFORMDW %CALLNAME:TARGET%は身体の自由になるわずかな部分で、なんとか身を守ろうとする…	PRINTFORMDW %CALLNAME:TARGET%は身体の自由になるわずかな部分で、なんとか身を守ろうとする…
-PRINTFORMDW 虚ろな喘ぎを漏らしながら、%CALLNAME:TARGET%はがくがくと小さな身体を震わせた…	PRINTFORMDW 虚ろな喘ぎを漏らしながら、%CALLNAME:TARGET%はがくがくと小さな身体を震わせた…
-﻿PRINTFORML エロいことには免疫あって最初は余裕こいてますが、主導権を握られると意外と脆い、そんなイメージ。	PRINTFORML エロいことには免疫あって最初は余裕こいてますが、主導権を握られると意外と脆い、そんなイメージ。
-PRINTFORMDW 身体の自由を奪われたまま、%CALLNAME:TARGET%は申し訳程度の抵抗をして見せる…	PRINTFORMDW 身体の自由を奪われたまま、%CALLNAME:TARGET%は申し訳程度の抵抗をして見せる…
-PRINTFORMDW 全身を高潮させ、%CALLNAME:TARGET%はうわ言のように淫らな懇願の言葉を口走る…	PRINTFORMDW 全身を高潮させ、%CALLNAME:TARGET%はうわ言のように淫らな懇願の言葉を口走る…
-PRINTFORMDW それまで抵抗を続けていた%CALLNAME:TARGET%の身体から、かくり、と力が抜けた…	PRINTFORMDW それまで抵抗を続けていた%CALLNAME:TARGET%の身体から、かくり、と力が抜けた…
-PRINTFORMDW %CALLNAME:TARGET%の小さな身体は、触手の攻撃にいいように翻弄されてしまう…	PRINTFORMDW %CALLNAME:TARGET%の小さな身体は、触手の攻撃にいいように翻弄されてしまう…
-PRINTFORMDW %CALLNAME:TARGET%はむずがるような声を上げるものの、目を覚ます気配はない…	PRINTFORMDW %CALLNAME:TARGET%はむずがるような声を上げるものの、目を覚ます気配はない…
-PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、%CALLNAME:TARGET%は眠ったまま身を震わせた…	PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、%CALLNAME:TARGET%は眠ったまま身を震わせた…
-PRINTFORMDW 全身を粘液で汚しながらも、%CALLNAME:TARGET%は身を捩って抜け出そうとする…	PRINTFORMDW 全身を粘液で汚しながらも、%CALLNAME:TARGET%は身を捩って抜け出そうとする…
-PRINTFORMDW 弱い乳首を執拗に吸引され、%CALLNAME:TARGET%は切羽詰った喘ぎを上げ続ける…	PRINTFORMDW 弱い乳首を執拗に吸引され、%CALLNAME:TARGET%は切羽詰った喘ぎを上げ続ける…
-PRINTFORMDW 吸い上げられるたび、%CALLNAME:TARGET%の幼い身体から抵抗の力が消えていく…	PRINTFORMDW 吸い上げられるたび、%CALLNAME:TARGET%の幼い身体から抵抗の力が消えていく…
-PRINTFORMDW 触手に四肢を捕らわれても、%CALLNAME:TARGET%はぐったりとうなだれたままだ…	PRINTFORMDW 触手に四肢を捕らわれても、%CALLNAME:TARGET%はぐったりとうなだれたままだ…
-PRINTFORMDW %CALLNAME:TARGET%はどこかおぼつかない足取りで、なんとか攻撃から身を躱す…	PRINTFORMDW %CALLNAME:TARGET%はどこかおぼつかない足取りで、なんとか攻撃から身を躱す…
-PRINTFORMDW %CALLNAME:TARGET%は熱っぽく潤んだ瞳で、どこか名残惜しそうに敵を振り返る…	PRINTFORMDW %CALLNAME:TARGET%は熱っぽく潤んだ瞳で、どこか名残惜しそうに敵を振り返る…
-PRINTFORMDW %CALLNAME:TARGET%は自分の腹に手を当て、%CALLNAME:1%に訴える…	PRINTFORMDW %CALLNAME:TARGET%は自分の腹に手を当て、%CALLNAME:1%に訴える…
-PRINTFORMDW 力が抜け思うように抵抗できない文の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…	PRINTFORMDW 力が抜け思うように抵抗できない文の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…
-PRINTFORMDW %CALLNAME:1%はぐったりと動かない文を一度だけ振り返り、早足でその場を離れた…	PRINTFORMDW %CALLNAME:1%はぐったりと動かない文を一度だけ振り返り、早足でその場を離れた…
-PRINTFORMDW %CALLNAME:TARGET%は苦悶の声を漏らし身を捩るが、目を覚まそうとはしない…	PRINTFORMDW %CALLNAME:TARGET%は苦悶の声を漏らし身を捩るが、目を覚まそうとはしない…
-PRINTFORMDW %CALLNAME:TARGET%は舌足らずな声で、淫らな宣言の言葉を繰り返し口にする…	PRINTFORMDW %CALLNAME:TARGET%は舌足らずな声で、淫らな宣言の言葉を繰り返し口にする…
-PRINTFORMDW 全身に絡みつく触手の不快感に、%CALLNAME:TARGET%はわずかに眉を顰めた…	PRINTFORMDW 全身に絡みつく触手の不快感に、%CALLNAME:TARGET%はわずかに眉を顰めた…
-PRINTFORMDW %CALLNAME:TARGET%は残された力で、肉壁の内側を叩き、抓り、蹴りつける…	PRINTFORMDW %CALLNAME:TARGET%は残された力で、肉壁の内側を叩き、抓り、蹴りつける…
-PRINTFORMDW %CALLNAME:TARGET%は身を捩り、胸を隠すようにして身を守ろうとしている…	PRINTFORMDW %CALLNAME:TARGET%は身を捩り、胸を隠すようにして身を守ろうとしている…
-PRINTFORMDW %CALLNAME:TARGET%は太ももをすり合わせ、敏感な部分を守ろうとしている…	PRINTFORMDW %CALLNAME:TARGET%は太ももをすり合わせ、敏感な部分を守ろうとしている…
-PRINTFORMDW %CALLNAME:TARGET%はもはや、与えられる快楽に抵抗する素振りも見せない…	PRINTFORMDW %CALLNAME:TARGET%はもはや、与えられる快楽に抵抗する素振りも見せない…
-PRINTFORMDW 全身を触手に締め上げられ、%CALLNAME:TARGET%の唇からか細い声が漏れる…	PRINTFORMDW 全身を触手に締め上げられ、%CALLNAME:TARGET%の唇からか細い声が漏れる…
-PRINTFORMDW %CALLNAME:TARGET%をこのまま放っておけばどうなるかは、想像に難くない。	PRINTFORMDW %CALLNAME:TARGET%をこのまま放っておけばどうなるかは、想像に難くない。
-PRINTFORML 椛とは仲がよろしくない設定に一応は準拠していますが、会話などはさほど険悪ではないはず。	PRINTFORML 椛とは仲がよろしくない設定に一応は準拠していますが、会話などはさほど険悪ではないはず。
-PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている文に抵抗する術はない！	PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている文に抵抗する術はない！
-PRINTFORMDW しなやかな身体を反らせて達する文の懇願を無視し、触手は暴力的な快楽を送り込み続ける…	PRINTFORMDW しなやかな身体を反らせて達する文の懇願を無視し、触手は暴力的な快楽を送り込み続ける…
-PRINTFORMDW 尻穴を吸われる馴染みのない感覚に、文は力の抜ける手で必死に触手を引き剥がそうとする…	PRINTFORMDW 尻穴を吸われる馴染みのない感覚に、文は力の抜ける手で必死に触手を引き剥がそうとする…
-PRINTFORMDW 全身に絡みつく触手の感触に顔を顰めながら、しかし文に抵抗する力はもう残されていない…	PRINTFORMDW 全身に絡みつく触手の感触に顔を顰めながら、しかし文に抵抗する力はもう残されていない…
-PRINTFORMDW 動きの鈍った文はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…	PRINTFORMDW 動きの鈍った文はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…
-PRINTFORMDW 眠っている%CALLNAME:TARGET%の肌に赤みが差し、僅かに息が荒げられる…	PRINTFORMDW 眠っている%CALLNAME:TARGET%の肌に赤みが差し、僅かに息が荒げられる…
-PRINTFORMDW %CALLNAME:TARGET%は火照る身体を抱きしめるようにして身を守っている…	PRINTFORMDW %CALLNAME:TARGET%は火照る身体を抱きしめるようにして身を守っている…
-PRINTFORMDL %CALLNAME:TARGET%はぼろぼろと涙を零しながら、びくりと身を強張らせる	PRINTFORMDL %CALLNAME:TARGET%はぼろぼろと涙を零しながら、びくりと身を強張らせる
-PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、文はどうにか脱出しようと力を込める…	PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、文はどうにか脱出しようと力を込める…
-PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする文の手から力が抜ける…	PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする文の手から力が抜ける…
-PRINTFORMDW 自分のその部分にグロテスクなものを押し当てられたのを見て、文はわずかに身じろぎする	PRINTFORMDW 自分のその部分にグロテスクなものを押し当てられたのを見て、文はわずかに身じろぎする
-PRINTFORMDW 眠り続ける%CALLNAME:TARGET%の身体は、快楽に素直に反応してしまう…	PRINTFORMDW 眠り続ける%CALLNAME:TARGET%の身体は、快楽に素直に反応してしまう…
-PRINTFORMDW %CALLNAME:TARGET%は太ももに力を込め、侵入するものを拒もうとする…	PRINTFORMDW %CALLNAME:TARGET%は太ももに力を込め、侵入するものを拒もうとする…
-PRINTFORMDW 懸命に抵抗しながらも、文の瞳は焦燥と期待の入り混じった感覚と共に潤み始めている…	PRINTFORMDW 懸命に抵抗しながらも、文の瞳は焦燥と期待の入り混じった感覚と共に潤み始めている…
-PRINTFORMDW 文は力なく四肢を投げ出したまま、身を守ることもできずにされるがままになっている…	PRINTFORMDW 文は力なく四肢を投げ出したまま、身を守ることもできずにされるがままになっている…
-PRINTFORMDW 粘液でてらてら光る身体をぐったりと投げ出し、文はおぞましい愛撫に身を任せている…	PRINTFORMDW 粘液でてらてら光る身体をぐったりと投げ出し、文はおぞましい愛撫に身を任せている…
-PRINTFORMDW 妖力をぐんぐん吸い上げられるのを感じながら、文は為すすべなく嬌声を上げてしまう…	PRINTFORMDW 妖力をぐんぐん吸い上げられるのを感じながら、文は為すすべなく嬌声を上げてしまう…
-PRINTFORML 「あれ？　……あの、%CALLNAME:1%さーん？　……ちょ、あの…んぐっ──」	PRINTFORML 「あれ？　……あの、%CALLNAME:1%さーん？　……ちょ、あの…んぐっ──」
-PRINTFORMW 「…いいですか。私の娘を名乗るなら、あなたもこのくらいの情報は集められないと──」	PRINTFORMW 「…いいですか。私の娘を名乗るなら、あなたもこのくらいの情報は集められないと──」
-PRINTFORMW 「こう、ふっさふさの尻尾とかをワシワシしながらリラックスすれば思い出せそうな──」	PRINTFORMW 「こう、ふっさふさの尻尾とかをワシワシしながらリラックスすれば思い出せそうな──」
-PRINTFORMDW 文が団扇を一振りすると、無数の竜巻が部屋中の触手をこそぎ取り、吹き散らしていく！	PRINTFORMDW 文が団扇を一振りすると、無数の竜巻が部屋中の触手をこそぎ取り、吹き散らしていく！
-PRINTFORMDW 触手を伝う粘液と少女の体液が混じったものの中に、わずかに赤いものが見て取れた──	PRINTFORMDW 触手を伝う粘液と少女の体液が混じったものの中に、わずかに赤いものが見て取れた──
-PRINTFORMDW 容赦ない締め付けに耐えながら、%CALLNAME:TARGET%は力を振り絞る…	PRINTFORMDW 容赦ない締め付けに耐えながら、%CALLNAME:TARGET%は力を振り絞る…
-PRINTFORMDW 尻穴を吸われ、%CALLNAME:TARGET%ははへなへなと腰が砕けてしまう…	PRINTFORMDW 尻穴を吸われ、%CALLNAME:TARGET%ははへなへなと腰が砕けてしまう…
-PRINTFORMDW 不浄の穴を犯され続ける快感と脱力感に襲われながら、文はどうすることもできない…	PRINTFORMDW 不浄の穴を犯され続ける快感と脱力感に襲われながら、文はどうすることもできない…
-PRINTFORMW 「…半分、あいつらの仲間なんだし…案外、打ち解けたりするんじゃないでしょうかね」	PRINTFORMW 「…半分、あいつらの仲間なんだし…案外、打ち解けたりするんじゃないでしょうかね」
-PRINTFORMW 「近くには立派な滝もあって。…ああ、でも気を付けないと意地悪なワンちゃんが──」	PRINTFORMW 「近くには立派な滝もあって。…ああ、でも気を付けないと意地悪なワンちゃんが──」
-PRINTFORMDW %CALLNAME:TARGET%は熱い吐息を漏らしながらも、弾幕を展開する…	PRINTFORMDW %CALLNAME:TARGET%は熱い吐息を漏らしながらも、弾幕を展開する…
-PRINTFORMW %CALLNAME:TARGET%は絶頂の余韻に身を震わせ、抗うことができない…	PRINTFORMW %CALLNAME:TARGET%は絶頂の余韻に身を震わせ、抗うことができない…
-PRINTFORMDW %CALLNAME:TARGET%はお腹を抱え、額に脂汗を浮かべてうずくまる…	PRINTFORMDW %CALLNAME:TARGET%はお腹を抱え、額に脂汗を浮かべてうずくまる…
-PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、文の寝息が苦しげに乱れる…	PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、文の寝息が苦しげに乱れる…
-PRINTFORMW 「烏は悪食だなんて言いますけど、それを食べようという方がよっぽど、ですね…っ」	PRINTFORMW 「烏は悪食だなんて言いますけど、それを食べようという方がよっぽど、ですね…っ」
-PRINTFORMDW 無防備に眠りこける%CALLNAME:TARGET%を、無慈悲な一撃が襲う！	PRINTFORMDW 無防備に眠りこける%CALLNAME:TARGET%を、無慈悲な一撃が襲う！
-PRINTFORMDW %CALLNAME:TARGET%の周囲の空気が不自然に軋み、たわみ始める…	PRINTFORMDW %CALLNAME:TARGET%の周囲の空気が不自然に軋み、たわみ始める…
-PRINTFORMDW %CALLNAME:TARGET%は小柄な体を更に低くして、敵の足元を狙う！	PRINTFORMDW %CALLNAME:TARGET%は小柄な体を更に低くして、敵の足元を狙う！
-PRINTFORMDW %CALLNAME:TARGET%は、戒めを解こうと懸命に手足に力を込める…	PRINTFORMDW %CALLNAME:TARGET%は、戒めを解こうと懸命に手足に力を込める…
-PRINTFORMDW 寄生体に体力を吸われ、%CALLNAME:TARGET%は酷く消耗している…	PRINTFORMDW 寄生体に体力を吸われ、%CALLNAME:TARGET%は酷く消耗している…
-PRINTFORMDW 締め付けによる呼吸困難と妖力を吸収される脱力感に、文の膝がかくりと折れる…	PRINTFORMDW 締め付けによる呼吸困難と妖力を吸収される脱力感に、文の膝がかくりと折れる…
-PRINTFORMW 「いやいや。天狗に性的な意味で参ったと言わせるには、それではとてもとても…」	PRINTFORMW 「いやいや。天狗に性的な意味で参ったと言わせるには、それではとてもとても…」
-PRINTFORML 「うぇ…っ！　……まさかあの化け物たち、たちの悪い病気なんて持ってたりは…」	PRINTFORML 「うぇ…っ！　……まさかあの化け物たち、たちの悪い病気なんて持ってたりは…」
-PRINTFORMDW %CALLNAME:TARGET%の幼い身体が、ひときわ大きく痙攣した──	PRINTFORMDW %CALLNAME:TARGET%の幼い身体が、ひときわ大きく痙攣した──
-PRINTFORMDW %CALLNAME:TARGET%はお尻を引っ込めて身を守ろうとしている…	PRINTFORMDW %CALLNAME:TARGET%はお尻を引っ込めて身を守ろうとしている…
-PRINTFORMDW がっくりと膝をつき、背を反らせて喘ぐ文から、容赦なく妖力を吸収していく…	PRINTFORMDW がっくりと膝をつき、背を反らせて喘ぐ文から、容赦なく妖力を吸収していく…
-PRINTFORMW 「はーーっ……はーーっ……いけないいけない、変な癖になっちゃいそうです…」	PRINTFORMW 「はーーっ……はーーっ……いけないいけない、変な癖になっちゃいそうです…」
-PRINTFORMDW 文は様々な感情がない交ぜになった面持ちで、目の前の少女を見つめている──	PRINTFORMDW 文は様々な感情がない交ぜになった面持ちで、目の前の少女を見つめている──
-PRINTFORMW 「おや。別に、ネタを横取りしようなんてことは……あんまり考えてないわよ？」	PRINTFORMW 「おや。別に、ネタを横取りしようなんてことは……あんまり考えてないわよ？」
-PRINTFORML 「…母様の家の近くには、もっと大きい、水浴びにぴったりな泉があるんですよ」	PRINTFORML 「…母様の家の近くには、もっと大きい、水浴びにぴったりな泉があるんですよ」
-PRINTFORMDW 異物感が下腹部を襲い、文は意識がないまま、息を呑むような悲鳴を上げた…	PRINTFORMDW 異物感が下腹部を襲い、文は意識がないまま、息を呑むような悲鳴を上げた…
-PRINTFORMDW 全身を汚す粘液を気にかける余裕もなく、文は身を捩って抜け出そうとする…	PRINTFORMDW 全身を汚す粘液を気にかける余裕もなく、文は身を捩って抜け出そうとする…
-PRINTFORMDW 時折聞こえる甘くかすれた吐息だけが、文にまだ息があることを伝えてくる…	PRINTFORMDW 時折聞こえる甘くかすれた吐息だけが、文にまだ息があることを伝えてくる…
-PRINTFORMDW 自分と化け物との間の子を前に、文は引きつった笑みを浮かべざるを得ない…	PRINTFORMDW 自分と化け物との間の子を前に、文は引きつった笑みを浮かべざるを得ない…
-PRINTFORMDW 文は虚ろな目で掠れた喘ぎを漏らしながら、がくがくと身体を震わせている…	PRINTFORMDW 文は虚ろな目で掠れた喘ぎを漏らしながら、がくがくと身体を震わせている…
-PRINTFORMW 「…どうせまた汚れるんでしょうけど…まあ、今は考えるのはやめましょうか」	PRINTFORMW 「…どうせまた汚れるんでしょうけど…まあ、今は考えるのはやめましょうか」
-PRINTFORMDW ぐったりと弛緩した幼い身体から、なおも無慈悲に力が吸い上げられていく…	PRINTFORMDW ぐったりと弛緩した幼い身体から、なおも無慈悲に力が吸い上げられていく…
-PRINTFORMW 「…立て、ない、ちから、ぬけ……とけちゃう、わたし、とけちゃうぅ…！！」	PRINTFORMW 「…立て、ない、ちから、ぬけ……とけちゃう、わたし、とけちゃうぅ…！！」
-PRINTFORMW 「や…だ！　やだやだやだ！　出ちゃう、からっ、何か出ちゃう、から…！！」	PRINTFORMW 「や…だ！　やだやだやだ！　出ちゃう、からっ、何か出ちゃう、から…！！」
-PRINTFORML 口数少ないながらちょっと生意気系。お母さんのことは普通に慕っています。	PRINTFORML 口数少ないながらちょっと生意気系。お母さんのことは普通に慕っています。
-PRINTFORMDW いとも容易く敵の背後を取った文は、その背へ会心の弾幕を浴びせかける！	PRINTFORMDW いとも容易く敵の背後を取った文は、その背へ会心の弾幕を浴びせかける！
-PRINTFORMDW 文は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…	PRINTFORMDW 文は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…
-PRINTFORMDW 強引に上り詰めさせられ、文は虚ろな目のままびくびくと身体を震わせる…	PRINTFORMDW 強引に上り詰めさせられ、文は虚ろな目のままびくびくと身体を震わせる…
-PRINTFORMW 「普段から自分の足で取材してないと、こういう時に動けないんじゃない？」	PRINTFORMW 「普段から自分の足で取材してないと、こういう時に動けないんじゃない？」
-PRINTFORMW 「…この子らを連れて帰ったら、私自身がスキャンダルの元になるんじゃ…」	PRINTFORMW 「…この子らを連れて帰ったら、私自身がスキャンダルの元になるんじゃ…」
-PRINTFORMW 「♪～～……ここでお酒の一杯もあれば、嫌な気分もだいぶ紛れるんですが」	PRINTFORMW 「♪～～……ここでお酒の一杯もあれば、嫌な気分もだいぶ紛れるんですが」
-PRINTFORMW 「しびれ、ちゃう…からだ、かってに、びくびくってしちゃう…よぉっ…！」	PRINTFORMW 「しびれ、ちゃう…からだ、かってに、びくびくってしちゃう…よぉっ…！」
-PRINTFORMDW これから我が身に起こる運命を知らず、文は安らかに寝息を立てている…	PRINTFORMDW これから我が身に起こる運命を知らず、文は安らかに寝息を立てている…
-PRINTFORMDW 頬を高潮させた文の唇からは、いつもの軽口の代わりに熱い息が漏れる…	PRINTFORMDW 頬を高潮させた文の唇からは、いつもの軽口の代わりに熱い息が漏れる…
-PRINTFORMDL 獲物が抵抗をなくしたと見るや、触手は一斉にその身体に群がっていく。	PRINTFORMDL 獲物が抵抗をなくしたと見るや、触手は一斉にその身体に群がっていく。
-PRINTFORMDW びくり、と身体を痙攣させると、文はまたぐったりと力を抜いてしまう…	PRINTFORMDW びくり、と身体を痙攣させると、文はまたぐったりと力を抜いてしまう…
-PRINTFORMDW 言い知れない不快感と違和感に、文は眉を顰めて呻くことしかできない…	PRINTFORMDW 言い知れない不快感と違和感に、文は眉を顰めて呻くことしかできない…
-PRINTFORML 「あちゃぁ…いやまぁ、見られて困る身体はしていないつもりですけど…」	PRINTFORML 「あちゃぁ…いやまぁ、見られて困る身体はしていないつもりですけど…」
-PRINTFORML 「体勢を整えて必ず戻ってきますから。私の娘なら、それまで我慢なさい」	PRINTFORML 「体勢を整えて必ず戻ってきますから。私の娘なら、それまで我慢なさい」
-PRINTFORMW 「風が淀んで調子が出ないんですよね。…はあ、お山の空気が恋しいです」	PRINTFORMW 「風が淀んで調子が出ないんですよね。…はあ、お山の空気が恋しいです」
-PRINTFORMW 「…出口なんて、本当にあるんでしょうかね？　………なーんちゃって♪」	PRINTFORMW 「…出口なんて、本当にあるんでしょうかね？　………なーんちゃって♪」
-PRINTFORMDL はっきりと受け入れてしまった文の全身から、かくり、と力が抜けた。	PRINTFORMDL はっきりと受け入れてしまった文の全身から、かくり、と力が抜けた。
-PRINTFORMDW 文は飛びかけた意識をすんでのところで保ち、なんとか身を起こした…	PRINTFORMDW 文は飛びかけた意識をすんでのところで保ち、なんとか身を起こした…
-PRINTFORMDW 触手が吸い上げるのに合わせて、文はびくびくと腰を震わせてしまう…	PRINTFORMDW 触手が吸い上げるのに合わせて、文はびくびくと腰を震わせてしまう…
-PRINTFORML 「……はぁっ……ふぅっ………まずかった……あのままだったら、私…」	PRINTFORML 「……はぁっ……ふぅっ………まずかった……あのままだったら、私…」
-PRINTFORMDW 文は歯を食いしばり、一度も後ろを振り返らずに通路を駆け抜けた──	PRINTFORMDW 文は歯を食いしばり、一度も後ろを振り返らずに通路を駆け抜けた──
-PRINTFORML 「ちょっ……またまたぁ、冗談にしてはタチが悪いんじゃないですか？」	PRINTFORML 「ちょっ……またまたぁ、冗談にしてはタチが悪いんじゃないですか？」
-PRINTFORMDW 文は足早に駆け寄ると、その身を抱き起こし…小さく安堵の息を吐いた	PRINTFORMDW 文は足早に駆け寄ると、その身を抱き起こし…小さく安堵の息を吐いた
-PRINTFORMDW 文は%CALLNAME:(ARG:1)%の頭を軽くひと撫ぜする…	PRINTFORMDW 文は%CALLNAME:(ARG:1)%の頭を軽くひと撫ぜする…
-PRINTFORML 「…まあ…ギブアンドテイクと言うことなら、やぶさかではないですが」	PRINTFORML 「…まあ…ギブアンドテイクと言うことなら、やぶさかではないですが」
-PRINTFORMW 「きゃふぅっ！　そ、それ、それダメ、ですっ、ひうううぅぅ…っ！！」	PRINTFORMW 「きゃふぅっ！　そ、それ、それダメ、ですっ、ひうううぅぅ…っ！！」
-PRINTFORMDW 文は歯を食いしばって耐えようとするが、身体は絶頂を止められない…	PRINTFORMDW 文は歯を食いしばって耐えようとするが、身体は絶頂を止められない…
-PRINTFORMW 「くう～～……なんだか、湯浴みもずいぶん久々な気がしてしまいます」	PRINTFORMW 「くう～～……なんだか、湯浴みもずいぶん久々な気がしてしまいます」
-PRINTFORMW 「……いやあ…危うく、鳥刺しでつるりと…いかれるところ、でした…」	PRINTFORMW 「……いやあ…危うく、鳥刺しでつるりと…いかれるところ、でした…」
-PRINTFORMW 「……なんとかしないと…ほんとに、頭がおかしくなっちゃいますよ…」	PRINTFORMW 「……なんとかしないと…ほんとに、頭がおかしくなっちゃいますよ…」
-PRINTFORMDW 我が物顔で全身を蹂躙する触手に対し、文は全く抗うすべを持たない！	PRINTFORMDW 我が物顔で全身を蹂躙する触手に対し、文は全く抗うすべを持たない！
-PRINTFORMDW %CALLNAME:TARGET%は弾幕のイメージを練り上げる…	PRINTFORMDW %CALLNAME:TARGET%は弾幕のイメージを練り上げる…
-PRINTFORMDW 脱力し切った身体を痛烈な一撃が抉り、文はびくりと大きく痙攣した	PRINTFORMDW 脱力し切った身体を痛烈な一撃が抉り、文はびくりと大きく痙攣した
-PRINTFORMDW 眠ったままで衝撃に備えることもできない文を、痛恨の一打が襲う！	PRINTFORMDW 眠ったままで衝撃に備えることもできない文を、痛恨の一打が襲う！
-PRINTFORMDW 意識のない文は全身を高潮させ、無防備に快感を受け入れてしまう…	PRINTFORMDW 意識のない文は全身を高潮させ、無防備に快感を受け入れてしまう…
-PRINTFORMDW 文は身体の自由になるわずかな部分で、なんとか身を守ろうとする…	PRINTFORMDW 文は身体の自由になるわずかな部分で、なんとか身を守ろうとする…
-PRINTFORML 「うああああっ！　はぁ、ぁ…！　もう、やめ……音、立てちゃ…！」	PRINTFORML 「うああああっ！　はぁ、ぁ…！　もう、やめ……音、立てちゃ…！」
-PRINTFORMW 「…このまま本当に見捨てて逃げたりしたら、いい笑いものです…！」	PRINTFORMW 「…このまま本当に見捨てて逃げたりしたら、いい笑いものです…！」
-PRINTFORMDW 触手と肉壁に覆われた視界の隅で、仲間が走り去っていくのが見えた	PRINTFORMDW 触手と肉壁に覆われた視界の隅で、仲間が走り去っていくのが見えた
-PRINTFORMW 「かくして射命丸特派員はまたひとつ、危機を退けたのでありました」	PRINTFORMW 「かくして射命丸特派員はまたひとつ、危機を退けたのでありました」
-PRINTFORMW 「こんな時にマイペースでいられる胆力が光明を生むのよ。…多分ね」	PRINTFORMW 「こんな時にマイペースでいられる胆力が光明を生むのよ。…多分ね」
-PRINTFORMDW 文は自分の身に起こったことを理解し、腹に手を当てて眉を顰める…	PRINTFORMDW 文は自分の身に起こったことを理解し、腹に手を当てて眉を顰める…
-PRINTFORMDW ──が、それを押し止めるだけの力は彼女には残されていなかった…	PRINTFORMDW ──が、それを押し止めるだけの力は彼女には残されていなかった…
-PRINTFORMW 「…あなたみたいなのにくれてやるつもりも…無かったんですよ…？」	PRINTFORMW 「…あなたみたいなのにくれてやるつもりも…無かったんですよ…？」
-PRINTFORMW 「やはり、別行動した方がいいと思うんですよね。…お互いの為にも」	PRINTFORMW 「やはり、別行動した方がいいと思うんですよね。…お互いの為にも」
-PRINTFORMW 「きゃうぅ！？　……ぁ、だめ、だめ、あたまのなか、しろく……っ」	PRINTFORMW 「きゃうぅ！？　……ぁ、だめ、だめ、あたまのなか、しろく……っ」
-PRINTFORMDL %CALLNAME:TARGET%は眠たげに目をこすっている…	PRINTFORMDL %CALLNAME:TARGET%は眠たげに目をこすっている…
-PRINTFORMW 「んあああぁっ！　つよい…よぉ！　あ、うっ、あ、ふああぁぁ！！」	PRINTFORMW 「んあああぁっ！　つよい…よぉ！　あ、うっ、あ、ふああぁぁ！！」
-PRINTFORML 「は、あ、うあ、っ、あ…ずぼずぼって、ぇっ…するの、ダメぇ…！」	PRINTFORML 「は、あ、うあ、っ、あ…ずぼずぼって、ぇっ…するの、ダメぇ…！」
-PRINTFORML 「かあさまぁ！　かあさま、たすけ──やあああああああーーっ！！」	PRINTFORML 「かあさまぁ！　かあさま、たすけ──やあああああああーーっ！！」
-PRINTFORMDW 文は肺の中の空気を吐き出し短く喘ぐが、目を覚ます気配はない…	PRINTFORMDW 文は肺の中の空気を吐き出し短く喘ぐが、目を覚ます気配はない…
-PRINTFORMDW 文は眠ったまま頤を大きく反らし、全身をびくびくと痙攣させた…	PRINTFORMDW 文は眠ったまま頤を大きく反らし、全身をびくびくと痙攣させた…
-PRINTFORMW 「受けてみますか？　一切合財、問答無用に吹き飛ばす天狗風を！」	PRINTFORMW 「受けてみますか？　一切合財、問答無用に吹き飛ばす天狗風を！」
-PRINTFORMDL その瞳は濁りきり、半開きの口元からはだらしなく唾液の筋が伝い	PRINTFORMDL その瞳は濁りきり、半開きの口元からはだらしなく唾液の筋が伝い
-PRINTFORMDW それまで抵抗を続けていた文の身体から、かくり、と力が抜けた…	PRINTFORMDW それまで抵抗を続けていた文の身体から、かくり、と力が抜けた…
-PRINTFORML 「…死なないから、何をしてもいい…ということでもないでしょう」	PRINTFORML 「…死なないから、何をしてもいい…ということでもないでしょう」
-PRINTFORML 「…あいつらにとっては結局、捕食対象でしかないってことですか」	PRINTFORML 「…あいつらにとっては結局、捕食対象でしかないってことですか」
-PRINTFORML 「最強のチルノさんがいれば、この異変も解決間違いなしですねえ」	PRINTFORML 「最強のチルノさんがいれば、この異変も解決間違いなしですねえ」
-PRINTFORML 「まあ、大人数で固まっていてはかえって危険かもしれませんねえ」	PRINTFORML 「まあ、大人数で固まっていてはかえって危険かもしれませんねえ」
-PRINTFORMW 「……人のお腹を……図々しいにも程があるんじゃないですかね…」	PRINTFORMW 「……人のお腹を……図々しいにも程があるんじゃないですかね…」
-PRINTFORML 「…羽の代わりに触手の生えた烏の子でも…生まれるんですかね？」	PRINTFORML 「…羽の代わりに触手の生えた烏の子でも…生まれるんですかね？」
-PRINTFORMW 「別に……後生大事に取っておいたわけじゃ…ありません、けどね」	PRINTFORMW 「別に……後生大事に取っておいたわけじゃ…ありません、けどね」
-PRINTFORMW 「…やや、化け物どもに見つかりやすくなってしまいますし、ねえ」	PRINTFORMW 「…やや、化け物どもに見つかりやすくなってしまいますし、ねえ」
-PRINTFORML 「…ほら、まだ汚れてる。私の娘なら、ちょっとは気を遣いなさい」	PRINTFORML 「…ほら、まだ汚れてる。私の娘なら、ちょっとは気を遣いなさい」
-PRINTFORMDW 頬を粘液以外のものが伝う感触を最後に、文は意識を手放した──	PRINTFORMDW 頬を粘液以外のものが伝う感触を最後に、文は意識を手放した──
-PRINTFORMW 「はあ。理由ですか？　…ご自分の胸に聞いてみてはいかがです？」	PRINTFORMW 「はあ。理由ですか？　…ご自分の胸に聞いてみてはいかがです？」
-PRINTFORMW 「こんなの、知らないっ、からぁっ！　吸わないっ、でぇぇっ！！」	PRINTFORMW 「こんなの、知らないっ、からぁっ！　吸わないっ、でぇぇっ！！」
-PRINTFORMDW 少女はそのまま警戒した様子で後退り、迷宮の奥へ消えていった…	PRINTFORMDW 少女はそのまま警戒した様子で後退り、迷宮の奥へ消えていった…
-PRINTFORMDW 衝撃に文の身体がびくり、と跳ねるが、目を覚ます気配はない…	PRINTFORMDW 衝撃に文の身体がびくり、と跳ねるが、目を覚ます気配はない…
-PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、文は眠ったまま身を震わせた…	PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、文は眠ったまま身を震わせた…
-PRINTFORMW 「これにて一巻の終わり！　──竜巻『天孫降臨の道しるべ』！」	PRINTFORMW 「これにて一巻の終わり！　──竜巻『天孫降臨の道しるべ』！」
-PRINTFORMDW 動かない体を次々と襲う攻撃に、文は抵抗することもできない…	PRINTFORMDW 動かない体を次々と襲う攻撃に、文は抵抗することもできない…
-PRINTFORMW 「くっう…！　ああもう、もっと大きく飛び回れる場所なら…！」	PRINTFORMW 「くっう…！　ああもう、もっと大きく飛び回れる場所なら…！」
-PRINTFORMDW とめどなく溢れる愛液を啜られ、文の抵抗が力を無くしていく…	PRINTFORMDW とめどなく溢れる愛液を啜られ、文の抵抗が力を無くしていく…
-PRINTFORMDW 触手に四肢を捕らわれても、文はぐったりとうなだれたままだ…	PRINTFORMDW 触手に四肢を捕らわれても、文はぐったりとうなだれたままだ…
-PRINTFORMDW その表情にはほんのわずかに、安堵とは別の色が浮かんでいた…	PRINTFORMDW その表情にはほんのわずかに、安堵とは別の色が浮かんでいた…
-PRINTFORMW 「…珍しい被写体ではあるけど、紙面を飾るにはちょっと、ねぇ」	PRINTFORMW 「…珍しい被写体ではあるけど、紙面を飾るにはちょっと、ねぇ」
-PRINTFORMDW 明らかに自分の面影を残す少女を前にして、文は溜め息を吐く…	PRINTFORMDW 明らかに自分の面影を残す少女を前にして、文は溜め息を吐く…
-PRINTFORMW 「…私が裸、ですか？　ははあ、また酔ってらっしゃいますね？」	PRINTFORMW 「…私が裸、ですか？　ははあ、また酔ってらっしゃいますね？」
-PRINTFORML 「そんな仏頂面で気を張っていても無駄に疲れるだけでしょうに」	PRINTFORML 「そんな仏頂面で気を張っていても無駄に疲れるだけでしょうに」
-PRINTFORMW 「そのまま載せたら、絶対に閻魔様の検閲が入ると思うんだけど」	PRINTFORMW 「そのまま載せたら、絶対に閻魔様の検閲が入ると思うんだけど」
-PRINTFORML 「ここでのことを記事にするとして…どうしたものでしょうかね」	PRINTFORML 「ここでのことを記事にするとして…どうしたものでしょうかね」
-PRINTFORMW 「文々。新聞に載せるには、色々とあまりに品性が無さすぎます」	PRINTFORMW 「文々。新聞に載せるには、色々とあまりに品性が無さすぎます」
-PRINTFORML 「どうもどうも！　清く正しい真実の泉、文々。新聞ですよー！」	PRINTFORML 「どうもどうも！　清く正しい真実の泉、文々。新聞ですよー！」
-PRINTFORMDL とぼけた台詞とは裏腹に、文は油断なく周囲に感覚を走らせる…	PRINTFORMDL とぼけた台詞とは裏腹に、文は油断なく周囲に感覚を走らせる…
-PRINTFORMDW 文はびくり、と一度だけ身体を跳ねさせ、また力無く目を伏せる	PRINTFORMDW 文はびくり、と一度だけ身体を跳ねさせ、また力無く目を伏せる
-PRINTFORML 「謎の不気味な迷宮からの脱出ドキュメンタリー…悪くないわね」	PRINTFORML 「謎の不気味な迷宮からの脱出ドキュメンタリー…悪くないわね」
-PRINTFORML 「うーん。あまり大人数で一緒に動いていては、ネタの漏洩──」	PRINTFORML 「うーん。あまり大人数で一緒に動いていては、ネタの漏洩──」
-PRINTFORMW 「はあ。…あの子なら、そう簡単にやられるとは思えませんが…」	PRINTFORMW 「はあ。…あの子なら、そう簡単にやられるとは思えませんが…」
-PRINTFORML 「うああああぁっ！　おく、っぅ、にぃっ！　そんなにぃっ…！」	PRINTFORML 「うああああぁっ！　おく、っぅ、にぃっ！　そんなにぃっ…！」
-PRINTFORMDW 快楽に打ち震えていた幼い身体が、びくびくと断続的に戦慄く…	PRINTFORMDW 快楽に打ち震えていた幼い身体が、びくびくと断続的に戦慄く…
-PRINTFORML 「いっ…ちゃ……わたし、また、イっちゃう、イく、ぅっ……！」	PRINTFORML 「いっ…ちゃ……わたし、また、イっちゃう、イく、ぅっ……！」
-PRINTFORMDW 痛みに呻いて眉を顰める文──だが、目を覚ます気配はない…	PRINTFORMDW 痛みに呻いて眉を顰める文──だが、目を覚ます気配はない…
-PRINTFORMW 「ちょっと空気を入れ替えましょうか！　風符『風神一扇』！」	PRINTFORMW 「ちょっと空気を入れ替えましょうか！　風符『風神一扇』！」
-PRINTFORML 「……ぃ、あ……もう、やぇて……イかさ…ない、れ…ぇ……」	PRINTFORML 「……ぃ、あ……もう、やぇて……イかさ…ない、れ…ぇ……」
-PRINTFORMDW 文は白い喉をくぅっと反らせてびくびくと身をわななかせる…	PRINTFORMDW 文は白い喉をくぅっと反らせてびくびくと身をわななかせる…
-PRINTFORMW 「ふあぁっ！？　……み、見かけによらず…達者ですねぇ…っ」	PRINTFORMW 「ふあぁっ！？　……み、見かけによらず…達者ですねぇ…っ」
-PRINTFORMDW 彼女が暴力的な快楽の前に完全に屈服したことを示していた…	PRINTFORMDW 彼女が暴力的な快楽の前に完全に屈服したことを示していた…
-PRINTFORMDW 生ぬるい粘液にまみれ、文は他人事のように溜め息を吐いた…	PRINTFORMDW 生ぬるい粘液にまみれ、文は他人事のように溜め息を吐いた…
-PRINTFORMDW わずかな反応を確認すると、文はとりあえず安堵の息を吐く…	PRINTFORMDW わずかな反応を確認すると、文はとりあえず安堵の息を吐く…
-PRINTFORMW 「情報集めは私の本職ですからねえ。いいネタ、ありますよ？」	PRINTFORMW 「情報集めは私の本職ですからねえ。いいネタ、ありますよ？」
-PRINTFORMW 「ありゃ。…まあ、気が変わったらいつでも言ってくださいな」	PRINTFORMW 「ありゃ。…まあ、気が変わったらいつでも言ってくださいな」
-PRINTFORMW 「はっ、は、っ、こんな、こんなので──んうううぅぅっ！！」	PRINTFORMW 「はっ、は、っ、こんな、こんなので──んうううぅぅっ！！」
-PRINTFORML 「……ううむ。やっぱり空気が淀んで、気配を探りにくいわね」	PRINTFORML 「……ううむ。やっぱり空気が淀んで、気配を探りにくいわね」
-PRINTFORMW （百年、千年を生きてみても……終わりは呆気ないものですね）	PRINTFORMW （百年、千年を生きてみても……終わりは呆気ないものですね）
-PRINTFORMDW がくがくと震える膝に力を込め、文は無理やり立ち上がった…	PRINTFORMDW がくがくと震える膝に力を込め、文は無理やり立ち上がった…
-PRINTFORML 「ひっ！　やっ、きゃいっ！　う、ぅ、声、止まらな……っ、」	PRINTFORML 「ひっ！　やっ、きゃいっ！　う、ぅ、声、止まらな……っ、」
-PRINTFORMW 「あ！　あ！　ああぅ！　そこ、ばっかり、やめええぇっ！！」	PRINTFORMW 「あ！　あ！　ああぅ！　そこ、ばっかり、やめええぇっ！！」
-PRINTFORML 「……あ、ぅ、あぅ……あ、う、ぅぅ、ぅ！　っ！　っっ！！」	PRINTFORML 「……あ、ぅ、あぅ……あ、う、ぅぅ、ぅ！　っ！　っっ！！」
-PRINTFORML 「はふううぅぅ…っ！　ぃ、いやっ、こすっちゃ…やだっ…！」	PRINTFORML 「はふううぅぅ…っ！　ぃ、いやっ、こすっちゃ…やだっ…！」
-PRINTFORML 「あーっ！　あぁっ、ああぁっ！　あああぁぁーーーっ！！！」	PRINTFORML 「あーっ！　あぁっ、ああぁっ！　あああぁぁーーーっ！！！」
-PRINTFORMDW 全身に絡みつく触手の不快感に、文はわずかに眉を顰めた…	PRINTFORMDW 全身に絡みつく触手の不快感に、文はわずかに眉を顰めた…
-PRINTFORMDW 締め付けに耐えながら、文はなんとか風を起こそうとする…	PRINTFORMDW 締め付けに耐えながら、文はなんとか風を起こそうとする…
-PRINTFORMDW 文は身を捩り、胸を隠すようにして身を守ろうとしている…	PRINTFORMDW 文は身を捩り、胸を隠すようにして身を守ろうとしている…
-PRINTFORMDW 文は太ももをすり合わせ、敏感な部分を守ろうとしている…	PRINTFORMDW 文は太ももをすり合わせ、敏感な部分を守ろうとしている…
-PRINTFORMW 「く、ぅっ……もうダメ、もうっ……！　んくうううぅっ！」	PRINTFORMW 「く、ぅっ……もうダメ、もうっ……！　んくうううぅっ！」
-PRINTFORML 「ひ…あ…ぁ……！　ぬ…抜い…っ、ふあああああぁ…っ！」	PRINTFORML 「ひ…あ…ぁ……！　ぬ…抜い…っ、ふあああああぁ…っ！」
-PRINTFORMDL ぐったりと四肢を投げ出したまま、文は熱い吐息を繰り返す	PRINTFORMDL ぐったりと四肢を投げ出したまま、文は熱い吐息を繰り返す
-PRINTFORMW 「ふぅ…この幻想郷一の足がなければどうなっていたやら…」	PRINTFORMW 「ふぅ…この幻想郷一の足がなければどうなっていたやら…」
-PRINTFORMW 「外に出られたら、私のお古のカメラをあげてもいいですよ」	PRINTFORMW 「外に出られたら、私のお古のカメラをあげてもいいですよ」
-PRINTFORML 「何事も見逃さない観察眼と注意力…記者の腕の見せ所です」	PRINTFORML 「何事も見逃さない観察眼と注意力…記者の腕の見せ所です」
-PRINTFORMDW 文をこのまま放っておけばどうなるかは、想像に難くない。	PRINTFORMDW 文をこのまま放っておけばどうなるかは、想像に難くない。
-PRINTFORMDW ぐったりと力を抜いた幼い身体を、触手が這い登っていく…	PRINTFORMDW ぐったりと力を抜いた幼い身体を、触手が這い登っていく…
-PRINTFORML 「はぁ……はぁ……………もう…動かなくなっちゃったの？」	PRINTFORML 「はぁ……はぁ……………もう…動かなくなっちゃったの？」
-PRINTFORMW 「…………ゅ…ゆるして……もう、さからわない、から……」	PRINTFORMW 「…………ゅ…ゆるして……もう、さからわない、から……」
-PRINTFORMDW 文はぐったりと全身を弛緩させ、攻撃を受け続けている…	PRINTFORMDW 文はぐったりと全身を弛緩させ、攻撃を受け続けている…
-PRINTFORMDW 眠っている文の肌に赤みが差し、僅かに息が荒げられる…	PRINTFORMDW 眠っている文の肌に赤みが差し、僅かに息が荒げられる…
-PRINTFORMDW 文は火照る身体を抱きしめるようにして身を守っている…	PRINTFORMDW 文は火照る身体を抱きしめるようにして身を守っている…
-PRINTFORMDW 攻撃が肌を掠めただけで、文の唇から甘い声が漏れ出る…	PRINTFORMDW 攻撃が肌を掠めただけで、文の唇から甘い声が漏れ出る…
-PRINTFORML 「あ！　……マスコミに狼藉を働くと、後が怖いですよ？」	PRINTFORML 「あ！　……マスコミに狼藉を働くと、後が怖いですよ？」
-PRINTFORMDW 背から追いすがる声は、不気味な咀嚼音にかき消された…	PRINTFORMDW 背から追いすがる声は、不気味な咀嚼音にかき消された…
-PRINTFORMW 「…いやまあ、この格好は…あまり気にしないで頂けると」	PRINTFORMW 「…いやまあ、この格好は…あまり気にしないで頂けると」
-PRINTFORMW 「ああ…ほら、あまりくっつくなと言ったでしょう、もう」	PRINTFORMW 「ああ…ほら、あまりくっつくなと言ったでしょう、もう」
-PRINTFORMW 「いや、これは…ちょっと厳しめの取材拒否を受けてねえ」	PRINTFORMW 「いや、これは…ちょっと厳しめの取材拒否を受けてねえ」
-PRINTFORML 「…ふうむ。意外にいいネタを集めてくるじゃないですか」	PRINTFORML 「…ふうむ。意外にいいネタを集めてくるじゃないですか」
-PRINTFORMW 「…ううむ、なかなかの観察眼。これも血なんでしょうか」	PRINTFORMW 「…ううむ、なかなかの観察眼。これも血なんでしょうか」
-PRINTFORML 「ははあ、そんな事が。…では、その時の心境を一言──」	PRINTFORML 「ははあ、そんな事が。…では、その時の心境を一言──」
-PRINTFORMW 「──どうです？　これはまだ、ご存じなかったのでは？」	PRINTFORMW 「──どうです？　これはまだ、ご存じなかったのでは？」
-PRINTFORMW 「…ああいえ、何でもありません。探索を続けましょうか」	PRINTFORMW 「…ああいえ、何でもありません。探索を続けましょうか」
-PRINTFORML 「ぐっ…ぅ！　…あ、暴れないで欲しいんです、けど…！」	PRINTFORML 「ぐっ…ぅ！　…あ、暴れないで欲しいんです、けど…！」
-PRINTFORML 「…え、記者とはあんまり関係ない？　またまたご冗談を」	PRINTFORML 「…え、記者とはあんまり関係ない？　またまたご冗談を」
-PRINTFORML 「こんなところで拾ったものを使うのも気が引けますが…」	PRINTFORML 「こんなところで拾ったものを使うのも気が引けますが…」
-PRINTFORMDW 文は入浴中も、あえて我が子と目を合わせようとしない…	PRINTFORMDW 文は入浴中も、あえて我が子と目を合わせようとしない…
-PRINTFORMDW 力の入らない身体に鞭打ち、文は精一杯おどけて見せた…	PRINTFORMDW 力の入らない身体に鞭打ち、文は精一杯おどけて見せた…
-PRINTFORML 「………これは…かっこ悪いところを、お見せしまして…」	PRINTFORML 「………これは…かっこ悪いところを、お見せしまして…」
-PRINTFORML 「はあ。こんな時に冷静になれないで、どうするのかしら」	PRINTFORML 「はあ。こんな時に冷静になれないで、どうするのかしら」
-PRINTFORMW 「……はぁ……はぁっ…………脱ぐのは…無理、ですか…」	PRINTFORMW 「……はぁ……はぁっ…………脱ぐのは…無理、ですか…」
-PRINTFORML 「……はぁーっ……はぁーっ……はぁーっ……あ、は──」	PRINTFORML 「……はぁーっ……はぁーっ……はぁーっ……あ、は──」
-PRINTFORML 「…や、だ…やだ、もう、先っぽ、吸わない…でぇっ…！」	PRINTFORML 「…や、だ…やだ、もう、先っぽ、吸わない…でぇっ…！」
-PRINTFORMW 「うん。…母様に意地悪する子は、みんなやっつけるから」	PRINTFORMW 「うん。…母様に意地悪する子は、みんなやっつけるから」
-PRINTFORML 「ひぅああぁぁっ！　や…やらぁ…っ、おしりやらぁ…！」	PRINTFORML 「ひぅああぁぁっ！　や…やらぁ…っ、おしりやらぁ…！」
-PRINTFORMW 「やめ、てぇ！　おかしくなる、おかしくなるからぁ！！」	PRINTFORMW 「やめ、てぇ！　おかしくなる、おかしくなるからぁ！！」
-PRINTFORMW 「…わたし…こわれ、ちゃった……こわれちゃったぁ……」	PRINTFORMW 「…わたし…こわれ、ちゃった……こわれちゃったぁ……」
-PRINTFORMW 「んく……っ、今はちょっと、立て込んでいまして…！」	PRINTFORMW 「んく……っ、今はちょっと、立て込んでいまして…！」
-PRINTFORML （…マニアックな趣味の奴が多いんですよね…こいつら）	PRINTFORML （…マニアックな趣味の奴が多いんですよね…こいつら）
-PRINTFORMDW 文は太ももに力を込め、侵入するものを拒もうとする…	PRINTFORMDW 文は太ももに力を込め、侵入するものを拒もうとする…
-PRINTFORMW 「きゃっ！？　…ちょ、ちょっと甘く見ましたかね…！」	PRINTFORMW 「きゃっ！？　…ちょ、ちょっと甘く見ましたかね…！」
-PRINTFORML 「んううぅ…っ！　い、いい加減、に──ふあ、ぁ！？」	PRINTFORML 「んううぅ…っ！　い、いい加減、に──ふあ、ぁ！？」
-PRINTFORML 「！？　…い、いい趣味、を、お持ちで……くあ、ぁ！」	PRINTFORML 「！？　…い、いい趣味、を、お持ちで……くあ、ぁ！」
-PRINTFORMW 「面白……いえカッコいい活躍、期待してますからね？」	PRINTFORMW 「面白……いえカッコいい活躍、期待してますからね？」
-PRINTFORMW 「どちらが有益な情報を手に入れたか、勝負してみる？」	PRINTFORMW 「どちらが有益な情報を手に入れたか、勝負してみる？」
-PRINTFORMW 「……むむ。野放しにしていていいもんなんでしょうか」	PRINTFORMW 「……むむ。野放しにしていていいもんなんでしょうか」
-PRINTFORMDW 文が苦痛を訴える間隔が、急激に短くなってきている…	PRINTFORMDW 文が苦痛を訴える間隔が、急激に短くなってきている…
-PRINTFORMDW 俯き加減に苦しげな息を吐く文の表情は窺い知れない…	PRINTFORMDW 俯き加減に苦しげな息を吐く文の表情は窺い知れない…
-PRINTFORMW 「私の力が必要だ、と。ええ、ええ。分かりますとも♪」	PRINTFORMW 「私の力が必要だ、と。ええ、ええ。分かりますとも♪」
-PRINTFORMW 「いやぁ、もう少し単独で調べたいことがありまして…」	PRINTFORMW 「いやぁ、もう少し単独で調べたいことがありまして…」
-PRINTFORMW 「こ…っの！　……これくらいっ、どうって、こと…！」	PRINTFORMW 「こ…っの！　……これくらいっ、どうって、こと…！」
-PRINTFORMW 「おしり、っ、おしりなんかでっ、わたっ、し──！！」	PRINTFORMW 「おしり、っ、おしりなんかでっ、わたっ、し──！！」
-PRINTFORML 「！！？　ひぃ、っ！？　ぁ、あ！　ひあああぁっ！！」	PRINTFORML 「！！？　ひぃ、っ！？　ぁ、あ！　ひあああぁっ！！」
-PRINTFORML 「ふっ……ん、ぅ！？　…………はぁ……は、っ……」	PRINTFORML 「ふっ……ん、ぅ！？　…………はぁ……は、っ……」
-PRINTFORMW 「追いつけるものなら、追いかけてみてくださいな！」	PRINTFORMW 「追いつけるものなら、追いかけてみてくださいな！」
-PRINTFORMW 「そこに天狗がいれば、平地でも山颪が吹くのです！」	PRINTFORMW 「そこに天狗がいれば、平地でも山颪が吹くのです！」
-PRINTFORMW 「いつもとは一風変わった弾幕も、また乙なものです」	PRINTFORMW 「いつもとは一風変わった弾幕も、また乙なものです」
-PRINTFORMW （まずい、ですね……完全に…あちらのペースです…）	PRINTFORMW （まずい、ですね……完全に…あちらのペースです…）
-PRINTFORML 「う、ぅ……！　これ、ほんとにまずい…ですよ…！」	PRINTFORML 「う、ぅ……！　これ、ほんとにまずい…ですよ…！」
-PRINTFORMW 「烏の踊り食いなんて、聞いたことありませんよ…！」	PRINTFORMW 「烏の踊り食いなんて、聞いたことありませんよ…！」
-PRINTFORML 「…強引な殿方は、嫌いではないんですけど、ね…？」	PRINTFORML 「…強引な殿方は、嫌いではないんですけど、ね…？」
-PRINTFORML 「ふああああぁ…っ！　だ、ダメですっ…離し…っ！」	PRINTFORML 「ふああああぁ…っ！　だ、ダメですっ…離し…っ！」
-PRINTFORMW 「私に触れたいんですか？　…身の程知らずですねえ」	PRINTFORMW 「私に触れたいんですか？　…身の程知らずですねえ」
-PRINTFORMDL 文は高潮した顔で息を荒げながら、来た道を振り返る	PRINTFORMDL 文は高潮した顔で息を荒げながら、来た道を振り返る
-PRINTFORMDW 走り去る背を見やる文の目は、酷く冷ややかだった…	PRINTFORMDW 走り去る背を見やる文の目は、酷く冷ややかだった…
-PRINTFORML 「………なんだか、頭が痛くなってきたんですけど…」	PRINTFORML 「………なんだか、頭が痛くなってきたんですけど…」
-PRINTFORMW 「他人様に迷惑をかけることは、許しませんからね？」	PRINTFORMW 「他人様に迷惑をかけることは、許しませんからね？」
-PRINTFORMW 「あんまり馴れ馴れしくしないで欲しいんですけどね」	PRINTFORMW 「あんまり馴れ馴れしくしないで欲しいんですけどね」
-PRINTFORMW 「あややや。……もう、本当に大丈夫なんでしょうね」	PRINTFORMW 「あややや。……もう、本当に大丈夫なんでしょうね」
-PRINTFORMDW 文は不意に吐き気に襲われ、忌々しげに眉を顰める…	PRINTFORMDW 文は不意に吐き気に襲われ、忌々しげに眉を顰める…
-PRINTFORML 「……ん。気分が悪いのも治まってくれたようですね」	PRINTFORML 「……ん。気分が悪いのも治まってくれたようですね」
-PRINTFORMW 「やれやれ。我ながら、繊細すぎるのも困りものです」	PRINTFORMW 「やれやれ。我ながら、繊細すぎるのも困りものです」
-PRINTFORML 「先手必勝！　単純ですが、悪くないかもしれません」	PRINTFORML 「先手必勝！　単純ですが、悪くないかもしれません」
-PRINTFORMW 「やあやあ、お目が高い。きっとお役に立ちますよ！」	PRINTFORMW 「やあやあ、お目が高い。きっとお役に立ちますよ！」
-PRINTFORMW 「いい表情とかリアクションとか、お願いしますね！」	PRINTFORMW 「いい表情とかリアクションとか、お願いしますね！」
-PRINTFORMDW 文は娘の背を流しながら、妖怪の山に思いを馳せる…	PRINTFORMDW 文は娘の背を流しながら、妖怪の山に思いを馳せる…
-PRINTFORMW 「……………もみ、じ……はたて………みん…な──」	PRINTFORMW 「……………もみ、じ……はたて………みん…な──」
-PRINTFORMW 「…う、そ、私…わたし、胸だけ、で、こんな……！」	PRINTFORMW 「…う、そ、私…わたし、胸だけ、で、こんな……！」
-PRINTFORML 「ひあああぁっ！？　だ、ダメ、そこはダメですっ！」	PRINTFORML 「ひあああぁっ！？　だ、ダメ、そこはダメですっ！」
-PRINTFORML 「……あは…♪　もっ、と……もっと、して、ぇ……」	PRINTFORML 「……あは…♪　もっ、と……もっと、して、ぇ……」
-PRINTFORML 「……ぁ…あ……すご、い……すごい、よぅ、っ……」	PRINTFORML 「……ぁ…あ……すご、い……すごい、よぅ、っ……」
-PRINTFORML 「ひぃっ……ぁ、あ！　あーっ！　ああーーーっ！！」	PRINTFORML 「ひぃっ……ぁ、あ！　あーっ！　ああーーーっ！！」
-PRINTFORML 「うああぁ！　やら…やらぁ…っ、やああああぁ！！」	PRINTFORML 「うああぁ！　やら…やらぁ…っ、やああああぁ！！」
-PRINTFORMW （……やっぱり、わたし……母様とは、違うんだ……）	PRINTFORMW （……やっぱり、わたし……母様とは、違うんだ……）
-PRINTFORML 「あうぅ…っ！　…だ、め、吸っちゃ…だめぇ…っ！」	PRINTFORML 「あうぅ…っ！　…だ、め、吸っちゃ…だめぇ…っ！」
-PRINTFORMW 「蹴散らしますよ！　──突風『猿田彦の先導』！」	PRINTFORMW 「蹴散らしますよ！　──突風『猿田彦の先導』！」
-PRINTFORMDW 文はぬめる肉壁に懸命に爪を立て、力を振り絞る！	PRINTFORMDW 文はぬめる肉壁に懸命に爪を立て、力を振り絞る！
-PRINTFORMW （このまま、では……気をしっかり持たないと…！）	PRINTFORMW （このまま、では……気をしっかり持たないと…！）
-PRINTFORML 「ぅく、うぅっ…！　赤ん坊じゃ…あるまいし…！」	PRINTFORML 「ぅく、うぅっ…！　赤ん坊じゃ…あるまいし…！」
-PRINTFORMW 「ふぁ、う！　…………声なんて…出てませんよ？」	PRINTFORMW 「ふぁ、う！　…………声なんて…出てませんよ？」
-PRINTFORML 「……はぁー……はぁー……はぁー……ぁ、あ……」	PRINTFORML 「……はぁー……はぁー……はぁー……ぁ、あ……」
-PRINTFORML 「…どちら様に請求すればいいんですかね、これ？」	PRINTFORML 「…どちら様に請求すればいいんですかね、これ？」
-PRINTFORMW 「いやぁ…正直、今のはちょっと危なかったですね」	PRINTFORMW 「いやぁ…正直、今のはちょっと危なかったですね」
-PRINTFORMW 「…まったく、そんな顔真っ赤にして怒らなくても」	PRINTFORMW 「…まったく、そんな顔真っ赤にして怒らなくても」
-PRINTFORML 「…うーん、もっといい情報があったような…はて」	PRINTFORML 「…うーん、もっといい情報があったような…はて」
-PRINTFORMW 「ああもう…子供のこういうところは面倒ですね…」	PRINTFORMW 「ああもう…子供のこういうところは面倒ですね…」
-PRINTFORMW （……こんな…っ、……わたしの、体、こんな……）	PRINTFORMW （……こんな…っ、……わたしの、体、こんな……）
-PRINTFORMW 「あ、は──すごいの、きちゃ、きちゃう──！！」	PRINTFORMW 「あ、は──すごいの、きちゃ、きちゃう──！！」
-PRINTFORML 「ひぅっ…！　おし、り、すっちゃ…だめ、ぇ…っ」	PRINTFORML 「ひぅっ…！　おし、り、すっちゃ…だめ、ぇ…っ」
-PRINTFORML 「うぐぅっ……はう、あぅ、あう、ううぅ…っ……」	PRINTFORML 「うぐぅっ……はう、あぅ、あう、ううぅ…っ……」
-PRINTFORMDW 文の華奢な身体が、ひときわ大きく痙攣した──	PRINTFORMDW 文の華奢な身体が、ひときわ大きく痙攣した──
-PRINTFORMW 「ついて来れますか？　──疾風『風神少女』！」	PRINTFORMW 「ついて来れますか？　──疾風『風神少女』！」
-PRINTFORML 「う……！　これ、何か…吸われ……はぅっ…！」	PRINTFORML 「う……！　これ、何か…吸われ……はぅっ…！」
-PRINTFORMW 「ぅ…く、ダメ……イきます、イくぅ……っ…！」	PRINTFORMW 「ぅ…く、ダメ……イきます、イくぅ……っ…！」
-PRINTFORMW （……まず、い……このままじゃ…イかされ──）	PRINTFORMW （……まず、い……このままじゃ…イかされ──）
-PRINTFORML 「ひぇ……！　まったく、無駄に器用ですね…！」	PRINTFORML 「ひぇ……！　まったく、無駄に器用ですね…！」
-PRINTFORML 「あんなのを相手に、無駄に消耗してられません」	PRINTFORML 「あんなのを相手に、無駄に消耗してられません」
-PRINTFORMDL 文は荒い息をつきながら、ぺたん、と座り込んだ	PRINTFORMDL 文は荒い息をつきながら、ぺたん、と座り込んだ
-PRINTFORMW 「あややや。お互い、しぶとくて何よりですねえ」	PRINTFORMW 「あややや。お互い、しぶとくて何よりですねえ」
-PRINTFORMW 「………何故でしょう、視線が冷たいんですけど」	PRINTFORMW 「………何故でしょう、視線が冷たいんですけど」
-PRINTFORMW 「そう。…まあ、それがお互いのためでしょうね」	PRINTFORMW 「そう。…まあ、それがお互いのためでしょうね」
-PRINTFORMDL 文は部屋中の空気の流れを油断なく探っている…	PRINTFORMDL 文は部屋中の空気の流れを油断なく探っている…
-PRINTFORML 「…ああ、もう。大丈夫かしらね、あんな様子で」	PRINTFORML 「…ああ、もう。大丈夫かしらね、あんな様子で」
-PRINTFORML 「くぁ、っ！？　あひ、っぃ、ぃあああぁぁぁ！」	PRINTFORML 「くぁ、っ！？　あひ、っぃ、ぃあああぁぁぁ！」
-PRINTFORMW 「これ、これっ、だめ、ですっ…私、もうっ…！」	PRINTFORMW 「これ、これっ、だめ、ですっ…私、もうっ…！」
-PRINTFORML 「ま、待っ、おねが──ぃあああああああぁ！？」	PRINTFORML 「ま、待っ、おねが──ぃあああああああぁ！？」
-PRINTFORML 「……はぁ……はう……ちから、はいらない……」	PRINTFORML 「……はぁ……はう……ちから、はいらない……」
-PRINTFORMW （…………母様みたいには…なれないん、だ……）	PRINTFORMW （…………母様みたいには…なれないん、だ……）
-PRINTFORMW 「ごめんね。……じゃあね………かあ、さま──」	PRINTFORMW 「ごめんね。……じゃあね………かあ、さま──」
-PRINTFORML 「うああぁーーっ！　あ、ぁ、やめ、やめて…！」	PRINTFORML 「うああぁーーっ！　あ、ぁ、やめ、やめて…！」
-PRINTFORMW 「攻めに転じないと…このままじゃジリ貧です」	PRINTFORMW 「攻めに転じないと…このままじゃジリ貧です」
-PRINTFORMW 「…っとと、ちょっと深追いしすぎかしら…！」	PRINTFORMW 「…っとと、ちょっと深追いしすぎかしら…！」
-PRINTFORMDW 文の周囲の空気が、不自然に渦を巻き始める…	PRINTFORMDW 文の周囲の空気が、不自然に渦を巻き始める…
-PRINTFORMW 「直接狙って撃つだけが、弾幕ではないのです」	PRINTFORMW 「直接狙って撃つだけが、弾幕ではないのです」
-PRINTFORML （身体、熱い──いけない、流され、そう……）	PRINTFORML （身体、熱い──いけない、流され、そう……）
-PRINTFORMW 「…愛されすぎるのも、困ったものですね…！」	PRINTFORMW 「…愛されすぎるのも、困ったものですね…！」
-PRINTFORMDW 文はお尻を引っ込めて身を守ろうとしている…	PRINTFORMDW 文はお尻を引っ込めて身を守ろうとしている…
-PRINTFORML 「ぐっ！？　……い、今のは…効きました…っ」	PRINTFORML 「ぐっ！？　……い、今のは…効きました…っ」
-PRINTFORMW 「んっ……ちょっと、乱暴すぎます、よっ…！」	PRINTFORMW 「んっ……ちょっと、乱暴すぎます、よっ…！」
-PRINTFORMDL 一度だけ振り返った時、不意に視線が交錯する	PRINTFORMDL 一度だけ振り返った時、不意に視線が交錯する
-PRINTFORML 「やや、ご無事で…というのは当たり前ですか」	PRINTFORML 「やや、ご無事で…というのは当たり前ですか」
-PRINTFORMW 「これはどうも。そちらの調子はいかがです？」	PRINTFORMW 「これはどうも。そちらの調子はいかがです？」
-PRINTFORMW 「…やれやれ。一人前のつもりなんでしょうか」	PRINTFORMW 「…やれやれ。一人前のつもりなんでしょうか」
-PRINTFORMDW 文は時折つらそうに眉根を寄せ、息を荒げる…	PRINTFORMDW 文は時折つらそうに眉根を寄せ、息を荒げる…
-PRINTFORMW 「あやややや！　ちょ…待っ、本気ですか！？」	PRINTFORMW 「あやややや！　ちょ…待っ、本気ですか！？」
-PRINTFORML 「んあああぁぁっ！　やめっ…そこ、弱──っ」	PRINTFORML 「んあああぁぁっ！　やめっ…そこ、弱──っ」
-PRINTFORMW （こんなに……気持ちよく、なれるん、だ──）	PRINTFORMW （こんなに……気持ちよく、なれるん、だ──）
-PRINTFORML 「まずは速さを奪うのがジョーセキなんだって」	PRINTFORML 「まずは速さを奪うのがジョーセキなんだって」
-PRINTFORMW 「わたし、そんなに食べるとこないから…ね？」	PRINTFORMW 「わたし、そんなに食べるとこないから…ね？」
-PRINTFORML （…どんなこと……されちゃう……のかな…？）	PRINTFORML （…どんなこと……されちゃう……のかな…？）
-PRINTFORMW 「……かあさま……たす、け……かぁ、さ……」	PRINTFORMW 「……かあさま……たす、け……かぁ、さ……」
-PRINTFORML 「あ……ぁ、ダメ……ちから、はいら、な──」	PRINTFORML 「あ……ぁ、ダメ……ちから、はいら、な──」
-PRINTFORMW 「そんなんじゃ、わたしは捕まえられないよ？」	PRINTFORMW 「そんなんじゃ、わたしは捕まえられないよ？」
-PRINTFORML 「…………ねえ。わたしの中に…誰かいるの…」	PRINTFORML 「…………ねえ。わたしの中に…誰かいるの…」
-PRINTFORMW 「く……調子付かせてしまいましたかね…！」	PRINTFORMW 「く……調子付かせてしまいましたかね…！」
-PRINTFORML 「ここは耐え時ですか──鎌風ベーリング！」	PRINTFORML 「ここは耐え時ですか──鎌風ベーリング！」
-PRINTFORMW 「取材の続きは、またの機会と言うことで…」	PRINTFORMW 「取材の続きは、またの機会と言うことで…」
-PRINTFORML （今……こんなもの、挿れられ、たら……っ）	PRINTFORML （今……こんなもの、挿れられ、たら……っ）
-PRINTFORMW 「うううぅっ！　…っく、はぁ……はぁ……」	PRINTFORMW 「うううぅっ！　…っく、はぁ……はぁ……」
-PRINTFORMDW 文は小さな身体を抱き起こし、下唇を噛んだ	PRINTFORMDW 文は小さな身体を抱き起こし、下唇を噛んだ
-PRINTFORML 「…他の人妖を襲ったりしてないでしょうね」	PRINTFORML 「…他の人妖を襲ったりしてないでしょうね」
-PRINTFORMDW 文はあくまで淡々と、情報の交換に勤しむ…	PRINTFORMDW 文はあくまで淡々と、情報の交換に勤しむ…
-PRINTFORMW 「っ、んっ、ん、ぁ！　ああああぁぁっ！！」	PRINTFORMW 「っ、んっ、ん、ぁ！　ああああぁぁっ！！」
-PRINTFORML 「んぐっ……ん！　んんんん、ぅ……っ！！」	PRINTFORML 「んぐっ……ん！　んんんん、ぅ……っ！！」
-PRINTFORML 「職業柄、気配を消すのは得意な方でしてね」	PRINTFORML 「職業柄、気配を消すのは得意な方でしてね」
-PRINTFORMW 「な──ダメダメ、それはダメですったら！」	PRINTFORMW 「な──ダメダメ、それはダメですったら！」
-PRINTFORMW （今の…うちに……少しでも、遠く、へ…！）	PRINTFORMW （今の…うちに……少しでも、遠く、へ…！）
-PRINTFORML 「………ふ…ふふ、詰めが甘い、ですね…っ」	PRINTFORML 「………ふ…ふふ、詰めが甘い、ですね…っ」
-PRINTFORMW 「弾幕、だんまく……これでいいんだよね？」	PRINTFORMW 「弾幕、だんまく……これでいいんだよね？」
-PRINTFORMW 「……はぁ……はぁっ……どう、しよう……」	PRINTFORMW 「……はぁ……はぁっ……どう、しよう……」
-PRINTFORML 「ぁ……おっぱい、そんなに……吸っ……！」	PRINTFORML 「ぁ……おっぱい、そんなに……吸っ……！」
-PRINTFORMW 「んぅぅぅ！　うあ、ぁ、ううぅー……っ！」	PRINTFORMW 「んぅぅぅ！　うあ、ぁ、ううぅー……っ！」
-PRINTFORMW （また、還るんだ……あの、暗いとこに……）	PRINTFORMW （また、還るんだ……あの、暗いとこに……）
-PRINTFORML 「ほら、これだけ近ければ当てられます？」	PRINTFORML 「ほら、これだけ近ければ当てられます？」
-PRINTFORMW 「…ちょっとばかり、分が悪いですね…っ」	PRINTFORMW 「…ちょっとばかり、分が悪いですね…っ」
-PRINTFORML 「それでは、ここらで…大盤振る舞いです」	PRINTFORML 「それでは、ここらで…大盤振る舞いです」
-PRINTFORML 「はぁ…あ、ぁ………く、んううぅ…っ！」	PRINTFORML 「はぁ…あ、ぁ………く、んううぅ…っ！」
-PRINTFORMW 「…自分から離すなら、今のうちですよ？」	PRINTFORMW 「…自分から離すなら、今のうちですよ？」
-PRINTFORMDW 文は静かに眼を閉じ、妖力を高めている…	PRINTFORMDW 文は静かに眼を閉じ、妖力を高めている…
-PRINTFORMW 「ぐあ、ぅ！　……ごほっ……こふっ……」	PRINTFORMW 「ぐあ、ぅ！　……ごほっ……こふっ……」
-PRINTFORML 「…やるじゃないですか。私に当てるとは」	PRINTFORML 「…やるじゃないですか。私に当てるとは」
-PRINTFORML 「あやや！？　流石にこれはちょっと…！」	PRINTFORML 「あやや！？　流石にこれはちょっと…！」
-PRINTFORMW 「………何を苛立ってるんですかね、私は」	PRINTFORMW 「………何を苛立ってるんですかね、私は」
-PRINTFORML 「はたて…はたて。聞こえる？　私ですよ」	PRINTFORML 「はたて…はたて。聞こえる？　私ですよ」
-PRINTFORMW 「相も変わらず、お元気そうで何よりです」	PRINTFORMW 「相も変わらず、お元気そうで何よりです」
-PRINTFORML 「みっともない、って…仕方ないでしょう」	PRINTFORML 「みっともない、って…仕方ないでしょう」
-PRINTFORMW 「いやはや、こんな格好で恐れ入ります…」	PRINTFORMW 「いやはや、こんな格好で恐れ入ります…」
-PRINTFORML 「…そっちも、コレを記事にするつもり？」	PRINTFORML 「…そっちも、コレを記事にするつもり？」
-PRINTFORMW 「一人よりはマシだと思うんですけどねえ」	PRINTFORMW 「一人よりはマシだと思うんですけどねえ」
-PRINTFORMW 「ここはひとまず、別行動としましょうか」	PRINTFORMW 「ここはひとまず、別行動としましょうか」
-PRINTFORMW 「それでは。ご武運をお祈りしていますよ」	PRINTFORMW 「それでは。ご武運をお祈りしていますよ」
-PRINTFORML 「……はぁっ…はぁっ、はっ、うぐぅ…！」	PRINTFORML 「……はぁっ…はぁっ、はっ、うぐぅ…！」
-PRINTFORMDW 自棄のように口走り、文は溜め息を吐く…	PRINTFORMDW 自棄のように口走り、文は溜め息を吐く…
-PRINTFORML 「ふぅ……、不届きにも程がありますよ！」	PRINTFORML 「ふぅ……、不届きにも程がありますよ！」
-PRINTFORML 「もう…！　あなたには過ぎた相手ですよ」	PRINTFORML 「もう…！　あなたには過ぎた相手ですよ」
-PRINTFORMDW 力なく笑い、文はどうにか身を起こした…	PRINTFORMDW 力なく笑い、文はどうにか身を起こした…
-PRINTFORML 「まったく…相変わらず頭が固いと言うか」	PRINTFORML 「まったく…相変わらず頭が固いと言うか」
-PRINTFORMW 「痛いのが怖かったら、逃げてもいいよ？」	PRINTFORMW 「痛いのが怖かったら、逃げてもいいよ？」
-PRINTFORMW 「はなして……でないと、ひどい、よ…っ」	PRINTFORMW 「はなして……でないと、ひどい、よ…っ」
-PRINTFORMW （だから…だから、しょうがない、の……）	PRINTFORMW （だから…だから、しょうがない、の……）
-PRINTFORMW 「こんなの…すぐ抜けられるんだから…っ」	PRINTFORMW 「こんなの…すぐ抜けられるんだから…っ」
-PRINTFORMW 「や、だ……やだ、やめて──あうぅっ！」	PRINTFORMW 「や、だ……やだ、やめて──あうぅっ！」
-PRINTFORML 「ぅ…あ、離し……くぅ…う、ううぅ…！」	PRINTFORML 「ぅ…あ、離し……くぅ…う、ううぅ…！」
-PRINTFORML 「かはっ！　…う…うそ、よけられない…」	PRINTFORML 「かはっ！　…う…うそ、よけられない…」
-PRINTFORMW 「あ…ううぅ！　母様、かあさまぁぁっ！」	PRINTFORMW 「あ…ううぅ！　母様、かあさまぁぁっ！」
-PRINTFORML 「…あっ！？　……わたしの、中に……？」	PRINTFORML 「…あっ！？　……わたしの、中に……？」
-PRINTFORMW 「…ねえ…もっと楽しいこと、教えてよ…」	PRINTFORMW 「…ねえ…もっと楽しいこと、教えてよ…」
-PRINTFORML 「あぐぅっ………はぁっ、はぁっ、はぁっ」	PRINTFORML 「あぐぅっ………はぁっ、はぁっ、はぁっ」
-PRINTFORML 「……あっ…つ……痛……なに、これ……」	PRINTFORML 「……あっ…つ……痛……なに、これ……」
-PRINTFORMW 「いいよ。…ふふふ、ちゃんと守ってね？」	PRINTFORMW 「いいよ。…ふふふ、ちゃんと守ってね？」
-PRINTFORML 「ちょっと派手なの、いきましょうか？」	PRINTFORML 「ちょっと派手なの、いきましょうか？」
-PRINTFORMW 「……っく……調子に、乗るんじゃ…っ」	PRINTFORMW 「……っく……調子に、乗るんじゃ…っ」
-PRINTFORML 「ぅ…ああぁ…ぁ、……こんなもの…！」	PRINTFORML 「ぅ…ああぁ…ぁ、……こんなもの…！」
-PRINTFORMW 「わたし、の、負け…ですからぁっ…！」	PRINTFORMW 「わたし、の、負け…ですからぁっ…！」
-PRINTFORML 「ひっ！？　ぃあああぁぁ、ぁ、ぁ…！」	PRINTFORML 「ひっ！？　ぃあああぁぁ、ぁ、ぁ…！」
-PRINTFORML 「…あやや……薄情ですねえ…ほんと…」	PRINTFORML 「…あやや……薄情ですねえ…ほんと…」
-PRINTFORMDW 文のその目は、酷く冷ややかだった──	PRINTFORMDW 文のその目は、酷く冷ややかだった──
-PRINTFORMW 「…よしよし。無茶はしていませんか？」	PRINTFORMW 「…よしよし。無茶はしていませんか？」
-PRINTFORML 「……ふむ。どうやら怪我はないようね」	PRINTFORML 「……ふむ。どうやら怪我はないようね」
-PRINTFORML 「…どこか、外に通じていないかしら…」	PRINTFORML 「…どこか、外に通じていないかしら…」
-PRINTFORMW 「……え？　ちょっ、な、これ……！？」	PRINTFORMW 「……え？　ちょっ、な、これ……！？」
-PRINTFORML （このままだと、わたし……わた……し）	PRINTFORML （このままだと、わたし……わた……し）
-PRINTFORML 「……はぁー……はぁー……はぁー……」	PRINTFORML 「……はぁー……はぁー……はぁー……」
-PRINTFORML 「きゅうぅっ……だめ……だめ、ぇ……」	PRINTFORML 「きゅうぅっ……だめ……だめ、ぇ……」
-PRINTFORMW 「ふあ、ぁ…やぁっ、うやあぁぁ……っ」	PRINTFORMW 「ふあ、ぁ…やぁっ、うやあぁぁ……っ」
-PRINTFORMW 「…捕まったら食べられちゃってたね？」	PRINTFORMW 「…捕まったら食べられちゃってたね？」
-PRINTFORML 「………んあぅ、う！　……ぃ、た…っ」	PRINTFORML 「………んあぅ、う！　……ぃ、た…っ」
-PRINTFORMW （なんだか、すごく………気持ちいいよ）	PRINTFORMW （なんだか、すごく………気持ちいいよ）
-PRINTFORML 「──！？　……は、ぅ、……ぁ……」	PRINTFORML 「──！？　……は、ぅ、……ぁ……」
-PRINTFORMW 「……はぁ……あぁ、はぁ、は……！」	PRINTFORMW 「……はぁ……あぁ、はぁ、は……！」
-PRINTFORML （まずい……身体が、思うように……）	PRINTFORML （まずい……身体が、思うように……）
-PRINTFORMDW 文は挑発的な笑みを浮かべてみせる…	PRINTFORMDW 文は挑発的な笑みを浮かべてみせる…
-PRINTFORMW 「囲め！　風神『風神木の葉隠れ』！」	PRINTFORMW 「囲め！　風神『風神木の葉隠れ』！」
-PRINTFORMW 「あぐ……っ、かは……こ、の……！」	PRINTFORMW 「あぐ……っ、かは……こ、の……！」
-PRINTFORML 「…エロスは程々にしておきません？」	PRINTFORML 「…エロスは程々にしておきません？」
-PRINTFORMW 「…エロスは程々にしておきません？」	PRINTFORMW 「…エロスは程々にしておきません？」
-PRINTFORMW 「がは、ぁっ！　……こ、れ以上は…」	PRINTFORMW 「がは、ぁっ！　……こ、れ以上は…」
-PRINTFORML 「うっぐ…！　……けふっ、かはっ！」	PRINTFORML 「うっぐ…！　……けふっ、かはっ！」
-PRINTFORMW 「ふあ、ぁ──っ！　………っ…！！」	PRINTFORMW 「ふあ、ぁ──っ！　………っ…！！」
-PRINTFORMW 「んっく…！　…下手っぴですね…っ」	PRINTFORMW 「んっく…！　…下手っぴですね…っ」
-PRINTFORMW 「…命あっての物種、ってやつですね」	PRINTFORMW 「…命あっての物種、ってやつですね」
-PRINTFORML 「この足、鈍ってはいないようですね」	PRINTFORML 「この足、鈍ってはいないようですね」
-PRINTFORML 「おやおや、苦労してるみたいねぇ椛」	PRINTFORML 「おやおや、苦労してるみたいねぇ椛」
-PRINTFORMW 「心配…は、するだけ無駄ですよねえ」	PRINTFORMW 「心配…は、するだけ無駄ですよねえ」
-PRINTFORMW 「ご活躍が目に浮かぶようです、ええ」	PRINTFORMW 「ご活躍が目に浮かぶようです、ええ」
-PRINTFORMW 「…やれやれ。振られちゃいましたね」	PRINTFORMW 「…やれやれ。振られちゃいましたね」
-PRINTFORMDW 文はわしわしと娘の髪を洗っている…	PRINTFORMDW 文はわしわしと娘の髪を洗っている…
-PRINTFORML 「まっすぐ貫く……速く……強く……」	PRINTFORML 「まっすぐ貫く……速く……強く……」
-PRINTFORML （……あんなのを……わたし、に──）	PRINTFORML （……あんなのを……わたし、に──）
-PRINTFORMW 「はぐっ…！　……はぁ、はぁ……っ」	PRINTFORMW 「はぐっ…！　……はぁ、はぁ……っ」
-PRINTFORML 「あつっ……平気だよ、これくらい！」	PRINTFORML 「あつっ……平気だよ、これくらい！」
-PRINTFORML 「…ふん。このほうが動きやすいもん」	PRINTFORML 「…ふん。このほうが動きやすいもん」
-PRINTFORMW 「あ、あ、あゃ、やああぁぁぁっ！！」	PRINTFORMW 「あ、あ、あゃ、やああぁぁぁっ！！」
-PRINTFORMW 「身体がまともに動くうちに……！」	PRINTFORMW 「身体がまともに動くうちに……！」
-PRINTFORMW 「天狗の石礫、お味はいかがです？」	PRINTFORMW 「天狗の石礫、お味はいかがです？」
-PRINTFORMW 「よし、ここ！　──天狗烈風弾！」	PRINTFORMW 「よし、ここ！　──天狗烈風弾！」
-PRINTFORML 「……はぁっ……はぁ、……っ……」	PRINTFORML 「……はぁっ……はぁ、……っ……」
-PRINTFORML （鎌鼬で…触手を切り落とせば…！）	PRINTFORML （鎌鼬で…触手を切り落とせば…！）
-PRINTFORML 「あぐっ…！　お、お手柔らかに…」	PRINTFORML 「あぐっ…！　お、お手柔らかに…」
-PRINTFORMW 「かふっ…！　ゆ、油断しました…」	PRINTFORMW 「かふっ…！　ゆ、油断しました…」
-PRINTFORML 「あっ……あ、ぁ、あう、ぅ……！」	PRINTFORML 「あっ……あ、ぁ、あう、ぅ……！」
-PRINTFORML 「…これ、狙ってやってますよね？」	PRINTFORML 「…これ、狙ってやってますよね？」
-PRINTFORMW 「これはこれは、よくぞご無事で！」	PRINTFORMW 「これはこれは、よくぞご無事で！」
-PRINTFORMDW （気のせい…かしら。お腹が……）	PRINTFORMDW （気のせい…かしら。お腹が……）
-PRINTFORMW 「烏は綺麗好きなんです。これ本当」	PRINTFORMW 「烏は綺麗好きなんです。これ本当」
-PRINTFORML 「…さて、鬼が出るか蛇が出るか…」	PRINTFORML 「…さて、鬼が出るか蛇が出るか…」
-PRINTFORMW 「こんの…調子に乗るんじゃ……！」	PRINTFORMW 「こんの…調子に乗るんじゃ……！」
-PRINTFORML 「残念。そうお安くはありませんよ」	PRINTFORML 「残念。そうお安くはありませんよ」
-PRINTFORML 「…やれやれ。気難しい方ですねえ」	PRINTFORML 「…やれやれ。気難しい方ですねえ」
-PRINTFORML 「あっ……あっぁ、あう、う、ぅ！」	PRINTFORML 「あっ……あっぁ、あう、う、ぅ！」
-PRINTFORML 「ひんっ……！？　は、ぁ、あ…！」	PRINTFORML 「ひんっ……！？　は、ぁ、あ…！」
-PRINTFORMW 「こうかな？　──れっぷーせん！」	PRINTFORMW 「こうかな？　──れっぷーせん！」
-PRINTFORMW 「ふふ。すっごく痛いの…いくよ？」	PRINTFORMW 「ふふ。すっごく痛いの…いくよ？」
-PRINTFORML 「こんなの…すぐに、ほどいて…っ」	PRINTFORML 「こんなの…すぐに、ほどいて…っ」
-PRINTFORMW 「うぐぅっ！　……ぅ、うえ…っ！」	PRINTFORMW 「うぐぅっ！　……ぅ、うえ…っ！」
-PRINTFORMW 「んくっ…！　…酷いことするね…」	PRINTFORMW 「んくっ…！　…酷いことするね…」
-PRINTFORML 「……はぁ……はぁ……は、ぁ──」	PRINTFORML 「……はぁ……はぁ……は、ぁ──」
-PRINTFORML 「……ふぅ……ふぅ……は……ぁっ」	PRINTFORML 「……ふぅ……ふぅ……は……ぁっ」
-PRINTFORMW 「ふぅ……まだ、ドキドキしてる…」	PRINTFORMW 「ふぅ……まだ、ドキドキしてる…」
-PRINTFORMW 「つまんないの……また誘ってね？」	PRINTFORMW 「つまんないの……また誘ってね？」
-PRINTFORML 「……はぁ…はぁっ………待って…」	PRINTFORML 「……はぁ…はぁっ………待って…」
-PRINTFORMW 「いいけど…おねえさん、強いの？」	PRINTFORMW 「いいけど…おねえさん、強いの？」
-PRINTFORML 「…………は、へ……えぅ、う……」	PRINTFORML 「…………は、へ……えぅ、う……」
-PRINTFORMW 「おっと…やらせはしませんよ！」	PRINTFORMW 「おっと…やらせはしませんよ！」
-PRINTFORMW 「引くべき時は引く、この潔さ！」	PRINTFORMW 「引くべき時は引く、この潔さ！」
-PRINTFORMW 「さ、ペース上げていきますよ！」	PRINTFORMW 「さ、ペース上げていきますよ！」
-PRINTFORMW 「何事も、搦め手が重要なのです」	PRINTFORMW 「何事も、搦め手が重要なのです」
-PRINTFORMW 「天狗の体術、とくとご覧あれ！」	PRINTFORMW 「天狗の体術、とくとご覧あれ！」
-PRINTFORMW 「これは効くんじゃないですか？」	PRINTFORMW 「これは効くんじゃないですか？」
-PRINTFORML 「……ぁ…う………この…ぉ……」	PRINTFORML 「……ぁ…う………この…ぉ……」
-PRINTFORML 「うああぁ…あ、ぁ、はあぁ…！」	PRINTFORML 「うああぁ…あ、ぁ、はあぁ…！」
-PRINTFORMW 「見てくれ通りの鈍重さですねぇ」	PRINTFORMW 「見てくれ通りの鈍重さですねぇ」
-PRINTFORML 「もう！　おイタが過ぎますよ！」	PRINTFORML 「もう！　おイタが過ぎますよ！」
-PRINTFORML 「流石に追いついてはきませんね」	PRINTFORML 「流石に追いついてはきませんね」
-PRINTFORML 「…………ぁ……ひぅっ…ぅ……」	PRINTFORML 「…………ぁ……ひぅっ…ぅ……」
-PRINTFORMW 「…………冗談きつい、ですよ…」	PRINTFORMW 「…………冗談きつい、ですよ…」
-PRINTFORMW 「少しはマシになりましたかね？」	PRINTFORMW 「少しはマシになりましたかね？」
-PRINTFORML 「………あはは…恩に…着ます…」	PRINTFORML 「………あはは…恩に…着ます…」
-PRINTFORMW 「がまん……今は、がまん……！」	PRINTFORMW 「がまん……今は、がまん……！」
-PRINTFORML 「……はーーっ……はーーっ……」	PRINTFORML 「……はーーっ……はーーっ……」
-PRINTFORML 「うはぁ…はぁ……んん～…っ！」	PRINTFORML 「うはぁ…はぁ……んん～…っ！」
-PRINTFORMW （わたしの力じゃ……ほどけない）	PRINTFORMW （わたしの力じゃ……ほどけない）
-PRINTFORML （わたし…死んじゃうん、だ……）	PRINTFORML （わたし…死んじゃうん、だ……）
-PRINTFORMW 「ひぐぅっ！　………ごほ、っ…」	PRINTFORMW 「ひぐぅっ！　………ごほ、っ…」
-PRINTFORML 「……あ、れ……力、入らな……」	PRINTFORML 「……あ、れ……力、入らな……」
-PRINTFORMW 「かふぅっ………もう…やめ…っ」	PRINTFORMW 「かふぅっ………もう…やめ…っ」
-PRINTFORMW 「んうぅ！　離れてっ…たらっ…」	PRINTFORMW 「んうぅ！　離れてっ…たらっ…」
-PRINTFORMW 「あ……ぁ、ぁ、すご、いっ──」	PRINTFORMW 「あ……ぁ、ぁ、すご、いっ──」
-PRINTFORMW 「……はぁ……はぁ……はぁ、っ」	PRINTFORMW 「……はぁ……はぁ……はぁ、っ」
-PRINTFORML 「破っちゃった…怒られる、かな」	PRINTFORML 「破っちゃった…怒られる、かな」
-PRINTFORMW 「…へ、平気……はやく、行こ…」	PRINTFORMW 「…へ、平気……はやく、行こ…」
-PRINTFORMDW 文の周囲を風の鎧が取り巻く！	PRINTFORMDW 文の周囲を風の鎧が取り巻く！
-PRINTFORMW 「三十六計、何とやら…です！」	PRINTFORMW 「三十六計、何とやら…です！」
-PRINTFORMW 「ちょっと強めに……疾風扇！」	PRINTFORMW 「ちょっと強めに……疾風扇！」
-PRINTFORML 「──あやや。何かお探しで？」	PRINTFORML 「──あやや。何かお探しで？」
-PRINTFORML 「…ちょーっと、痛いですよ？」	PRINTFORML 「…ちょーっと、痛いですよ？」
-PRINTFORMW 「全ては、我が──戯言なり！」	PRINTFORMW 「全ては、我が──戯言なり！」
-PRINTFORMW 「どんどん撃っていきますよ！」	PRINTFORMW 「どんどん撃っていきますよ！」
-PRINTFORML （は、離れないと……でも──）	PRINTFORML （は、離れないと……でも──）
-PRINTFORMW （……もう…ダメですね、これ）	PRINTFORMW （……もう…ダメですね、これ）
-PRINTFORML 「うあっ……ぁ、はうっ……！」	PRINTFORML 「うあっ……ぁ、はうっ……！」
-PRINTFORML 「ぐえっ…！　…………ぁ、ぅ」	PRINTFORML 「ぐえっ…！　…………ぁ、ぅ」
-PRINTFORML 「……もう…ゆる、許し、て…」	PRINTFORML 「……もう…ゆる、許し、て…」
-PRINTFORML 「…………は………ふ…っ……」	PRINTFORML 「…………は………ふ…っ……」
-PRINTFORML 「はぅ…っ！　なに、を……！」	PRINTFORML 「はぅ…っ！　なに、を……！」
-PRINTFORML 「あややや！　なんてことを…」	PRINTFORML 「あややや！　なんてことを…」
-PRINTFORMW 「……恨まないでくださいね？」	PRINTFORMW 「……恨まないでくださいね？」
-PRINTFORML 「…っとと、これは萃香さん！」	PRINTFORML 「…っとと、これは萃香さん！」
-PRINTFORMW 「なかなか見込みがありますよ」	PRINTFORMW 「なかなか見込みがありますよ」
-PRINTFORMW 「やれやれ。嫌われたものねえ」	PRINTFORMW 「やれやれ。嫌われたものねえ」
-PRINTFORML 「──旋風『鳥居つむじ風』！」	PRINTFORML 「──旋風『鳥居つむじ風』！」
-PRINTFORML 「…どうもー。新聞ですよー？」	PRINTFORML 「…どうもー。新聞ですよー？」
-PRINTFORMW 「まとめて……飛び散っちゃえ」	PRINTFORMW 「まとめて……飛び散っちゃえ」
-PRINTFORMW 「当たったら、たぶん痛いよ？」	PRINTFORMW 「当たったら、たぶん痛いよ？」
-PRINTFORML （……からだ、うごか、な──）	PRINTFORML （……からだ、うごか、な──）
-PRINTFORML 「んぐぅっ！　……よくも…っ」	PRINTFORML 「んぐぅっ！　……よくも…っ」
-PRINTFORMW 「はなれて……はなれてぇ…っ」	PRINTFORMW 「はなれて……はなれてぇ…っ」
-PRINTFORML 文の娘にしては大人しめかも。	PRINTFORML 文の娘にしては大人しめかも。
-PRINTFORML 「……ん……んん、ぅ……？」	PRINTFORML 「……ん……んん、ぅ……？」
-PRINTFORMW 「それでは、ごきげんよう♪」	PRINTFORMW 「それでは、ごきげんよう♪」
-PRINTFORMW 「ごぶッ………もう…や、め」	PRINTFORMW 「ごぶッ………もう…や、め」
-PRINTFORML 「うく、う、ううぅぅぅ…！」	PRINTFORML 「うく、う、ううぅぅぅ…！」
-PRINTFORMW 「いつまで避けきれるか…！」	PRINTFORMW 「いつまで避けきれるか…！」
-PRINTFORMW 「手伝ってあげましょうか？」	PRINTFORMW 「手伝ってあげましょうか？」
-PRINTFORMW 「…………笑ってくださいよ」	PRINTFORMW 「…………笑ってくださいよ」
-PRINTFORMW 「……刀はしまいましょうよ」	PRINTFORMW 「……刀はしまいましょうよ」
-PRINTFORMW 「あやや、冗談ですったら！」	PRINTFORMW 「あやや、冗談ですったら！」
-PRINTFORMW 「……気のせいだったかしら」	PRINTFORMW 「……気のせいだったかしら」
-PRINTFORML 「では、先陣は頂きますよ？」	PRINTFORML 「では、先陣は頂きますよ？」
-PRINTFORMW 「平気、どうせ当たらないよ」	PRINTFORMW 「平気、どうせ当たらないよ」
-PRINTFORMW 「くすくす。こっちこっち！」	PRINTFORMW 「くすくす。こっちこっち！」
-PRINTFORMW 「ふふふ。動いちゃダメだよ」	PRINTFORMW 「ふふふ。動いちゃダメだよ」
-PRINTFORMW 「くす…みんな逃がさないよ」	PRINTFORMW 「くす…みんな逃がさないよ」
-PRINTFORMW 「…ジョーセキ、ってなに？」	PRINTFORMW 「…ジョーセキ、ってなに？」
-PRINTFORMW 「…ん…ぐ………ううぅ…っ」	PRINTFORMW 「…ん…ぐ………ううぅ…っ」
-PRINTFORMW 「…離さないと、怒るよ…！」	PRINTFORMW 「…離さないと、怒るよ…！」
-PRINTFORML 「きゃうっ！　……へ、平気」	PRINTFORML 「きゃうっ！　……へ、平気」
-PRINTFORML 「っん………ふぅ、ふぅ……」	PRINTFORML 「っん………ふぅ、ふぅ……」
-PRINTFORMW 「──ふぅ。びっくりした…」	PRINTFORMW 「──ふぅ。びっくりした…」
-PRINTFORML 「へたっぴ。当たってないよ」	PRINTFORML 「へたっぴ。当たってないよ」
-PRINTFORML 「あれ……よけきれてない？」	PRINTFORML 「あれ……よけきれてない？」
-PRINTFORML 「ふふふ。走るの遅いんだね」	PRINTFORML 「ふふふ。走るの遅いんだね」
-PRINTFORML 「……あは…ぁ……ぁぁ……」	PRINTFORML 「……あは…ぁ……ぁぁ……」
-PRINTFORMW （ああ……これ…この感じ…）	PRINTFORMW （ああ……これ…この感じ…）
-PRINTFORML 「……ぉぁぁ……う…ぅ…」	PRINTFORML 「……ぉぁぁ……う…ぅ…」
-PRINTFORML 「ぐ……いい加減に…っ！」	PRINTFORML 「ぐ……いい加減に…っ！」
-PRINTFORMW 「こちらがお留守ですよ！」	PRINTFORMW 「こちらがお留守ですよ！」
-PRINTFORMW 「これ以上、好きには…！」	PRINTFORMW 「これ以上、好きには…！」
-PRINTFORML 「………ぃ、ぁ……あ……」	PRINTFORML 「………ぃ、ぁ……あ……」
-PRINTFORML 「えっちですね、もう…！」	PRINTFORML 「えっちですね、もう…！」
-PRINTFORML 「これはこれはチルノさん」	PRINTFORML 「これはこれはチルノさん」
-PRINTFORMW （…………これが……私の）	PRINTFORMW （…………これが……私の）
-PRINTFORML （………解放…された…？）	PRINTFORML （………解放…された…？）
-PRINTFORMW 「ふん。……勝手になさい」	PRINTFORMW 「ふん。……勝手になさい」
-PRINTFORML 「………むに…んん～…？」	PRINTFORML 「………むに…んん～…？」
-PRINTFORMW 「ちょ…っと、待って…っ」	PRINTFORMW 「ちょ…っと、待って…っ」
-PRINTFORMW 「ちっとも、痛くない…よ」	PRINTFORMW 「ちっとも、痛くない…よ」
-PRINTFORMW 「わたしが相手、したげる」	PRINTFORMW 「わたしが相手、したげる」
-PRINTFORMW 「これで、消えちゃえ…！」	PRINTFORMW 「これで、消えちゃえ…！」
-PRINTFORML 「…おっきいの、いくよ？」	PRINTFORML 「…おっきいの、いくよ？」
-PRINTFORMW 「っく……痛いの、やだよ」	PRINTFORMW 「っく……痛いの、やだよ」
-PRINTFORML 「……ぁ、あ……あぅ……」	PRINTFORML 「……ぁ、あ……あぅ……」
-PRINTFORMW 「くすくす…鬼さんこちら」	PRINTFORMW 「くすくす…鬼さんこちら」
-PRINTFORML 「ふん、だ。捕まらないよ」	PRINTFORML 「ふん、だ。捕まらないよ」
-PRINTFORMW 「くすくす。……のろま♪」	PRINTFORMW 「くすくす。……のろま♪」
-PRINTFORML 娘（1代目のみ）に対応。	PRINTFORML 娘（1代目のみ）に対応。
-PRINTFORMW 「！？　はぅ……ぁ……」	PRINTFORMW 「！？　はぅ……ぁ……」
-PRINTFORML 「……は……ふぅ……っ」	PRINTFORML 「……は……ふぅ……っ」
-PRINTFORML 「………すぅ……んん…」	PRINTFORML 「………すぅ……んん…」
-PRINTFORMW 「さあ、密着取材です！」	PRINTFORMW 「さあ、密着取材です！」
-PRINTFORMW 「こんなのはどうです？」	PRINTFORMW 「こんなのはどうです？」
-PRINTFORMW 「一撃離脱は得意ですよ」	PRINTFORMW 「一撃離脱は得意ですよ」
-PRINTFORMW （だめ…力が、抜け……）	PRINTFORMW （だめ…力が、抜け……）
-PRINTFORMW 「ひゃ！？　しまっ──」	PRINTFORMW 「ひゃ！？　しまっ──」
-PRINTFORMW 「あやや。……あれは…」	PRINTFORMW 「あやや。……あれは…」
-PRINTFORMW 「…………冗談でしょう」	PRINTFORMW 「…………冗談でしょう」
-PRINTFORML 「調子はどう、はたて？」	PRINTFORML 「調子はどう、はたて？」
-PRINTFORML 「……誰が母様、ですか」	PRINTFORML 「……誰が母様、ですか」
-PRINTFORML 「何か、来ますかね…？」	PRINTFORML 「何か、来ますかね…？」
-PRINTFORML 「はー……はぁっ……っ」	PRINTFORML 「はー……はぁっ……っ」
-PRINTFORMW 「ふふ。よけられないよ」	PRINTFORMW 「ふふ。よけられないよ」
-PRINTFORMW 「天狗…れっぷーだん！」	PRINTFORMW 「天狗…れっぷーだん！」
-PRINTFORMW 「くすくす……じゃあね」	PRINTFORMW 「くすくす……じゃあね」
-PRINTFORML 「っ！　……～～…っ！」	PRINTFORML 「っ！　……～～…っ！」
-PRINTFORML 「んん…んんんん……っ」	PRINTFORML 「んん…んんんん……っ」
-PRINTFORML 「………んっ…はぁ、っ」	PRINTFORML 「………んっ…はぁ、っ」
-PRINTFORML 「………っ、ごぷ、っ」	PRINTFORML 「………っ、ごぷ、っ」
-PRINTFORML 「………げぅっ……ぅ」	PRINTFORML 「………げぅっ……ぅ」
-PRINTFORML 「………ぅ…あ……？」	PRINTFORML 「………ぅ…あ……？」
-PRINTFORML 「……………ッ……あ」	PRINTFORML 「……………ッ……あ」
-PRINTFORMW 「このへんですかね？」	PRINTFORMW 「このへんですかね？」
-PRINTFORMW 「これしきの戒め…！」	PRINTFORMW 「これしきの戒め…！」
-PRINTFORMW 「…………悪い夢だわ」	PRINTFORMW 「…………悪い夢だわ」
-PRINTFORMW （身体……動く……っ）	PRINTFORMW （身体……動く……っ）
-PRINTFORML 「……んん、ん～…？」	PRINTFORML 「……んん、ん～…？」
-PRINTFORML 「……んぎゅ、っ……」	PRINTFORML 「……んぎゅ、っ……」
-PRINTFORMW 「……ひゃう、っ…！」	PRINTFORMW 「……ひゃう、っ…！」
-PRINTFORMW 「こうやって…こう！」	PRINTFORMW 「こうやって…こう！」
-PRINTFORMW 「よい……しょっ…！」	PRINTFORMW 「よい……しょっ…！」
-PRINTFORML 「………………ぁ、ぅ」	PRINTFORML 「………………ぁ、ぅ」
-PRINTFORML 「…………ぁ…ぁぅ…」	PRINTFORML 「…………ぁ…ぁぅ…」
-PRINTFORML 「……………が、っ」	PRINTFORML 「……………が、っ」
-PRINTFORML 「………ぅ…ん…？」	PRINTFORML 「………ぅ…ん…？」
-PRINTFORML 「…………うっ…ん」	PRINTFORML 「…………うっ…ん」
-PRINTFORML 「んくうぅ……う！」	PRINTFORML 「んくうぅ……う！」
-PRINTFORML 「無駄ですからね！」	PRINTFORML 「無駄ですからね！」
-PRINTFORML 「………っ……ぃ…」	PRINTFORML 「………っ……ぃ…」
-PRINTFORML 「………ぅ…く……」	PRINTFORML 「………ぅ…く……」
-PRINTFORML 「っ……、ひぅ…っ」	PRINTFORML 「っ……、ひぅ…っ」
-PRINTFORMW 「ん……んぅ……？」	PRINTFORMW 「ん……んぅ……？」
-PRINTFORML 「…………んぅ…っ」	PRINTFORML 「…………んぅ…っ」
-PRINTFORMW 「じゃあ、いくよ？」	PRINTFORMW 「じゃあ、いくよ？」
-PRINTFORMW 「強いの、いくよ！」	PRINTFORMW 「強いの、いくよ！」
-PRINTFORMW 「──吹き散らすよ」	PRINTFORMW 「──吹き散らすよ」
-PRINTFORMW 「よい──しょっ！」	PRINTFORMW 「よい──しょっ！」
-PRINTFORML 「………ぁ…あう…」	PRINTFORML 「………ぁ…あう…」
-PRINTFORMW 「ふふ。遅すぎるよ」	PRINTFORMW 「ふふ。遅すぎるよ」
-PRINTFORML 「平気。服だけだよ」	PRINTFORML 「平気。服だけだよ」
-PRINTFORMW 「な……なに……？」	PRINTFORMW 「な……なに……？」
-PRINTFORMW 「…………（ぷい）」	PRINTFORMW 「…………（ぷい）」
-PRINTFORMW 「ん……ぁ……？」	PRINTFORMW 「ん……ぁ……？」
-PRINTFORMW 「まずは軽ーく…」	PRINTFORMW 「まずは軽ーく…」
-PRINTFORMW 「小手調べです！」	PRINTFORMW 「小手調べです！」
-PRINTFORMW （……………あぁ）	PRINTFORMW （……………あぁ）
-PRINTFORML 「ぁ………っ、ぐ」	PRINTFORML 「ぁ………っ、ぐ」
-PRINTFORML 「………ぁ…ぐ…」	PRINTFORML 「………ぁ…ぐ…」
-PRINTFORMW 「あやややや！？」	PRINTFORMW 「あやややや！？」
-PRINTFORML 「ん、くっ……！」	PRINTFORML 「ん、くっ……！」
-PRINTFORMW 「…………っ、あ」	PRINTFORMW 「…………っ、あ」
-PRINTFORMW （もう……意識が）	PRINTFORMW （もう……意識が）
-PRINTFORMW 「動くと痛いよ？」	PRINTFORMW 「動くと痛いよ？」
-PRINTFORMW 「狙いをつけて…」	PRINTFORMW 「狙いをつけて…」
-PRINTFORMW 「…ここ、痛い？」	PRINTFORMW 「…ここ、痛い？」
-PRINTFORMW 「………う、ぅ…」	PRINTFORMW 「………う、ぅ…」
-PRINTFORML 「…触んないで！」	PRINTFORML 「…触んないで！」
-PRINTFORMW 「はなして……っ」	PRINTFORMW 「はなして……っ」
-PRINTFORMW 「危なかったぁ…」	PRINTFORMW 「危なかったぁ…」
-PRINTFORML 「………くしゅっ」	PRINTFORML 「………くしゅっ」
-PRINTFORMW 「ひ、ぁ……！？」	PRINTFORMW 「ひ、ぁ……！？」
-PRINTFORML 「……うっぐ…」	PRINTFORML 「……うっぐ…」
-PRINTFORMW 「かひゅ……っ」	PRINTFORMW 「かひゅ……っ」
-PRINTFORML 「…ひぅ……っ」	PRINTFORML 「…ひぅ……っ」
-PRINTFORMW 「吹けよ突風！」	PRINTFORMW 「吹けよ突風！」
-PRINTFORMW 「──そこッ！」	PRINTFORMW 「──そこッ！」
-PRINTFORML 「…………ぅ…」	PRINTFORML 「…………ぅ…」
-PRINTFORMW 「っ、と……！」	PRINTFORMW 「っ、と……！」
-PRINTFORML 「………………」	PRINTFORML 「………………」
-PRINTFORML 「…………はぁ」	PRINTFORML 「…………はぁ」
-PRINTFORML 「…………ふぅ」	PRINTFORML 「…………ふぅ」
-PRINTFORML 「あっ、こら！」	PRINTFORML 「あっ、こら！」
-PRINTFORML 「ぎゃうっ…！」	PRINTFORML 「ぎゃうっ…！」
-PRINTFORMW 「くぅん……！」	PRINTFORMW 「くぅん……！」
-PRINTFORMW 「当たるよね？」	PRINTFORMW 「当たるよね？」
-PRINTFORML 「ふぅぅぅ……」	PRINTFORML 「ふぅぅぅ……」
-PRINTFORML 「あ、うっ……」	PRINTFORML 「あ、うっ……」
-PRINTFORMW 「ひゃあ…！？」	PRINTFORMW 「ひゃあ…！？」
-PRINTFORML 「…………ん…」	PRINTFORML 「…………ん…」
-PRINTFORM 「…もう知らない。	PRINTFORM 「…もう知らない。
-PRINTFORML 「ん……っく」	PRINTFORML 「ん……っく」
-PRINTFORML 「………っ！」	PRINTFORML 「………っ！」
-PRINTFORML 「つっ……！」	PRINTFORML 「つっ……！」
-PRINTFORML 「……………」	PRINTFORML 「……………」
-PRINTFORML 「う………！」	PRINTFORML 「う………！」
-PRINTFORMW 「くぅ……！」	PRINTFORMW 「くぅ……！」
-PRINTFORML 「…………っ」	PRINTFORML 「…………っ」
-PRINTFORMW 「…………ぁ」	PRINTFORMW 「…………ぁ」
-PRINTFORML 「んぅ……っ」	PRINTFORML 「んぅ……っ」
-PRINTFORMW 「ひぇ……！」	PRINTFORMW 「ひぇ……！」
-PRINTFORML 「…こっち！」	PRINTFORML 「…こっち！」
-PRINTFORML 「いたっ……」	PRINTFORML 「いたっ……」
-PRINTFORMW 「……えっち」	PRINTFORMW 「……えっち」
-PRINTFORMW 「や……はっ」	PRINTFORMW 「や……はっ」
-PRINTFORMW 「あ………？」	PRINTFORMW 「あ………？」
-PRINTFORMW 「ほいっと」	PRINTFORMW 「ほいっと」
-PRINTFORML 「………っ」	PRINTFORML 「………っ」
-PRINTFORML 「…………」	PRINTFORML 「…………」
-PRINTFORMW 「………？」	PRINTFORMW 「………？」
-PRINTFORMW 「べー、だ」	PRINTFORMW 「べー、だ」
-PRINTFORMW 「たあっ！」	PRINTFORMW 「たあっ！」
-PRINTFORMW 「うっ……」	PRINTFORMW 「うっ……」
-PRINTFORMW 「失礼！」	PRINTFORMW 「失礼！」
-PRINTFORMW ばか！」	PRINTFORMW ばか！」
-PRINTFORMW 「」	PRINTFORMW 「」
-PRINTFORML 「」	PRINTFORML 「」
-PRINTFORM 母様の	PRINTFORM 母様の
-PRINTFORMDW 	PRINTFORMDW 
-PRINTFORMDL 	PRINTFORMDL 
-PRINTFORML 	PRINTFORML 
-PRINTFORMW 	PRINTFORMW 
+﻿﻿PRINTFORML エロいことには免疫あって最初は余裕こいてますが、主導権を握られると意外と脆い、そんなイメージ。		PRINTFORML エロいことには免疫あって最初は余裕こいてますが、主導権を握られると意外と脆い、そんなイメージ。
+PRINTFORML 椛とは仲がよろしくない設定に一応は準拠していますが、会話などはさほど険悪ではないはず。		PRINTFORML 椛とは仲がよろしくない設定に一応は準拠していますが、会話などはさほど険悪ではないはず。
+PRINTFORML 		PRINTFORML 
+PRINTFORML 娘（1代目のみ）に対応。		PRINTFORML 娘（1代目のみ）に対応。
+PRINTFORML 口数少ないながらちょっと生意気系。お母さんのことは普通に慕っています。		PRINTFORML 口数少ないながらちょっと生意気系。お母さんのことは普通に慕っています。
+PRINTFORML 文の娘にしては大人しめかも。		PRINTFORML 文の娘にしては大人しめかも。
+PRINTFORML 「………っ、ごぷ、っ」		PRINTFORML 「………っ、ごぷ、っ」
+PRINTFORMDW 脱力し切った身体を痛烈な一撃が抉り、文はびくりと大きく痙攣した	!#!PRINTFORMDW 脱力し切った身体を痛烈な一撃が抉り、文はびくりと大きく痙攣した
+PRINTFORML 「……………が、っ」		PRINTFORML 「……………が、っ」
+PRINTFORMDW 眠ったままで衝撃に備えることもできない文を、痛恨の一打が襲う！	!#!PRINTFORMDW 眠ったままで衝撃に備えることもできない文を、痛恨の一打が襲う！
+PRINTFORML 「………げぅっ……ぅ」		PRINTFORML 「………げぅっ……ぅ」
+PRINTFORMDW 文はぐったりと全身を弛緩させ、攻撃を受け続けている…	!#!PRINTFORMDW 文はぐったりと全身を弛緩させ、攻撃を受け続けている…
+PRINTFORML 「……うっぐ…」		PRINTFORML 「……うっぐ…」
+PRINTFORMDW 衝撃に文の身体がびくり、と跳ねるが、目を覚ます気配はない…	!#!PRINTFORMDW 衝撃に文の身体がびくり、と跳ねるが、目を覚ます気配はない…
+PRINTFORMW 「かひゅ……っ」		PRINTFORMW 「かひゅ……っ」
+PRINTFORMDW 文は肺の中の空気を吐き出し短く喘ぐが、目を覚ます気配はない…	!#!PRINTFORMDW 文は肺の中の空気を吐き出し短く喘ぐが、目を覚ます気配はない…
+PRINTFORML 「ん……っく」		PRINTFORML 「ん……っく」
+PRINTFORMDW 痛みに呻いて眉を顰める文──だが、目を覚ます気配はない…	!#!PRINTFORMDW 痛みに呻いて眉を顰める文──だが、目を覚ます気配はない…
+PRINTFORML 「──！？　……は、ぅ、……ぁ……」		PRINTFORML 「──！？　……は、ぅ、……ぁ……」
+PRINTFORML 「ふっ……ん、ぅ！？　…………はぁ……は、っ……」		PRINTFORML 「ふっ……ん、ぅ！？　…………はぁ……は、っ……」
+PRINTFORMDW 文は眠ったまま頤を大きく反らし、全身をびくびくと痙攣させた…	!#!PRINTFORMDW 文は眠ったまま頤を大きく反らし、全身をびくびくと痙攣させた…
+PRINTFORMW 「……はぁ……あぁ、はぁ、は……！」		PRINTFORMW 「……はぁ……あぁ、はぁ、は……！」
+PRINTFORMW 「！？　はぅ……ぁ……」		PRINTFORMW 「！？　はぅ……ぁ……」
+PRINTFORMDW 意識のない文は全身を高潮させ、無防備に快感を受け入れてしまう…	!#!PRINTFORMDW 意識のない文は全身を高潮させ、無防備に快感を受け入れてしまう…
+PRINTFORMW 「ん……ぁ……？」		PRINTFORMW 「ん……ぁ……？」
+PRINTFORML 「……は……ふぅ……っ」		PRINTFORML 「……は……ふぅ……っ」
+PRINTFORMDW 眠っている文の肌に赤みが差し、僅かに息が荒げられる…	!#!PRINTFORMDW 眠っている文の肌に赤みが差し、僅かに息が荒げられる…
+PRINTFORML 「………ぅ…ん…？」		PRINTFORML 「………ぅ…ん…？」
+PRINTFORMDW 全身に絡みつく触手の不快感に、文はわずかに眉を顰めた…	!#!PRINTFORMDW 全身に絡みつく触手の不快感に、文はわずかに眉を顰めた…
+PRINTFORML 「………すぅ……んん…」		PRINTFORML 「………すぅ……んん…」
+PRINTFORMDW これから我が身に起こる運命を知らず、文は安らかに寝息を立てている…	!#!PRINTFORMDW これから我が身に起こる運命を知らず、文は安らかに寝息を立てている…
+PRINTFORML 「…………うっ…ん」		PRINTFORML 「…………うっ…ん」
+PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、文は眠ったまま身を震わせた…	!#!PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、文は眠ったまま身を震わせた…
+PRINTFORML 「…ひぅ……っ」		PRINTFORML 「…ひぅ……っ」
+PRINTFORMDW 異物感が下腹部を襲い、文は意識がないまま、息を呑むような悲鳴を上げた…	!#!PRINTFORMDW 異物感が下腹部を襲い、文は意識がないまま、息を呑むような悲鳴を上げた…
+PRINTFORML 「……ぉぁぁ……う…ぅ…」		PRINTFORML 「……ぉぁぁ……う…ぅ…」
+PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、文の寝息が苦しげに乱れる…	!#!PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、文の寝息が苦しげに乱れる…
+PRINTFORML 「……ん……んん、ぅ……？」		PRINTFORML 「……ん……んん、ぅ……？」
+PRINTFORML 「………ぅ…あ……？」		PRINTFORML 「………ぅ…あ……？」
+PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている文に抵抗する術はない！	!#!PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている文に抵抗する術はない！
+PRINTFORML 「……………ッ……あ」		PRINTFORML 「……………ッ……あ」
+PRINTFORMDW 文の華奢な身体が、ひときわ大きく痙攣した──	!#!PRINTFORMDW 文の華奢な身体が、ひときわ大きく痙攣した──
+PRINTFORML （まずい……身体が、思うように……）		PRINTFORML （まずい……身体が、思うように……）
+PRINTFORMDW 文は火照る身体を抱きしめるようにして身を守っている…	!#!PRINTFORMDW 文は火照る身体を抱きしめるようにして身を守っている…
+PRINTFORML 「ぐ……いい加減に…っ！」		PRINTFORML 「ぐ……いい加減に…っ！」
+PRINTFORMDW 文は身体の自由になるわずかな部分で、なんとか身を守ろうとする…	!#!PRINTFORMDW 文は身体の自由になるわずかな部分で、なんとか身を守ろうとする…
+PRINTFORMW 「く……調子付かせてしまいましたかね…！」		PRINTFORMW 「く……調子付かせてしまいましたかね…！」
+PRINTFORMW 「攻めに転じないと…このままじゃジリ貧です」		PRINTFORMW 「攻めに転じないと…このままじゃジリ貧です」
+PRINTFORMW 「おっと…やらせはしませんよ！」		PRINTFORMW 「おっと…やらせはしませんよ！」
+PRINTFORML 「ここは耐え時ですか──鎌風ベーリング！」		PRINTFORML 「ここは耐え時ですか──鎌風ベーリング！」
+PRINTFORMDW 文の周囲を風の鎧が取り巻く！	!#!PRINTFORMDW 文の周囲を風の鎧が取り巻く！
+PRINTFORMW 		PRINTFORMW 
+PRINTFORML 「ほら、これだけ近ければ当てられます？」		PRINTFORML 「ほら、これだけ近ければ当てられます？」
+PRINTFORMDW 文は挑発的な笑みを浮かべてみせる…	!#!PRINTFORMDW 文は挑発的な笑みを浮かべてみせる…
+PRINTFORMW 「さあ、密着取材です！」		PRINTFORMW 「さあ、密着取材です！」
+PRINTFORMW 「…っとと、ちょっと深追いしすぎかしら…！」		PRINTFORMW 「…っとと、ちょっと深追いしすぎかしら…！」
+PRINTFORMW 「引くべき時は引く、この潔さ！」		PRINTFORMW 「引くべき時は引く、この潔さ！」
+PRINTFORMW 「んく……っ、今はちょっと、立て込んでいまして…！」		PRINTFORMW 「んく……っ、今はちょっと、立て込んでいまして…！」
+PRINTFORMW 「三十六計、何とやら…です！」		PRINTFORMW 「三十六計、何とやら…です！」
+PRINTFORMW 「…ちょっとばかり、分が悪いですね…っ」		PRINTFORMW 「…ちょっとばかり、分が悪いですね…っ」
+PRINTFORMW 「身体がまともに動くうちに……！」		PRINTFORMW 「身体がまともに動くうちに……！」
+PRINTFORMW 「取材の続きは、またの機会と言うことで…」		PRINTFORMW 「取材の続きは、またの機会と言うことで…」
+PRINTFORMW 「それでは、ごきげんよう♪」		PRINTFORMW 「それでは、ごきげんよう♪」
+PRINTFORMW 「追いつけるものなら、追いかけてみてくださいな！」		PRINTFORMW 「追いつけるものなら、追いかけてみてくださいな！」
+PRINTFORMW 「まずは軽ーく…」		PRINTFORMW 「まずは軽ーく…」
+PRINTFORMW 「小手調べです！」		PRINTFORMW 「小手調べです！」
+PRINTFORMW 「天狗の石礫、お味はいかがです？」		PRINTFORMW 「天狗の石礫、お味はいかがです？」
+PRINTFORMW 「さ、ペース上げていきますよ！」		PRINTFORMW 「さ、ペース上げていきますよ！」
+PRINTFORMW 「ちょっと強めに……疾風扇！」		PRINTFORMW 「ちょっと強めに……疾風扇！」
+PRINTFORMW 「よし、ここ！　──天狗烈風弾！」		PRINTFORMW 「よし、ここ！　──天狗烈風弾！」
+PRINTFORMW 「そこに天狗がいれば、平地でも山颪が吹くのです！」		PRINTFORMW 「そこに天狗がいれば、平地でも山颪が吹くのです！」
+PRINTFORML 「──あやや。何かお探しで？」		PRINTFORML 「──あやや。何かお探しで？」
+PRINTFORMDW いとも容易く敵の背後を取った文は、その背へ会心の弾幕を浴びせかける！	!#!PRINTFORMDW いとも容易く敵の背後を取った文は、その背へ会心の弾幕を浴びせかける！
+PRINTFORMW 「ちょっと空気を入れ替えましょうか！　風符『風神一扇』！」		PRINTFORMW 「ちょっと空気を入れ替えましょうか！　風符『風神一扇』！」
+PRINTFORML 「ちょっと派手なの、いきましょうか？」		PRINTFORML 「ちょっと派手なの、いきましょうか？」
+PRINTFORML 「…ちょーっと、痛いですよ？」		PRINTFORML 「…ちょーっと、痛いですよ？」
+PRINTFORML 「それでは、ここらで…大盤振る舞いです」		PRINTFORML 「それでは、ここらで…大盤振る舞いです」
+PRINTFORMDW 文の周囲の空気が、不自然に渦を巻き始める…	!#!PRINTFORMDW 文の周囲の空気が、不自然に渦を巻き始める…
+PRINTFORMW 「これにて一巻の終わり！　──竜巻『天孫降臨の道しるべ』！」		PRINTFORMW 「これにて一巻の終わり！　──竜巻『天孫降臨の道しるべ』！」
+PRINTFORMW 「ついて来れますか？　──疾風『風神少女』！」		PRINTFORMW 「ついて来れますか？　──疾風『風神少女』！」
+PRINTFORMW 「全ては、我が──戯言なり！」		PRINTFORMW 「全ては、我が──戯言なり！」
+PRINTFORMW 「何事も、搦め手が重要なのです」		PRINTFORMW 「何事も、搦め手が重要なのです」
+PRINTFORMW 「囲め！　風神『風神木の葉隠れ』！」		PRINTFORMW 「囲め！　風神『風神木の葉隠れ』！」
+PRINTFORMW 「直接狙って撃つだけが、弾幕ではないのです」		PRINTFORMW 「直接狙って撃つだけが、弾幕ではないのです」
+PRINTFORMW 「吹けよ突風！」		PRINTFORMW 「吹けよ突風！」
+PRINTFORMW 「蹴散らしますよ！　──突風『猿田彦の先導』！」		PRINTFORMW 「蹴散らしますよ！　──突風『猿田彦の先導』！」
+PRINTFORMW 「受けてみますか？　一切合財、問答無用に吹き飛ばす天狗風を！」		PRINTFORMW 「受けてみますか？　一切合財、問答無用に吹き飛ばす天狗風を！」
+PRINTFORMW 「こんなのはどうです？」		PRINTFORMW 「こんなのはどうです？」
+PRINTFORMW 「いつもとは一風変わった弾幕も、また乙なものです」		PRINTFORMW 「いつもとは一風変わった弾幕も、また乙なものです」
+PRINTFORMW 「どんどん撃っていきますよ！」		PRINTFORMW 「どんどん撃っていきますよ！」
+PRINTFORMW 「一撃離脱は得意ですよ」		PRINTFORMW 「一撃離脱は得意ですよ」
+PRINTFORMW 「天狗の体術、とくとご覧あれ！」		PRINTFORMW 「天狗の体術、とくとご覧あれ！」
+PRINTFORMW 「──そこッ！」		PRINTFORMW 「──そこッ！」
+PRINTFORMW 「こちらがお留守ですよ！」		PRINTFORMW 「こちらがお留守ですよ！」
+PRINTFORMW 「失礼！」		PRINTFORMW 「失礼！」
+PRINTFORMW 「このへんですかね？」		PRINTFORMW 「このへんですかね？」
+PRINTFORMW 「これは効くんじゃないですか？」		PRINTFORMW 「これは効くんじゃないですか？」
+PRINTFORML 「……はぁっ……はぁ、……っ……」		PRINTFORML 「……はぁっ……はぁ、……っ……」
+PRINTFORMW （まずい、ですね……完全に…あちらのペースです…）		PRINTFORMW （まずい、ですね……完全に…あちらのペースです…）
+PRINTFORML 「……ぁ…う………この…ぉ……」		PRINTFORML 「……ぁ…う………この…ぉ……」
+PRINTFORMW （だめ…力が、抜け……）		PRINTFORMW （だめ…力が、抜け……）
+PRINTFORML 「う、ぅ……！　これ、ほんとにまずい…ですよ…！」		PRINTFORML 「う、ぅ……！　これ、ほんとにまずい…ですよ…！」
+PRINTFORMDW 文はぬめる肉壁に懸命に爪を立て、力を振り絞る！	!#!PRINTFORMDW 文はぬめる肉壁に懸命に爪を立て、力を振り絞る！
+PRINTFORML 「んくうぅ……う！」		PRINTFORML 「んくうぅ……う！」
+PRINTFORMDW 全身を汚す粘液を気にかける余裕もなく、文は身を捩って抜け出そうとする…	!#!PRINTFORMDW 全身を汚す粘液を気にかける余裕もなく、文は身を捩って抜け出そうとする…
+PRINTFORML 「はぁ…あ、ぁ………く、んううぅ…っ！」		PRINTFORML 「はぁ…あ、ぁ………く、んううぅ…っ！」
+PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、文はどうにか脱出しようと力を込める…	!#!PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、文はどうにか脱出しようと力を込める…
+PRINTFORMW 「烏は悪食だなんて言いますけど、それを食べようという方がよっぽど、ですね…っ」		PRINTFORMW 「烏は悪食だなんて言いますけど、それを食べようという方がよっぽど、ですね…っ」
+PRINTFORMW 「烏の踊り食いなんて、聞いたことありませんよ…！」		PRINTFORMW 「烏の踊り食いなんて、聞いたことありませんよ…！」
+PRINTFORMW 「……っく……調子に、乗るんじゃ…っ」		PRINTFORMW 「……っく……調子に、乗るんじゃ…っ」
+PRINTFORMW 「あぐ……っ、かは……こ、の……！」		PRINTFORMW 「あぐ……っ、かは……こ、の……！」
+PRINTFORML （は、離れないと……でも──）		PRINTFORML （は、離れないと……でも──）
+PRINTFORMDW 頬を高潮させた文の唇からは、いつもの軽口の代わりに熱い息が漏れる…	!#!PRINTFORMDW 頬を高潮させた文の唇からは、いつもの軽口の代わりに熱い息が漏れる…
+PRINTFORML （鎌鼬で…触手を切り落とせば…！）		PRINTFORML （鎌鼬で…触手を切り落とせば…！）
+PRINTFORMDW 締め付けに耐えながら、文はなんとか風を起こそうとする…	!#!PRINTFORMDW 締め付けに耐えながら、文はなんとか風を起こそうとする…
+PRINTFORMW 「これしきの戒め…！」		PRINTFORMW 「これしきの戒め…！」
+PRINTFORML （身体、熱い──いけない、流され、そう……）		PRINTFORML （身体、熱い──いけない、流され、そう……）
+PRINTFORMDW 肌を舐める肉壁のおぞましい感触すら快感に変わっていく中、文は必死に首を振って意識を保とうとする…	!#!PRINTFORMDW 肌を舐める肉壁のおぞましい感触すら快感に変わっていく中、文は必死に首を振って意識を保とうとする…
+PRINTFORMW （このまま、では……気をしっかり持たないと…！）		PRINTFORMW （このまま、では……気をしっかり持たないと…！）
+PRINTFORMW 「…愛されすぎるのも、困ったものですね…！」		PRINTFORMW 「…愛されすぎるのも、困ったものですね…！」
+PRINTFORMW 「…自分から離すなら、今のうちですよ？」		PRINTFORMW 「…自分から離すなら、今のうちですよ？」
+PRINTFORMDW 文は静かに眼を閉じ、妖力を高めている…	!#!PRINTFORMDW 文は静かに眼を閉じ、妖力を高めている…
+PRINTFORMW （……………あぁ）		PRINTFORMW （……………あぁ）
+PRINTFORMW （……もう…ダメですね、これ）		PRINTFORMW （……もう…ダメですね、これ）
+PRINTFORMDL はっきりと受け入れてしまった文の全身から、かくり、と力が抜けた。		PRINTFORMDL はっきりと受け入れてしまった文の全身から、かくり、と力が抜けた。
+PRINTFORMDL 獲物が抵抗をなくしたと見るや、触手は一斉にその身体に群がっていく。		PRINTFORMDL 獲物が抵抗をなくしたと見るや、触手は一斉にその身体に群がっていく。
+PRINTFORMDW 細い身体をぬらぬらと粘液で穢しながら、敗北の姿を嘲笑うかのように、ことさらにゆっくりと蹂躙していく…	!#!PRINTFORMDW 細い身体をぬらぬらと粘液で穢しながら、敗北の姿を嘲笑うかのように、ことさらにゆっくりと蹂躙していく…
+PRINTFORML （…マニアックな趣味の奴が多いんですよね…こいつら）		PRINTFORML （…マニアックな趣味の奴が多いんですよね…こいつら）
+PRINTFORML 「…エロスは程々にしておきません？」		PRINTFORML 「…エロスは程々にしておきません？」
+PRINTFORMDW 文はお尻を引っ込めて身を守ろうとしている…	!#!PRINTFORMDW 文はお尻を引っ込めて身を守ろうとしている…
+PRINTFORML 「無駄ですからね！」		PRINTFORML 「無駄ですからね！」
+PRINTFORMDW 文は身を捩り、胸を隠すようにして身を守ろうとしている…	!#!PRINTFORMDW 文は身を捩り、胸を隠すようにして身を守ろうとしている…
+PRINTFORMDW 文は太ももをすり合わせ、敏感な部分を守ろうとしている…	!#!PRINTFORMDW 文は太ももをすり合わせ、敏感な部分を守ろうとしている…
+PRINTFORML 「………っ！」		PRINTFORML 「………っ！」
+PRINTFORML 「…強引な殿方は、嫌いではないんですけど、ね…？」		PRINTFORML 「…強引な殿方は、嫌いではないんですけど、ね…？」
+PRINTFORMDW 文は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…	!#!PRINTFORMDW 文は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…
+PRINTFORML （今……こんなもの、挿れられ、たら……っ）		PRINTFORML （今……こんなもの、挿れられ、たら……っ）
+PRINTFORMDW 懸命に抵抗しながらも、文の瞳は焦燥と期待の入り混じった感覚と共に潤み始めている…	!#!PRINTFORMDW 懸命に抵抗しながらも、文の瞳は焦燥と期待の入り混じった感覚と共に潤み始めている…
+PRINTFORMW 「これ以上、好きには…！」		PRINTFORMW 「これ以上、好きには…！」
+PRINTFORMW 「…エロスは程々にしておきません？」		PRINTFORMW 「…エロスは程々にしておきません？」
+PRINTFORMDW 文は太ももに力を込め、侵入するものを拒もうとする…	!#!PRINTFORMDW 文は太ももに力を込め、侵入するものを拒もうとする…
+PRINTFORMW 「ごぶッ………もう…や、め」		PRINTFORMW 「ごぶッ………もう…や、め」
+PRINTFORML 「うあっ……ぁ、はうっ……！」		PRINTFORML 「うあっ……ぁ、はうっ……！」
+PRINTFORMDW 動かない体を次々と襲う攻撃に、文は抵抗することもできない…	!#!PRINTFORMDW 動かない体を次々と襲う攻撃に、文は抵抗することもできない…
+PRINTFORML 「ぐえっ…！　…………ぁ、ぅ」		PRINTFORML 「ぐえっ…！　…………ぁ、ぅ」
+PRINTFORMDW びくり、と身体を痙攣させると、文はまたぐったりと力を抜いてしまう…	!#!PRINTFORMDW びくり、と身体を痙攣させると、文はまたぐったりと力を抜いてしまう…
+PRINTFORML 「う……！　これ、何か…吸われ……はぅっ…！」		PRINTFORML 「う……！　これ、何か…吸われ……はぅっ…！」
+PRINTFORML 「ぅ…ああぁ…ぁ、……こんなもの…！」		PRINTFORML 「ぅ…ああぁ…ぁ、……こんなもの…！」
+PRINTFORMDW 締め付けによる呼吸困難と妖力を吸収される脱力感に、文の膝がかくりと折れる…	!#!PRINTFORMDW 締め付けによる呼吸困難と妖力を吸収される脱力感に、文の膝がかくりと折れる…
+PRINTFORMW 「ぐあ、ぅ！　……ごほっ……こふっ……」		PRINTFORMW 「ぐあ、ぅ！　……ごほっ……こふっ……」
+PRINTFORML 「ぁ………っ、ぐ」		PRINTFORML 「ぁ………っ、ぐ」
+PRINTFORMDW 文は飛びかけた意識をすんでのところで保ち、なんとか身を起こした…	!#!PRINTFORMDW 文は飛びかけた意識をすんでのところで保ち、なんとか身を起こした…
+PRINTFORMW 「がは、ぁっ！　……こ、れ以上は…」		PRINTFORMW 「がは、ぁっ！　……こ、れ以上は…」
+PRINTFORML 「あぐっ…！　お、お手柔らかに…」		PRINTFORML 「あぐっ…！　お、お手柔らかに…」
+PRINTFORML 「ぐっ！？　……い、今のは…効きました…っ」		PRINTFORML 「ぐっ！？　……い、今のは…効きました…っ」
+PRINTFORML 「うっぐ…！　……けふっ、かはっ！」		PRINTFORML 「うっぐ…！　……けふっ、かはっ！」
+PRINTFORMW 「くっう…！　ああもう、もっと大きく飛び回れる場所なら…！」		PRINTFORMW 「くっう…！　ああもう、もっと大きく飛び回れる場所なら…！」
+PRINTFORMW 「かふっ…！　ゆ、油断しました…」		PRINTFORMW 「かふっ…！　ゆ、油断しました…」
+PRINTFORMW 「きゃっ！？　…ちょ、ちょっと甘く見ましたかね…！」		PRINTFORMW 「きゃっ！？　…ちょ、ちょっと甘く見ましたかね…！」
+PRINTFORML 「…やるじゃないですか。私に当てるとは」		PRINTFORML 「…やるじゃないですか。私に当てるとは」
+PRINTFORML 「つっ……！」		PRINTFORML 「つっ……！」
+PRINTFORML 「あっ……あ、ぁ、あう、ぅ……！」		PRINTFORML 「あっ……あ、ぁ、あう、ぅ……！」
+PRINTFORMDW 強引に上り詰めさせられ、文は虚ろな目のままびくびくと身体を震わせる…	!#!PRINTFORMDW 強引に上り詰めさせられ、文は虚ろな目のままびくびくと身体を震わせる…
+PRINTFORML 「……ぃ、あ……もう、やぇて……イかさ…ない、れ…ぇ……」		PRINTFORML 「……ぃ、あ……もう、やぇて……イかさ…ない、れ…ぇ……」
+PRINTFORMDW しなやかな身体を反らせて達する文の懇願を無視し、触手は暴力的な快楽を送り込み続ける…	!#!PRINTFORMDW しなやかな身体を反らせて達する文の懇願を無視し、触手は暴力的な快楽を送り込み続ける…
+PRINTFORML 「……もう…ゆる、許し、て…」		PRINTFORML 「……もう…ゆる、許し、て…」
+PRINTFORMW 「わたし、の、負け…ですからぁっ…！」		PRINTFORMW 「わたし、の、負け…ですからぁっ…！」
+PRINTFORML 「………ぃ、ぁ……あ……」		PRINTFORML 「………ぃ、ぁ……あ……」
+PRINTFORMDW 文は力なく四肢を投げ出したまま、身を守ることもできずにされるがままになっている…	!#!PRINTFORMDW 文は力なく四肢を投げ出したまま、身を守ることもできずにされるがままになっている…
+PRINTFORML 「…………ぅ…」		PRINTFORML 「…………ぅ…」
+PRINTFORMDW 粘液でてらてら光る身体をぐったりと投げ出し、文はおぞましい愛撫に身を任せている…	!#!PRINTFORMDW 粘液でてらてら光る身体をぐったりと投げ出し、文はおぞましい愛撫に身を任せている…
+PRINTFORML 「…………は………ふ…っ……」		PRINTFORML 「…………は………ふ…っ……」
+PRINTFORMDW 時折聞こえる甘くかすれた吐息だけが、文にまだ息があることを伝えてくる…	!#!PRINTFORMDW 時折聞こえる甘くかすれた吐息だけが、文にまだ息があることを伝えてくる…
+PRINTFORMW 「ぅ…く、ダメ……イきます、イくぅ……っ…！」		PRINTFORMW 「ぅ…く、ダメ……イきます、イくぅ……っ…！」
+PRINTFORMW 「ふあ、ぁ──っ！　………っ…！！」		PRINTFORMW 「ふあ、ぁ──っ！　………っ…！！」
+PRINTFORMDW 文は白い喉をくぅっと反らせてびくびくと身をわななかせる…	!#!PRINTFORMDW 文は白い喉をくぅっと反らせてびくびくと身をわななかせる…
+PRINTFORMW 「く、ぅっ……もうダメ、もうっ……！　んくうううぅっ！」		PRINTFORMW 「く、ぅっ……もうダメ、もうっ……！　んくうううぅっ！」
+PRINTFORML 「ぅく、うぅっ…！　赤ん坊じゃ…あるまいし…！」		PRINTFORML 「ぅく、うぅっ…！　赤ん坊じゃ…あるまいし…！」
+PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする文の手から力が抜ける…	!#!PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする文の手から力が抜ける…
+PRINTFORML 「んううぅ…っ！　い、いい加減、に──ふあ、ぁ！？」		PRINTFORML 「んううぅ…っ！　い、いい加減、に──ふあ、ぁ！？」
+PRINTFORMDW 力が抜け思うように抵抗できない文の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…	!#!PRINTFORMDW 力が抜け思うように抵抗できない文の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…
+PRINTFORML 「！？　…い、いい趣味、を、お持ちで……くあ、ぁ！」		PRINTFORML 「！？　…い、いい趣味、を、お持ちで……くあ、ぁ！」
+PRINTFORMDW 尻穴を吸われる馴染みのない感覚に、文は力の抜ける手で必死に触手を引き剥がそうとする…	!#!PRINTFORMDW 尻穴を吸われる馴染みのない感覚に、文は力の抜ける手で必死に触手を引き剥がそうとする…
+PRINTFORML 「うああぁ…あ、ぁ、はあぁ…！」		PRINTFORML 「うああぁ…あ、ぁ、はあぁ…！」
+PRINTFORMDW 触手が吸い上げるのに合わせて、文はびくびくと腰を震わせてしまう…	!#!PRINTFORMDW 触手が吸い上げるのに合わせて、文はびくびくと腰を震わせてしまう…
+PRINTFORML 「ふああああぁ…っ！　だ、ダメですっ…離し…っ！」		PRINTFORML 「ふああああぁ…っ！　だ、ダメですっ…離し…っ！」
+PRINTFORMDW がっくりと膝をつき、背を反らせて喘ぐ文から、容赦なく妖力を吸収していく…	!#!PRINTFORMDW がっくりと膝をつき、背を反らせて喘ぐ文から、容赦なく妖力を吸収していく…
+PRINTFORML 「うああああっ！　はぁ、ぁ…！　もう、やめ……音、立てちゃ…！」		PRINTFORML 「うああああっ！　はぁ、ぁ…！　もう、やめ……音、立てちゃ…！」
+PRINTFORMDW とめどなく溢れる愛液を啜られ、文の抵抗が力を無くしていく…	!#!PRINTFORMDW とめどなく溢れる愛液を啜られ、文の抵抗が力を無くしていく…
+PRINTFORML 「ひっ！？　ぃあああぁぁ、ぁ、ぁ…！」		PRINTFORML 「ひっ！？　ぃあああぁぁ、ぁ、ぁ…！」
+PRINTFORMDW 不浄の穴を犯され続ける快感と脱力感に襲われながら、文はどうすることもできない…	!#!PRINTFORMDW 不浄の穴を犯され続ける快感と脱力感に襲われながら、文はどうすることもできない…
+PRINTFORML 「ひ…あ…ぁ……！　ぬ…抜い…っ、ふあああああぁ…っ！」		PRINTFORML 「ひ…あ…ぁ……！　ぬ…抜い…っ、ふあああああぁ…っ！」
+PRINTFORMDW 妖力をぐんぐん吸い上げられるのを感じながら、文は為すすべなく嬌声を上げてしまう…	!#!PRINTFORMDW 妖力をぐんぐん吸い上げられるのを感じながら、文は為すすべなく嬌声を上げてしまう…
+PRINTFORMW 「ふあぁっ！？　……み、見かけによらず…達者ですねぇ…っ」		PRINTFORMW 「ふあぁっ！？　……み、見かけによらず…達者ですねぇ…っ」
+PRINTFORMW 「うううぅっ！　…っく、はぁ……はぁ……」		PRINTFORMW 「うううぅっ！　…っく、はぁ……はぁ……」
+PRINTFORMW （……まず、い……このままじゃ…イかされ──）		PRINTFORMW （……まず、い……このままじゃ…イかされ──）
+PRINTFORMW 「んっ……ちょっと、乱暴すぎます、よっ…！」		PRINTFORMW 「んっ……ちょっと、乱暴すぎます、よっ…！」
+PRINTFORMW 「ふぁ、う！　…………声なんて…出てませんよ？」		PRINTFORMW 「ふぁ、う！　…………声なんて…出てませんよ？」
+PRINTFORMW 「んっく…！　…下手っぴですね…っ」		PRINTFORMW 「んっく…！　…下手っぴですね…っ」
+PRINTFORML 「……………」		PRINTFORML 「……………」
+PRINTFORMDW 触手に四肢を捕らわれても、文はぐったりとうなだれたままだ…	!#!PRINTFORMDW 触手に四肢を捕らわれても、文はぐったりとうなだれたままだ…
+PRINTFORML 「………ぁ…ぐ…」		PRINTFORML 「………ぁ…ぐ…」
+PRINTFORMDW 全身に絡みつく触手の感触に顔を顰めながら、しかし文に抵抗する力はもう残されていない…	!#!PRINTFORMDW 全身に絡みつく触手の感触に顔を顰めながら、しかし文に抵抗する力はもう残されていない…
+PRINTFORML 「う………！」		PRINTFORML 「う………！」
+PRINTFORMDW 動きの鈍った文はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…	!#!PRINTFORMDW 動きの鈍った文はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…
+PRINTFORMW 「あやややや！？」		PRINTFORMW 「あやややや！？」
+PRINTFORMW 「ひゃ！？　しまっ──」		PRINTFORMW 「ひゃ！？　しまっ──」
+PRINTFORML 「はぅ…っ！　なに、を……！」		PRINTFORML 「はぅ…っ！　なに、を……！」
+PRINTFORML 「うく、う、ううぅぅぅ…！」		PRINTFORML 「うく、う、ううぅぅぅ…！」
+PRINTFORMDW 言い知れない不快感と違和感に、文は眉を顰めて呻くことしかできない…	!#!PRINTFORMDW 言い知れない不快感と違和感に、文は眉を顰めて呻くことしかできない…
+PRINTFORML 「ん、くっ……！」		PRINTFORML 「ん、くっ……！」
+PRINTFORMDW 攻撃が肌を掠めただけで、文の唇から甘い声が漏れ出る…	!#!PRINTFORMDW 攻撃が肌を掠めただけで、文の唇から甘い声が漏れ出る…
+PRINTFORMW 「っ、と……！」		PRINTFORMW 「っ、と……！」
+PRINTFORMW 「くぅ……！」		PRINTFORMW 「唔……！」
+PRINTFORMW 「いつまで避けきれるか…！」		PRINTFORMW 「いつまで避けきれるか…！」
+PRINTFORMW 「ほいっと」		PRINTFORMW 「ほいっと」
+PRINTFORMW 「見てくれ通りの鈍重さですねぇ」		PRINTFORMW 「見てくれ通りの鈍重さですねぇ」
+PRINTFORMW 「私に触れたいんですか？　…身の程知らずですねえ」		PRINTFORMW 「私に触れたいんですか？　…身の程知らずですねえ」
+PRINTFORML 「……はぁー……はぁー……はぁー……ぁ、あ……」		PRINTFORML 「……はぁー……はぁー……はぁー……ぁ、あ……」
+PRINTFORMDL ぐったりと四肢を投げ出したまま、文は熱い吐息を繰り返す		PRINTFORMDL ぐったりと四肢を投げ出したまま、文は熱い吐息を繰り返す
+PRINTFORMDL その瞳は濁りきり、半開きの口元からはだらしなく唾液の筋が伝い		PRINTFORMDL その瞳は濁りきり、半開きの口元からはだらしなく唾液の筋が伝い
+PRINTFORMDW 彼女が暴力的な快楽の前に完全に屈服したことを示していた…	!#!PRINTFORMDW 彼女が暴力的な快楽の前に完全に屈服したことを示していた…
+PRINTFORML 「………………」		PRINTFORML 「………………」
+PRINTFORMDW それまで抵抗を続けていた文の身体から、かくり、と力が抜けた…	!#!PRINTFORMDW それまで抵抗を続けていた文の身体から、かくり、と力が抜けた…
+PRINTFORML 「あちゃぁ…いやまぁ、見られて困る身体はしていないつもりですけど…」		PRINTFORML 「あちゃぁ…いやまぁ、見られて困る身体はしていないつもりですけど…」
+PRINTFORML 「ひぇ……！　まったく、無駄に器用ですね…！」		PRINTFORML 「ひぇ……！　まったく、無駄に器用ですね…！」
+PRINTFORML 「あやや！？　流石にこれはちょっと…！」		PRINTFORML 「あやや！？　流石にこれはちょっと…！」
+PRINTFORML 「…これ、狙ってやってますよね？」		PRINTFORML 「…これ、狙ってやってますよね？」
+PRINTFORML 「えっちですね、もう…！」		PRINTFORML 「えっちですね、もう…！」
+PRINTFORML 「…どちら様に請求すればいいんですかね、これ？」		PRINTFORML 「…どちら様に請求すればいいんですかね、これ？」
+PRINTFORML 「あややや！　なんてことを…」		PRINTFORML 「あややや！　なんてことを…」
+PRINTFORML 「あ！　……マスコミに狼藉を働くと、後が怖いですよ？」		PRINTFORML 「あ！　……マスコミに狼藉を働くと、後が怖いですよ？」
+PRINTFORML 「もう！　おイタが過ぎますよ！」		PRINTFORML 「もう！　おイタが過ぎますよ！」
+PRINTFORML 「……はぁっ……ふぅっ………まずかった……あのままだったら、私…」		PRINTFORML 「……はぁっ……ふぅっ………まずかった……あのままだったら、私…」
+PRINTFORMDL 文は高潮した顔で息を荒げながら、来た道を振り返る		PRINTFORMDL 文は高潮した顔で息を荒げながら、来た道を振り返る
+PRINTFORMDW その表情にはほんのわずかに、安堵とは別の色が浮かんでいた…	!#!PRINTFORMDW その表情にはほんのわずかに、安堵とは別の色が浮かんでいた…
+PRINTFORMW 「いやぁ…正直、今のはちょっと危なかったですね」		PRINTFORMW 「いやぁ…正直、今のはちょっと危なかったですね」
+PRINTFORMW 「ふぅ…この幻想郷一の足がなければどうなっていたやら…」		PRINTFORMW 「ふぅ…この幻想郷一の足がなければどうなっていたやら…」
+PRINTFORMW 「…命あっての物種、ってやつですね」		PRINTFORMW 「…命あっての物種、ってやつですね」
+PRINTFORML 「流石に追いついてはきませんね」		PRINTFORML 「流石に追いついてはきませんね」
+PRINTFORML 「この足、鈍ってはいないようですね」		PRINTFORML 「この足、鈍ってはいないようですね」
+PRINTFORML 「あんなのを相手に、無駄に消耗してられません」		PRINTFORML 「あんなのを相手に、無駄に消耗してられません」
+PRINTFORML 「…………っ」		PRINTFORML 「…………っ」
+PRINTFORMDW 文は歯を食いしばり、一度も後ろを振り返らずに通路を駆け抜けた──	!#!PRINTFORMDW 文は歯を食いしばり、一度も後ろを振り返らずに通路を駆け抜けた──
+PRINTFORML 「体勢を整えて必ず戻ってきますから。私の娘なら、それまで我慢なさい」		PRINTFORML 「体勢を整えて必ず戻ってきますから。私の娘なら、それまで我慢なさい」
+PRINTFORMW 「…このまま本当に見捨てて逃げたりしたら、いい笑いものです…！」		PRINTFORMW 「…このまま本当に見捨てて逃げたりしたら、いい笑いものです…！」
+PRINTFORMW 「…半分、あいつらの仲間なんだし…案外、打ち解けたりするんじゃないでしょうかね」		PRINTFORMW 「…半分、あいつらの仲間なんだし…案外、打ち解けたりするんじゃないでしょうかね」
+PRINTFORMW 「……恨まないでくださいね？」		PRINTFORMW 「……恨まないでくださいね？」
+PRINTFORMDW 触手と肉壁に覆われた視界の隅で、仲間が走り去っていくのが見えた	!#!PRINTFORMDW 触手と肉壁に覆われた視界の隅で、仲間が走り去っていくのが見えた
+PRINTFORML 「…あやや……薄情ですねえ…ほんと…」		PRINTFORML 「…あやや……薄情ですねえ…ほんと…」
+PRINTFORMDW 生ぬるい粘液にまみれ、文は他人事のように溜め息を吐いた…	!#!PRINTFORMDW 生ぬるい粘液にまみれ、文は他人事のように溜め息を吐いた…
+PRINTFORML 「…………はぁ」		PRINTFORML 「…………はぁ」
+PRINTFORMDW 走り去る背を見やる文の目は、酷く冷ややかだった…	!#!PRINTFORMDW 走り去る背を見やる文の目は、酷く冷ややかだった…
+PRINTFORML 「ちょっ……またまたぁ、冗談にしてはタチが悪いんじゃないですか？」		PRINTFORML 「ちょっ……またまたぁ、冗談にしてはタチが悪いんじゃないですか？」
+PRINTFORML 「あれ？　……あの、%CALLNAME:1%さーん？　……ちょ、あの…んぐっ──」		PRINTFORML 「あれ？　……あの、%CALLNAME:1%さーん？　……ちょ、あの…んぐっ──」
+PRINTFORMDW 背から追いすがる声は、不気味な咀嚼音にかき消された…	!#!PRINTFORMDW 背から追いすがる声は、不気味な咀嚼音にかき消された…
+PRINTFORMDL 一度だけ振り返った時、不意に視線が交錯する		PRINTFORMDL 一度だけ振り返った時、不意に視線が交錯する
+PRINTFORMDW 文のその目は、酷く冷ややかだった──	!#!PRINTFORMDW 文のその目は、酷く冷ややかだった──
+PRINTFORMDL 文は荒い息をつきながら、ぺたん、と座り込んだ		PRINTFORMDL 文は荒い息をつきながら、ぺたん、と座り込んだ
+PRINTFORMW 「はーーっ……はーーっ……いけないいけない、変な癖になっちゃいそうです…」		PRINTFORMW 「はーーっ……はーーっ……いけないいけない、変な癖になっちゃいそうです…」
+PRINTFORMW 「いやいや。天狗に性的な意味で参ったと言わせるには、それではとてもとても…」		PRINTFORMW 「いやいや。天狗に性的な意味で参ったと言わせるには、それではとてもとても…」
+PRINTFORMW 「…珍しい被写体ではあるけど、紙面を飾るにはちょっと、ねぇ」		PRINTFORMW 「…珍しい被写体ではあるけど、紙面を飾るにはちょっと、ねぇ」
+PRINTFORMW 「かくして射命丸特派員はまたひとつ、危機を退けたのでありました」		PRINTFORMW 「かくして射命丸特派員はまたひとつ、危機を退けたのでありました」
+PRINTFORML 「…死なないから、何をしてもいい…ということでもないでしょう」		PRINTFORML 「…死なないから、何をしてもいい…ということでもないでしょう」
+PRINTFORMDW 文は小さな身体を抱き起こし、下唇を噛んだ	!#!PRINTFORMDW 文は小さな身体を抱き起こし、下唇を噛んだ
+PRINTFORML 「………っ」		PRINTFORML 「………っ」
+PRINTFORMDW 文は足早に駆け寄ると、その身を抱き起こし…小さく安堵の息を吐いた	!#!PRINTFORMDW 文は足早に駆け寄ると、その身を抱き起こし…小さく安堵の息を吐いた
+PRINTFORML 「…あいつらにとっては結局、捕食対象でしかないってことですか」		PRINTFORML 「…あいつらにとっては結局、捕食対象でしかないってことですか」
+PRINTFORMW 「………何を苛立ってるんですかね、私は」		PRINTFORMW 「………何を苛立ってるんですかね、私は」
+PRINTFORMW 「あやや。……あれは…」		PRINTFORMW 「あやや。……あれは…」
+PRINTFORML 「はたて…はたて。聞こえる？　私ですよ」		PRINTFORML 「はたて…はたて。聞こえる？　私ですよ」
+PRINTFORMDW わずかな反応を確認すると、文はとりあえず安堵の息を吐く…	!#!PRINTFORMDW わずかな反応を確認すると、文はとりあえず安堵の息を吐く…
+PRINTFORMW 「…………冗談でしょう」		PRINTFORMW 「…………冗談でしょう」
+PRINTFORMW 「…………悪い夢だわ」		PRINTFORMW 「…………悪い夢だわ」
+PRINTFORMW 「…いやまあ、この格好は…あまり気にしないで頂けると」		PRINTFORMW 「…いやまあ、この格好は…あまり気にしないで頂けると」
+PRINTFORML 「これはこれはチルノさん」		PRINTFORML 「これはこれはチルノさん」
+PRINTFORMW 「相も変わらず、お元気そうで何よりです」		PRINTFORMW 「相も変わらず、お元気そうで何よりです」
+PRINTFORMW （…………これが……私の）		PRINTFORMW （…………これが……私の）
+PRINTFORMDW 文は様々な感情がない交ぜになった面持ちで、目の前の少女を見つめている──	!#!PRINTFORMDW 文は様々な感情がない交ぜになった面持ちで、目の前の少女を見つめている──
+PRINTFORMW 「…よしよし。無茶はしていませんか？」		PRINTFORMW 「…よしよし。無茶はしていませんか？」
+PRINTFORMW 「ああ…ほら、あまりくっつくなと言ったでしょう、もう」		PRINTFORMW 「ああ…ほら、あまりくっつくなと言ったでしょう、もう」
+PRINTFORML 「…………」		PRINTFORML 「…………」
+PRINTFORMDW 自分と化け物との間の子を前に、文は引きつった笑みを浮かべざるを得ない…	!#!PRINTFORMDW 自分と化け物との間の子を前に、文は引きつった笑みを浮かべざるを得ない…
+PRINTFORML 「………なんだか、頭が痛くなってきたんですけど…」		PRINTFORML 「………なんだか、頭が痛くなってきたんですけど…」
+PRINTFORMDW 明らかに自分の面影を残す少女を前にして、文は溜め息を吐く…	!#!PRINTFORMDW 明らかに自分の面影を残す少女を前にして、文は溜め息を吐く…
+PRINTFORML 「みっともない、って…仕方ないでしょう」		PRINTFORML 「みっともない、って…仕方ないでしょう」
+PRINTFORMW 「…まったく、そんな顔真っ赤にして怒らなくても」		PRINTFORMW 「…まったく、そんな顔真っ赤にして怒らなくても」
+PRINTFORML 「おやおや、苦労してるみたいねぇ椛」		PRINTFORML 「おやおや、苦労してるみたいねぇ椛」
+PRINTFORMW 「手伝ってあげましょうか？」		PRINTFORMW 「手伝ってあげましょうか？」
+PRINTFORMW 「いや、これは…ちょっと厳しめの取材拒否を受けてねえ」		PRINTFORMW 「いや、これは…ちょっと厳しめの取材拒否を受けてねえ」
+PRINTFORML 「調子はどう、はたて？」		PRINTFORML 「調子はどう、はたて？」
+PRINTFORMW 「普段から自分の足で取材してないと、こういう時に動けないんじゃない？」		PRINTFORMW 「普段から自分の足で取材してないと、こういう時に動けないんじゃない？」
+PRINTFORMW 「…私が裸、ですか？　ははあ、また酔ってらっしゃいますね？」		PRINTFORMW 「…私が裸、ですか？　ははあ、また酔ってらっしゃいますね？」
+PRINTFORML 「…っとと、これは萃香さん！」		PRINTFORML 「…っとと、これは萃香さん！」
+PRINTFORMW 「心配…は、するだけ無駄ですよねえ」		PRINTFORMW 「心配…は、するだけ無駄ですよねえ」
+PRINTFORMW 「いやはや、こんな格好で恐れ入ります…」		PRINTFORMW 「いやはや、こんな格好で恐れ入ります…」
+PRINTFORML 「やや、ご無事で…というのは当たり前ですか」		PRINTFORML 「やや、ご無事で…というのは当たり前ですか」
+PRINTFORMW 「ご活躍が目に浮かぶようです、ええ」		PRINTFORMW 「ご活躍が目に浮かぶようです、ええ」
+PRINTFORMW 「これはこれは、よくぞご無事で！」		PRINTFORMW 「これはこれは、よくぞご無事で！」
+PRINTFORMW 「これはどうも。そちらの調子はいかがです？」		PRINTFORMW 「これはどうも。そちらの調子はいかがです？」
+PRINTFORMW 「あややや。お互い、しぶとくて何よりですねえ」		PRINTFORMW 「あややや。お互い、しぶとくて何よりですねえ」
+PRINTFORML 「最強のチルノさんがいれば、この異変も解決間違いなしですねえ」		PRINTFORML 「最強のチルノさんがいれば、この異変も解決間違いなしですねえ」
+PRINTFORMW 「面白……いえカッコいい活躍、期待してますからね？」		PRINTFORMW 「面白……いえカッコいい活躍、期待してますからね？」
+PRINTFORML 「……ふむ。どうやら怪我はないようね」		PRINTFORML 「……ふむ。どうやら怪我はないようね」
+PRINTFORMDW 文は%CALLNAME:(ARG:1)%の頭を軽くひと撫ぜする…	!#!PRINTFORMDW 文は%CALLNAME:(ARG:1)%の頭を軽くひと撫ぜする…
+PRINTFORML 「…他の人妖を襲ったりしてないでしょうね」		PRINTFORML 「…他の人妖を襲ったりしてないでしょうね」
+PRINTFORMW 「他人様に迷惑をかけることは、許しませんからね？」		PRINTFORMW 「他人様に迷惑をかけることは、許しませんからね？」
+PRINTFORMW 「………何故でしょう、視線が冷たいんですけど」		PRINTFORMW 「………何故でしょう、視線が冷たいんですけど」
+PRINTFORML 「……誰が母様、ですか」		PRINTFORML 「……誰が母様、ですか」
+PRINTFORMW 「あんまり馴れ馴れしくしないで欲しいんですけどね」		PRINTFORMW 「あんまり馴れ馴れしくしないで欲しいんですけどね」
+PRINTFORMW 「…この子らを連れて帰ったら、私自身がスキャンダルの元になるんじゃ…」		PRINTFORMW 「…この子らを連れて帰ったら、私自身がスキャンダルの元になるんじゃ…」
+PRINTFORML 「そんな仏頂面で気を張っていても無駄に疲れるだけでしょうに」		PRINTFORML 「そんな仏頂面で気を張っていても無駄に疲れるだけでしょうに」
+PRINTFORMW 「こんな時にマイペースでいられる胆力が光明を生むのよ。…多分ね」		PRINTFORMW 「こんな時にマイペースでいられる胆力が光明を生むのよ。…多分ね」
+PRINTFORML 「…そっちも、コレを記事にするつもり？」		PRINTFORML 「…そっちも、コレを記事にするつもり？」
+PRINTFORMW 「そのまま載せたら、絶対に閻魔様の検閲が入ると思うんだけど」		PRINTFORMW 「そのまま載せたら、絶対に閻魔様の検閲が入ると思うんだけど」
+PRINTFORML 「ここでのことを記事にするとして…どうしたものでしょうかね」		PRINTFORML 「ここでのことを記事にするとして…どうしたものでしょうかね」
+PRINTFORMW 「文々。新聞に載せるには、色々とあまりに品性が無さすぎます」		PRINTFORMW 「文々。新聞に載せるには、色々とあまりに品性が無さすぎます」
+PRINTFORMW 「風が淀んで調子が出ないんですよね。…はあ、お山の空気が恋しいです」		PRINTFORMW 「風が淀んで調子が出ないんですよね。…はあ、お山の空気が恋しいです」
+PRINTFORMW 「…出口なんて、本当にあるんでしょうかね？　………なーんちゃって♪」		PRINTFORMW 「…出口なんて、本当にあるんでしょうかね？　………なーんちゃって♪」
+PRINTFORMW 「…………笑ってくださいよ」		PRINTFORMW 「…………笑ってくださいよ」
+PRINTFORML 「…ふうむ。意外にいいネタを集めてくるじゃないですか」		PRINTFORML 「…ふうむ。意外にいいネタを集めてくるじゃないですか」
+PRINTFORMW 「外に出られたら、私のお古のカメラをあげてもいいですよ」		PRINTFORMW 「外に出られたら、私のお古のカメラをあげてもいいですよ」
+PRINTFORMW 「なかなか見込みがありますよ」		PRINTFORMW 「なかなか見込みがありますよ」
+PRINTFORMW 「…いいですか。私の娘を名乗るなら、あなたもこのくらいの情報は集められないと──」		PRINTFORMW 「…いいですか。私の娘を名乗るなら、あなたもこのくらいの情報は集められないと──」
+PRINTFORML 「…まあ…ギブアンドテイクと言うことなら、やぶさかではないですが」		PRINTFORML 「…まあ…ギブアンドテイクと言うことなら、やぶさかではないですが」
+PRINTFORMDW 文はあくまで淡々と、情報の交換に勤しむ…	!#!PRINTFORMDW 文はあくまで淡々と、情報の交換に勤しむ…
+PRINTFORMW 「…ううむ、なかなかの観察眼。これも血なんでしょうか」		PRINTFORMW 「…ううむ、なかなかの観察眼。これも血なんでしょうか」
+PRINTFORML 「…うーん、もっといい情報があったような…はて」		PRINTFORML 「…うーん、もっといい情報があったような…はて」
+PRINTFORMW 「こう、ふっさふさの尻尾とかをワシワシしながらリラックスすれば思い出せそうな──」		PRINTFORMW 「こう、ふっさふさの尻尾とかをワシワシしながらリラックスすれば思い出せそうな──」
+PRINTFORMW 「……刀はしまいましょうよ」		PRINTFORMW 「……刀はしまいましょうよ」
+PRINTFORMW 「どちらが有益な情報を手に入れたか、勝負してみる？」		PRINTFORMW 「どちらが有益な情報を手に入れたか、勝負してみる？」
+PRINTFORML 「ははあ、そんな事が。…では、その時の心境を一言──」		PRINTFORML 「ははあ、そんな事が。…では、その時の心境を一言──」
+PRINTFORMW 「あやや、冗談ですったら！」		PRINTFORMW 「あやや、冗談ですったら！」
+PRINTFORMW 「情報集めは私の本職ですからねえ。いいネタ、ありますよ？」		PRINTFORMW 「情報集めは私の本職ですからねえ。いいネタ、ありますよ？」
+PRINTFORMW 「──どうです？　これはまだ、ご存じなかったのでは？」		PRINTFORMW 「──どうです？　これはまだ、ご存じなかったのでは？」
+PRINTFORMW 「あややや。……もう、本当に大丈夫なんでしょうね」		PRINTFORMW 「あややや。……もう、本当に大丈夫なんでしょうね」
+PRINTFORMW 「…やれやれ。一人前のつもりなんでしょうか」		PRINTFORMW 「…やれやれ。一人前のつもりなんでしょうか」
+PRINTFORMW 「そう。…まあ、それがお互いのためでしょうね」		PRINTFORMW 「そう。…まあ、それがお互いのためでしょうね」
+PRINTFORMW 「……むむ。野放しにしていていいもんなんでしょうか」		PRINTFORMW 「……むむ。野放しにしていていいもんなんでしょうか」
+PRINTFORMW 「やれやれ。嫌われたものねえ」		PRINTFORMW 「やれやれ。嫌われたものねえ」
+PRINTFORMW 「おや。別に、ネタを横取りしようなんてことは……あんまり考えてないわよ？」		PRINTFORMW 「おや。別に、ネタを横取りしようなんてことは……あんまり考えてないわよ？」
+PRINTFORMW 「…やれやれ。振られちゃいましたね」		PRINTFORMW 「…やれやれ。振られちゃいましたね」
+PRINTFORMW 「ありゃ。…まあ、気が変わったらいつでも言ってくださいな」		PRINTFORMW 「ありゃ。…まあ、気が変わったらいつでも言ってくださいな」
+PRINTFORMW 「一人よりはマシだと思うんですけどねえ」		PRINTFORMW 「一人よりはマシだと思うんですけどねえ」
+PRINTFORMW 「ここはひとまず、別行動としましょうか」		PRINTFORMW 「ここはひとまず、別行動としましょうか」
+PRINTFORMDW %CALLNAME:1%はぐったりと動かない文を一度だけ振り返り、早足でその場を離れた…	!#!PRINTFORMDW %CALLNAME:1%はぐったりと動かない文を一度だけ振り返り、早足でその場を離れた…
+PRINTFORML 「まあ、大人数で固まっていてはかえって危険かもしれませんねえ」		PRINTFORML 「まあ、大人数で固まっていてはかえって危険かもしれませんねえ」
+PRINTFORMW 「それでは。ご武運をお祈りしていますよ」		PRINTFORMW 「それでは。ご武運をお祈りしていますよ」
+PRINTFORMW 「っ、んっ、ん、ぁ！　ああああぁぁっ！！」		PRINTFORMW 「っ、んっ、ん、ぁ！　ああああぁぁっ！！」
+PRINTFORMW 「はっ、は、っ、こんな、こんなので──んうううぅぅっ！！」		PRINTFORMW 「はっ、は、っ、こんな、こんなので──んうううぅぅっ！！」
+PRINTFORMW 「きゃふぅっ！　そ、それ、それダメ、ですっ、ひうううぅぅ…っ！！」		PRINTFORMW 「きゃふぅっ！　そ、それ、それダメ、ですっ、ひうううぅぅ…っ！！」
+PRINTFORML 「んぐっ……ん！　んんんん、ぅ……っ！！」		PRINTFORML 「んぐっ……ん！　んんんん、ぅ……っ！！」
+PRINTFORMDW 文は歯を食いしばって耐えようとするが、身体は絶頂を止められない…	!#!PRINTFORMDW 文は歯を食いしばって耐えようとするが、身体は絶頂を止められない…
+PRINTFORML 「…………ぁ……ひぅっ…ぅ……」		PRINTFORML 「…………ぁ……ひぅっ…ぅ……」
+PRINTFORMDW 文は虚ろな目で掠れた喘ぎを漏らしながら、がくがくと身体を震わせている…	!#!PRINTFORMDW 文は虚ろな目で掠れた喘ぎを漏らしながら、がくがくと身体を震わせている…
+PRINTFORMW 「………？」		PRINTFORMW 「………？」
+PRINTFORMDW （気のせい…かしら。お腹が……）	!#!PRINTFORMDW （気のせい…かしら。お腹が……）
+PRINTFORMW 「……人のお腹を……図々しいにも程があるんじゃないですかね…」		PRINTFORMW 「……人のお腹を……図々しいにも程があるんじゃないですかね…」
+PRINTFORMDW 文は自分の身に起こったことを理解し、腹に手を当てて眉を顰める…	!#!PRINTFORMDW 文は自分の身に起こったことを理解し、腹に手を当てて眉を顰める…
+PRINTFORML 「……はぁっ…はぁっ、はっ、うぐぅ…！」		PRINTFORML 「……はぁっ…はぁっ、はっ、うぐぅ…！」
+PRINTFORMDW 文が苦痛を訴える間隔が、急激に短くなってきている…	!#!PRINTFORMDW 文が苦痛を訴える間隔が、急激に短くなってきている…
+PRINTFORMW 「……気のせいだったかしら」		PRINTFORMW 「……気のせいだったかしら」
+PRINTFORMW 「…ああいえ、何でもありません。探索を続けましょうか」		PRINTFORMW 「…ああいえ、何でもありません。探索を続けましょうか」
+PRINTFORML 「うぇ…っ！　……まさかあの化け物たち、たちの悪い病気なんて持ってたりは…」		PRINTFORML 「うぇ…っ！　……まさかあの化け物たち、たちの悪い病気なんて持ってたりは…」
+PRINTFORMDW 文は不意に吐き気に襲われ、忌々しげに眉を顰める…	!#!PRINTFORMDW 文は不意に吐き気に襲われ、忌々しげに眉を顰める…
+PRINTFORML 「……ん。気分が悪いのも治まってくれたようですね」		PRINTFORML 「……ん。気分が悪いのも治まってくれたようですね」
+PRINTFORMW 「やれやれ。我ながら、繊細すぎるのも困りものです」		PRINTFORMW 「やれやれ。我ながら、繊細すぎるのも困りものです」
+PRINTFORMW 「…………冗談きつい、ですよ…」		PRINTFORMW 「…………冗談きつい、ですよ…」
+PRINTFORML 「…羽の代わりに触手の生えた烏の子でも…生まれるんですかね？」		PRINTFORML 「…羽の代わりに触手の生えた烏の子でも…生まれるんですかね？」
+PRINTFORMDW 自棄のように口走り、文は溜め息を吐く…	!#!PRINTFORMDW 自棄のように口走り、文は溜め息を吐く…
+PRINTFORML 「ぐっ…ぅ！　…あ、暴れないで欲しいんです、けど…！」		PRINTFORML 「ぐっ…ぅ！　…あ、暴れないで欲しいんです、けど…！」
+PRINTFORMDW 文は時折つらそうに眉根を寄せ、息を荒げる…	!#!PRINTFORMDW 文は時折つらそうに眉根を寄せ、息を荒げる…
+PRINTFORMW 「烏は綺麗好きなんです。これ本当」		PRINTFORMW 「烏は綺麗好きなんです。これ本当」
+PRINTFORML 「──旋風『鳥居つむじ風』！」		PRINTFORML 「──旋風『鳥居つむじ風』！」
+PRINTFORMDW 文が団扇を一振りすると、無数の竜巻が部屋中の触手をこそぎ取り、吹き散らしていく！	!#!PRINTFORMDW 文が団扇を一振りすると、無数の竜巻が部屋中の触手をこそぎ取り、吹き散らしていく！
+PRINTFORMW 「少しはマシになりましたかね？」		PRINTFORMW 「少しはマシになりましたかね？」
+PRINTFORML 「先手必勝！　単純ですが、悪くないかもしれません」		PRINTFORML 「先手必勝！　単純ですが、悪くないかもしれません」
+PRINTFORML 「どうもどうも！　清く正しい真実の泉、文々。新聞ですよー！」		PRINTFORML 「どうもどうも！　清く正しい真実の泉、文々。新聞ですよー！」
+PRINTFORML 「では、先陣は頂きますよ？」		PRINTFORML 「では、先陣は頂きますよ？」
+PRINTFORML 「…どうもー。新聞ですよー？」		PRINTFORML 「…どうもー。新聞ですよー？」
+PRINTFORMDL とぼけた台詞とは裏腹に、文は油断なく周囲に感覚を走らせる…		PRINTFORMDL とぼけた台詞とは裏腹に、文は油断なく周囲に感覚を走らせる…
+PRINTFORML 「……ううむ。やっぱり空気が淀んで、気配を探りにくいわね」		PRINTFORML 「……ううむ。やっぱり空気が淀んで、気配を探りにくいわね」
+PRINTFORML 「職業柄、気配を消すのは得意な方でしてね」		PRINTFORML 「職業柄、気配を消すのは得意な方でしてね」
+PRINTFORML 「…え、記者とはあんまり関係ない？　またまたご冗談を」		PRINTFORML 「…え、記者とはあんまり関係ない？　またまたご冗談を」
+PRINTFORML 「…さて、鬼が出るか蛇が出るか…」		PRINTFORML 「…さて、鬼が出るか蛇が出るか…」
+PRINTFORMDL 文は部屋中の空気の流れを油断なく探っている…		PRINTFORMDL 文は部屋中の空気の流れを油断なく探っている…
+PRINTFORML 「何か、来ますかね…？」		PRINTFORML 「何か、来ますかね…？」
+PRINTFORML 「何事も見逃さない観察眼と注意力…記者の腕の見せ所です」		PRINTFORML 「何事も見逃さない観察眼と注意力…記者の腕の見せ所です」
+PRINTFORML 「こんなところで拾ったものを使うのも気が引けますが…」		PRINTFORML 「こんなところで拾ったものを使うのも気が引けますが…」
+PRINTFORML 「…どこか、外に通じていないかしら…」		PRINTFORML 「…どこか、外に通じていないかしら…」
+PRINTFORMDW 自分のその部分にグロテスクなものを押し当てられたのを見て、文はわずかに身じろぎする	!#!PRINTFORMDW 自分のその部分にグロテスクなものを押し当てられたのを見て、文はわずかに身じろぎする
+PRINTFORMDW ──が、それを押し止めるだけの力は彼女には残されていなかった…	!#!PRINTFORMDW ──が、それを押し止めるだけの力は彼女には残されていなかった…
+PRINTFORMW 「こんの…調子に乗るんじゃ……！」		PRINTFORMW 「こんの…調子に乗るんじゃ……！」
+PRINTFORMW 「あやややや！　ちょ…待っ、本気ですか！？」		PRINTFORMW 「あやややや！　ちょ…待っ、本気ですか！？」
+PRINTFORMW 「な──ダメダメ、それはダメですったら！」		PRINTFORMW 「な──ダメダメ、それはダメですったら！」
+PRINTFORML 「ふぅ……、不届きにも程がありますよ！」		PRINTFORML 「ふぅ……、不届きにも程がありますよ！」
+PRINTFORML 「もう…！　あなたには過ぎた相手ですよ」		PRINTFORML 「もう…！　あなたには過ぎた相手ですよ」
+PRINTFORML 「残念。そうお安くはありませんよ」		PRINTFORML 「残念。そうお安くはありませんよ」
+PRINTFORML 「………っ……ぃ…」		PRINTFORML 「………っ……ぃ…」
+PRINTFORMDW 文はびくり、と一度だけ身体を跳ねさせ、また力無く目を伏せる	!#!PRINTFORMDW 文はびくり、と一度だけ身体を跳ねさせ、また力無く目を伏せる
+PRINTFORMDW 触手を伝う粘液と少女の体液が混じったものの中に、わずかに赤いものが見て取れた──	!#!PRINTFORMDW 触手を伝う粘液と少女の体液が混じったものの中に、わずかに赤いものが見て取れた──
+PRINTFORMW 「…………っ、あ」		PRINTFORMW 「…………っ、あ」
+PRINTFORMW 「別に……後生大事に取っておいたわけじゃ…ありません、けどね」		PRINTFORMW 「別に……後生大事に取っておいたわけじゃ…ありません、けどね」
+PRINTFORMW 「…あなたみたいなのにくれてやるつもりも…無かったんですよ…？」		PRINTFORMW 「…あなたみたいなのにくれてやるつもりも…無かったんですよ…？」
+PRINTFORMDW 俯き加減に苦しげな息を吐く文の表情は窺い知れない…	!#!PRINTFORMDW 俯き加減に苦しげな息を吐く文の表情は窺い知れない…
+PRINTFORMDW 文をこのまま放っておけばどうなるかは、想像に難くない。	!#!PRINTFORMDW 文をこのまま放っておけばどうなるかは、想像に難くない。
+PRINTFORMW 「やあやあ、お目が高い。きっとお役に立ちますよ！」		PRINTFORMW 「やあやあ、お目が高い。きっとお役に立ちますよ！」
+PRINTFORML 「謎の不気味な迷宮からの脱出ドキュメンタリー…悪くないわね」		PRINTFORML 「謎の不気味な迷宮からの脱出ドキュメンタリー…悪くないわね」
+PRINTFORMW 「いい表情とかリアクションとか、お願いしますね！」		PRINTFORMW 「いい表情とかリアクションとか、お願いしますね！」
+PRINTFORMW 「私の力が必要だ、と。ええ、ええ。分かりますとも♪」		PRINTFORMW 「私の力が必要だ、と。ええ、ええ。分かりますとも♪」
+PRINTFORMW 「いやぁ、もう少し単独で調べたいことがありまして…」		PRINTFORMW 「いやぁ、もう少し単独で調べたいことがありまして…」
+PRINTFORML 「うーん。あまり大人数で一緒に動いていては、ネタの漏洩──」		PRINTFORML 「うーん。あまり大人数で一緒に動いていては、ネタの漏洩──」
+PRINTFORMW 「…やや、化け物どもに見つかりやすくなってしまいますし、ねえ」		PRINTFORMW 「…やや、化け物どもに見つかりやすくなってしまいますし、ねえ」
+PRINTFORML 「…母様の家の近くには、もっと大きい、水浴びにぴったりな泉があるんですよ」		PRINTFORML 「…母様の家の近くには、もっと大きい、水浴びにぴったりな泉があるんですよ」
+PRINTFORMW 「近くには立派な滝もあって。…ああ、でも気を付けないと意地悪なワンちゃんが──」		PRINTFORMW 「近くには立派な滝もあって。…ああ、でも気を付けないと意地悪なワンちゃんが──」
+PRINTFORMDW 文は娘の背を流しながら、妖怪の山に思いを馳せる…	!#!PRINTFORMDW 文は娘の背を流しながら、妖怪の山に思いを馳せる…
+PRINTFORML 「…ほら、まだ汚れてる。私の娘なら、ちょっとは気を遣いなさい」		PRINTFORML 「…ほら、まだ汚れてる。私の娘なら、ちょっとは気を遣いなさい」
+PRINTFORMDW 文はわしわしと娘の髪を洗っている…	!#!PRINTFORMDW 文はわしわしと娘の髪を洗っている…
+PRINTFORML 「…………ふぅ」		PRINTFORML 「…………ふぅ」
+PRINTFORMDW 文は入浴中も、あえて我が子と目を合わせようとしない…	!#!PRINTFORMDW 文は入浴中も、あえて我が子と目を合わせようとしない…
+PRINTFORMW 「くう～～……なんだか、湯浴みもずいぶん久々な気がしてしまいます」		PRINTFORMW 「くう～～……なんだか、湯浴みもずいぶん久々な気がしてしまいます」
+PRINTFORMW 「…どうせまた汚れるんでしょうけど…まあ、今は考えるのはやめましょうか」		PRINTFORMW 「…どうせまた汚れるんでしょうけど…まあ、今は考えるのはやめましょうか」
+PRINTFORMW 「♪～～……ここでお酒の一杯もあれば、嫌な気分もだいぶ紛れるんですが」		PRINTFORMW 「♪～～……ここでお酒の一杯もあれば、嫌な気分もだいぶ紛れるんですが」
+PRINTFORMW 「…………ぁ」		PRINTFORMW 「…………ぁ」
+PRINTFORMW （もう……意識が）		PRINTFORMW （もう……意識が）
+PRINTFORMW （百年、千年を生きてみても……終わりは呆気ないものですね）		PRINTFORMW （百年、千年を生きてみても……終わりは呆気ないものですね）
+PRINTFORMW 「……………もみ、じ……はたて………みん…な──」		PRINTFORMW 「……………もみ、じ……はたて………みん…な──」
+PRINTFORMDW 頬を粘液以外のものが伝う感触を最後に、文は意識を手放した──	!#!PRINTFORMDW 頬を粘液以外のものが伝う感触を最後に、文は意識を手放した──
+PRINTFORML 「………あはは…恩に…着ます…」		PRINTFORML 「………あはは…恩に…着ます…」
+PRINTFORMDW 力なく笑い、文はどうにか身を起こした…	!#!PRINTFORMDW 力なく笑い、文はどうにか身を起こした…
+PRINTFORMW 「……いやあ…危うく、鳥刺しでつるりと…いかれるところ、でした…」		PRINTFORMW 「……いやあ…危うく、鳥刺しでつるりと…いかれるところ、でした…」
+PRINTFORMDW 力の入らない身体に鞭打ち、文は精一杯おどけて見せた…	!#!PRINTFORMDW 力の入らない身体に鞭打ち、文は精一杯おどけて見せた…
+PRINTFORML 「………これは…かっこ悪いところを、お見せしまして…」		PRINTFORML 「………これは…かっこ悪いところを、お見せしまして…」
+PRINTFORML （………解放…された…？）		PRINTFORML （………解放…された…？）
+PRINTFORMW （今の…うちに……少しでも、遠く、へ…！）		PRINTFORMW （今の…うちに……少しでも、遠く、へ…！）
+PRINTFORML 「………ぅ…く……」		PRINTFORML 「………ぅ…く……」
+PRINTFORMW （身体……動く……っ）		PRINTFORMW （身体……動く……っ）
+PRINTFORML 「………ふ…ふふ、詰めが甘い、ですね…っ」		PRINTFORML 「………ふ…ふふ、詰めが甘い、ですね…っ」
+PRINTFORMDW がくがくと震える膝に力を込め、文は無理やり立ち上がった…	!#!PRINTFORMDW がくがくと震える膝に力を込め、文は無理やり立ち上がった…
+PRINTFORMW 「やはり、別行動した方がいいと思うんですよね。…お互いの為にも」		PRINTFORMW 「やはり、別行動した方がいいと思うんですよね。…お互いの為にも」
+PRINTFORMW 「はあ。理由ですか？　…ご自分の胸に聞いてみてはいかがです？」		PRINTFORMW 「はあ。理由ですか？　…ご自分の胸に聞いてみてはいかがです？」
+PRINTFORML 「あっ、こら！」		PRINTFORML 「あっ、こら！」
+PRINTFORMW 「はあ。…あの子なら、そう簡単にやられるとは思えませんが…」		PRINTFORMW 「はあ。…あの子なら、そう簡単にやられるとは思えませんが…」
+PRINTFORMW 「ああもう…子供のこういうところは面倒ですね…」		PRINTFORMW 「ああもう…子供のこういうところは面倒ですね…」
+PRINTFORMW 「ふん。……勝手になさい」		PRINTFORMW 「ふん。……勝手になさい」
+PRINTFORML 「まったく…相変わらず頭が固いと言うか」		PRINTFORML 「まったく…相変わらず頭が固いと言うか」
+PRINTFORML 「…ああ、もう。大丈夫かしらね、あんな様子で」		PRINTFORML 「…ああ、もう。大丈夫かしらね、あんな様子で」
+PRINTFORML 「…やれやれ。気難しい方ですねえ」		PRINTFORML 「…やれやれ。気難しい方ですねえ」
+PRINTFORML 「はあ。こんな時に冷静になれないで、どうするのかしら」		PRINTFORML 「はあ。こんな時に冷静になれないで、どうするのかしら」
+PRINTFORMW 「」		PRINTFORMW 「」
+PRINTFORMW 「……え？　ちょっ、な、これ……！？」		PRINTFORMW 「……え？　ちょっ、な、これ……！？」
+PRINTFORMW 「こ…っの！　……これくらいっ、どうって、こと…！」		PRINTFORMW 「こ…っの！　……これくらいっ、どうって、こと…！」
+PRINTFORML 「くぁ、っ！？　あひ、っぃ、ぃあああぁぁぁ！」		PRINTFORML 「くぁ、っ！？　あひ、っぃ、ぃあああぁぁぁ！」
+PRINTFORMW 「おしり、っ、おしりなんかでっ、わたっ、し──！！」		PRINTFORMW 「おしり、っ、おしりなんかでっ、わたっ、し──！！」
+PRINTFORML 「んあああぁぁっ！　やめっ…そこ、弱──っ」		PRINTFORML 「んあああぁぁっ！　やめっ…そこ、弱──っ」
+PRINTFORMW 「…う、そ、私…わたし、胸だけ、で、こんな……！」		PRINTFORMW 「…う、そ、私…わたし、胸だけ、で、こんな……！」
+PRINTFORML 「ひあああぁっ！？　だ、ダメ、そこはダメですっ！」		PRINTFORML 「ひあああぁっ！？　だ、ダメ、そこはダメですっ！」
+PRINTFORMW 「こんなの、知らないっ、からぁっ！　吸わないっ、でぇぇっ！！」		PRINTFORMW 「こんなの、知らないっ、からぁっ！　吸わないっ、でぇぇっ！！」
+PRINTFORML 「ひっ！　やっ、きゃいっ！　う、ぅ、声、止まらな……っ、」		PRINTFORML 「ひっ！　やっ、きゃいっ！　う、ぅ、声、止まらな……っ、」
+PRINTFORMW 「あ！　あ！　ああぅ！　そこ、ばっかり、やめええぇっ！！」		PRINTFORMW 「あ！　あ！　ああぅ！　そこ、ばっかり、やめええぇっ！！」
+PRINTFORML 「うああああぁっ！　おく、っぅ、にぃっ！　そんなにぃっ…！」		PRINTFORML 「うああああぁっ！　おく、っぅ、にぃっ！　そんなにぃっ…！」
+PRINTFORMW 「これ、これっ、だめ、ですっ…私、もうっ…！」		PRINTFORMW 「これ、これっ、だめ、ですっ…私、もうっ…！」
+PRINTFORMW 「……はぁ……はぁっ…………脱ぐのは…無理、ですか…」		PRINTFORMW 「……はぁ……はぁっ…………脱ぐのは…無理、ですか…」
+PRINTFORML 「んぅ……っ」		PRINTFORML 「んぅ……っ」
+PRINTFORMW 「……なんとかしないと…ほんとに、頭がおかしくなっちゃいますよ…」		PRINTFORMW 「……なんとかしないと…ほんとに、頭がおかしくなっちゃいますよ…」
+PRINTFORML 「！！？　ひぃ、っ！？　ぁ、あ！　ひあああぁっ！！」		PRINTFORML 「！！？　ひぃ、っ！？　ぁ、あ！　ひあああぁっ！！」
+PRINTFORML 「ま、待っ、おねが──ぃあああああああぁ！？」		PRINTFORML 「ま、待っ、おねが──ぃあああああああぁ！？」
+PRINTFORMDW 我が物顔で全身を蹂躙する触手に対し、文は全く抗うすべを持たない！	!#!PRINTFORMDW 我が物顔で全身を蹂躙する触手に対し、文は全く抗うすべを持たない！
+PRINTFORML 「……はぁーっ……はぁーっ……はぁーっ……あ、は──」		PRINTFORML 「……はぁーっ……はぁーっ……はぁーっ……あ、は──」
+PRINTFORMW （……こんな…っ、……わたしの、体、こんな……）		PRINTFORMW （……こんな…っ、……わたしの、体、こんな……）
+PRINTFORMW （こんなに……気持ちよく、なれるん、だ──）		PRINTFORMW （こんなに……気持ちよく、なれるん、だ──）
+PRINTFORML 「ぎゃうっ…！」		PRINTFORML 「ぎゃうっ…！」
+PRINTFORMDW 無防備に眠りこける%CALLNAME:TARGET%を、無慈悲な一撃が襲う！	!#!PRINTFORMDW 無防備に眠りこける%CALLNAME:TARGET%を、無慈悲な一撃が襲う！
+PRINTFORML 「っ……、ひぅ…っ」		PRINTFORML 「っ……、ひぅ…っ」
+PRINTFORMDW %CALLNAME:TARGET%の小さな身体は、触手の攻撃にいいように翻弄されてしまう…	!#!PRINTFORMDW %CALLNAME:TARGET%の小さな身体は、触手の攻撃にいいように翻弄されてしまう…
+PRINTFORML 「……んん、ん～…？」		PRINTFORML 「……んん、ん～…？」
+PRINTFORMDW %CALLNAME:TARGET%はむずがるような声を上げるものの、目を覚ます気配はない…	!#!PRINTFORMDW %CALLNAME:TARGET%はむずがるような声を上げるものの、目を覚ます気配はない…
+PRINTFORML 「……んぎゅ、っ……」		PRINTFORML 「……んぎゅ、っ……」
+PRINTFORMDW %CALLNAME:TARGET%は苦悶の声を漏らし身を捩るが、目を覚まそうとはしない…	!#!PRINTFORMDW %CALLNAME:TARGET%は苦悶の声を漏らし身を捩るが、目を覚まそうとはしない…
+PRINTFORML 「あっ……あっぁ、あう、う、ぅ！」		PRINTFORML 「あっ……あっぁ、あう、う、ぅ！」
+PRINTFORML 「ひんっ……！？　は、ぁ、あ…！」		PRINTFORML 「ひんっ……！？　は、ぁ、あ…！」
+PRINTFORMDW 快楽に打ち震えていた幼い身体が、びくびくと断続的に戦慄く…	!#!PRINTFORMDW 快楽に打ち震えていた幼い身体が、びくびくと断続的に戦慄く…
+PRINTFORMW 「……ひゃう、っ…！」		PRINTFORMW 「……ひゃう、っ…！」
+PRINTFORMW 「くぅん……！」		PRINTFORMW 「くぅん……！」
+PRINTFORMDW 眠り続ける%CALLNAME:TARGET%の身体は、快楽に素直に反応してしまう…	!#!PRINTFORMDW 眠り続ける%CALLNAME:TARGET%の身体は、快楽に素直に反応してしまう…
+PRINTFORMW 「ん……んぅ……？」		PRINTFORMW 「ん……んぅ……？」
+PRINTFORML 「………むに…んん～…？」		PRINTFORML 「………むに…んん～…？」
+PRINTFORMDW 眠っている%CALLNAME:TARGET%の肌に赤みが差し、僅かに息が荒げられる…	!#!PRINTFORMDW 眠っている%CALLNAME:TARGET%の肌に赤みが差し、僅かに息が荒げられる…
+PRINTFORMDW 全身に絡みつく触手の不快感に、%CALLNAME:TARGET%はわずかに眉を顰めた…	!#!PRINTFORMDW 全身に絡みつく触手の不快感に、%CALLNAME:TARGET%はわずかに眉を顰めた…
+PRINTFORMDW これから我が身に起こる運命を知らず、%CALLNAME:TARGET%は安らかに寝息を立てている…	!#!PRINTFORMDW これから我が身に起こる運命を知らず、%CALLNAME:TARGET%は安らかに寝息を立てている…
+PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、%CALLNAME:TARGET%は眠ったまま身を震わせた…	!#!PRINTFORMDW 下腹へのえもいわれぬ圧迫感に、%CALLNAME:TARGET%は眠ったまま身を震わせた…
+PRINTFORMDW 異物感が下腹部を襲い、%CALLNAME:TARGET%は意識がないまま、息を呑むような悲鳴を上げた…	!#!PRINTFORMDW 異物感が下腹部を襲い、%CALLNAME:TARGET%は意識がないまま、息を呑むような悲鳴を上げた…
+PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、%CALLNAME:TARGET%の寝息が苦しげに乱れる…	!#!PRINTFORMDW ごぼごぼと無遠慮に送り込まれる異物のおぞましさに、%CALLNAME:TARGET%の寝息が苦しげに乱れる…
+PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている%CALLNAME:TARGET%に抵抗する術はない！	!#!PRINTFORMDW 未知の圧迫感に眉を顰め、くぐもった呻きを漏らす…が、眠っている%CALLNAME:TARGET%に抵抗する術はない！
+PRINTFORMDW %CALLNAME:TARGET%の幼い身体が、ひときわ大きく痙攣した──	!#!PRINTFORMDW %CALLNAME:TARGET%の幼い身体が、ひときわ大きく痙攣した──
+PRINTFORMDW %CALLNAME:TARGET%は火照る身体を抱きしめるようにして身を守っている…	!#!PRINTFORMDW %CALLNAME:TARGET%は火照る身体を抱きしめるようにして身を守っている…
+PRINTFORML 「…………んぅ…っ」		PRINTFORML 「…………んぅ…っ」
+PRINTFORMDW %CALLNAME:TARGET%は身体の自由になるわずかな部分で、なんとか身を守ろうとする…	!#!PRINTFORMDW %CALLNAME:TARGET%は身体の自由になるわずかな部分で、なんとか身を守ろうとする…
+PRINTFORMW 「ちょ…っと、待って…っ」		PRINTFORMW 「ちょ…っと、待って…っ」
+PRINTFORMW 「ひぇ……！」		PRINTFORMW 「ひぇ……！」
+PRINTFORMW 「がまん……今は、がまん……！」		PRINTFORMW 「がまん……今は、がまん……！」
+PRINTFORMW 「ちっとも、痛くない…よ」		PRINTFORMW 「ちっとも、痛くない…よ」
+PRINTFORMW 「平気、どうせ当たらないよ」		PRINTFORMW 「平気、どうせ当たらないよ」
+PRINTFORMW 「わたしが相手、したげる」		PRINTFORMW 「わたしが相手、したげる」
+PRINTFORMW 「くすくす。こっちこっち！」		PRINTFORMW 「くすくす。こっちこっち！」
+PRINTFORMW 「べー、だ」		PRINTFORMW 「べー、だ」
+PRINTFORML 「はー……はぁっ……っ」		PRINTFORML 「はー……はぁっ……っ」
+PRINTFORMDW %CALLNAME:TARGET%は熱い吐息を漏らしながらも、弾幕を展開する…	!#!PRINTFORMDW %CALLNAME:TARGET%は熱い吐息を漏らしながらも、弾幕を展開する…
+PRINTFORMW 「じゃあ、いくよ？」		PRINTFORMW 「じゃあ、いくよ？」
+PRINTFORMW 「ふふ。よけられないよ」		PRINTFORMW 「ふふ。よけられないよ」
+PRINTFORMW 「弾幕、だんまく……これでいいんだよね？」		PRINTFORMW 「弾幕、だんまく……これでいいんだよね？」
+PRINTFORMW 「こうかな？　──れっぷーせん！」		PRINTFORMW 「こうかな？　──れっぷーせん！」
+PRINTFORMW 「天狗…れっぷーだん！」		PRINTFORMW 「天狗…れっぷーだん！」
+PRINTFORMW 「当たるよね？」		PRINTFORMW 「当たるよね？」
+PRINTFORMW 「痛いのが怖かったら、逃げてもいいよ？」		PRINTFORMW 「痛いのが怖かったら、逃げてもいいよ？」
+PRINTFORMW 「強いの、いくよ！」		PRINTFORMW 「強いの、いくよ！」
+PRINTFORMW 「これで、消えちゃえ…！」		PRINTFORMW 「これで、消えちゃえ…！」
+PRINTFORML 「…おっきいの、いくよ？」		PRINTFORML 「…おっきいの、いくよ？」
+PRINTFORML 「ふぅぅぅ……」		PRINTFORML 「ふぅぅぅ……」
+PRINTFORMDW %CALLNAME:TARGET%の周囲の空気が不自然に軋み、たわみ始める…	!#!PRINTFORMDW %CALLNAME:TARGET%の周囲の空気が不自然に軋み、たわみ始める…
+PRINTFORMW 「くすくす……じゃあね」		PRINTFORMW 「くすくす……じゃあね」
+PRINTFORMW 「──吹き散らすよ」		PRINTFORMW 「──吹き散らすよ」
+PRINTFORMW 「ふふふ。動いちゃダメだよ」		PRINTFORMW 「ふふふ。動いちゃダメだよ」
+PRINTFORMW 「動くと痛いよ？」		PRINTFORMW 「動くと痛いよ？」
+PRINTFORML 「まっすぐ貫く……速く……強く……」		PRINTFORML 「まっすぐ貫く……速く……強く……」
+PRINTFORMDW %CALLNAME:TARGET%は弾幕のイメージを練り上げる…	!#!PRINTFORMDW %CALLNAME:TARGET%は弾幕のイメージを練り上げる…
+PRINTFORMW 「まとめて……飛び散っちゃえ」		PRINTFORMW 「まとめて……飛び散っちゃえ」
+PRINTFORMW 「当たったら、たぶん痛いよ？」		PRINTFORMW 「当たったら、たぶん痛いよ？」
+PRINTFORMW 「狙いをつけて…」		PRINTFORMW 「狙いをつけて…」
+PRINTFORMW 「くす…みんな逃がさないよ」		PRINTFORMW 「くす…みんな逃がさないよ」
+PRINTFORMW 「よい──しょっ！」		PRINTFORMW 「よい──しょっ！」
+PRINTFORMW 「こうやって…こう！」		PRINTFORMW 「こうやって…こう！」
+PRINTFORMW 「たあっ！」		PRINTFORMW 「たあっ！」
+PRINTFORML 「…こっち！」		PRINTFORML 「…こっち！」
+PRINTFORMDW %CALLNAME:TARGET%は小柄な体を更に低くして、敵の足元を狙う！	!#!PRINTFORMDW %CALLNAME:TARGET%は小柄な体を更に低くして、敵の足元を狙う！
+PRINTFORML 「まずは速さを奪うのがジョーセキなんだって」		PRINTFORML 「まずは速さを奪うのがジョーセキなんだって」
+PRINTFORMW 「…ジョーセキ、ってなに？」		PRINTFORMW 「…ジョーセキ、ってなに？」
+PRINTFORMW 「…ここ、痛い？」		PRINTFORMW 「…ここ、痛い？」
+PRINTFORMW 「ふふ。すっごく痛いの…いくよ？」		PRINTFORMW 「ふふ。すっごく痛いの…いくよ？」
+PRINTFORML 「……はーーっ……はーーっ……」		PRINTFORML 「……はーーっ……はーーっ……」
+PRINTFORML 「……はぁ……はう……ちから、はいらない……」		PRINTFORML 「……はぁ……はう……ちから、はいらない……」
+PRINTFORMW %CALLNAME:TARGET%は絶頂の余韻に身を震わせ、抗うことができない…		PRINTFORMW %CALLNAME:TARGET%は絶頂の余韻に身を震わせ、抗うことができない…
+PRINTFORML 「っ！　……～～…っ！」		PRINTFORML 「っ！　……～～…っ！」
+PRINTFORMDW %CALLNAME:TARGET%は残された力で、肉壁の内側を叩き、抓り、蹴りつける…	!#!PRINTFORMDW %CALLNAME:TARGET%は残された力で、肉壁の内側を叩き、抓り、蹴りつける…
+PRINTFORML 「うはぁ…はぁ……んん～…っ！」		PRINTFORML 「うはぁ…はぁ……んん～…っ！」
+PRINTFORMDW 全身を粘液で汚しながらも、%CALLNAME:TARGET%は身を捩って抜け出そうとする…	!#!PRINTFORMDW 全身を粘液で汚しながらも、%CALLNAME:TARGET%は身を捩って抜け出そうとする…
+PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、%CALLNAME:TARGET%はどうにか脱出しようと力を込める…	!#!PRINTFORMDW 粘液を肌にすり込まれ、快楽に打ち震えながらも、%CALLNAME:TARGET%はどうにか脱出しようと力を込める…
+PRINTFORMW 「よい……しょっ…！」		PRINTFORMW 「よい……しょっ…！」
+PRINTFORMW 「わたし、そんなに食べるとこないから…ね？」		PRINTFORMW 「わたし、そんなに食べるとこないから…ね？」
+PRINTFORMW 「…ん…ぐ………ううぅ…っ」		PRINTFORMW 「…ん…ぐ………ううぅ…っ」
+PRINTFORMW 「はなして……でないと、ひどい、よ…っ」		PRINTFORMW 「はなして……でないと、ひどい、よ…っ」
+PRINTFORMDW 容赦ない締め付けに耐えながら、%CALLNAME:TARGET%は力を振り絞る…	!#!PRINTFORMDW 容赦ない締め付けに耐えながら、%CALLNAME:TARGET%は力を振り絞る…
+PRINTFORML （このままだと、わたし……わた……し）		PRINTFORML （このままだと、わたし……わた……し）
+PRINTFORML （…どんなこと……されちゃう……のかな…？）		PRINTFORML （…どんなこと……されちゃう……のかな…？）
+PRINTFORMDW 身体の自由を奪われたまま、%CALLNAME:TARGET%は申し訳程度の抵抗をして見せる…	!#!PRINTFORMDW 身体の自由を奪われたまま、%CALLNAME:TARGET%は申し訳程度の抵抗をして見せる…
+PRINTFORML 「こんなの…すぐに、ほどいて…っ」		PRINTFORML 「こんなの…すぐに、ほどいて…っ」
+PRINTFORML 「んん…んんんん……っ」		PRINTFORML 「んん…んんんん……っ」
+PRINTFORMDW %CALLNAME:TARGET%は、戒めを解こうと懸命に手足に力を込める…	!#!PRINTFORMDW %CALLNAME:TARGET%は、戒めを解こうと懸命に手足に力を込める…
+PRINTFORMW （わたしの力じゃ……ほどけない）		PRINTFORMW （わたしの力じゃ……ほどけない）
+PRINTFORMW （だから…だから、しょうがない、の……）		PRINTFORMW （だから…だから、しょうがない、の……）
+PRINTFORMDW 荒い息を吐きながら、%CALLNAME:TARGET%は火照る身体を恐怖とは別の感情で震わせている…	!#!PRINTFORMDW 荒い息を吐きながら、%CALLNAME:TARGET%は火照る身体を恐怖とは別の感情で震わせている…
+PRINTFORMW 「……はぁ……はぁっ……どう、しよう……」		PRINTFORMW 「……はぁ……はぁっ……どう、しよう……」
+PRINTFORMW 「………う、ぅ…」		PRINTFORMW 「………う、ぅ…」
+PRINTFORMW 「…離さないと、怒るよ…！」		PRINTFORMW 「…離さないと、怒るよ…！」
+PRINTFORMW 「こんなの…すぐ抜けられるんだから…っ」		PRINTFORMW 「こんなの…すぐ抜けられるんだから…っ」
+PRINTFORML 「……はぁー……はぁー……はぁー……」		PRINTFORML 「……はぁー……はぁー……はぁー……」
+PRINTFORML （……からだ、うごか、な──）		PRINTFORML （……からだ、うごか、な──）
+PRINTFORML （わたし…死んじゃうん、だ……）		PRINTFORML （わたし…死んじゃうん、だ……）
+PRINTFORMDW ぐったりと力を抜いた幼い身体を、触手が這い登っていく…	!#!PRINTFORMDW ぐったりと力を抜いた幼い身体を、触手が這い登っていく…
+PRINTFORML 「…触んないで！」		PRINTFORML 「…触んないで！」
+PRINTFORMDW %CALLNAME:TARGET%はお尻を引っ込めて身を守ろうとしている…	!#!PRINTFORMDW %CALLNAME:TARGET%はお尻を引っ込めて身を守ろうとしている…
+PRINTFORMDW %CALLNAME:TARGET%は身を捩り、胸を隠すようにして身を守ろうとしている…	!#!PRINTFORMDW %CALLNAME:TARGET%は身を捩り、胸を隠すようにして身を守ろうとしている…
+PRINTFORMDW %CALLNAME:TARGET%は太ももをすり合わせ、敏感な部分を守ろうとしている…	!#!PRINTFORMDW %CALLNAME:TARGET%は太ももをすり合わせ、敏感な部分を守ろうとしている…
+PRINTFORMDW %CALLNAME:TARGET%は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…	!#!PRINTFORMDW %CALLNAME:TARGET%は反射的に腰を引き、何者も侵したことのない聖域を守ろうとしている…
+PRINTFORML （……あんなのを……わたし、に──）		PRINTFORML （……あんなのを……わたし、に──）
+PRINTFORMDW 自分の下半身に纏わりつく触手に、獣欲に濁る%CALLNAME:TARGET%の瞳は釘付けになってしまう…	!#!PRINTFORMDW 自分の下半身に纏わりつく触手に、獣欲に濁る%CALLNAME:TARGET%の瞳は釘付けになってしまう…
+PRINTFORMDW %CALLNAME:TARGET%は太ももに力を込め、侵入するものを拒もうとする…	!#!PRINTFORMDW %CALLNAME:TARGET%は太ももに力を込め、侵入するものを拒もうとする…
+PRINTFORMW 「……かあさま……たす、け……かぁ、さ……」		PRINTFORMW 「……かあさま……たす、け……かぁ、さ……」
+PRINTFORMW 「ひぐぅっ！　………ごほ、っ…」		PRINTFORMW 「ひぐぅっ！　………ごほ、っ…」
+PRINTFORMW 「や、だ……やだ、やめて──あうぅっ！」		PRINTFORMW 「や、だ……やだ、やめて──あうぅっ！」
+PRINTFORML 「……あ、れ……力、入らな……」		PRINTFORML 「……あ、れ……力、入らな……」
+PRINTFORML 「ぅ…あ、離し……くぅ…う、ううぅ…！」		PRINTFORML 「ぅ…あ、離し……くぅ…う、ううぅ…！」
+PRINTFORMDW 力を吸われ続ける%CALLNAME:TARGET%は、身体を締め上げる触手から思うように脱出できずにいる…	!#!PRINTFORMDW 力を吸われ続ける%CALLNAME:TARGET%は、身体を締め上げる触手から思うように脱出できずにいる…
+PRINTFORMW 「うぐぅっ！　……ぅ、うえ…っ！」		PRINTFORMW 「うぐぅっ！　……ぅ、うえ…っ！」
+PRINTFORMW 「はぐっ…！　……はぁ、はぁ……っ」		PRINTFORMW 「はぐっ…！　……はぁ、はぁ……っ」
+PRINTFORMW 「かふぅっ………もう…やめ…っ」		PRINTFORMW 「かふぅっ………もう…やめ…っ」
+PRINTFORML 「きゃうっ！　……へ、平気」		PRINTFORML 「きゃうっ！　……へ、平気」
+PRINTFORML 「んぐぅっ！　……よくも…っ」		PRINTFORML 「んぐぅっ！　……よくも…っ」
+PRINTFORML 「かはっ！　…う…うそ、よけられない…」		PRINTFORML 「かはっ！　…う…うそ、よけられない…」
+PRINTFORMW 「うっ……」		PRINTFORMW 「うっ……」
+PRINTFORMW 「っく……痛いの、やだよ」		PRINTFORMW 「っく……痛いの、やだよ」
+PRINTFORMW 「んくっ…！　…酷いことするね…」		PRINTFORMW 「んくっ…！　…酷いことするね…」
+PRINTFORML 「いたっ……」		PRINTFORML 「いたっ……」
+PRINTFORML 「あつっ……平気だよ、これくらい！」		PRINTFORML 「あつっ……平気だよ、これくらい！」
+PRINTFORML 「いっ…ちゃ……わたし、また、イっちゃう、イく、ぅっ……！」		PRINTFORML 「いっ…ちゃ……わたし、また、イっちゃう、イく、ぅっ……！」
+PRINTFORMDW %CALLNAME:TARGET%は舌足らずな声で、淫らな宣言の言葉を繰り返し口にする…	!#!PRINTFORMDW %CALLNAME:TARGET%は舌足らずな声で、淫らな宣言の言葉を繰り返し口にする…
+PRINTFORML 「……ぁ、あ……あぅ……」		PRINTFORML 「……ぁ、あ……あぅ……」
+PRINTFORMDW 小さな身体をがくがくと揺らして絶頂に達する%CALLNAME:TARGET%の目から、大粒の涙が零れ落ちる…	!#!PRINTFORMDW 小さな身体をがくがくと揺らして絶頂に達する%CALLNAME:TARGET%の目から、大粒の涙が零れ落ちる…
+PRINTFORML 「……あ、ぅ、あぅ……あ、う、ぅぅ、ぅ！　っ！　っっ！！」		PRINTFORML 「……あ、ぅ、あぅ……あ、う、ぅぅ、ぅ！　っ！　っっ！！」
+PRINTFORMDW ぐったりと力を抜いた%CALLNAME:TARGET%の身体が、壊れた玩具のようにびくびくと痙攣する…	!#!PRINTFORMDW ぐったりと力を抜いた%CALLNAME:TARGET%の身体が、壊れた玩具のようにびくびくと痙攣する…
+PRINTFORML 「……はぁ……はぁ……は、ぁ──」		PRINTFORML 「……はぁ……はぁ……は、ぁ──」
+PRINTFORMDW %CALLNAME:TARGET%の瞳は獣欲に濁り、虚ろな笑みを浮かべたまま陵辱を受け続けている…	!#!PRINTFORMDW %CALLNAME:TARGET%の瞳は獣欲に濁り、虚ろな笑みを浮かべたまま陵辱を受け続けている…
+PRINTFORML 「……あは…♪　もっ、と……もっと、して、ぇ……」		PRINTFORML 「……あは…♪　もっ、と……もっと、して、ぇ……」
+PRINTFORMDW 全身を高潮させ、%CALLNAME:TARGET%はうわ言のように淫らな懇願の言葉を口走る…	!#!PRINTFORMDW 全身を高潮させ、%CALLNAME:TARGET%はうわ言のように淫らな懇願の言葉を口走る…
+PRINTFORML 「……ぁ…あ……すご、い……すごい、よぅ、っ……」		PRINTFORML 「……ぁ…あ……すご、い……すごい、よぅ、っ……」
+PRINTFORMDW %CALLNAME:TARGET%はもはや、与えられる快楽に抵抗する素振りも見せない…	!#!PRINTFORMDW %CALLNAME:TARGET%はもはや、与えられる快楽に抵抗する素振りも見せない…
+PRINTFORMW 「あ…ううぅ！　母様、かあさまぁぁっ！」		PRINTFORMW 「あ…ううぅ！　母様、かあさまぁぁっ！」
+PRINTFORMW 「あ、は──すごいの、きちゃ、きちゃう──！！」		PRINTFORMW 「あ、は──すごいの、きちゃ、きちゃう──！！」
+PRINTFORMW 「きゃうぅ！？　……ぁ、だめ、だめ、あたまのなか、しろく……っ」		PRINTFORMW 「きゃうぅ！？　……ぁ、だめ、だめ、あたまのなか、しろく……っ」
+PRINTFORML 「ぁ……おっぱい、そんなに……吸っ……！」		PRINTFORML 「ぁ……おっぱい、そんなに……吸っ……！」
+PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする%CALLNAME:TARGET%の手から力が抜ける…	!#!PRINTFORMDW 胸を吸われる度に快感と脱力感を覚え、触手を引き剥がそうとする%CALLNAME:TARGET%の手から力が抜ける…
+PRINTFORML 「あ……ぁ、ダメ……ちから、はいら、な──」		PRINTFORML 「あ……ぁ、ダメ……ちから、はいら、な──」
+PRINTFORMDW 力が抜け思うように抵抗できない%CALLNAME:TARGET%の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…	!#!PRINTFORMDW 力が抜け思うように抵抗できない%CALLNAME:TARGET%の姿を楽しむように、触手はじっくりと秘所をねぶり続ける…
+PRINTFORML 「ひぅっ…！　おし、り、すっちゃ…だめ、ぇ…っ」		PRINTFORML 「ひぅっ…！　おし、り、すっちゃ…だめ、ぇ…っ」
+PRINTFORMDW 尻穴を吸われ、%CALLNAME:TARGET%ははへなへなと腰が砕けてしまう…	!#!PRINTFORMDW 尻穴を吸われ、%CALLNAME:TARGET%ははへなへなと腰が砕けてしまう…
+PRINTFORMDW 触手が吸い上げるのに合わせて、%CALLNAME:TARGET%はびくびくと腰を震わせてしまう…	!#!PRINTFORMDW 触手が吸い上げるのに合わせて、%CALLNAME:TARGET%はびくびくと腰を震わせてしまう…
+PRINTFORML 「…や、だ…やだ、もう、先っぽ、吸わない…でぇっ…！」		PRINTFORML 「…や、だ…やだ、もう、先っぽ、吸わない…でぇっ…！」
+PRINTFORMDW 弱い乳首を執拗に吸引され、%CALLNAME:TARGET%は切羽詰った喘ぎを上げ続ける…	!#!PRINTFORMDW 弱い乳首を執拗に吸引され、%CALLNAME:TARGET%は切羽詰った喘ぎを上げ続ける…
+PRINTFORML 「きゅうぅっ……だめ……だめ、ぇ……」		PRINTFORML 「きゅうぅっ……だめ……だめ、ぇ……」
+PRINTFORMDW 吸い上げられるたび、%CALLNAME:TARGET%の幼い身体から抵抗の力が消えていく…	!#!PRINTFORMDW 吸い上げられるたび、%CALLNAME:TARGET%の幼い身体から抵抗の力が消えていく…
+PRINTFORML 「ひぃっ……ぁ、あ！　あーっ！　ああーーーっ！！」		PRINTFORML 「ひぃっ……ぁ、あ！　あーっ！　ああーーーっ！！」
+PRINTFORMDW 尻穴から何もかも吸い出されるような錯覚に、%CALLNAME:TARGET%は上ずった悲鳴を上げて激しく首を振る…	!#!PRINTFORMDW 尻穴から何もかも吸い出されるような錯覚に、%CALLNAME:TARGET%は上ずった悲鳴を上げて激しく首を振る…
+PRINTFORML 「うぐぅっ……はう、あぅ、あう、ううぅ…っ……」		PRINTFORML 「うぐぅっ……はう、あぅ、あう、ううぅ…っ……」
+PRINTFORMDW ぐったりと弛緩した幼い身体から、なおも無慈悲に力が吸い上げられていく…	!#!PRINTFORMDW ぐったりと弛緩した幼い身体から、なおも無慈悲に力が吸い上げられていく…
+PRINTFORMW 「んうぅ！　離れてっ…たらっ…」		PRINTFORMW 「んうぅ！　離れてっ…たらっ…」
+PRINTFORMW 「あ……ぁ、ぁ、すご、いっ──」		PRINTFORMW 「あ……ぁ、ぁ、すご、いっ──」
+PRINTFORMW 「ふあ、ぁ…やぁっ、うやあぁぁ……っ」		PRINTFORMW 「ふあ、ぁ…やぁっ、うやあぁぁ……っ」
+PRINTFORMW 「……はぁ……はぁ……はぁ、っ」		PRINTFORMW 「……はぁ……はぁ……はぁ、っ」
+PRINTFORMW 「……えっち」		PRINTFORMW 「……えっち」
+PRINTFORMW 「や……はっ」		PRINTFORMW 「や……はっ」
+PRINTFORMDW 触手に四肢を捕らわれても、%CALLNAME:TARGET%はぐったりとうなだれたままだ…	!#!PRINTFORMDW 触手に四肢を捕らわれても、%CALLNAME:TARGET%はぐったりとうなだれたままだ…
+PRINTFORML 「………ぁ…あう…」		PRINTFORML 「………ぁ…あう…」
+PRINTFORMDW 全身を触手に締め上げられ、%CALLNAME:TARGET%の唇からか細い声が漏れる…	!#!PRINTFORMDW 全身を触手に締め上げられ、%CALLNAME:TARGET%の唇からか細い声が漏れる…
+PRINTFORML 「あ、うっ……」		PRINTFORML 「あ、うっ……」
+PRINTFORMDW 動きの鈍った%CALLNAME:TARGET%はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…	!#!PRINTFORMDW 動きの鈍った%CALLNAME:TARGET%はあっさりと触手に捕らえられ、高潮した顔を隠すように俯いて息を荒げる…
+PRINTFORMW 「ひゃあ…！？」		PRINTFORMW 「ひゃあ…！？」
+PRINTFORMW 「はなして……っ」		PRINTFORMW 「はなして……っ」
+PRINTFORML 「…あっ！？　……わたしの、中に……？」		PRINTFORML 「…あっ！？　……わたしの、中に……？」
+PRINTFORMDW 言い知れない不快感と違和感に、%CALLNAME:TARGET%は眉を顰めて呻くことしかできない…	!#!PRINTFORMDW 言い知れない不快感と違和感に、%CALLNAME:TARGET%は眉を顰めて呻くことしかできない…
+PRINTFORML 「っん………ふぅ、ふぅ……」		PRINTFORML 「っん………ふぅ、ふぅ……」
+PRINTFORMDW %CALLNAME:TARGET%はどこかおぼつかない足取りで、なんとか攻撃から身を躱す…	!#!PRINTFORMDW %CALLNAME:TARGET%はどこかおぼつかない足取りで、なんとか攻撃から身を躱す…
+PRINTFORMW 「──ふぅ。びっくりした…」		PRINTFORMW 「──ふぅ。びっくりした…」
+PRINTFORMW 「危なかったぁ…」		PRINTFORMW 「危なかったぁ…」
+PRINTFORMW 「ふふ。遅すぎるよ」		PRINTFORMW 「ふふ。遅すぎるよ」
+PRINTFORMW 「くすくす…鬼さんこちら」		PRINTFORMW 「くすくす…鬼さんこちら」
+PRINTFORML 「………………ぁ、ぅ」		PRINTFORML 「………………ぁ、ぅ」
+PRINTFORMDW それまで抵抗を続けていた%CALLNAME:TARGET%の身体から、かくり、と力が抜けた…	!#!PRINTFORMDW それまで抵抗を続けていた%CALLNAME:TARGET%の身体から、かくり、と力が抜けた…
+PRINTFORML 「………くしゅっ」		PRINTFORML 「………くしゅっ」
+PRINTFORML 「…ふん。このほうが動きやすいもん」		PRINTFORML 「…ふん。このほうが動きやすいもん」
+PRINTFORML 「平気。服だけだよ」		PRINTFORML 「平気。服だけだよ」
+PRINTFORML 「へたっぴ。当たってないよ」		PRINTFORML 「へたっぴ。当たってないよ」
+PRINTFORML 「あれ……よけきれてない？」		PRINTFORML 「あれ……よけきれてない？」
+PRINTFORML 「破っちゃった…怒られる、かな」		PRINTFORML 「破っちゃった…怒られる、かな」
+PRINTFORML 「……ふぅ……ふぅ……は……ぁっ」		PRINTFORML 「……ふぅ……ふぅ……は……ぁっ」
+PRINTFORMDW %CALLNAME:TARGET%は熱っぽく潤んだ瞳で、どこか名残惜しそうに敵を振り返る…	!#!PRINTFORMDW %CALLNAME:TARGET%は熱っぽく潤んだ瞳で、どこか名残惜しそうに敵を振り返る…
+PRINTFORMW 「…捕まったら食べられちゃってたね？」		PRINTFORMW 「…捕まったら食べられちゃってたね？」
+PRINTFORMW 「ふぅ……まだ、ドキドキしてる…」		PRINTFORMW 「ふぅ……まだ、ドキドキしてる…」
+PRINTFORML 「ふん、だ。捕まらないよ」		PRINTFORML 「ふん、だ。捕まらないよ」
+PRINTFORML 「ふふふ。走るの遅いんだね」		PRINTFORML 「ふふふ。走るの遅いんだね」
+PRINTFORML 「」		PRINTFORML 「」
+PRINTFORMDW 	!#!PRINTFORMDW 
+PRINTFORMDL 		PRINTFORMDL 
+PRINTFORML 「はぁ……はぁ……………もう…動かなくなっちゃったの？」		PRINTFORML 「はぁ……はぁ……………もう…動かなくなっちゃったの？」
+PRINTFORMW 「…ねえ…もっと楽しいこと、教えてよ…」		PRINTFORMW 「…ねえ…もっと楽しいこと、教えてよ…」
+PRINTFORMW 「くすくす。……のろま♪」		PRINTFORMW 「くすくす。……のろま♪」
+PRINTFORMW 「そんなんじゃ、わたしは捕まえられないよ？」		PRINTFORMW 「そんなんじゃ、わたしは捕まえられないよ？」
+PRINTFORMDW %CALLNAME:1%はぐったりと動かない%CALLNAME:TARGET%を一度だけ振り返り、早足でその場を離れた…	!#!PRINTFORMDW %CALLNAME:1%はぐったりと動かない%CALLNAME:TARGET%を一度だけ振り返り、早足でその場を離れた…
+PRINTFORMW 「つまんないの……また誘ってね？」		PRINTFORMW 「つまんないの……また誘ってね？」
+PRINTFORMW 「んぅぅぅ！　うあ、ぁ、ううぅー……っ！」		PRINTFORMW 「んぅぅぅ！　うあ、ぁ、ううぅー……っ！」
+PRINTFORMW 「あ、あ、あゃ、やああぁぁぁっ！！」		PRINTFORMW 「あ、あ、あゃ、やああぁぁぁっ！！」
+PRINTFORML 「うああぁ！　やら…やらぁ…っ、やああああぁ！！」		PRINTFORML 「うああぁ！　やら…やらぁ…っ、やああああぁ！！」
+PRINTFORML 「……あは…ぁ……ぁぁ……」		PRINTFORML 「……あは…ぁ……ぁぁ……」
+PRINTFORMDW 虚ろな喘ぎを漏らしながら、%CALLNAME:TARGET%はがくがくと小さな身体を震わせた…	!#!PRINTFORMDW 虚ろな喘ぎを漏らしながら、%CALLNAME:TARGET%はがくがくと小さな身体を震わせた…
+PRINTFORML 「…………ねえ。わたしの中に…誰かいるの…」		PRINTFORML 「…………ねえ。わたしの中に…誰かいるの…」
+PRINTFORMDW %CALLNAME:TARGET%は自分の腹に手を当て、%CALLNAME:1%に訴える…	!#!PRINTFORMDW %CALLNAME:TARGET%は自分の腹に手を当て、%CALLNAME:1%に訴える…
+PRINTFORML 「……はぁ…はぁっ………待って…」		PRINTFORML 「……はぁ…はぁっ………待って…」
+PRINTFORMDW 寄生体に体力を吸われ、%CALLNAME:TARGET%は酷く消耗している…	!#!PRINTFORMDW 寄生体に体力を吸われ、%CALLNAME:TARGET%は酷く消耗している…
+PRINTFORML 「あぐぅっ………はぁっ、はぁっ、はぁっ」		PRINTFORML 「あぐぅっ………はぁっ、はぁっ、はぁっ」
+PRINTFORMDW %CALLNAME:TARGET%はお腹を抱え、額に脂汗を浮かべてうずくまる…	!#!PRINTFORMDW %CALLNAME:TARGET%はお腹を抱え、額に脂汗を浮かべてうずくまる…
+PRINTFORMDW 初々しい秘肉に触手の先が食い込むのを見ても、%CALLNAME:TARGET%は抗う素振りさえ見せない…	!#!PRINTFORMDW 初々しい秘肉に触手の先が食い込むのを見ても、%CALLNAME:TARGET%は抗う素振りさえ見せない…
+PRINTFORMW 「あ………？」		PRINTFORMW 「あ………？」
+PRINTFORMW 「な……なに……？」		PRINTFORMW 「な……なに……？」
+PRINTFORML 「………んあぅ、う！　……ぃ、た…っ」		PRINTFORML 「………んあぅ、う！　……ぃ、た…っ」
+PRINTFORMDL %CALLNAME:TARGET%はぼろぼろと涙を零しながら、びくりと身を強張らせる		PRINTFORMDL %CALLNAME:TARGET%はぼろぼろと涙を零しながら、びくりと身を強張らせる
+PRINTFORML 「……あっ…つ……痛……なに、これ……」		PRINTFORML 「……あっ…つ……痛……なに、これ……」
+PRINTFORML 「…………ぁ…ぁぅ…」		PRINTFORML 「…………ぁ…ぁぅ…」
+PRINTFORMDW %CALLNAME:TARGET%をこのまま放っておけばどうなるかは、想像に難くない。	!#!PRINTFORMDW %CALLNAME:TARGET%をこのまま放っておけばどうなるかは、想像に難くない。
+PRINTFORMW 「うん。…母様に意地悪する子は、みんなやっつけるから」		PRINTFORMW 「うん。…母様に意地悪する子は、みんなやっつけるから」
+PRINTFORMW 「いいよ。…ふふふ、ちゃんと守ってね？」		PRINTFORMW 「いいよ。…ふふふ、ちゃんと守ってね？」
+PRINTFORMW 「いいけど…おねえさん、強いの？」		PRINTFORMW 「いいけど…おねえさん、強いの？」
+PRINTFORMDW 少女はそのまま警戒した様子で後退り、迷宮の奥へ消えていった…	!#!PRINTFORMDW 少女はそのまま警戒した様子で後退り、迷宮の奥へ消えていった…
+PRINTFORMW （ああ……これ…この感じ…）		PRINTFORMW （ああ……これ…この感じ…）
+PRINTFORMW （また、還るんだ……あの、暗いとこに……）		PRINTFORMW （また、還るんだ……あの、暗いとこに……）
+PRINTFORMW （なんだか、すごく………気持ちいいよ）		PRINTFORMW （なんだか、すごく………気持ちいいよ）
+PRINTFORMW （……やっぱり、わたし……母様とは、違うんだ……）		PRINTFORMW （……やっぱり、わたし……母様とは、違うんだ……）
+PRINTFORMW （…………母様みたいには…なれないん、だ……）		PRINTFORMW （…………母様みたいには…なれないん、だ……）
+PRINTFORMW 「ごめんね。……じゃあね………かあ、さま──」		PRINTFORMW 「ごめんね。……じゃあね………かあ、さま──」
+PRINTFORMDW 全身から力が抜けていくのを感じながら、%CALLNAME:TARGET%の意識は闇に溶けていった──	!#!PRINTFORMDW 全身から力が抜けていくのを感じながら、%CALLNAME:TARGET%の意識は闇に溶けていった──
+PRINTFORML 「…………ん…」		PRINTFORML 「…………ん…」
+PRINTFORMDL %CALLNAME:TARGET%は眠たげに目をこすっている…		PRINTFORMDL %CALLNAME:TARGET%は眠たげに目をこすっている…
+PRINTFORM 「…もう知らない。	!#!PRINTFORM 「…もう知らない。
+PRINTFORM 母様の	!#!PRINTFORM 母様の
+PRINTFORMW ばか！」		PRINTFORMW ばか！」
+PRINTFORMW 「…………（ぷい）」		PRINTFORMW 「…………（ぷい）」
+PRINTFORMW 「ひ、ぁ……！？」		PRINTFORMW 「ひ、ぁ……！？」
+PRINTFORMW 「はなれて……はなれてぇ…っ」		PRINTFORMW 「はなれて……はなれてぇ…っ」
+PRINTFORML 「ひぅああぁぁっ！　や…やらぁ…っ、おしりやらぁ…！」		PRINTFORML 「ひぅああぁぁっ！　や…やらぁ…っ、おしりやらぁ…！」
+PRINTFORMW 「…立て、ない、ちから、ぬけ……とけちゃう、わたし、とけちゃうぅ…！！」		PRINTFORMW 「…立て、ない、ちから、ぬけ……とけちゃう、わたし、とけちゃうぅ…！！」
+PRINTFORML 「あうぅ…っ！　…だ、め、吸っちゃ…だめぇ…っ！」		PRINTFORML 「あうぅ…っ！　…だ、め、吸っちゃ…だめぇ…っ！」
+PRINTFORMW 「んあああぁっ！　つよい…よぉ！　あ、うっ、あ、ふああぁぁ！！」		PRINTFORMW 「んあああぁっ！　つよい…よぉ！　あ、うっ、あ、ふああぁぁ！！」
+PRINTFORML 「はふううぅぅ…っ！　ぃ、いやっ、こすっちゃ…やだっ…！」		PRINTFORML 「はふううぅぅ…っ！　ぃ、いやっ、こすっちゃ…やだっ…！」
+PRINTFORMW 「や…だ！　やだやだやだ！　出ちゃう、からっ、何か出ちゃう、から…！！」		PRINTFORMW 「や…だ！　やだやだやだ！　出ちゃう、からっ、何か出ちゃう、から…！！」
+PRINTFORML 「うああぁーーっ！　あ、ぁ、やめ、やめて…！」		PRINTFORML 「うああぁーーっ！　あ、ぁ、やめ、やめて…！」
+PRINTFORMW 「しびれ、ちゃう…からだ、かってに、びくびくってしちゃう…よぉっ…！」		PRINTFORMW 「しびれ、ちゃう…からだ、かってに、びくびくってしちゃう…よぉっ…！」
+PRINTFORML 「は、あ、うあ、っ、あ…ずぼずぼって、ぇっ…するの、ダメぇ…！」		PRINTFORML 「は、あ、うあ、っ、あ…ずぼずぼって、ぇっ…するの、ダメぇ…！」
+PRINTFORMW 「やめ、てぇ！　おかしくなる、おかしくなるからぁ！！」		PRINTFORMW 「やめ、てぇ！　おかしくなる、おかしくなるからぁ！！」
+PRINTFORMW 「…………ゅ…ゆるして……もう、さからわない、から……」		PRINTFORMW 「…………ゅ…ゆるして……もう、さからわない、から……」
+PRINTFORML 「………んっ…はぁ、っ」		PRINTFORML 「………んっ…はぁ、っ」
+PRINTFORMW 「…へ、平気……はやく、行こ…」		PRINTFORMW 「…へ、平気……はやく、行こ…」
+PRINTFORML 「あーっ！　あぁっ、ああぁっ！　あああぁぁーーーっ！！！」		PRINTFORML 「あーっ！　あぁっ、ああぁっ！　あああぁぁーーーっ！！！」
+PRINTFORML 「かあさまぁ！　かあさま、たすけ──やあああああああーーっ！！」		PRINTFORML 「かあさまぁ！　かあさま、たすけ──やあああああああーーっ！！」
+PRINTFORMDW %CALLNAME:TARGET%はいつになく激しい、絶叫じみた嬌声を上げ、背を弓なりに反らせて痙攣する！	!#!PRINTFORMDW %CALLNAME:TARGET%はいつになく激しい、絶叫じみた嬌声を上げ、背を弓なりに反らせて痙攣する！
+PRINTFORML 「…………は、へ……えぅ、う……」		PRINTFORML 「…………は、へ……えぅ、う……」
+PRINTFORMW 「…わたし…こわれ、ちゃった……こわれちゃったぁ……」		PRINTFORMW 「…わたし…こわれ、ちゃった……こわれちゃったぁ……」
